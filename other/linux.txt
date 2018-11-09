@@ -1,0 +1,62 @@
+sort
+https://www.tecmint.com/sort-command-linux/
+https://www.tecmint.com/linux-sort-command-examples/
+https://en.wikipedia.org/wiki/Sort_(Unix)
+
+nohup
+https://en.wikipedia.org/wiki/Nohup
+https://linux.101hacks.com/unix/nohup-command/
+https://askubuntu.com/questions/396654/how-to-run-the-python-program-in-the-background-in-ubuntu-machine
+
+nice 
+https://en.wikipedia.org/wiki/Nice_(Unix)
+
+
+filename
+2407765|xyz|774085264795|ABC|2522925531|60.0|01/09/10|CODE1
+2408327|xyz|578981547385|ABC|2257881870|60.0|01/09/10| CODE2
+2411231|xyz|418015734777|ABC|4433103342|4.99|01/09/10| CODE3
+2421246|XYZ|573179911988|ABC|7872431729|60.0|01/09/10| CODE4
+2431247|XYZ|833002465502|ABC|0327876658|60.0|01/10/10| CODE4
+
+
+awk -F"|" '{print $1}' filename
+cut -d "|" -f 1 filename
+sed 's/|.*//' infile
+grep -o '^[^|]*' infile
+while IFS="|" read first rest
+do
+  printf "$first\n"
+done<infile
+
+https://www.unix.com/shell-programming-and-scripting/125897-how-display-first-column-file.html
+
+lsof
+https://www.howtoforge.com/linux-lsof-command/
+https://www.tecmint.com/10-lsof-command-examples-in-linux/
+https://en.wikipedia.org/wiki/Lsof
+http://alexander.holbreich.org/lsof/
+
+
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+
+from selenium.webdriver import FirefoxOptions
+
+opts = FirefoxOptions()
+opts.add_argument("--headless")
+driver = webdriver.Firefox(firefox_options=opts)
+driver.get("http://www.python.org")
+assert "Python" in driver.title
+print(driver.title)
+elem = driver.find_element_by_name("q")
+print(elem)
+elem.clear()
+elem.send_keys("pycon")
+elem.send_keys(Keys.RETURN)
+assert "No results found." not in driver.page_source
+driver.close()
+
+
+https://stackoverflow.com/questions/46809135/webdriver-exceptionprocess-unexpectedly-closed-with-status-1
+http://selenium-python.readthedocs.io/getting-started.html#simple-usage

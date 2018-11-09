@@ -1,0 +1,62 @@
+Linux ubuntu 4.4.0-31-generic #50-Ubuntu SMP Wed Jul 13 00:07:12 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+
+https://medium.freecodecamp.org/building-and-installing-the-latest-linux-kernel-from-source-6d8df5345980
+
+sudo apt update
+sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-dev bc bison flex libelf-dev libelf-devel
+ 
+https://www.linuxquestions.org/questions/debian-26/compile-of-kernel-4-16-fails-4175628085/
+scripts/Makefile.lib:196: recipe for target 'scripts/kconfig/zconf.tab.c' failed
+
+apt-get install bison
+
+apt-get install flex
+
+
+sudo make -j 2 && sudo make modules_install -j 2 && sudo make install -j 2
+
+
+Makefile:958: *** "Cannot generate ORC metadata for CONFIG_UNWINDER_ORC=y, please install libelf-dev, libelf-devel or elfutils-libelf-devel".  Stop.
+
+
+
+HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/kconfig/conf.o
+  YACC    scripts/kconfig/zconf.tab.c
+/bin/sh: 1: bison: not found
+scripts/Makefile.lib:217: recipe for target 'scripts/kconfig/zconf.tab.c' failed
+make[1]: *** [scripts/kconfig/zconf.tab.c] Error 127
+Makefile:514: recipe for target 'oldconfig' failed
+make: *** [oldconfig] Error 2
+
+apt-get install bison
+
+
+
+
+ HOSTCC  scripts/basic/fixdep
+  HOSTCC  scripts/kconfig/conf.o
+  YACC    scripts/kconfig/zconf.tab.c
+  LEX     scripts/kconfig/zconf.lex.c
+/bin/sh: 1: flex: not found
+scripts/Makefile.lib:202: recipe for target 'scripts/kconfig/zconf.lex.c' failed
+make[1]: *** [scripts/kconfig/zconf.lex.c] Error 127
+Makefile:514: recipe for target 'oldconfig' failed
+
+
+apt-get install flex
+make: *** [oldconfig] Error 2
+
+
+https://www.reddit.com/r/kernel/comments/4ono7w/something_obvious_missing_in_the_stable_kernel/
+
+android on linux 
+https://github.com/anbox/anbox
+
+
+learning
+https://github.com/kdave/btrfs-devel/tree/master/scripts/basic
+https://github.com/robherring?tab=repositories
+https://github.com/robherring/yaml-bindings/tree/master/tools
+https://github.com/masahir0y?tab=repositories
+https://github.com/torvalds/linux/tree/master/Documentation/admin-guide

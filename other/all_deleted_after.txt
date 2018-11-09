@@ -1,0 +1,293 @@
+for i in `cat dl.txt`; do echo $i; u=`basename $i`; echo BT_PAGING_$u; wget $i -O BT_PAGING_$u; done
+for i in `cat dl.txt`; do echo $i; u=`basename $i`; echo BT_PAGING_$u; done
+for i in `cat dl.txt`; do echo $i; done
+for i in `cat dl.txt`; do u=`basename $i`; echo $u; done
+
+for i in `cat dl.txt`; do echo $i; u=`basename $i`; wget -c $i; done
+
+# not finished 
+
+for i in `cat dl.txt`; do echo $i; u=`basename $i`; echo $u; done
+
+
+
+for i in `cat dl.txt`; do echo $i; u=`basename $i`; echo BT_PAGING_$u; wget $i -O BT_PAGING_$u; done
+for i in `cat dl.txt`; do echo $i; u=`basename $i`; echo BT_PAGING_$u; git add BT_PAGING_$u; done
+
+
+for i in `cat dl.txt`; do echo $i; u=`basename $i`; wget $i; done
+for i in `cat dl.txt`; do echo $i; u=`basename $i`; git add $u; done
+
+
+https://help.github.com/articles/working-with-large-files/
+https://www.pair.com/support/kb/paircloud-downloading-files-with-wget/
+
+
+ for i in `git status | grep -v On | grep -v Your | grep -v Un | grep -v "(use" | awk '{ printf $0 }'`; do echo $i; done
+ for i in `git status | grep -v On | grep -v Your | grep -v Un | grep -v "(use" | awk '{ printf $0 }'`; do echo $i; done
+ for i in `git status | grep -v On | grep -v Your | grep -v Un | grep -v "(use" | awk '{ printf $0 }'`; do echo $i; git add $i; done
+ 
+ 
+ for i in `git status | grep -v "On branch" | grep -v "Your branch" | grep -v "Untracked files" | grep -v "(use" | awk '{printf $0}'`; do echo $i; done
+ 
+ git status | cut -d$'\n' -f7- | grep -v "nothing
+ 
+ https://eng.paxos.com/python-3s-killer-feature-asyncio
+http://aiohttp.readthedocs.io/en/stable/
+https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e
+http://sdiehl.github.io/gevent-tutorial/
+https://bitbucket.org/denis/
+https://github.com/yeraydiazdiaz/asyncio-ftwpd
+https://github.com/nats-io/asyncio-nats
+https://www.blog.pythonlibrary.org/2016/07/26/python-3-an-intro-to-asyncio/
+https://medium.freecodecamp.org/a-guide-to-asynchronous-programming-in-python-with-asyncio-232e2afa44f6
+https://djangostars.com/blog/
+https://www.pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/
+https://pythonprogramming.net/argparse-cli-intermediate-python-tutorial/
+https://mkaz.blog/code/python-argparse-cookbook/
+https://mkaz.blog/misc/automate-deleting-your-tweets-with-a-raspberry-pi/
+http://www.bogotobogo.com/python/python_argparse.php
+https://superuser.com/questions/400714/how-to-remotely-write-to-a-file-using-ssh
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 -t cd "/home/storage/downloads/ma_ha_si_saya_daw/ErThiWeatThawPaMaThout; bash"
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 -t cd "/home/storage/downloads/ma_ha_si_saya_daw/ErThiWeatThawPaMaThout; bash --login"
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 -t cd "/home/storage/downloads/ma_ha_si_saya_daw/ErThiWeatThawPaMaThout && exec \$SHELL"
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 -t cd "/home/storage/downloads/ma_ha_si_saya_daw/ErThiWeatThawPaMaThout; exec \$SHELL -l"
+
+
+/home/storage/downloads/ma_ha_si_saya_daw/ErThiWeatThawPaMaThout
+for i in $(cat dl.txt);do echo $i; wget -c $i; done
+
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 mkdir -vp /home/storage/downloads/ma_ha_si_saya_daw/AriyaWatha
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 -t cd "/home/storage/downloads/ma_ha_si_saya_daw/AriyaWatha; bash"
+
+
+echo 'http://dhammadownload.com/MP3Library/MahasiSayadawUSobhanaMahathera/DVD-01/050-MahasiSayadawGyi-AriyaWatha(1)-1324.mp3
+
+' | ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 "cat > /home/storage/downloads/ma_ha_si_saya_daw/AriyaWatha/dl.txt"
+
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 -t cd "/home/storage/downloads/ma_ha_si_saya_daw/AriyaWatha; bash; for i in $(cat dl.txt);do echo $i; done"
+
+
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 ls -v /home/storage/downloads/ma_ha_si_saya_daw/four_noble_truth
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 cat /home/storage/downloads/ma_ha_si_saya_daw/four_noble_truth/dl.txt
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 mkdir -vp /home/storage/downloads/ma_ha_si_saya_daw/four_noble_truth
+
+echo 'http://dhammadownload.com/MP3Library/MahasiSayadawUSobhanaMahathera/DVD-01/017-MahasiSayadawGyi-DhamarNupassanaSitaphatan(1)-1323.mp3
+' | ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 "cat > /home/storage/downloads/ma_ha_si_saya_daw/four_noble_truth/dl.txt"
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 -t cd "/home/storage/downloads/ma_ha_si_saya_daw/four_noble_truth; for i in $(cat 'dl.txt');do echo $i; done"
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 -t cd "/home/storage/downloads/ma_ha_si_saya_daw/four_noble_truth; bash; for i in $(cat 'dl.txt');do echo $i; done"
+
+
+https://superuser.com/questions/400714/how-to-remotely-write-to-a-file-using-ssh
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 -t ls "/home/storage/downloads/ma_ha_si_saya_daw/"
+
+
+echo 'http://dhammadownload.com/MP3Library/MahasiSayadawUSobhanaMahathera/DVD-11/007-MahasiSayadawGyi-ThamaSutta(1)-1335-DVD11.mp3
+' | ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 "cat > /home/storage/downloads/ma_ha_si_saya_daw/ThamaSutta/dl.txt"
+
+echo 'SOURCE="${BASH_SOURCE[0]}"
+while [ -h "$SOURCE" ] ; do SOURCE="$(readlink "$SOURCE")"; done
+DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
+
+# Change into that directory
+echo $DIF
+cd $DIR
+
+for i in $(cat dl.txt);do echo $i; wget -c $i; done
+' | ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 "cat > /home/storage/downloads/ma_ha_si_saya_daw/ThamaSutta/dl.sh"
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 cat /home/storage/downloads/ma_ha_si_saya_daw/ThamaSutta/dl.sh
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 bash /home/storage/downloads/ma_ha_si_saya_daw/ThamaSutta/dl.sh
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 mkdir -vp /home/storage/downloads/ma_ha_si_saya_daw/ThamaSutta
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 ls -l /home/storage/downloads/ma_ha_si_saya_daw/ThamaSutta
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 -t cd "/home/storage/downloads/ma_ha_si_saya_daw/ThamaSutta; bash"
+
+
+echo 'http://dhammadownload.com/MP3Library/MahasiSayadawUSobhanaMahathera/DVD-11/027-MahasiSayadawGyi-SilawontaSutta(1)-1338-DVD11.mp3
+' | ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 "cat > /home/storage/downloads/ma_ha_si_saya_daw/SilawontaSutta/dl.txt"
+
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 mkdir -vp /home/storage/downloads/ma_ha_si_saya_daw/SilawontaSutta
+
+
+echo 'SOURCE="${BASH_SOURCE[0]}"
+while [ -h "$SOURCE" ] ; do SOURCE="$(readlink "$SOURCE")"; done
+DIR="$( cd -P "$( dirname "$SOURCE" )" && pwd )"
+
+# Change into that directory
+echo $DIF
+cd $DIR
+
+for i in $(cat dl.txt);do echo $i; wget -c $i; done
+' | ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 "cat > /home/storage/downloads/ma_ha_si_saya_daw/SilawontaSutta/dl.sh"
+
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 bash /home/storage/downloads/ma_ha_si_saya_daw/SilawontaSutta/dl.sh
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 ls /home/storage/downloads/ma_ha_si_saya_daw/SilawontaSutta/
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 -t cd "/home/storage/downloads/ma_ha_si_saya_daw/SilawontaSutta/; bash"
+
+printf "
+import argparse
+import os
+import glob
+
+
+dirpath = os.getcwd()
+print('current directory is : ' + dirpath)
+foldername = os.path.basename(dirpath)
+print('Directory name is : ' + foldername)
+scriptpath = os.path.realpath(__file__)
+print('Script path is : ' + scriptpath)
+
+# Go to the current directory of file name 
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+os.chdir(dname)
+dirpath = os.getcwd()
+print('current directory', dirpath)
+
+parser = argparse.ArgumentParser(description='Demo')
+parser.add_argument('--show', '-s',
+        action='store_true',
+        help='show how to do')
+
+parser.add_argument('--go', '-g',
+                         action='store_true',
+                         help='rename file')
+
+args = parser.parse_args()
+
+
+if args.show:
+    i = 1
+    for name in glob.glob('*.mp3'):
+        print(name)
+        print('{:03}'.format(i))
+        i += 1
+elif args.go:
+    i = 1
+    for name in glob.glob('*.mp3'):
+        print(name)
+        print('{:03}'.format(i))
+        os.rename(name, '{:03}.mp3'.format(i))
+        i += 1
+" | ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 "cat > /home/storage/downloads/ma_ha_si_saya_daw/SilawontaSutta/rename.py"
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 cat /home/storage/downloads/ma_ha_si_saya_daw/SilawontaSutta/rename.py
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 python /home/storage/downloads/ma_ha_si_saya_daw/SilawontaSutta/rename.py -h
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 ls /home/storage/downloads/ma_ha_si_saya_daw/
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.37 -p 8022 python /home/storage/downloads/ma_ha_si_saya_daw/SilawontaSutt
+
+youtube-dl -o "%(playlist_index)s-%(title)s.%(ext)s" <playlist_link>
+youtube-dl -o "%(playlist_index)s-%(title)s.%(ext)s" https://www.youtube.com/watch?v=i8ml6qAJ5vs&list=PLTuUKB3C0Wd_s6qVVCjURcPF8hTonL3NZ
+youtube-dl -e https://www.youtube.com/watch?v=i8ml6qAJ5vs&list=PLTuUKB3C0Wd_s6qVVCjURcPF8hTonL3NZ
+
+
+
+youtube-dl -e https://www.youtube.com/playlist?list=PLTuUKB3C0Wd_s6qVVCjURcPF8hTonL3NZ
+
+rsync -avz *.mp3 -e 'ssh -p 8022 -i /cygdrive/d/user/copy/ssh_keygen/this' u0_a155@192.168.1.33:/data/data/com.termux/files/home/storage/downloads/ma_ha_si_saya_daw/mp3_no_11_95_but_94/
+
+rsync: This rsync lacks old-style --compress due to its external zlib.  Try -zz.
+rsync error: syntax or usage error (code 1) at /home/builder/.termux-build/rsync/src/main.c(1578) [server=3.1.3]
+rsync: connection unexpectedly closed (0 bytes received so far) [sender]
+rsync error: error in rsync protocol data stream (code 12) at io.c(226) [sender=3.1.2]
+
+
+rsync -avz *.mp3 -e 'ssh -p 8022 -i /cygdrive/d/user/copy/ssh_keygen/this' u0_a155@192.168.1.33:/data/data/com.termux/files/home/storage/downloads/ma_ha_si_saya_daw/mp3_no_1_65_but_64/ 
+/data/data/com.termux/files/home/storage/downloads/ma_ha_si_saya_daw/mp3_no_1_65_but_64
+
+
+rsync -avzz title_and_links.txt -e 'ssh -p 8022 -i /cygdrive/d/user/copy/ssh_keygen/this' u0_a155@192.168.1.33:/data/data/com.termux/files/home/storage/downloads/ma_ha_si_saya_daw/mp3_no_1_65_but_64/
+rsync -avzz title_and_links.txt -e 'ssh -p 8022 -i /cygdrive/d/user/copy/ssh_keygen/this' u0_a155@192.168.1.33:/data/data/com.termux/files/home/storage/downloads/ma_ha_si_saya_daw/mp3_no_11_95_but_94/
+
+
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.33 -p 8022
+ssh -i /cygdrive/d/user/copy/ssh_keygen/this u0_a155@192.168.1.47 -p 8022
+
+
+/data/data/com.termux/files/home/storage/downloads/ma_ha_si_saya_daw/mp3_disc_01
+
+
+rsync -avzz *.mp3 -e 'ssh -p 8022 -i /cygdrive/d/user/copy/ssh_keygen/this' u0_a155@192.168.1.33:/data/data/com.termux/files/home/storage/downloads/ma_ha_si_saya_daw/mp3_disc_01/
+
+rsync -avzz *.mp3 -e 'ssh -p 8022 -i /cygdrive/d/user/copy/ssh_keygen/this' u0_a155@192.168.1.33:/data/data/com.termux/files/home/storage/downloads/ma_ha_si_saya_daw/others
+rsync -avzz *.mp3 -e 'ssh -p 8022 -i /cygdrive/d/user/copy/ssh_keygen/this' u0_a155@192.168.1.33:/data/data/com.termux/files/home/storage/downloads/ma_ha_si_saya_daw/from_facebook/
+
+
+192.168.1.37
+rsync -avzz *.mp3 -e 'ssh -p 8022 -i /cygdrive/d/user/copy/ssh_keygen/this' u0_a155@192.168.1.37:/data/data/com.termux/files/home/storage/downloads/dr_nandamalabhivamsa/learn_natural_dama_by_group/
+rsync -avzz /cygdrive/e/Downloads/004070.pdf -e 'ssh -p 8022 -i /cygdrive/d/user/copy/ssh_keygen/this' u0_a155@192.168.1.33:/data/data/com.termux/files/home/storage/downloads/
+
+
+https://github.com/brandiqa/message-app
+
+https://www.sitepoint.com/react-fast-interactive-user-interfaces/
+https://www.sitepoint.com/react-vs-angular/
+https://www.sitepoint.com/create-react-app/
+https://www.sitepoint.com/create-react-app/
+https://www.sitepoint.com/style-react-components-styled-components/
+https://www.sitepoint.com/an-introduction-to-jsx/
+https://github.com/mawburn/Vagrant-Play2-PostgreSQL
+https://www.sitepoint.com/working-with-data-in-react-properties-state/
+https://www.sitepoint.com/getting-started-react/
+https://www.sitepoint.com/testing-react-components/
+https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/
+https://react-bootstrap.github.io/getting-started/introduction
+https://github.com/tonyspiro
+https://github.com/markbrown4/webpack-demo
+https://github.com/markbrown4/gmail-react/tree/master/app/coffee/actions
+https://www.sitepoint.com/getting-started-react-beginners-guide/
+https://www.sitepoint.com/introduction-functional-javascript/
+https://www.sitepoint.com/oriented-programming-1/
+
+https://www.sitepoint.com/shorthand-javascript-techniques/
+https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/
+https://www.sitepoint.com/getting-started-react-beginners-guide/
+https://www.sitepoint.com/learn/react/react-for-beginners/
+https://github.com/enaqx/awesome-react#react-general-resources
+
+https://github.com/callmenick/cooking-with-webpack/tree/master/1-intro-basic-implementation
+https://callmenick.com/dev/
+https://github.com/bitprophet/dotfiles/tree/master/.vim
+https://github.com/graphite-project
+https://kb.arubacloud.com/en/glossary.aspx
+https://hackr.io/tutorials/learn-react
+https://survivejs.com/react/getting-started/implementing-notes/
+https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
+
+Bootstrap html template 
+https://startbootstrap.com/template-overviews/clean-blog/
+https://github.com/blackrockdigital
+
+django 
+https://github.com/carltongibson?tab=repositories
+
+
+
+https://github.com/saisai/dama-mp3
+
+…or create a new repository on the command line
+
+echo "# dama-mp3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/saisai/dama-mp3.git
+git push -u origin master
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/saisai/dama-mp3.git
+git push -u origin master
+
+…or import code from another repository
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.

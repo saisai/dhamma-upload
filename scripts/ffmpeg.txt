@@ -1,0 +1,862 @@
+Remove the time unwanted
+ffmpeg -i NEW.mp3 -ss 00:01:20 -codec copy -t 01:11:06 oout.mp3
+ffmpeg -i 505.mp3 -ss 00:01:01 -codec copy -t 0:25:20 oout.mp3
+ffmpeg -i 006.mp3 -ss 00:01:00 -codec copy -t 1:03:24 oout.mp3
+ffmpeg -i 006.mp3 -ss 00:00:00 -codec copy -t 1:02:00 oout.mp3
+ffmpeg -i 047.mp3 -ss 00:03:17 -to 00:04:00 -codec copy -t 1:03:52 oout.mp3
+ffmpeg -i 047.mp3 -ss 00:04:00 -codec copy -t 1:03:52 oout2.mp3
+ffmpeg -i 047.mp3 -ss 00:00:00 -codec copy -t 00:03:17 oout.mp3
+
+
+ffmpeg -i 047.mp3 -ss 00:04:00 -codec copy -t 1:03:52 oout2.mp3
+ffmpeg -i 047.mp3 -ss 00:00:00 -codec copy -t 00:03:17 oout.mp3
+
+
+ffmpeg -i 059.mp3 -ss 00:00:00 -codec copy -t 00:03:17 oout.mp3
+ffmpeg -i 059.mp3 -ss 00:04:00 -codec copy -t 1:03:52 oout2.mp3
+
+ffmpeg -i 108.mp3 -ss 00:00:00 -codec copy -t 1:07:00 oout2.mp3
+ffmpeg -i 114.mp3 -ss 00:04:05 -codec copy -t 01:09:26 oout2.mp3
+ffmpeg -i 120.mp3 -ss 00:00:00 -codec copy -t 01:02:27 oout2.mp3
+ffmpeg -i 142.mp3 -ss 00:00:00 -codec copy -t 00:31:58 oout2.mp3
+ffmpeg -i oout2.mp3 -ss 00:00:00 -codec copy -t 00:49:11 oout3.mp3
+
+
+ffmpeg -i 174.mp3 -ss 00:00:00 -codec copy -t 00:03:53 oout1.mp3
+ffmpeg -i 174.mp3 -ss 00:04:35 -codec copy oout2.mp3
+ffmpeg -i 185.mp3 -ss 00:00:00 -codec copy -t 01:01:00 oout2.mp3
+ffmpeg -i 207.mp3 -ss 00:00:00 -codec copy -t 01:01:16 oout2.mp3
+
+
+ffmpeg -i 202.mp3 -ss 00:00:00 -codec copy -t 00:03:08 oout1.mp3
+ffmpeg -i 202.mp3 -ss 00:03:51 -codec copy oout2.mp3
+
+ffmpeg -i 254.mp3 -ss 00:00:00 -codec copy -t 00:59:29 oout1.mp3
+ffmpeg -i 254.mp3 -ss 01:01:30 -codec copy oout2.mp3
+
+ffmpeg -i 256.mp3 -ss 00:00:00 -codec copy -t 00:30:00 oout1.mp3
+ffmpeg -i 256.mp3 -ss 00:03:33 -codec copy oout2.mp3
+ffmpeg -i 262.mp3 -ss 00:00:00 -codec copy -t 01:13:11 oout2.mp3
+ffmpeg -i 256.mp3 -ss 00:03:33 -codec copy oout2.mp3
+ffmpeg -i 254.mp3 -ss 00:00:00 -codec copy -t 00:59:00 oout2.mp3
+ffmpeg -i 273.mp3 -ss 00:00:00 -codec copy -t 00:58:00 oout2.mp3
+ffmpeg -i 254.mp3 -ss 00:04:00 -codec copy oout2.mp3
+ffmpeg -i 299.mp3 -ss 00:05:00 -codec copy oout2.mp3
+ffmpeg -i 307.mp3 -ss 00:00:00 -codec copy -t 01:04:34 oout2.mp3
+ffmpeg -i 315.mp3 -ss 00:00:00 -codec copy -t 01:01:25 oout2.mp3
+ffmpeg -i 375.mp3 -ss 00:00:00 -codec copy -t 00:58:37 oout2.mp3
+ffmpeg -i 376.mp3 -ss 00:00:00 -codec copy -t 00:58:37 oout2.mp3
+ffmpeg -i oout2.mp3 -ss 00:05:00 -codec copy oout3.mp3
+ffmpeg -i 378.mp3 -ss 00:00:00 -codec copy -t 01:00:23 oout2.mp3
+
+
+ Details
+content 	claimant 	policy 	
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 2 - หล่า เซ่ ผ่อง
+    Sound recording
+    19:53 - 30:00 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    39:52 - 50:00 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:28 - 3:48 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute 
+ffmpeg -i 390.mp3 -ss 00:04:00 -codec copy -t 0:19:30 oout1.mp3
+ffmpeg -i 390.mp3 -ss 00:31:00 -codec copy -t 0:39:30 oout2.mp3
+ffmpeg -i 390.mp3 -ss 00:51:00 -codec copy oout3.mp3
+ffmpeg -i "concat:oout1.mp3|oout2.mp3|oout3.mp3" -c copy output3.mp3
+
+
+content 	claimant 	policy 	
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    0:40 - 3:56 play match
+
+ffmpeg -i 394.mp3 -ss 00:04:00 -codec copy oout2.mp3
+
+
+content 	claimant 	policy 	
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 2 - หล่า เซ่ ผ่อง
+    Sound recording
+    29:51 - 47:40 play match
+
+	  
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    0:33 - 10:00 play match
+    
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    49:51 - 1:00:00 play match
+
+ffmpeg -i 391.mp3 -ss 00:11:00 -codec copy -t 0:29:00 oout1.mp3
+ffmpeg -i 391.mp3 -ss 00:48:50 -codec copy -t 0:49:30 oout2.mp3
+ffmpeg -i 391.mp3 -ss 01:01:00 -codec copy oout3.mp3
+ffmpeg -i "concat:oout1.mp3|oout2.mp3|oout3.mp3" -c copy output3.mp3
+
+
+ Details
+content 	claimant 	policy 	
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    39:52 - 50:00 
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    0:02 - 0:50 
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 2 - หล่า เซ่ ผ่อง
+    Sound recording
+    9:53 - 19:30 
+    
+ffmpeg -i 390.mp3 -ss 00:01:00 -codec copy -t 00:09:00 oout1.mp3
+ffmpeg -i 390.mp3 -ss 00:20:00 -codec copy -t 0:39:00 oout2.mp3
+ffmpeg -i 390.mp3 -ss 00:51:00 -codec copy oout3.mp3
+ffmpeg -i "concat:oout1.mp3|oout2.mp3|oout3.mp3" -c copy output3.mp3 
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 2 - หล่า เซ่ ผ่อง
+    Sound recording
+    9:54 - 29:30 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    29:51 - 39:59 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    0:05 - 0:45 play match
+
+ffmpeg -i 391.mp3 -ss 00:06:00 -codec copy -t 00:09:00 oout1.mp3
+ffmpeg -i 391.mp3 -ss 00:41:00 -codec copy oout2.mp3
+
+ffmpeg -i "concat:oout1.mp3|oout2.mp3" -c copy output3.mp3   
+
+
+content 	claimant 	policy 	
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    49:54 - 59:59 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 2 - หล่า เซ่ ผ่อง
+    Sound recording
+    0:03 - 6:02 play match
+
+ffmpeg -i 390.mp3 -ss 00:07:00 -codec copy -t 00:48:00 oout1.mp3
+ffmpeg -i 390.mp3 -ss 00:41:00 -codec copy oout2.mp3
+
+ffmpeg -i "concat:oout1.mp3|oout2.mp3" -c copy output3.mp3    
+
+
+ffmpeg -i 391.mp3 -ss 00:16:00 -codec copy oout1.mp3
+
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    49:53 - 1:00:00 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 2 - หล่า เซ่ ผ่อง
+    Sound recording
+    19:52 - 30:00 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:28 - 3:47 play match
+
+
+ffmpeg -i 390.mp3 -ss 00:05:00 -codec copy -t 00:18:00 oout1.mp3
+ffmpeg -i 390.mp3 -ss 00:31:00 -codec copy -t 0:48:00 oout2.mp3
+ffmpeg -i 390.mp3 -ss 01:01:00 -codec copy oout3.mp3
+ffmpeg -i "concat:oout1.mp3|oout2.mp3|oout3.mp3" -c copy output3.mp3 
+
+merge two file into one file
+ffmpeg -i "concat:oout1.mp3|oout2.mp3" -c copy output3.mp3
+
+
+
+content 	claimant 	policy 	
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 2 - หล่า เซ่ ผ่อง
+    Sound recording
+    9:55 - 20:00 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    29:52 - 40:00 play match
+
+ffmpeg -i 391.mp3 -ss 00:00:00 -codec copy -t 00:08:00 oout1.mp3
+ffmpeg -i 391.mp3 -ss 00:21:50 -codec copy -t 00:28:00 oout2.mp3
+ffmpeg -i 391.mp3 -ss 00:41:00 -codec copy oout3.mp3
+ffmpeg -i "concat:oout1.mp3|oout2.mp3|oout3.mp3" -c copy output3.mp3
+
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+Sound recording
+24:14 - 40:00
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 2 - หล่า เซ่ ผ่อง
+    Sound recording
+    9:52 - 17:59 
+ffmpeg -i 390.mp3 -ss 00:00:00 -codec copy -t 00:08:00 oout1.mp3
+ffmpeg -i 390.mp3 -ss 00:19:50 -codec copy -t 00:23:00 oout2.mp3
+ffmpeg -i 390.mp3 -ss 00:41:00 -codec copy oout3.mp3
+ffmpeg -i "concat:oout1.mp3|oout2.mp3|oout3.mp3" -c copy output3.mp3
+
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+Sound recording
+12:22 - 30:00
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 2 - หล่า เซ่ ผ่อง
+    Sound recording
+    0:03 - 6:02 
+ffmpeg -i 390.mp3 -ss 00:08:00 -codec copy -t 00:01:00 oout1.mp3
+ffmpeg -i 390.mp3 -ss 00:33:00 -codec copy oout2.mp3
+ffmpeg -i "concat:oout1.mp3|oout2.mp3" -c copy output3.mp3
+
+
+content 	claimant 	policy 	
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    19:54 - 30:00 
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 2 - หล่า เซ่ ผ่อง
+    Sound recording
+    0:02 - 8:01 
+ffmpeg -i 391.mp3 -ss 00:11:00 -codec copy -t 00:17:00 oout1.mp3
+ffmpeg -i 391.mp3 -ss 00:34:00 -codec copy oout2.mp3
+ffmpeg -i "concat:oout1.mp3|oout2.mp3" -c copy output3.mp3
+
+
+content 	claimant 	policy 	
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:07:16 - 1:09:39 play match
+
+
+ffmpeg -i 453.mp3 -ss 00:00:00 -codec copy -t 01:07:10 oout1.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:48 - 4:55 play match
+
+
+ffmpeg -i 457.mp3 -ss 00:05:00 -codec copy oout1.mp3
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+Sound recording
+0:43 - 3:48 
+
+ffmpeg -i 471.mp3 -ss 00:04:00 -codec copy oout1.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:01:07 - 1:03:29 play match
+
+ffmpeg -i 492.mp3 -ss 00:00:00 -codec copy -t 00:59:59 oout1.mp3
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+Sound recording
+1:08:24 - 1:09:40 
+ffmpeg -i 599.mp3 -ss 00:00:00 -codec copy -t 01:07:25 oout1.mp3
+
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:04:55 - 1:06:14 play match
+
+ffmpeg -i 604.mp3 -ss 00:00:00 -codec copy -t 01:03:52 oout1.mp3
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+Sound recording
+0:42 - 3:56 
+ffmpeg -i 619.mp3 -ss 00:04:10 -codec copy oout1.mp3
+
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    2:12 - 3:52 play match
+
+ffmpeg -i 745.mp3 -ss 00:04:05 -codec copy oout1.mp3
+
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:04:52 - 1:06:11 play match
+
+ffmpeg -i 787.mp3 -ss 00:00:00 -codec copy -t 01:04:13 oout1.mp3
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+Sound recording
+1:05 - 3:55 
+ffmpeg -i 824.mp3 -ss 00:04:10 -codec copy oout1.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    3:19 - 4:00 play match
+
+ffmpeg -i 873.mp3 -ss 00:04:10 -codec copy oout1.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    54:02 - 55:21 play match
+
+ffmpeg -i 1013.mp3 -ss 00:00:00 -codec copy -t 00:54:00 oout1.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:04:42 - 1:06:07 play match
+
+ffmpeg -i 1167.mp3 -ss 00:00:00 -codec copy -t 01:03:49 oout1.mp3
+
+ผ่อง
+Sound recording
+1:47 - 4:33 play match 
+
+ffmpeg -i 1184.mp3 -ss 00:05:00 -codec copy oout1.mp3
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+Sound recording
+55:24 - 56:41 
+ffmpeg -i 1454.mp3 -ss 00:00:00 -codec copy -t 00:54:24 oout1.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:01 - 3:48 play match
+
+ffmpeg -i 1439.mp3 -ss 00:04:00 -codec copy oout1.mp3
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+Sound recording
+0:58 - 4:06 
+ffmpeg -i 1386.mp3 -ss 00:04:30 -codec copy oout1.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    56:06 - 57:11 play match
+
+ffmpeg -i 1384.mp3 -ss 00:00:00 -codec copy -t 00:56:00 oout1.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    4:49 - 5:32 play match
+
+ffmpeg -i 1358.mp3 -ss 00:06:00 -codec copy oout1.mp3
+
+content 	claimant 	policy 	
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:00:10 - 1:01:31 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    0:44 - 4:00 play match
+
+ffmpeg -i 1342.mp3 -ss 00:00:00 -codec copy -t 00:59:10 oout1.mp3
+ffmpeg -i oout1.mp3 -ss 00:05:00 -codec copy oout2.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:00:10 - 1:01:32 play match
+
+ffmpeg -i 1332.mp3 -ss 00:00:00 -codec copy -t 00:59:11 oout2.mp3
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+Sound recording
+3:06 - 3:52 
+ffmpeg -i 1260.mp3 -ss 00:04:30 -codec copy oout2.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:08 - 4:30 play match
+
+ffmpeg -i 1248.mp3 -ss 00:05:00 -codec copy oout2.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+    Sound recording
+    3:03 - 3:45 play match
+
+ffmpeg -i 1618.mp3 -ss 00:04:30 -codec copy oout2.mp3
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:05:22 - 1:07:56 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries 
+ffmpeg -i 1628.mp3 -ss 00:00:00 -codec copy -t 01:05:10 oout2.mp3
+
+
+
+    ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 3 - หล่า เซ่ ผ่อง
+    Sound recording
+    1:01:59 - 1:03:38 play match
+
+	
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries 
+ffmpeg -i 1652.mp3 -ss 00:00:00 -codec copy -t 01:01:27 oout2.mp3
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+Sound recording
+3:12 - 3:52 
+ffmpeg -i 1783.mp3 -ss 00:04:30 -codec copy oout2.mp3
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+Sound recording
+1:07 - 3:57 
+ffmpeg -i 1848.mp3 -ss 00:04:30 -codec copy oout2.mp3
+
+
+
+
+
+https://github.com/leandromoreira/ffmpeg-libav-tutorial
+https://www.peterbe.com/p2
+https://github.com/peterbe
+https://stackoverflow.com/questions/5967500/how-to-correctly-sort-a-string-with-a-number-inside
+http://effbot.org/librarybook/queue.htm
+https://www.troyfawkes.com/learn-python-multithreading-queues-basics/
+https://www.peterbe.com/plog/sorting-mixed-type-lists-in-python-3
+https://nedbatchelder.com/blog/200712/human_sorting.html
+
+
+https://www.geeksforgeeks.org/multithreading-in-python-set-2-synchronization/
+https://www.blog.pythonlibrary.org/2016/07/28/python-201-a-tutorial-on-threads/
+http://thomas-cokelaer.info/tutorials/python/module_threading.html
+https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python
+https://github.com/brmmm3/fastthreadpool/tree/master/examples
+https://www.dabeaz.com/usenix2009/concurrent/index.html
+http://faculty.salina.k-state.edu/tim/ossg/IPC_sync/programming.html
+https://kite.com/python/examples/3389/threading-use-a-semaphore-to-synchronize-two-threads
+https://makina-corpus.com/blog/metier/2014/python-tutorial-understanding-python-threading
+https://gist.github.com/presci/2661576
+https://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/
+
+http://www.bogotobogo.com/python/Multithread/python_multithreading_Synchronization_Semaphore_Objects_Thread_Pool.php
+http://effbot.org/zone/thread-synchronization.htm
+https://www.tutorialspoint.com/python3/python_multithreading.htm
+http://www.informit.com/articles/article.aspx?p=2808702&seqNum=6
+https://data-flair.training/blogs/python-multithreading/
+https://dreamix.eu/blog/webothers/timeout-function-in-python-3
+http://www.bogotobogo.com/python/Multithread/python_multithreading_subclassing_creating_threads.php
+http://effbot.org/zone/thread-synchronization.htm
+https://www.python-course.eu/threads.php
+https://bytes.com/topic/python/answers/843586-how-start-thread-group
+https://realpython.com/python-gil/
+http://sdiehl.github.io/gevent-tutorial/
+http://sdiehl.github.io/gevent-tutorial/#locks-and-semaphores
+https://hackernoon.com/synchronization-primitives-in-python-564f89fee732
+https://nitratine.net/python-threading-basics/
+https://linuxgazette.net/107/pai.html
+https://callhub.io/understanding-python-gil/
+https://graysonkoonce.com/waiting-until-a-thread-is-ready-in-python/
+http://www.oracle.com/technetwork/articles/embedded/vasiliev-python-concurrency-087536.html
+https://medium.com/dev-bits/a-cup-of-gos-concurrent-programming-for-python-developers-a80e621c45ff
+https://stackoverflow.com/questions/10525185/python-threading-how-do-i-lock-a-thread
+http://www.bogotobogo.com/python/Multithread/python_multithreading_Synchronization_Producer_Consumer_using_Queue.php
+http://www.bogotobogo.com/python/Multithread/python_multithreading_Synchronization_Condition_Objects_Producer_Consumer.php
+
+http://blog.acipo.com/python-threading-progress-indicators/
+https://stackoverflow.com/questions/2846653/how-to-use-threading-in-python
+https://medium.com/@nbosco/multithreading-vs-multiprocessing-in-python-c7dc88b50b5b
+https://www.pythoncentral.io/pythons-time-sleep-pause-wait-sleep-stop-your-code/
+http://blog.acipo.com/python-threading-progress-indicators/
+https://www.techbeamers.com/python-multithreading-concepts/
+https://www.ibm.com/developerworks/aix/library/au-threadingpython/index.html
+https://gist.github.com/steinnes/e668dcd538873475f7ba8825fdc7c141
+
+ls -d */ | cut -f1 -d'/'
+
+
+##########
+# 122 alias
+##########
+
+alias 122="ssh -i /d/user/hello/ssh_keygen/this user@192.168.1.122"
+alias kali="ssh -i /d/user/rsynchost/thishost-rsync-key root@192.168.1.124"
+alias 123="ssh -i /f/wheezy/123/123.pem root@192.168.1.123"
+#alias kali="ssh -i /cydrive/d/user/rsynchost/thishost-rsync-key root@192.168.1.2                                                                                       44"
+
+
+alias wheezy="cd /f/wheezy && vagrant up && vagrant ssh"
+alias wheezystart="cd /f/wheezy && vagrant ssh"
+alias wheezystop="cd /f/wheezy && vagrant halt"
+
+JAVA_HOME="/C/Program Files/Java/jdk1.8.0_144"
+export PATH=$PATH:$JAVA_HOME
+export PATH=$PATH:"/C/Program Files/Java/jdk1.8.0_144/bin"
+
+
+
+cat /etc/fstab
+# For a description of the file format, see the Users Guide
+# http://cygwin.com/cygwin-ug-net/using.html#mount-table
+
+# DO NOT REMOVE NEXT LINE. It remove cygdrive prefix from path
+none / cygdrive binary,posix=0,noacl,user 0 0
+#C:/Users /home ntfs binary,noacl,auto 1 1
+
+ls -d */ | cut -f1 -d'/'
+awk -F"|" '{print $1}' test.txt
+
+
+
+youtube-dl --flat-playlist https://www.youtube.com/channel/UCtlZg7-4vjYeYX01S6QuNEw/playlists
+
+
+youtube-dl --flat-playlist https://www.youtube.com/playlist?list=UCtlZg7-4vjYeYX01S6QuNEw
+youtube-dl --get-title --get-id https://www.youtube.com/playlist?list=PLpC7LHUjztF5cYpQZ5lrY7MMyK-mdtA5o
+youtube-dl -j --flat-playlist --yes-playlist  https://www.youtube.com/channel/UCtlZg7-4vjYeYX01S6QuNEw
+youtube-dl -j --flat-playlist --yes-playlist  https://www.youtube.com/channel/UCtlZg7-4vjYeYX01S6QuNEw
+
+
+
+https://www.youtube.com/playlist?list=PLTmd0UJIJpfJNPdmL2agcsoP4QZOeGNCs
+
+
+youtube-dl --playlist-start 409 --get-title --get-id https://www.youtube.com/playlist?list=PLpC7LHUjztF5cYpQZ5lrY7MMyK-mdtA5o | tee youtube_edit.txt
+
+youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" <url to playlist>
+
+
+https://www.youtube.com/watch?v=dn6eaoYIFWI&list=PLpC7LHUjztF7MxUaIWtYiFKBtrIhUIfwP
+
+
+youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLpC7LHUjztF7MxUaIWtYiFKBtrIhUIfwP
+
+youtube-dl -cit https://www.youtube.com/playlist?list=PLpC7LHUjztF7MxUaIWtYiFKBtrIhUIfwP
+
+
+https://www.youtube.com/playlist?list=PLpC7LHUjztF7MxUaIWtYiFKBtrIhUIfwP
+
+
+
+https://www.youtube.com/watch?v=SwlgKcOlKzw&list=PLpC7LHUjztF5VsWVCLZHZIE8nrUG2vMkE&index=3
+https://www.youtube.com/watch?v=SwlgKcOlKzw&list=PLpC7LHUjztF5VsWVCLZHZIE8nrUG2vMkE&index=3
+
+youtube-dl -o "%(playlist_index)s-%(title)s.%(ext)s" <playlist_link>
+youtube-dl -o "%(playlist_index)s-%(title)s.%(ext)s" https://www.facebook.com/182616082245360/videos/416528388854127/
+
+youtube-dl --extract-audio --audio-format mp3 -o "%(playlist_index)s-%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLpC7LHUjztF5VsWVCLZHZIE8nrUG2vMkE
+
+rsync -avzz *.pdf -e 'ssh -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this' u0_a155@192.168.1.43:/data/data/com.termux/files/home/storage/downloads/pa_li_reading/
+rsync -P -avzz /cydrive/f/wheezy/thai/thai/ -e 'ssh -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this' u0_a155@192.168.1.35:/data/data/com.termux/files/home/storage/downloads/thai/
+ 
+  293  ssh -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this u0_a155@192.168.1.41
+ 
+ 
+  
+  rsync -avzz circle -e 'ssh -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this' u0_a155@192.168.1.33:/data/data/com.termux/files/home/storage/downloads/ma_ha_si_saya_daw/
+  rsync -avzz two -e 'ssh -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this' u0_a155@192.168.1.33:/data/data/com.termux/files/home/storage/downloads/ma_ha_si_saya_daw/
+  
+  
+  youtube-dl -c --playlist-start 8 --extract-audio --audio-format mp3 -o "%(playlist_index)s-%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLpC7LHUjztF5VsWVCLZHZIE8nrUG2vMkE
+  youtube-dl -c --extract-audio --audio-format mp3 -o "%(playlist_index)s-%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLpC7LHUjztF40O-TVOW023jjK93Gl4NT4
+  
+  list=PLpC7LHUjztF40O-TVOW023jjK93Gl4NT4
+  for i in $(ps -W | grep "/usr/bin/bash" | awk '{print $1}'); do echo $i; kill -9 $i; done
+  
+ssh -i /cygdrive/d/user/hello/ssh_keygen/this u0_a155@192.168.1.44 -p 8022
+
+
+
+
+
+ssh -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this u0_a155@192.168.1.36
+rsync -avzz /cygdrive/f/mahasi_ebooks -e 'ssh -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this' u0_a155@192.168.1.45:/data/data/com.termux/files/home/storage/downloads/
+rsync -P -avzz *.mp4 -e 'ssh -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this' u0_a155@192.168.1.40:/data/data/com.termux/files/home/database/youtube/working/one/
+
+
+
+
+
+  
+  https://dfm.io/posts/python-c-extensions/
+http://www.benjack.io/2017/06/12/python-cpp-tests.html
+https://medium.com/@joshua.massover/python-c-extension-example-cef86ffab4ed
+http://martinsosic.com/development/2016/02/08/wrapping-c-library-as-python-module.html
+https://en.wikibooks.org/wiki/Python_Programming/Extending_with_C
+https://docs.python.org/3/distutils/setupscript.html
+https://gist.github.com/physacco/2e1b52415f3a964ad2a542a99bebed8f
+https://docs.python.org/3/howto/cporting.html
+https://github.com/munawarb/Python-Kill-Thread-Extension
+https://cuyu.github.io/python/2016/08/15/Terminate-multiprocess-in-Python-correctly-and-gracefully
+https://gist.github.com/dfm/3247796
+
+for i in `ps -eaf | grep bash | awk '{print $2}'`; do echo $i; kill -9 $i; done
+
+ssh -vvvv -t -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this u0_a155@192.168.1.44 "cd /data/data/com.termux/files/home/database/youtube/working; exec sh"
+ssh -vvvv -t -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this u0_a155@192.168.1.44 "cd /data/data/com.termux/files/home/database/youtube/working && sh"
+ssh -vvvv -t -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this u0_a155@192.168.1.44 "cd /data/data/com.termux/files/home/database/youtube/working && bash"
+ssh -vvvv -t -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this u0_a155@192.168.1.44 "cd /data/data/com.termux/files/home/database/youtube/working; bash"
+
+vim
+https://www1.udel.edu/it/help/unix/vi/vi-buffer.html
+https://www.mybloggingthing.com/ssh-putty-commands/
+https://www.fastwebhost.in/blog/putty-30-useful-putty-commands-for-beginners/
+https://unix.stackexchange.com/questions/86941/how-to-ssh-into-a-specific-directory
+https://www.ssh.com/ssh/command/
+https://tosbourn.com/the-ssh-command/
+
+
+for i in `ps -eaf | grep bash | awk '{print $2}'`; do echo $i; kill -9 $i; done
+
+ssh -p 8022 -i /cygdrive/d/user/hello/ssh_keygen/this u0_a155@192.168.1.44 "cd ~/database/youtube/working && exec bash -l"
+
+https://www.khronos.org/vulkan/
+https://wiki.archlinux.org/index.php/Vulkan
+
+https://crontab.guru/#05_11,12-14_*_*_*
+
+
+
+https://stackabuse.com/tag/node/page/2/
+https://github.com/termux/getconf
+https://github.com/jquast/wcwidth
+https://github.com/termux/wcwidth
+https://github.com/Kotlin/kotlin-in-action/blob/master/src/ch05/5.1.4_2_AccessingVariablesInScope1.kt
+
+panel.expasset.com/register/bottom/nX2d
+
+dhamma
+http://bhasatikar.blogspot.com/2016/01/blog-post_14.html
+http://www.dhammaarchive.com/normal-abidama?page=1

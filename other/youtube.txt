@@ -1,0 +1,9 @@
+youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' -o '%(title)s.%(ext)s'  https://youtu.be/1hFWVfOg5zU
+youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' -o '%(title)s.%(ext)s'  https://youtu.be/iRhUEmyZkH0
+youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' -o '%(title)s.%(ext)s'  https://youtu.be/QdTPzDTsRlU
+youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' -o '%(title)s.%(ext)s'  https://youtu.be/ghqhdq4TQVU
+youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' -o '%(title)s.%(ext)s'  https://youtu.be/d5kZPWF8zP8
+youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' -o '%(title)s.%(ext)s'  https://youtu.be/SFv3ICPUdfs
+youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' -o '%(title)s.%(ext)s'  https://youtu.be/nKUBiPvFIaU
+youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' -o '%(title)s.%(ext)s'  https://youtu.be/JYnQpAQHUI0
+youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4' -o '%(title)s.%(ext)s'  https://youtu.be/-f9cpBNsHhI

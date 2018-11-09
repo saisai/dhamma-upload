@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Substring
+https://en.wikipedia.org/wiki/Subsequence
+https://en.wikipedia.org/wiki/Sequence
+https://en.wikipedia.org/wiki/Fibonacci_number

@@ -1,0 +1,66 @@
+
+
+mysql to gz 
+mysqldump -u user -pupasswd my-database | gzip > one.gz > two.gz > three.gz
+
+gz to mysql
+
+gunzip < test.gz | mysql -uroot -proot -h localhost test;
+
+
+https://stackoverflow.com/questions/22278217/mysqldump-gzip-commands-to-properly-create-a-compressed-file-of-a-mysql-databa
+
+Error in mysql
+this is incompatible with sql_mode=only_full_group_by
+Disable ONLY_FULL_GROUP_BY
+https://stackoverflow.com/questions/23921117/disable-only-full-group-by
+Solution 1: Remove ONLY_FULL_GROUP_BY from mysql console
+
+mysql > SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
+
+
+apachectl configtest
+
+<VirtualHost *:80>
+        ServerAdmin webmaster@localhost
+
+        DocumentRoot /vagrant/www
+        <Directory />
+                Options FollowSymLinks
+                #AllowOverride None
+                AllowOverride all
+        </Directory>
+        <Directory /vagrant/www/>
+                Options Indexes FollowSymLinks MultiViews
+                #FollowSymLinks MultiViews
+                #Order allow,deny
+                allow from all
+                AllowOverride all
+                #DirectoryIndex index.php
+                #AllowOverride None
+                #Order allow,deny
+                #allow from all
+        </Directory>
+
+        ScriptAlias /cgi-bin/ /vagrant/www/cgi-bin/
+        <Directory "/vagrant/www/cgi-bin">
+                AllowOverride None
+                Options +ExecCGI -MultiViews +SymLinksIfOwnerMatch
+                #Require all granted
+                #Order allow,deny
+                #Allow from all
+        </Directory>
+
+        ErrorLog ${APACHE_LOG_DIR}/error.log
+
+        # Possible values include: debug, info, notice, warn, error, crit,
+        # alert, emerg.
+        LogLevel warn
+
+        CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+
+sudo ln -s /etc/apache2/sites-available/dev.conf /etc/apache2/sites-enabled/dev.conf
+
+ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+sudo a2enmod rewrite

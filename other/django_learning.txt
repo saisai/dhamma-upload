@@ -1,0 +1,61 @@
+from django.contrib import admin
+from django.urls import path
+from django.conf.urls import url, include
+from rest_framework import routers
+from quickstart import views
+
+router = routers.DefaultRouter()
+router.register(r'users', views.UserViewSet)
+router.register(r'groups', views.GroupViewSet)
+
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    url(r'^', include(router.urls)),
+    url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework'))
+]
+
+
+mkdir mysite
+cd mysite 
+pipenv shell
+pip install django
+
+django-admin startproject mysite
+
+
+python manage.py runserver 192.168.153.128:5000
+
+
+python manage.py startapp polls
+
+python manage.py migrate
+
+python manage.py makemigrations polls
+python manage.py sqlmigrate polls 0001
+python manage.py sqlmigrate polls 0002
+python manage.py migrate
+
+
+python manage.py createsuperuser
+
+https://docs.djangoproject.com/en/2.0/ref/
+https://docs.djangoproject.com/en/2.0/ref/models/
+https://docs.djangoproject.com/en/2.0/ref/forms/
+https://docs.djangoproject.com/en/2.0/topics/forms/media/
+https://docs.djangoproject.com/en/2.0/ref/models/fields/
+https://docs.djangoproject.com/en/2.0/ref/
+https://docs.djangoproject.com/en/2.0/ref/contrib/auth/
+https://docs.djangoproject.com/en/2.0/ref/contrib/gis/install/geolibs/
+On Linux platforms, it may be necessary to run the ldconfig command after installing each library. For example:
+
+$ sudo make install
+$ sudo ldconfig
+
+
+
+printf """
+import os 
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+print(BASE_DIR)
+""" | python
