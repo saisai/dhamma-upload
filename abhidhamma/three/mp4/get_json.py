@@ -1,0 +1,68 @@
+# -*- coding: utf-8 -*-
+import json
+def change(num):
+    mm = ['၀','၁','၂','၃', '၄', '၅', '၆','၇','၈','၉']
+    
+    strmm = ''
+    mmlist = list(map(int, str(num)))
+    eng = ''
+    for i in mmlist:
+        eng += str(i)
+        #print(i)
+        strmm += mm[i]
+
+    return eng
+
+get_new = []
+for m in range(0, 257):
+    aa = change(m)
+    #new_dict = {m: str(aa)}
+    get_new.append('{}။'.format(aa))
+
+#print(get_new)
+titles = [title.strip('\n') for title in open('title.txt')]
+get_count = len(titles)
+print(get_count)
+
+
+descriptions = [title.strip('\n') for title in open('description.txt')]
+get_count_descriptions = len(descriptions)
+print(get_count_descriptions)
+
+description_title ="သင္တန္းမွဴး၊ ဓမၼဗ်ဴဟာ  ေခၚခင္လွတင္ (မဟာသဒၶမၶေဇာတိကဓဇ)  ဓမၼဗ်ဴဟာ သာသနမာမကအဖြဲ႕ လူပုဂၢိဳလ္မ်ားဆိုင္ရာ ဓမၼစာေပသင္တန္းေက်ာင္း "
+source = "\nအဘိဓမၼာ (ရိုးရိုး)   တတိယအဆင္႔  (၂၀၁၀)\nsource from http://www.dhammadownload.com"
+
+
+results = []    
+count = 160
+playlist = "သင္တန္းမွဴး၊ ဓမၼဗ်ဴဟာ  ေခၚခင္လွတင္ (မဟာသဒၶမၶေဇာတိကဓဇ) ပို႔ခ်ေသာ ရုပ္/သံ မ်ား"
+for title, description in zip(titles, descriptions):
+    #print('{}'.format(change(title.split('။')[0])))
+    #print('{}။{}'.format(change(counter), title.split('။')[1]))
+    
+    
+    counter = '{:03}'.format(count)
+    if len('{}။{}'.format(change(counter), title.split('။')[1])) > 100:
+        dict_title = {
+                     "playlist" : playlist,
+                     "title": "{}".format(title),
+                      "description": "{}\n{}{}".format(description_title, description, source), 
+                       "id": "{}".format(change(title.split('။')[0]))
+                    }       
+
+        print('{}။{} greater than 100'.format(change(counter), title.split('။')[1]))
+        results.append(dict_title)
+    else:
+        dict_title = {
+                      "playlist" : playlist,
+                     "title": "{}".format(title),
+                     "description": "{}\n{}{}".format(description_title, description, source),                       
+                       "id": "{}".format(change(title.split('။')[0]))
+                    }       
+        # "description": "{}\n{}{}{}".format(description_title, description.split('|')[1], description.split('|')[0], source), 
+        results.append(dict_title)
+    count += 1
+    
+data = json.dumps(results, indent=4)        
+with open('raw_json_title.txt', encoding='utf-8', mode='w') as f:
+    json.dump(data, f)
