@@ -1,0 +1,24 @@
+https://serverfault.com/questions/357108/what-permissions-should-my-website-files-folders-have-on-a-linux-webserver
+https://support.rackspace.com/how-to/how-to-add-linux-user-with-document-root-permissions/
+https://askubuntu.com/questions/58725/how-do-we-know-that-a-directory-is-apache-writable
+https://stackoverflow.com/questions/29244070/check-if-different-user-has-read-wrte-permissions-to-a-file-on-linux
+https://fideloper.com/user-group-permissions-chmod-apache
+https://www.drupal.org/docs/7/install/setting-up-the-files-directory
+https://medium.com/@fiqriismail/how-to-setup-apache-mysql-and-php-in-linux-subsystem-for-windows-10-e03e67afe6ee
+
+https://www.tecmint.com/secure-files-using-acls-in-linux/
+getfacl /tecmint1/example
+
+https://www.tecmint.com/set-access-control-lists-acls-and-disk-quotas-for-users-groups/
+https://www.tecmint.com/rhcsa-exam-configure-acls-and-mount-nfs-samba-shares/
+
+
+https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.3.0/com.ibm.zos.v2r3.bpxa500/gfacl.htm
+https://www.tecmint.com/rhcsa-exam-configure-acls-and-mount-nfs-samba-shares/
+
+$ ack -l "pattern" | xargs perl -pi -E 's/pattern/hellodomain/g'
+ack -l "pattern" | xargs perl -pi -E 's/pattern/hello/g'
+https://gist.github.com/joyrexus/7328094
+
+https://superuser.com/questions/568283/how-to-ack-grep-replace-a-string-of-multiple-words
+ack-grep -l --print0 --text 'laughing babies' | xargs -0 -n 1 sed -i -e 's/laughing babies/smiling little children/g'
