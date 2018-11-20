@@ -47,4 +47,5 @@ https://orga.cat/posts/most-useful-git-commands
 
 
 https://stackoverflow.com/questions/9000163/git-list-new-files-only
-$ git status --porcelain | grep "^?" | cut -c 4-
+git status --porcelain | grep "^?" | cut -c 4-
+for i in `git status --porcelain | grep "^?" | cut -c 4-`; do echo $i; git add $i; done
