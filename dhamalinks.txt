@@ -10,3 +10,8 @@ mp3
 https://www.thitsarparamisociety.com
 http://www.dhammaransi.com/
 http://www.dhammadownload.com
+
+
+
+find . -name "*.txt"
+find . -name "*.out"
