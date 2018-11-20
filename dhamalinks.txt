@@ -15,3 +15,36 @@ http://www.dhammadownload.com
 
 find . -name "*.txt"
 find . -name "*.out"
+
+ack -l "pattern" | xargs perl -pi -E 's/pattern/hello/g'
+
+
+CAfile: /etc/pki/tls/certs/ca-bundle.crt github
+git config --system http.sslverify false
+https://stackoverflow.com/questions/3778042/github-error-cloning-my-private-repository
+
+
+https://stackoverflow.com/questions/16956810/how-do-i-find-all-files-containing-specific-text-on-linux
+
+grep -rnw '/path/to/somewhere/' -e 'pattern'
+
+-r or -R is recursive,
+-n is line number, and
+-w stands for match the whole word.
+-l (lower-case L) can be added to just give the file name of matching files.
+
+
+
+
+
+
+
+https://stackoverflow.com/questions/10018533/is-it-possible-to-git-status-only-modified-files
+git ls-files -m 
+
+
+https://orga.cat/posts/most-useful-git-commands
+
+
+https://stackoverflow.com/questions/9000163/git-list-new-files-only
+$ git status --porcelain | grep "^?" | cut -c 4-

@@ -1,0 +1,382 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/418-THITSARSHWESI/418-031118PM2.mp3|ဘုရားရွိခိုး (၃)ပုဒ္ တရားေတာ္  အပိုင္း (၁) (3.11.10)
+002.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/418-THITSARSHWESI/418-041118PM2.mp3|ဘုရားရွိခိုး (၃)ပုဒ္ တရားေတာ္  အပိုင္း (၂)
+003.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/418-THITSARSHWESI/418-051118PM2.mp3|ဘုရားရွိခိုး (၃)ပုဒ္ တရားေတာ္  အပိုင္း (၃)
+004.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/418-THITSARSHWESI/418-041118AM10.mp3|ကထိန္အႏုေမာဒနာတရားေတာ္
+005.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/418-THITSARSHWESI/418-031118PM7.mp3|ဂဂၤမာလဇာတ္ တရားေတာ္
+006.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/418-THITSARSHWESI/418-041118PM7.mp3|သကၠပဥွ သုတၱန္ တရားေတာ္
+007.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/418-THITSARSHWESI/418-051118PM7.mp3|မဟာသုဒႆနသုတၱန္ တရားေတာ္
+008.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/Oct/24.10.2018.mp3|အႏုေမာဒနာ တရားေတာ္ (၂၄.၁၀.၂၀၁၈)
+009.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/Oct/25.10.2018.mp3|အလြယ္မက္ရင္ အခက္ၾကံဳမယ္တရားေတာ္ (၂၅.၁၀.၂၀၁၈)
+010.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/Oct/26.10.2018.mp3|ပညာရိွသူေတာ္ေကာင္း (၂၆.၁၀.၂၀၁၈)
+011.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/Oct/27.10.2018.mp3|ကိေလသာေတြမ၀င္ေအာင္ ဘယ္လိုေစာင့္ေရွာက္ရမလဲ (၂၇.၁၀.၂၀၁၈)
+012.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/Oct/28.10.2018.mp3|ကုသိုလ္ေကာင္းမႈေတြတိုးပြားလာေအာင္ ဘယ္လိုေဆာင္ရြက္ၾကမလဲ (၂၈.၁၀.၂၀၁၈)
+013.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/Oct/30.10.2018.mp3|ဂိရိမာနႏၵသုတၱံအႏွစ္ခ်ဳပ္တရားေတာ္ (၃၀.၁၀.၂၀၁၈)
+014.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/August/336.mp3|တရားအားထုတ္ၿခင္း၏ အက်ိဳးမ်ား (၇.၈.၂၀၁၈ / ညေန)
+015.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/August/337.mp3|အားေပးစကား (၁) (၈.၈.၂၀၁၈ / မနက္ခင္း)
+016.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/August/338.mp3|ဓနဥၥာနိသုတၱန္ (၈.၈.၂၀၁၈ / ညခင္း)
+017.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/August/339.mp3|အားေပးစကား (၂) (၉.၈.၂၀၁၈ / မနက္ခင္း)
+018.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/August/342.mp3|ရူပါရာမသုတၱန္ (၉.၈.၂၀၁၈ / ညခင္း)
+019.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/August/343.mp3|အားေပးစကား (၃) (၁၀.၈.၂၀၁၈ / မနက္ခင္း)
+020.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/August/344.mp3|တထာဂတ အစၦရိယ သုတၱန္ (၁၀.၈.၂၀၁၈ / ညခင္း)
+021.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/August/345.mp3|အားေပးစကား (၄) (၁၁.၈.၂၀၁၈ / မနက္ခင္း)
+022.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/August/346.mp3|ၾကားရရုံပင္ အပူစင္၍ (၁၁.၈.၂၀၁၈ ညခင္း)
+023.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/June/17.6.2018_6pm.mp3|စိတၱသမၻဴတဇာတ္ တရားေတာ္ (၁၇.၆.၂၀၁၈ စကၤာပူ)
+024.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/June/16.6.2018_7pm.mp3|မဟာသုတေသာမဇာတ္ တရားေတာ္ (၁၆.၆.၂၀၁၈ စကၤာပူ)
+025.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/June/15.6.2018_7pm.mp3|အကိတၱိဇာတ္ တရားေတာ္ (၁၅.၆.၂၀၁၈ စကၤာပူ)
+026.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/June/15.6.2018_10am.mp3|စိတ္အေၾကာင္း အပိုင္း (၁) (၁၅.၆.၂၀၁၈ စကၤာပူ)
+027.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/June/15.6.2018_3pm.mp3|စိတ္အေၾကာင္း အပိုင္း (၂) (၁၅.၆.၂၀၁၈ စကၤာပူ)
+028.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/June/16.6.2018_2pm.mp3|စိတ္အေၾကာင္း အပိုင္း (၃) (၁၆.၆.၂၀၁၈ စကၤာပူ)
+029.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/June/17.6.2018_10am.mp3|စိတ္အေၾကာင္း အပိုင္း (၄) (၁၇.၆.၂၀၁၈ စကၤာပူ)
+030.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/June/17.6.2018_3pm.mp3|စိတ္အေၾကာင္း အပိုင္း (၅) (၁၇.၆.၂၀၁၈ စကၤာပူ)
+031.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/May/14.05.2018.mp3|ပုဗၺသုတၱံ၊ နာကုလပိတာသုတၱံ – လူငယ္လူၾကီးတရားေတာ္ (၁၄.၅.၂၀၁၈ ထိုင္၀မ္)
+032.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/May/13.05.2018.mp3|ဇရာသုတၱံ (၁၃.၅.၂၀၁၈ ထိုင္၀မ္)
+033.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/May/12.05.2018.mp3|နာဂသုတၱံ (၁၂.၅.၂၀၁၈ ထိုင္၀မ္)
+034.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/April/27.4.2018.mp3|လူငယ္လူၾကီးတရားေတာ္ (၂၇.၄.၂၀၁၈)
+035.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/April/18.4.2018.mp3|အျမတ္ဆံုးႀကီးပြါးျခင္း (၁၈.၄.၂၀၁၈)
+036.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/April/17.4.2018.mp3|တစ္ဘ၀ျပီးတစ္ဘ၀ (၁၇.၄.၂၀၁၈)
+037.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/April/16.4.018.mp3|တရား(၄)မ်ိဳးႏွင့္ ဂုဏ္သတၱိ (၁၆.၄.၂၀၁၈)
+038.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/April/15.4.2018.mp3|ကိုရင္တိႆ (၁၅.၄.၂၀၁၈)
+039.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/April/14.4.2018.mp3|စစ္မွန္ေသာ ေအာင္ျမင္မႈ (၁၄.၄.၂၀၁၈)
+040.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/April/13.4.2018.mp3|ရ႒ပါလသုတၱံ (၁၃.၄.၂၀၁၈)
+041.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/April/07.4.2018.mp3|ဇရာသုတၱံ (၇.၄.၂၀၁၈)
+042.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/2018/Mar/10.3.2018.mp3|ဒုကၡၿငိမ္းေၾကာင္း နည္းလမ္းေကာင္း (၁၀.၃.၂၀၁၈)
+043.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Dec/29.12.2017.mp3|သံေယာဇဥ္ (၂၉.၁၂.၂၀၁၇)
+044.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Dec/28.12.107.mp3|ဓမၼပဒဂါထာတရားေတာ္ (၂) – (၂၈.၁၂.၂၀၁၇)
+045.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Dec/27.12.2017.mp3|ဓမၼပဒဂါထာတရားေတာ္ (၁) – (၂၇.၁၂.၂၀၁၇)
+046.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Dec/26.12.2017.mp3|ဥဒယဘဒၵဇာတ္ (၂၆.၁၂.၂၀၁၇)
+047.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Dec/25.12.2017.mp3|စာလာေထရီ ၊ ဥပစာလာေထရီ၊ သီသူပစာလာေထရီ (၂၅.၁၂.၂၀၁၇)
+048.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Dec/24.12.2017.mp3|၀ဇိရာေထရီ ႏွင့္ ေသလာေထရီ (၂၄.၁၂.၂၀၁၇)
+049.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Nov/25.11.2017.mp3|နာကုလပိတုသုတၱံ ႏွင့္ ဥဂၢသုတၱံ တရားေတာ္ (၂၅.၁၁.၂၀၁၇)
+050.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Nov/24.11.2017.mp3|ဆပၸါဏေကာပမသုတၱံ တရားေတာ္ (၂၄.၁၁.၂၀၁၇)
+051.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Nov/23.11.2017.mp3|၀မၼိကသုတၱံ တရားေတာ္ (၂၃.၁၁.၂၀၁၇)
+052.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Nov/22.11.2017.mp3|အာသီ၀ိေသာပမသုတၱံ တရားေတာ္ (၂၂.၁၁.၂၀၁၇)
+053.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Nov/21.11.2017.mp3|ဒါ႐ုကၡေႏၶာပမသုတၱံ တရားေတာ္ (၂၁.၁၁.၂၀၁၇)
+054.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Nov/20.11.2017.mp3|ျဖဴေအာင္စိတ္ကိုထား တရားေတာ္ (၂၀.၁၁.၂၀၁၇)
+055.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Nov/19.11.2017.mp3|ေကာင္းမႈေဆာင္ တရားေတာ္ (၁၉.၁၁.၂၀၁၇)
+056.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Nov/18.11.2017.mp3|မေကာင္းမႈေရွာင္ တရားေတာ္ (၁၈.၁၁.၂၀၁၇)
+057.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Nov/17.11.2017.mp3|ေယာနိေသာမနသိကာရ – ႏုလံုးသြင္းမွန္ျခင္းတရားေတာ္ (၁၇.၁၁.၂၀၁၇)
+058.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Oct/9.10.2017.mp3|အႏုေမာဒနာတရား (၉.၁၀.၂၀၁၇)
+059.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Oct/8.10.2017.mp3|ပါတရာသီသုတၱံ (၈.၁၀.၂၀၁၇)
+060.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Oct/7.10.2017.mp3|ပါရာယနသုတၱံ (၇.၁၀.၂၀၁၇)
+061.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Oct/6.10.2017.mp3|ေဂါပါလကသုတ္ (၆.၁၀.၂၀၁၇)
+062.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Oct/5.10.2017.mp3|ပုတၱမံသူပမသုတၱံ (၅.၁၀.၂၀၁၇)
+063.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Oct/4.10.2017.mp3|နာဂေရာပမသုတၱံ (၄.၁၀.၂၀၁၇)
+064.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Sep/24.9.2017.mp3|စိတ္ကိုဘယ္လိုဆံုးမလဲတရားေတာ္ (၂၄.၉.၂၀၁၇)
+065.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Sep/17.9.2017_5PM.mp3|အရဏ၀ိဘဂၤသုတၱန္ – ဘ၀ေနနည္းတရားေတာ္ (၁၇.၉.၂၀၁၇)
+066.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Sep/17.9.2017_2PM.mp3|ကႎသုေကာပမသုတၱန္တရားေတာ္ (၁၇.၉.၂၀၁၇)
+067.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Sep/17.9.2017_10AM.mp3|ကိုယ့္ကုိယ္ကိုေကာင္းသထက္ေကာင္းေအာင္ၾကိဳးစားပါ (၁၇.၉.၂၀၁၇)
+068.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Sep/16.9.2017_7PM.mp3|မာဂ႑ိယသုတၱန္ – ကာမႏွင့္ဘ၀တရားေတာ္ (၁၆.၉.၂၀၁၇)
+069.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Sep/16.9.2017_2PM.mp3|အာသီ၀ိေသာပမသုတၱန္ (၁၆.၉.၂၀၁၇)
+070.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Sep/14.9.2017.mp3|ဥပမာ(၃)မ်ိဳးတရားေတာ္ (၁၄.၉.၂၀၁၇)
+071.mp3|https://media.thitsarparamisociety.com/mp3/2018/UOttama%20ThitSarShweSi/281.mp3|ျမတ္ဗုဒၶ (သို႔) လမ္းခရီး၌ကၽြမ္းက်င္လိမၼာသူ (၁၁.၉.၂၀၁၇)
+072.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/Sep/10.9.2017.mp3|ဆင္ျခင္ရမည့္တရားမ်ား (၁၀.၉.၂၀၁၇)
+073.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/August/29.8.2017.mp3|ဥပုသ္သီလေပး တရားေတာ္ (၂၉.၈.၂၀၁၇)
+074.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/May/26.5.2017.mp3|အရွင္သာရိပုတၱရာမေထရ္ျမတ္အေၾကာင္း(၁) (၂၆.၅.၂၀၁၇)
+075.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/May/27.5.2017.mp3|အရွင္သာရိပုတၱရာမေထရ္ျမတ္အေၾကာင္း(၂) (၂၇.၅.၂၀၁၇)
+076.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/May/28.5.2017.mp3|အရွင္မဟာေမဂၢလန္မေထရ္ျမတ္အေၾကာင္း (၂၈.၅.၂၀၁၇)
+077.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/May/29.5.2017.mp3|အရွင္မဟာကႆပမေထရ္ျမတ္အေၾကာင္း (၂၉.၅.၂၀၁၇)
+078.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/May/30.5.2017.mp3|အရွင္အာနႏၵာမေထရ္ျမတ္အေၾကာင္း (၃၀.၅.၂၀၁၇)
+079.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/May/31.5.2017.mp3|အရွင္အႏုရုဒၶါမေထရ္ျမတ္အေၾကာင္း (၃၁.၅.၂၀၁၇)
+080.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/116.mp3|ဒါန တရားေတာ္
+081.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/117.mp3|သီလ တရားေတာ္
+082.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/118.mp3|ဘာဝနာ တရားေတာ္
+083.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/3DAY441THITSARSHWESI2017EDIT/MP3/290417PM2EDIT.mp3|ဗုဒၶါႏုႆတိဘဝနာ တရားေတာ္ (၂၉.၄.၂၀၁၇) ေန႔ခင္း (၂:၀၀) နာရီ
+084.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/3DAY441THITSARSHWESI2017EDIT/MP3/290417PM7EDIT.mp3|ပဟာတဗၺ တရားေတာ္ (၂၉.၄.၂၀၁၇) ည (၇:၀၀) နာရီ
+085.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/3DAY441THITSARSHWESI2017EDIT/MP3/300417AM10EDIT.mp3|ေမတၱာဘာဝနာ တရားေတာ္ (၃၀.၄.၂၀၁၇) နံနက္ (၁၀:၀၀) နာရီ
+086.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/3DAY441THITSARSHWESI2017EDIT/MP3/300417PM2EDIT.mp3|အသုဘ ဘာဝနာ တရားေတာ္ (၃၀.၄.၂၀၁၇) ေန႔ခင္း (၂:၀၀) နာရီ
+087.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/3DAY441THITSARSHWESI2017EDIT/MP3/300417PM7EDIT.mp3|ဘာေဝတဗၺ တရားေတာ္ (၃၀.၄.၂၀၁၇) ည (၇:၀၀) နာရီ
+088.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/3DAY441THITSARSHWESI2017EDIT/MP3/10517AM10EDIT.mp3|မရဏာႏုႆတိ ဘာဝနာ တရားေတာ္ (၁.၅.၂၀၁၇) နံနက္ (၁၀:၀၀) နာရီ
+089.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/3DAY441THITSARSHWESI2017EDIT/MP3/10517PM2EDIT.mp3|သတိပ႒ာန္ ဘာဝနာတရားေတာ္ (၁.၅.၂၀၁၇) ေန႔ခင္း (၂:၀၀) နာရီ
+090.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/singapore-3-10-2015/Thitsar-Lay-Par-1.mp3|သစၥာေလးပါး တရားေတာ္ (ဒုကၡသစၥာ) (၃.၁၀.၂၀၁၅)
+091.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/singapore-3-10-2015/Thitsar-Lay-Par-2.mp3|သစၥာေလးပါး တရားေတာ္ (သမုဒယသစၥာ) (၃.၁၀.၂၀၁၅)
+092.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/094.mp3|သတိပ႒ာန္ (၄)ပါး – စကၤာပူ
+093.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/096.mp3|ကၠဒၶိပါဒ္(၄)ပါး – စကၤာပူ
+094.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/100.mp3|မဂၢင္(၈)ပါး – စကၤာပူ
+095.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Parami-10-par/10.mp3|ဥေပကၡာပါရမီ (၃၁.၅.၂၀၁၆)
+096.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Parami-10-par/9.mp3|ေမတၱာပါရမီ (၃၀.၅.၂၀၁၆)
+097.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Parami-10-par/8.mp3|အဓိ႒ာန္ပါရမီ (၂၉.၅.၂၀၁၆)
+098.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Parami-10-par/7.mp3|သစၥာပါရမီ (၂၈.၅.၂၀၁၆)
+099.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Parami-10-par/6.mp3|ခႏၲီပါမီ (၂၇.၅.၂၀၁၆)
+100.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Parami-10-par/5.mp3|ဝီရိယပါရမီ (၂၆.၅.၂၀၁၆)
+101.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Parami-10-par/4.mp3|ပညာပါရမီ (၂၅.၅.၂၀၁၆)
+102.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Parami-10-par/3.mp3|ေနကၡမပါရမီ (၂၄.၅.၂၀၁၆)
+103.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Parami-10-par/2.mp3|သီလပါရမီ (၂၃.၅.၂၀၁၆)
+104.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Parami-10-par/1.mp3|ဒါနပါရမီ (၂၂.၅.၂၀၁၆)
+105.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Alote-Pay-tayartaw/111.mp3|ပထမေန႔ အလုပ္ေပးတရားေတာ္ – (၂၅.၁၂.၂၀၁၆)
+106.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Alote-Pay-tayartaw/01%2026-12-2016%20Aloatpay%201.mp3|ဒုတိယေန႔ အလုပ္ေပးတရားေတာ္ – (၂၆.၁၂.၂၀၁၆) 
+107.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Alote-Pay-tayartaw/02%2027-12-2016%20Aloatpay%202.mp3|တတိယေန႔ အလုပ္ေပးတရားေတာ္ – (၂၇.၁၂.၂၀၁၆)
+108.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Alote-Pay-tayartaw/03%2028-12-2016%20Aloatpay%203.mp3|စတုတၳေန႔ အလုပ္ေပးတရားေတာ္ -(၂၈.၁၂.၂၀၁၆)
+109.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Alote-Pay-tayartaw/04%2029-12-2016%20Aloatpay%204.mp3|ပဥၥမေန႔ အလုပ္ေပးတရားေတာ္ – (၂၉.၁၂.၂၀၁၆)
+110.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Alote-Pay-tayartaw/05%2030-12-2016%20Aloatpay%205.mp3|ဆ႒မေေန႔ အလုပ္ေပးတရားေတာ္ – (၃၀.၁၂.၂၀၁၆) 
+111.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2016-SG/02_07082016.mp3|အလုပ္ေပးတရားေတာ္ (၂၀၁၆ စကၤာပူ)
+112.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/thitgyan-9.mp3|အလုပ္ေပးတရားေတာ္ (၂၀၁၆ သၾကၤန္)
+113.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/135.mp3|တစ္ေၾကာင္းတည္းေသာလမ္း(၁)
+114.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/136.mp3|တစ္ေၾကာင္းတည္းေသာလမ္း(၂)
+115.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/137.mp3|တစ္ေၾကာင္းတည္းေသာလမ္း(၃)
+116.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/138.mp3|တစ္ေၾကာင္းတည္းေသာလမ္း(၄)
+117.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/139.mp3|တစ္ေၾကာင္းတည္းေသာလမ္း(၅)
+118.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/141.mp3|မဂၤလာတရားေတာ္ (၁)
+119.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/142.mp3|မဂၤလာတရားေတာ္ (၂)
+120.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/143.mp3|မဂၤလာတရားေတာ္ (၃)
+121.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/144.mp3|မဂၤလာတရားေတာ္ (၄)
+122.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/145.mp3|မဂၤလာတရားေတာ္ (၅)
+123.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/146.mp3|မဂၤလာတရားေတာ္ (၆)
+124.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/147.mp3|မဂၤလာတရားေတာ္ (၇)
+125.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/148.mp3|မဂၤလာတရားေတာ္ (၈)
+126.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/149.mp3|မဂၤလာတရားေတာ္ (၉)
+127.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/150.mp3|မဂၤလာတရားေတာ္ (၁၀)
+128.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/14-7-2015.mp3|သာသနာေတာ္၏ ရတနာမ်ား – ၁ (၁၄.၇.၂၀၁၅)
+129.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/15-7-2015.mp3|သာသနာေတာ္၏ ရတနာမ်ား – ၂ (၁၅.၇.၂၀၁၅)
+130.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/16-7-2015.mp3|သာသနာေတာ္၏ ရတနာမ်ား – ၃ (၁၆.၇.၂၀၁၅)
+131.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2016-SG/1A_06082016.mp3|ကလ်ာဏပုထုစဥ္ အပိုင္း(၁)
+132.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2016-SG/01_07082016.mp3|ကလ်ာဏပုထုစဥ္ အပိုင္း(၂)
+133.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2016-SG/03_07082016.mp3|ကလ်ာဏပုထုစဥ္ အပိုင္း(၃)
+134.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2016-SG/01_09082016.mp3|ကလ်ာဏပုထုစဥ္ အပိုင္း(၄)
+135.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2016-SG/02_09082016.mp3|ကလ်ာဏပုထုစဥ္ အပိုင္း(၅)
+136.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/164.mp3|သူေတာ္ေကာင္းဆုိသည္မွာ (၁)
+137.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/190.mp3|သူေတာ္ေကာင္းဆုိသည္မွာ (၂)
+138.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/009.mp3|သူေတာ္ေကာင္းတုိ႔၏သေဘာထား (၁)
+139.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/082.mp3|သူေတာ္ေကာင္းတုိ႔သေဘာထား (၂)
+140.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/088.mp3|သူေတာ္ေကာင္းတုိ႔သေဘာထား (၃)
+141.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/133.mp3|သူေတာ္ေကာင္းဥစၥာ(၇)ပါး
+142.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/April/12.4.2017.mp3|(၁၂.၄.၂၀၁၇) ေန႔တြင္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္
+143.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/April/13.4.2017.mp3|(၁၃.၄.၂၀၁၇) ေန႔တြင္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္
+144.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/April/14.4.2017.mp3|(၁၄.၄.၂၀၁၇) ေန႔တြင္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္
+145.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/April/15.4.2017.mp3|(၁၅.၄.၂၀၁၇) ေန႔တြင္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္
+146.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/April/16.4.2017.mp3|(၁၆.၄.၂၀၁၇) ေန႔တြင္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္
+147.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/April/17.4.2017.mp3|(၁၇.၄.၂၀၁၇) ေန႔တြင္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္
+148.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/April/18.4.2017.mp3|(၁၈.၄.၂၀၁၇) ေန႔တြင္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္
+149.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2017/April/19.4.2017.mp3|(၁၉.၄.၂၀၁၇) ေန႔တြင္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္
+150.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/thitgyan-1.mp3|ပထမေန႔  တရားေတာ္
+151.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/thitgyan-2.mp3|ဒုတိယေန႔ တရားေတာ္
+152.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/thitgyan-3.mp3|တတိယေန႔ တရားေတာ္
+153.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/thitgyan-4.mp3|စတုတၳေန႔ တရားေတာ္
+154.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/thitgyan-5.mp3|ပဥၥမေန႔ တရားေတာ္
+155.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/thitgyan-6.mp3|ဆ႒မေန႔ တရားေတာ္
+156.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/thitgyan-7.mp3|သတၱမေန႔ တရားေတာ္
+157.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/thitgyan-8.mp3|သတၱမေန႔ ႏႈတ္ဆက္ တရားေတာ္
+158.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/129.mp3|ကံသုံးပါးကုိျဖဴစင္ေအာင္ႀကိဳးစားပါ
+159.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/NO142/01%20A%202014%2012/20140224%20KanHnaZat%20ZayYaWaDi.mp3|ကဏဌာဇာတ္ (၂၄.၂.၂၀၁၄)
+160.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/6-4-2016.mp3|ကိုယ့္စိတ္ကိုစစ္ေဆးပါ (၆.၄.၂၀၁၆)
+161.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/166.mp3|ကုသုိလ္ႏွင့္အကုသုိလ္
+162.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/31-8-2015.mp3|ခြန္အားေလးမ်ဳိး (၃၁.၈.၂၀၁၅)
+163.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/049.mp3|ေကာင္းတာေတြထက္ေကာင္းတဲ့အရာ
+164.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/161.mp3|ေကာင္းမႈေဆာင္
+165.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/18-2-2016.mp3|ေကာင္းျမတ္ေသာ ေနျခင္းေလးမ်ဳိး (၁၈.၂.၂၀၁၆)
+166.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/007.mp3|ေကာင္းေသာည
+167.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/155.mp3|ေကာင္းေသာတရားဆုိသည္မွာ
+168.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/196.mp3|ေက်ာင္းေဆာင္အလွဴ
+169.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/199.mp3|ေက်ာင္းေဆာင္ေရစက္ခ်
+170.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/039.mp3|ႀကီးပြားေၾကာင္းတရား(၇)ပါး
+171.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/064.mp3|ခုေရာေနာင္ပါခ်မ္းသာေစဖုိ႔
+172.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/171.mp3|ခ်စ္ျခင္းမုန္းျခင္းလြတ္ေျမာက္ျခင္း
+173.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/055.mp3|ခ်မ္းသာခ်င္ရင္စိတ္ကုိျပင္
+174.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/028.mp3|ခ်မ္းသာေၾကာင္းတရား(၁၂)ပါး
+175.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/026.mp3|ခႏၶာေျမအုိး ကုသုိလ္ေရႊအုိး
+176.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/21-6-2016.mp3|ခႏၲီ (သို႔မဟုတ္) ျမင့္ျမတ္ေသာ အက်င့္ (၂၁.၆.၂၀၁၆)
+177.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/035.mp3|ေခါင္းေဆာင္ႀကီးႏွစ္ဦး
+178.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/02%20A%202012%208/A%2020121103%20ChaungNayThawYanThu%20ANuThaYa%20KyaikHto.mp3|ေျခာင္းေနေသာ ရန္သူ
+179.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/132.mp3|ငါးပါး၌တည္ေလးပါးကုိပြား
+180.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/036.mp3|စကားတုိ႔၏အစြမ္း
+181.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/184.mp3|စစ္မွန္ေသာ အားကုိးရာ
+182.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/033.mp3|စြန္႔နိင္သေလာက္ခ်မ္းသာမည္
+183.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/104.mp3|စိတၱသူႀကြယ္
+184.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/158.mp3|စိတ္၏ရန္သူ
+185.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2016-SG/03_09082016.mp3|စိတ္၏အစြမ္းႏွင့္သတိ၏အစြမ္း
+186.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/06%20A%204/A%20SateToeEiThaBaw.mp3|စိတ္တို႔၏ သေဘာထား
+187.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/037.mp3|စိတ္တုိ႔၏အစြမ္း
+188.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/038.mp3|စိတ္ထားလွမွျမတ္နိးႀကသည္
+189.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/154.mp3|စိတ္မနာေအာင္ေနတက္သူ
+190.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/107.mp3|စိတ္သာလွ်င္ပဓာန
+191.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/054.mp3|စိတ္ေကာင္းထားမွခ်မ္းသာရ
+192.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/050.mp3|ေစာင့္စည္းျခင္းသည္ေကာင္း၏
+193.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2016-SG/04_07082016.mp3|ဆင္းရဲအစခ်စ္ျခင္းက
+194.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/197.mp3|ဆြမ္းအႏုေမာဒနာ
+195.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/18.mp3|ဆိုးသည္ျဖစ္ေစ ေကာင္းသည္ျဖစ္ေစ (ရန္ကုန္)
+196.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/153.mp3|ဆီခြက္(သုိ႔မဟုတ္)ကာယဂတာသတိ
+197.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/113.mp3|ဆုတ္ယုတ္ေၾကာင္းႏွင့္ႀကီးပြားေၾကာင္း
+198.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/018.mp3|ဆုိးသည္ျဖစ္ေစေကာင္းသည္ျဖစ္ေစ
+199.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/075.mp3|ေစ်းသည္
+200.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/053.mp3|ညီညြတ္မွခ်မ္းသာမည္
+201.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/112.mp3|တစ္ခုေသာတရား၏ဂုဏ္ေက်းဇူးမ်ား
+202.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/172.mp3|တစ္ခုေသာတရားကုိေစာင့္ေရွာက္ပါ
+203.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/021.mp3|တန္းဖုိးရွိတဲ့လူ
+204.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/131.mp3|တန္းဖုိးရွိေသာတရားႏွင့္တန္းဖုိးမရွိေသာတရား
+205.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/187.mp3|တရားအက်ဥ္း(၄)မ်ိဳး
+206.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/121.mp3|ေတာင္ထိပ္ေပၚကလူ
+207.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/21-11-2015.mp3|ဒီတရားေတြကို ေျပာေပးပါ (၂၁.၁၁.၂၀၁၅)
+208.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/027.mp3|ဒီဘက္ကမ္းႏွင့္ဟုိဘက္ကမ္း
+209.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/084.mp3|ေဒါသပယ္ေၾကာင္းနည္းလမ္းေကာင္း
+210.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/179.mp3|ေဒါသမီးႏွင့္ေမတၱာေရ
+211.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/10-6-2015.mp3|ဓနဥၨာနိသုတၱန္ (၁၀.၆.၂၀၁၅)
+212.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/023.mp3|ဓမၼစြမ္းရည္
+213.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/060.mp3|နခသီခသုတၱဳန္
+214.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/17.mp3|နိဗၺာန္ခရီးႏွင့္ အတားဆီးမ်ား (ရန္ကုန္)
+215.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/076.mp3|နႏၵေကာ၀ါဒသုတၱန္
+216.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/052.mp3|ေနာင္တေ၀း၍ေအးပါေစ
+217.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/173.mp3|ပညာဆုိတာရတနာပါ
+218.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/163.mp3|ပညာရွိဆုိသည္မွာ (၁)
+219.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/189.mp3|ပညာရွိဆုိသည္မွာ (၂)
+220.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/6-2015/19-6-2015.mp3|ပညာရွိတို႔၏ အရည္အခ်င္း (၃)မ်ဳိး (၁၉.၆.၂၀၁၅)
+221.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/075.mp3|ပါပဏိကသုတၱန္ (ေစ်းသည္)
+222.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/20-6-2016.mp3|ပါရမီ (သို႔မဟုတ္) ျမင့္ျမတ္ေသာ လုပ္ငန္း (၂၀.၆.၂၀၁၆)
+223.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/157.mp3|ပုေဏၰာ၀ါဒသုတၱန္
+224.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/125.mp3|ပူေသာမီးကုိၿငိမ္း၍လင္းေသာမီးကုိရွာပါ
+225.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/No-33/DVD%20Title%204.mp3|ေျပာမယံု ႀကံဳမွသိ (၁၆.၉.၂၀၁၄) မံုရြာၿမိဳ႕
+226.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/159.mp3|ေျပာမယုံ ႀကံဳမွသိ
+227.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/031.mp3|ဗကျဗဟၼာ၏ အတိတ္ဇာတ္လမ္း
+228.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/6-2015/16-8-2015.mp3|ဗလသုတၱန္ (၁၆.၈.၂၀၁၅)
+229.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/025.mp3|မ်ားစြားအက်ိဳးေက်းဇူးတရား(၄)ပါးတရားေတာ္ (ဗဟုကာရ သုတၱံ )
+230.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/08%20B%202012%208/B%2020120722%20BuddhaCheeMoonKhanHtikeThu%20KyaukSe.mp3|ဗုဒၶခ်ီးမြန္းခံထိုက္သူ
+231.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/09%20B%202011%205/B%2020110308%20BozZin%20Taunggoo.mp3|ေဗာဇၥ်င္သုတ္ (ေတာင္ငူ)
+232.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/192.mp3|ၿငိမ္းေအးစြာေနနည္းမ်ား
+233.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/057.mp3|ဘယ္လုိတုံ႔ျပန္ႀကမွာလဲ
+234.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/118.mp3|ဘာ၀နာ
+235.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/128.mp3|ဘာ၀နာသုတၱန္
+236.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/074.mp3|ဘာကုိရွာေနႀကတာလဲ
+237.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/128.mp3|ဘာဝနာသုတၱန္
+238.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2016-SG/1B_06082016.mp3|ဘုရားသာသနာဆိုသည္မွာ
+239.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/030.mp3|ဘုရားေပးေသာဥပမာမ်ား (၁)
+240.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/089.mp3|ဘုရားေပးေသာဥပမာမ်ား (၂)
+241.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/101.mp3|ဘုရားႏွင့္နီးသူ
+242.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/10-7-2016.mp3|ေဘးကင္းရာ နယ္ေျမ (၁၀.၇.၂၀၁၆)
+243.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/069.mp3|ေဘးမျဖစ္ေအာင္ေနပါ
+244.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/168.mp3|ေဘးမျဖစ္ေအာင္ေနပါ (ျမစ္ငယ္)
+245.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/NO142/01%20A%202014%2012/20140429%20MinGaLar%206%20YanKin.mp3|မဂၤသုတၱန္ (မဂၤလာတရားေတာ္) 
+246.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/111.mp3|မထူးဇာတ္ခင္းသူမ်ား
+247.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/056.mp3|မၿငိမ္းခ်မ္းတာဘာေႀကာင့္လည္း
+248.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/174.mp3|မရဏႆတိကထာ
+249.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/175.mp3|မဟာဒုကၡကၡႏၶသုတၱန္
+250.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/134.mp3|မဟာရာဟုေလာ၀ါဒသုတၱန္း
+251.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/085.mp3|မဟာသုတေသာမဇာတ္
+252.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/020.mp3|မဟာသုဒႆနသုတၱံ
+253.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/103.mp3|မာဂ႑ိယသုတၱန္
+254.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/077.mp3|မိဘေက်းဇူးအထူးသိပါ
+255.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/123.mp3|မီး(၇)မ်ိဳး
+256.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/160.mp3|မေကာင္းမႈေရွာင္
+257.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/058.mp3|မွန္ႀကည့့္လုိက္ပါဦး
+258.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/029.mp3|ယဥ္ေက်းေသာစိတ္
+259.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/162.mp3|ျဖဴေအာင္စိတ္ကုိထား
+260.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/115.mp3|ျမင့္ျမတ္သူတုိ႔၏အေတြး
+261.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/singapore-3-10-2015/1-3.mp3|ျမတ္ဗုဒၶ၏ အဆံုးအမႏွင့္ သတိ၏ အစြမ္း (၃.၁၀.၂၀၁၅)
+262.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/043.mp3|ျမတ္ဗုဒၶ၏၀ါဒႏွင့္ခ်ီးမြမ္းျခင္း(၂)မ်ိဳး
+263.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/044.mp3|ျမတ္ဘုရား၏စကား(၃)ခြန္း
+264.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/167.mp3|ေမတၱာရွိ၍သစၥာသိပါ
+265.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/198.mp3|ေမြးေန႔အလွဴ
+266.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/070.mp3|ေမဃိယသုတၱန္
+267.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/13.mp3|ရတနာထိုက္ေသာ စကား(၄)ခြန္း (ေမၿမိဳ႕)
+268.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/20091202%20YadanarHtikeThawSaGar4Khun%20TaungTwinGyi.mp3|ရတနာထိုက္ေသာ စကားေလးခြန္း (ေတာင္တြင္းႀကီး)
+269.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/20091225%20YadanarHtikeThawSagar4Khun%20ShwePyiThar.mp3|ရတနာထိုက္ေသာ စကားေလးခြန္း (ေရႊျပည္သာ)
+270.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/57.mp3|ရတနာထို္က္ေသာ စကား(၄)ခြန္း (လမ္းမေတာ္)
+271.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/034.mp3|ရန္သူ႕အႀကိဳက္လုိက္ႀကမွာလား
+272.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/140.mp3|ရဟန္းပ်င္းႏွင့္ ရြဲကုန္သည္
+273.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/185.mp3|ရူပနႏၵာေထရီ
+274.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/170.mp3|ရဲရင့္ေသာျမတ္ဘုရား၏အံ့ဖြယ္ေလးပါး
+275.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/059.mp3|ရႏုိင္ခဲေသာတရားမ်ား
+276.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/08%20B%202012%208/B%2020120321%20ShinSuLaPan%20North%20Okkalapa.mp3|ရွင္စူဠပန္
+277.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/09%20B%202011%205/B%2020111124%20ShinRaHtaParLa%20North%20Okkalapa.mp3|ရွင္ရဠပါလ
+278.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/040.mp3|ရွင္ရာဟုလာ
+279.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/019.mp3|ရွိဖုိ႔ထက္သိဖုိ႔ကအေရးႀကီးသည္
+280.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/152.mp3|ေရေသာက္ျမစ္ 
+281.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/180.mp3|ေရွာင္လႊဲ၍မရေသာအရာ
+282.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/No-33/DVD%20Title%201.mp3|လံု႔လဟူသည္ (၁၄.၉.၂၀၁၄) မံုရြာၿမိဳ႕
+283.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/060.mp3|လက္သည္းေပၚမွေျမမုန္႔မ်ား
+284.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/12-6-2015.mp3|လြတ္ေျမာက္မွ ခ်မ္းသာရ (၁၂.၆.၂၀၁၅)
+285.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/061.mp3|လြန္ကဲေသာတရားမ်ား
+286.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/156.mp3|လုံးလဟူသည္
+287.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/188.mp3|လူဆင္းရဲႏွင့္လူခ်မ္းသာ
+288.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/182.mp3|လူမုိက္ႏွင့္ပညာရွိ
+289.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/079.mp3|လႊ – ဥပမာ (ဇမၺဴသီရိ )
+290.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/03%20A%202011%2039/A%2020111123%20LayParChanTharYaAungShar%20MaYanGone.mp3|ေလးပါးခ်မ္းသာရေအာင္ရွာ (၁)
+291.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/08%20B%202012%208/B%2020120829%204ParChanTharYaAungShar%20TharZi.mp3|ေလးပါးခ်မ္းသာရေအာင္ရွာ (၂)
+292.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/071.mp3|ေလာကကုိတင့္တယ္ေစသူမ်ား
+293.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/102.mp3|ေလာကဓံတရားေတာ္
+294.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/015.mp3|ေလာဘသေဘာႏွင့္ေကာင္းမွုအက်ိဳး
+295.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/062.mp3|၀ိပလႅာသသုတၱန္
+296.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/022.mp3|၀ု႒ိသုတၱံတရားေတာ္
+297.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/048.mp3|ေ၀လာမသုတၱံ
+298.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/20-4-2015.mp3|သံသရာခရီးသြား လမ္းမမွားဖို႔လိုသည္ (၂၀.၄.၂၀၁၅)
+299.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/056.mp3|သကၠပညာ့သုတၱန္
+300.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/126.mp3|သခၤါရတရား
+301.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/22-4-2015.mp3|သင္မွတတ္မည္ က်င့္မွျမတ္မည္ (၂၂.၄.၂၀၁၅)
+302.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/20110906%20Parami%204.mp3|သစၥာ ႏွင့္ အဓိဌာန္ပါရမီ (၄)
+303.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/080.mp3|သစၥာသိဘုိ႔အေရးႀကီးဆုံံး
+304.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/081.mp3|သစၥာေလးပါး
+305.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/186.mp3|သတိ(သုိ႔)စိတ္၏အေစာင့္
+306.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/20090902%20ThaDiNeltPyawSateKoSauntLutAungYone.mp3|သတိနဲ႔ေျပာ စိတ္ကိုေစာင့္ လြတ္ေအာင္ရံုး တရားေတာ္
+307.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/21-4-2015.mp3|သတိပ႒ာန္ (သို႔မဟုတ္) တစ္ေၾကာင္းတည္းေသာလမ္း (၂၁.၄.၂၀၁၅)
+308.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/032.mp3|သတိပ႒ာန္ဂုဏ္ရည္
+309.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/010.mp3|သတိႏွင့္ေပ်ာ္ စိတ္ကုိေစာင့္ လြတ္ေအာင္ရုန္း
+310.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/016.mp3|သန္႔ရွင္းေသာစိတ္
+311.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/19-6-2016.mp3|သမၼာဒိ႒ိ (သို႔မဟုတ္) မွန္ကန္ေသာ အျမင္ (၁၉.၆.၂၀၁၆)
+312.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/063.mp3|သမုဒၵရာမ်ားကုိကူးၿပီးသူ
+313.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/200.mp3|သိမ္ေရစက္ခ်
+314.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/117.mp3|သီလ
+315.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/011.mp3|သီဟနာဒသုတၱံ
+316.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Z%2020090402%20ThuKha12Par%20AungLan.mp3|သုခ (၁၂)ပါး (ေအာင္လံ)
+317.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/006.mp3|သူ႕အေၾကာင္း ကုိယ့္အေၾကာင္း
+318.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/073.mp3|ေသခ်ာေသာလမ္းကုိေလွ်ာက္ပါ
+319.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/22-6-2016.mp3|ေသျခင္း (သို႔မဟုတ္) အၿမဲမျပတ္ ေအာက္ေမ့အပ္ေသာ အရာ (၂၂.၆.၂၀၁၆)
+320.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/124.mp3|ေသာတပန္ဂုဏ္ရည္
+321.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/181.mp3|အကာအကြယ္အေစာင့္အေရွာက္
+322.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/176.mp3|အက်ိဳးမဲ့ျခင္းႏွင့္ အက်ိဳးရွိျခင္း၏အေၾကာင္းတရားမ်ား
+323.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/193.mp3|အက်ိဳးမ်ားေသာ သတိ(၁၀)မ်ိဳး
+324.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/105.mp3|အခြင့္သာတုန္းလြတ္ေအာင္ရုန္း
+325.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/08%20B%202012%208/B%2020121130%20AKhuYawNaungParChanTharSayPhoe%20MaYanGone.mp3|အခုေရာ ေနာင္ပါ ခ်မ္းသာေစဖို႔
+326.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/177.mp3|အဂၢိသုတၱန္
+327.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/114.mp3|အစြမ္းထက္ေသာအေတြးမ်ား
+328.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/130.mp3|အဆုံးမရွိေသာရွာေဖြျခင္းမ်ား
+329.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/014.mp3|အဆုိးဆုံးရန္သူႏွင့္အေကာင္းဆုံးမိတ္ေဆြ (၁)
+330.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/087.mp3|အဆုိးဆုံးရန္သူႏွင့္အေကာင္းဆုံးမိတ္ေဆြ (၂)
+331.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/091.mp3|အဆုိးဆုံးရန္သူႏွင့္အေကာင္းဆုံးမိတ္ေဆြ (၃)
+332.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/127.mp3|အတြင္းအျပင္
+333.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/045.mp3|အနာထပိဏ္ႏွင့္ကံတရား
+334.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/165.mp3|အပူဆုံးမီးႏွင့္အႀကီးဆုံးအျပစ္
+335.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/065.mp3|အဘိဏၰသုတၱန္
+336.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/29-6-2016.mp3|အျမတ္ဆံုး ကုသိုလ္ (၂၉.၆.၂၀၁၆)
+337.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/057.mp3|အျမတ္ဆံုး တရားအလွဴ
+338.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/119.mp3|အျမတ္ဆံုးေသာ ရွင္သန္ျခင္း
+339.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/120.mp3|အျမတ္ဆုံး(၄)ပါး
+340.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/122.mp3|အျမတ္ဆုံး(၆)ပါး
+341.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/072.mp3|အျမတ္ဆုံးစကားႏွင့္အျမတ္ဆုံးေအာင္နိင့့္ျခင္း
+342.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/169.mp3|အျမတ္ဆုံးေလးပါး
+343.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/119.mp3|အျမတ္ဆုံးေသာရွင္သန္ျခင္း
+344.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/083.mp3|အရုိးဆုံးႏွင့္အေကာင္းဆုံးတရား
+345.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/042.mp3|အရွင္စူဠပန္
+346.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/041.mp3|အရွင္ရ႒ပါလ
+347.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/012.mp3|အလြယ္မက္ရင္ အခက္ႀကံဳမယ္
+348.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/20110124%20AThiNeltNayTarAKaungSone%20SouthOkkalapa.mp3|အသိနဲ႔ေနတာ အေကာင္းဆံုး
+349.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/066.mp3|အသိဥာဏ္၏ဂုဏ္ေက်းဇူး
+350.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/6-2015/21-6-2015.mp3|အားကိုးရာအမွတ္ သတိပ႒ာန္ (၂၁.၆.၂၀၁၅)
+351.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/109.mp3|အားကုိးရာကိုဘယ္လုိရွာမလဲ
+352.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/008.mp3|အားကုိးရာလားရန္သူလား (ရန္ကုန္)
+353.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/090.mp3|အားကုိးရာလားရန္သူလား (ဇလြန္)
+354.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/110.mp3|အားရွိမွေဘးလြတ္မည္
+355.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/151.mp3|အားလုံးကုိလႊတ္လုိက္ပါ
+356.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/066.mp3|အားေပးစကား
+357.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/183.mp3|အာရကၡသုတၱန္
+358.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/078.mp3|အာသ၀သုတၱန္
+359.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/12%20C%203/C%20ArThaWaPalKyaungNeeLanKaungMyar%20ThanLyin.mp3|အာသဝပယ္ေၾကာင္းနည္းလမ္းေကာင္းမ်ား
+360.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/191.mp3|အုိသည့္တုိင္ေအာင္ေကာင္း
+361.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/108.mp3|အေကာင္းဆုံးေဆး အေကာင္းဆုံးေရ
+362.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/046.mp3|အေမးေလးေထြအေျဖေလးပါး (၁)
+363.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/093.mp3|အေမးေလးေထြအေျဖေလးပါး (၂)
+364.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/067.mp3|အေျခအေနမွန္ကုိမေမ့ပါနဲ႔
+365.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/6-2015/20-6-2015.mp3|အေသေကာင္းဖို႔ အေသလြတ္ဖို႔ (၂၀.၆.၂၀၁၅)
+366.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/2015_2016/11-6-2015.mp3|အေသေကာင္းဖို႔ႏွင့္ အေသလြတ္ဖို႔ (၁၁.၆.၂၀၁၅)
+367.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/11%20B%203/B%20ANuMarNaSutta%2020121216%20LanMaDaw.mp3|အႏုမာန သုတၱန္ (မံုရြာ)
+368.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/058.mp3|အႏုမာန သုတၱန္ (ရန္ကုန္)
+369.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/068.mp3|အႏုသယ(သုိ႔မဟုတ္)ေခ်ာင္းေနေသာရန္သူ
+370.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/3DAY441THITSARSHWESI2017EDIT/MP3/RADIOEDIT.mp3|အႏုေမာဒနာတရား (သစၥာပါရမီ online ေရဒီယို (၂) ျပည့္)
+371.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/3DAY441THITSARSHWESI2017EDIT/MP3/THITSARSHWESISAYARDAW.mp3|အႏုေမာဒနာတရား (၃-ရက္တရားစခန္း -စကၤာပူ စခန္းသိမ္းပြဲ )
+372.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/194.mp3|အႏုေမာဒနာ
+373.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/195.mp3|အႏုေမာဒနာ
+374.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/03%20A%202011%2039/A%2020110129%20ANuMawDaNar%20PaBeDan.mp3|အႏုေမာဒနာ (ပန္ပဲတန္း)
+375.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayartaw%20%283%29/03%20A%202011%2039/A%2020111127%20ANuMawDaNar%20Taunggoo.mp3|အႏုေမာဒနာ (ေတာင္ငူ)
+376.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/106.mp3|အႏွစ္(၃)ပါး
+377.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/NO142/01%20A%202014%2012/20140105%20AHnit3Par%20Insein.mp3|အႏွစ္သံုးပါး (၅.၁.၂၀၁၄)
+378.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/178.mp3|အႏွစ္သုံးပါးႏွင့္ဆႏၵေျခာက္ပါး
+379.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/Tayarwaw%20%282%29/P2/059.mp3|ဣထဓမၼသုတၱန္
+380.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/024.mp3|ဥပမာ(၉)မ်ိဳး
+381.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/051.mp3|ဧည့္သည္ႏွင့္တူေသာအရာမ်ား (၁)
+382.mp3|https://media.thitsarparamisociety.com/mp3/UOttama%20ThitSarShweSi/200/092.mp3|ဧည့္သည္ႏွင့္တူေသာအရာမ်ား (၂)
