@@ -135,7 +135,7 @@ def main():
             mp3s.append(line)
             
     """    
-    convert_manager = ConvertManager(mp3s, threads)
+    convert_manager = ConvertManager(reversed(mp3s), threads)
     convert_manager.begin_convert()
     
    

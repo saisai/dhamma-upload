@@ -17,10 +17,10 @@ for m in range(0, 257):
     get_new.append('{}။'.format(aa))
 
 #print(get_new)
-titles = [title.strip('\n\n\n') for title in open('new_urltext_upload_edit.txt')]
+titles = [title.strip('\n\n\n') for title in open('_title.txt')]
 
 with open('title.txt', 'w') as f:
-    counter = 2507
+    counter = 571
     for title in titles:
         """
         try:

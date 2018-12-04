@@ -31,7 +31,7 @@ source = "\nsource from https://www.facebook.com/thitsarshwesiahshinOttama/"
 
 
 results = []    
-count = 571
+count = 1
 playlist = "သစၥာေရႊစည္ဆရာေတာ္ အရွင္ဥတၱမ (စစ္ကိုင္ မင္းဝံေတာင္တန္း)  ေဟာႀကားေတာ္မူေသာတရားေတာ္မ်ား"
 for title, description in zip(titles, descriptions):
     #print('{}'.format(title))
@@ -46,6 +46,7 @@ for title, description in zip(titles, descriptions):
     #if len('{}။{}'.format(change(counter), title.split('။')[1])) > 100:
     if len(title) > 100:
         dict_title = {
+                     "priority" : count,
                      "playlist" : playlist,
                      "title": "{}".format(title),
                       "description": "{}\n{}{}".format(description_title, description_zero, source), 
@@ -57,6 +58,7 @@ for title, description in zip(titles, descriptions):
     else:
         print(len("{}\n{}{}{}".format(description_title, description.split('|')[1], description_zero, source)))
         dict_title = {
+                      "priority" : count,
                       "playlist" : playlist,
                      "title": "{}".format(title),
                       "description": "{}\n{}{}".format(description_title, description.split('|')[1], source),  
@@ -66,7 +68,7 @@ for title, description in zip(titles, descriptions):
                     #"description": "{}\n{}{}{}".format(description_title, description.split('|')[1], description_zero, source), 
 
         results.append(dict_title)
-    #count += 1
+    count += 1
     
 data = json.dumps(results, indent=4)        
 with open('raw_json_title.txt', encoding='utf-8', mode='w') as f:
