@@ -1,0 +1,33 @@
+228 52:20
+ AUNG SE PINE SE
+Music composition
+52:25 - 54:19
+
+
+312
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+Sound recording
+2:26 - 5:48
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries 
+    
+341    
+ A-Cin-De-Ya - Mar Mar Aye
+Sound recording
+55:13 - 57:14    
+
+408
+ ZAY YAR SHWE MYAY
+Music composition
+43:53 - 45:59
+    
+ffmpeg -i 228.mp3 -ss 00:00:00 -codec copy -t 00:52:20 edit/228.mp3
+ffmpeg -i 312.mp3 -ss 00:06:00 -codec copy edit/312.mp3
+ffmpeg -i 341.mp4 -ss 00:00:00 -codec copy -t 00:55:10 edit/341.mp4
+ffmpeg -i 408.mp4 -ss 00:00:00 -codec copy -t 00:30:43 edit/408.mp4
+
