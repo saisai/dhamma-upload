@@ -1,0 +1,14 @@
+011
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (35) 1 - หล่า เซ่ ผ่อง
+Sound recording
+5:57 - 8:20 
+
+
+003
+ Buddha Myittar Pan - Soe Sandar Htun
+Sound recording
+0:00 - 4:46
+
+
+ffmpeg -i 011.mp4 -ss 00:09:00 -codec copy edit/011.mp4
+ffmpeg -i 003.mp4 -ss 00:05:00 -codec copy edit/003.mp4
