@@ -1,0 +1,134 @@
+pkg update 
+pkg upgrade 
+
+pkg install openssh python python-dev g++ curl rsync vim vim-python
+pkg install termux-auth
+
+
+pip install youtube-dl pydub
+
+
+pip install --upgrade pip ipython
+
+
+pip install --upgrade google-api-python-client oauth2client progressbar2
+
+passwd u0_a97
+
+sshd 
+
+ssh u0_a97@192.168.1.38 -p 8022
+
+sdcard
+termux-setup-storage
+
+Termux keyboard
+Volume Up + Q
+
+https://wiki.termux.com/wiki/Remote_Access
+https://android.stackexchange.com/questions/196081/how-to-type-control-on-termux
+https://wiki.termux.com/wiki/Remote_Access
+https://wiki.termux.com/wiki/Touch_Keyboard
+
+
+DATE=`date +%Y-%m-%d`
+DATE=`date '+%Y-%m-%d %H:%M:%S'`
+https://stackoverflow.com/questions/1401482/yyyy-mm-dd-format-date-in-shell-script
+
+
+https://unix.stackexchange.com/questions/52330/how-to-redirect-output-to-a-file-from-within-cron
+*/1 * * * * /home/ranveer/vimbackup.sh >> /home/ranveer/vimbackup.log 2>&1
+
+
+cat << EOF > ~/.client_secrets.json
+{"installed":{"client_id":"232192318516-b2r1dns5gpcci1qse36q4l6qf8ik9o6c.apps.googleusercontent.com","project_id":"youtube-upload-224211","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://www.googleapis.com/oauth2/v3/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"S-mbm1tEPPB3ebzGe1Jsmw2S","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}
+
+EOF
+
+
+/data/data/com.termux/files/usr/tmp/tmpq_x7ucmn
+
+pkg install g++
+The following additional packages will be installed:
+  babl binutils boost c-ares cmake coreutils fftw file freetype freetype-dev fribidi harfbuzz harfbuzz-dev harfbuzz-icu jsoncpp
+  less libandroid-shmem libandroid-support-dev libarchive libassuan libbsd libcaca libcairo libcairo-dev libcroco libexpat
+  libflac libicu libidn libidn2 libidn2-dev libjasper libksba libllvm libltdl liblua libmad libmnl libmp3lame libmpfr libnettle
+  libnettle-dev libnpth libopus libpixman libpixman-dev libprotobuf libpulseaudio libsndfile libsoup libsoxr libssh2 libtiff
+  libuuid libuv libvorbis libvpx libwebp libx264 libx265 libxml2 libxml2-dev libyaml littlecms make man ndk-stl ndk-sysroot
+  openal-soft p7zip pcre pcre-dev pcre2 perl php pinentry poppler protobuf python2 resolv-conf rhash ruby sox teckit texlive
+  texlive-bin tsu unrar utf8cpp weechat xvidcore xz-utils
+The following NEW packages will be installed:
+  ack-grep angband apksigner argp babl binutils binutils-gold blogc boost brogue bs1770gain c-ares cgdb clang cmake
+  cmake-curses-gui coreutils ctags dialog dirmngr doxygen dpkg-dev erlang ffmpeg ffmpeg-dev fftw figlet file fontconfig
+  fontconfig-dev fontconfig-utils freetype freetype-dev fribidi gawk gawk-dev gbt gcal gdb gdb-dev gdbm-dev gdk-pixbuf
+  gdk-pixbuf-dev gegl gegl-dev getconf getmail gettext gettext-dev ghostscript gifsicle git git-crypt glib glib-bin glib-dev
+  global glulxe gmic gnuchess gnugo gnuit gnupg gnuplot gnushogi gnutls golang golang-doc googletest gperf gpgme gpgme-dev
+  gpsbabel graphicsmagick graphicsmagick++ graphicsmagick++-dev graphicsmagick-dev graphviz graphviz-dev greed grep gsl gsl-dev
+  gst-plugins-bad gst-plugins-bad-dev gst-plugins-base gst-plugins-base-dev gst-plugins-good gst-plugins-ugly gstreamer
+  gstreamer-dev gtypist gzip harfbuzz harfbuzz-dev harfbuzz-icu httping imagemagick imagemagick-dev imgflo json-glib
+  json-glib-dev jsoncpp ledger ledger-dev less libandroid-glob-dev libandroid-shmem libandroid-support-dev libarchive libassuan
+  libbsd libcaca libcairo libcairo-dev libcairo-gobject libclang libclang-dev libconfig libconfig-dev libcroco libexpat libflac
+  libgc libgc-dev libgcrypt-dev libgd libgd-dev libgit2 libgit2-dev libgmime libgmime-dev libgmp libgmp-dev libgnutls
+  libgnutls-dev libgpg-error-dev libgraphite libgraphite-dev libgrpc libgrpc-dev libgsasl libgsasl-dev libicu libid3tag
+  libid3tag-dev libidn libidn2 libidn2-dev libjasper libjpeg-turbo libjpeg-turbo-dev libjpeg-turbo-progs libksba libllvm
+  libltdl liblua libmad libmnl libmp3lame libmpfr libmsgpack libmsgpack-dev libnettle libnettle-dev libnghttp2-dev libnpth
+  libogg libogg-dev liboggz liboggz-dev libopus libpixman libpixman-dev libpng libpng-dev libprotobuf libpulseaudio librsvg
+  librsvg-dev libsndfile libsoup libsoxr libssh2 libtiff libunistring libunistring-dev libuuid libuv libvorbis libvpx libwebp
+  libx264 libx265 libxml2 libxml2-dev libyaml lighttpd linux-man-pages littlecms macchanger make man megatools mg moon-buggy
+  ndk-stl ndk-sysroot nginx nzbget openal-soft openjpeg openjpeg-dev openjpeg-tools optipng p7zip pango pango-dev pcre pcre-dev
+  pcre2 perl php php-pgsql pinentry pkg-config pngquant poppler postgresql postgresql-dev protobuf pwgen python2 ragel ranger
+  resolv-conf rgbds rhash ripgrep ruby silversearcher-ag sox stag syncthing teckit termux-create-package texlive texlive-bin
+  texlive-tlmgr tig tsu unrar utf8cpp valgrind valgrind-dev weechat weechat-lua-plugin weechat-perl-plugin
+  weechat-python-plugin weechat-ruby-plugin wget wireguard-tools xvidcore xz-utils
+  
+  
+  Updating tlmgr
+/data/data/com.termux/files/usr/bin/tlmgr.ln: cannot download: download did not succeed: http://ftp.acc.umu.se/mirror/CTAN/systems/texlive/tlnet/tlpkg/texlive.tlpdb.sha512
+
+https://android.stackexchange.com/questions/182130/use-gcc-compiler-in-termux
+https://github.com/its-pointless/its-pointless.github.io/blob/master/setup-pointless-repo.sh
+https://twitter.com/termux?lang=en
+
+https://github.com/YadominJinta/atilo
+
+Errors
+AttributeError: module 'oauth2client' has no attribute 'file'
+
+add 
+from oauth2client import file
+in youtube_upload/main.py 
+
+and reinstall python setup.py install
+
+https://github.com/tokland/youtube-upload/issues/262
+
+To uninstall from python setup.py install 
+python setup.py install --record files.txt
+cat files.txt | xargs rm -rfv
+
+Or if you're running Windows, use Powershell:
+
+Get-Content files.txt | ForEach-Object {Remove-Item $_ -Recurse -Force}
+https://stackoverflow.com/questions/1550226/python-setup-py-uninstall
+
+
+
+https://stackoverflow.com/questions/2953081/how-can-i-write-a-heredoc-to-a-file-in-bash-script
+cat << EOF > /tmp/yourfilehere
+These contents will be written to the file.
+        This line is indented.
+EOF
+
+
+https://gis.stackexchange.com/questions/234687/return-random-string-from-a-list-of-strings-field-calculator-python
+https://stackoverflow.com/questions/27676340/print-a-list-of-words-in-random-order-python
+
+
+how to install scrapy 
+apt install libffi-dev openssl-dev libxml2-dev libxslt-dev python python-dev
+pip install scrapy beautifulsoup4
+
+
+# Cron job
+# Every 2 minutes
+*/2 * * * * python /data/data/com.termux/files/home/cronrun.py > /data/data/com.termux/files/home/youtube/log/`date +%Y_%m_%d_%H_%M_%S`.txt 2>&1
