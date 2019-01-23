@@ -1,0 +1,466 @@
+001.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0001.mp3|၁။ မိတ္ဆက္
+002.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0002.mp3|၂။ မာတိကာ
+003.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0003.mp3|၃။ နိဒါန္းသည္ ျပဆိုခ်က္
+004.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0004.mp3|၄။ – အေျဖ
+005.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0005.mp3|၅။ – က်မ္းျပဳဆရာ, ဝိသုဒိၶမဂ္ပုဒ္အဖြင္႔
+006.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0006.mp3|၆။ ဝိသုဒၶိမဂ္မည္ေသာ ေဒသနာအမ်ိဳးမ်ိဳး
+007.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0007.mp3|၇။ အေမးဂါထာ၏ အက်ဥ္းခ်ဳပ္အဖြင္႔
+008.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0008.mp3|၈။ အေျဖဂါထာ၏ အက်ဥ္းခ်ဳပ္အဖြင္႔
+009.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0009.mp3|၉။ အေျဖဂါထာ၏ အက်ဥ္းခ်ဳပ္အဖြင္႔
+010.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0010.mp3|၁၀။ သီလျဖင္႔ျပအပ္ေသာဂုဏ္ (၉) ပါး
+011.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0011.mp3|၁၁။ သီလျဖင္႔ျပအပ္ေသာဂုဏ္ (၉) ပါး
+012.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0012.mp3|၁၂။ သီလျဖင္႔ျပအပ္ေသာဂုဏ္ (၉) ပါး
+013.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0013.mp3|၁၃။ သီလျဖင္႔ျပအပ္ေသာဂုဏ္ (၉) ပါး
+014.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0014.mp3|၁၄။ သီလျဖင္႔ျပအပ္ေသာဂုဏ္ (၉) ပါး
+015.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0015.mp3|၁၅။ သီလျဖင္႔ျပအပ္ေသာဂုဏ္ (၉) ပါး
+016.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0016.mp3|၁၆။ သီလနိေဒၵသ
+017.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0017.mp3|၁၇။ သီလဟူသည္၊
+018.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0018.mp3|၁၈။ သီလဟူသည္၊
+019.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0019.mp3|၁၉။ သီလဟူသည္၊
+020.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0020.mp3|၂၀။ သီလ၏ အနက္၊
+021.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0021.mp3|၂၁။ သီလ၏ လကၡ စသည္၊
+022.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0022.mp3|၂၂။ သီလ၏ ရသ စသည္၊
+023.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0023.mp3|၂၃။ သီလ၏ အက်ိဳး၊
+024.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0024.mp3|၂၄။ သီလကို ခ်ီးက်ဴးေသာစကားမ်ား
+025.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0025.mp3|၂၅။ သီလအျပားကို ျပဆိုခ်က္
+026.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0026.mp3|၂၆။ သီလအျပားကို ျပဆိုခ်က္
+027.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0027.mp3|၂၇။ သီလအျပားကို ျပဆိုခ်က္
+028.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0028.mp3|၂၈။ သီလအျပားကို ျပဆိုခ်က္
+029.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0029.mp3|၂၉။ သီလအျပားကို ျပဆိုခ်က္
+030.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0030.mp3|၃၀။ သီလအျပားကို ျပဆိုခ်က္
+031.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0031.mp3|၃၁။ သီလအျပားကို ျပဆိုခ်က္
+032.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0032.mp3|၃၂။ သီလအျပားကို ျပဆိုခ်က္
+033.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0033.mp3|၃၃။ တိကသီလ
+034.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0034.mp3|၃၄။ တိကသီလ
+035.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0035.mp3|၃၅။ တိကသီလ
+036.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0036.mp3|၃၆။ ပဋိသမၻိဒါမဂ္၌ေဟာေသာသံုးပါးအစု
+037.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0037.mp3|၃၇။ စတုကၠသီလ
+038.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0038.mp3|၃၈။ စတုကၠသီလ
+039.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0039.mp3|၃၉။ စတုကၠသီလ
+040.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0040.mp3|၄၀။ ပါတိေမာကၡသံဝရသီလ
+041.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0041.mp3|၄၁။ ပါတိေမာကၡသံဝရသီလ
+042.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0042.mp3|၄၂။ ရဟန္းဟူူသည္
+043.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0043.mp3|၄၃။ ပါတိေမာကၡသံဝရသံဝုတ
+044.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0044.mp3|၄၄။ အာစာရေဂါစရသမၼႏၷ
+045.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0045.mp3|၄၅။ အာစာရေဂါစရသမၼႏၷ
+046.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0046.mp3|၄၆။ မဟာနိေဒၵသပါဠိေတာ္လာ
+047.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0047.mp3|၄၇။ မဟာနိေဒၵသအ႒ကထာလာ
+048.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0048.mp3|၄၈။ မဟာအာရကၡေဂါစရ
+049.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0049.mp3|၄၉။ အဏုမေတၱသု ဝေဇၨသု
+050.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0050.mp3|၅၀။ သမာဒါယ သိကၡတိ
+051.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0051.mp3|၅၁။ ဣၿႏၵိယ သံဝရသီလ
+052.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0052.mp3|၅၂။ ဣၿႏၵိယ သံဝရသီလ
+053.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0053.mp3|၅၃။ ဣၿႏၵိယ သံဝရသီလ
+054.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0054.mp3|၅၄။ အႏုဗ်ဥၨ္နကို မွတ္ယူေလ႔မရွိ
+055.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0055.mp3|၅၅။ မဟာတိႆမေထရ္ဝတၳဳ
+056.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0056.mp3|၅၆။ စကၡဳေျႏၵကိုေစာင္႔စည္းမႈမရွိ
+057.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0057.mp3|၅၇။ စကၡဳေျႏၵ၌ – သံဝရ ျဖစ္ပံု
+058.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0058.mp3|၅၈။ စကၡဳေျႏၵ၌ – သံဝရ ျဖစ္ပံု
+059.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0059.mp3|၅၉။ အသံဝရဟုဆိုရျခင္းအေၾကာင္း
+060.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0060.mp3|၆၀။ အာဇီဝပါရိသုဒၶိသီလ
+061.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0061.mp3|၆၁။ အာဇီဝပါရိသုဒၶိသီလ
+062.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0062.mp3|၆၂။ ခုဒၵကဝတၳဳဝိဘင္းပါဠိေတာ္၌လာေသာနည္း
+063.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0063.mp3|၆၃။ မဟာနိေဒၵသပါဠိေတာ္
+064.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0064.mp3|၆၄။ လပနာ ၁၃-ပါး
+065.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0065.mp3|၆၅။ မဟာနိေဒၵသပါဠိေတာ္
+066.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0066.mp3|၆၆။ ေနမိတၱိကထာ
+067.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0067.mp3|၆၇။ နိေပၸသိကတာ
+068.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0068.mp3|၆၈။ အာဇီဝပါရိသုဒၶိသီလဟူသည္
+069.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0069.mp3|၆၉။ ပစၥယသႏၷိႆိတသီလ
+070.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0070.mp3|၇၀။ ဆြမ္း၌ပစၥေဝကၡဏာဆင္ျခင္ပံု
+071.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0071.mp3|၇၁။ ဣမႆ ကာယႆ
+072.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0072.mp3|၇၂။ ျဗဟၼစရိယာႏုဂၢဟာယ
+073.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0073.mp3|၇၃။ ေဝဒနာေဟာင္းသစ္
+074.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0074.mp3|၇၄။ ယာၾတာစ …
+075.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0075.mp3|၇၅။ ေက်ာင္း၌ပစၥေဝကၡဏာဆင္ျခင္ပံု
+076.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0076.mp3|၇၆။ ဥတုပရိႆယ
+077.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0077.mp3|၇၇။ ဥတုပရိႆယ
+078.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0078.mp3|၇၈။ ဥတုပရိႆယ
+079.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0079.mp3|၇၉။ ေဆး၌ ပစၥဝကၡဏာဆင္ျခင္ပံု
+080.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0080.mp3|၈၀။ ဝိလာနပစၥယ …
+081.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0081.mp3|၈၁။ ဝိလာနပစၥယ …
+082.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0082.mp3|၈၂။ စတုပါရိသုဒၶိသီလကိုျပည္႔စံုေစပံုအစီအရင္
+083.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0083.mp3|၈၃။ ခိုးသူတို႔တုပ္ေႏွာင္မေထရ္ဝတၳဳ
+084.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0084.mp3|၈၄။ ဣၿႏၵိယသံဝရသီလကိုျပည္႔စံုေစပံုအစီအရင္
+085.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0085.mp3|၈၅။ ျပည္႔စံုေစျခင္း၏အက်ိဳး
+086.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0086.mp3|၈၆။ ျပည္႔စံုေစျခင္း၏အက်ိဳး
+087.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0087.mp3|၈၇။ စိတၱဂုတၱမေထရ္ဝတၳဳ
+088.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0088.mp3|၈၈။ အာဇီဝပါရိသုဒၶိသီလကိုျပည္႔စံုေစပံုအစီအရင္
+089.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0089.mp3|၈၉။ ဓုတင္ ေဆာင္, မေဆာင္….
+090.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0090.mp3|၉၀။ အလြန္ေခါင္းပါးေသာအက်င္႔ရွိေသာ….
+091.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0091.mp3|၉၁။ အလြန္ေခါင္းပါးေသာအက်င္႔ – သာဓကဝတၳဳ
+092.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0092.mp3|၉၂။ ပစၥယသႏၷႆိတသီလကိုျပည္႔စံုေစပံု
+093.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0093.mp3|၉၃။ ပရိေဘာဂ (၄) ပါး
+094.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0094.mp3|၉၄။ သီလ (၄) ပါးႏွင္႔ သုဒၶိ (၄) ပါးတြဲစပ္ပံု
+095.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0095.mp3|၉၅။ သီလ (၄) ပါးႏွင္႔ သုဒၶိ (၄) ပါးတြဲစပ္ပံု
+096.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0096.mp3|၉၆။ ဒါယဇၨပရိေဘာဂ
+097.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0097.mp3|၉၇။ အလံုးစံုေသာ အရိယာ, ပုထုဇဥ္….
+098.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0098.mp3|၉၈။ ဂါထာအေပါင္း
+099.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0099.mp3|၉၉။ ပထမပဥၥကသီလ
+100.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0100.mp3|၁၀၀။ ပရိယႏၱပါရိသုဒၶိသီလ
+101.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0101.mp3|၁၀၁။ ပရိယႏၱပါရိသုဒၶိသီလ
+102.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0102.mp3|၁၀၂။ သီလကိုခ်ီးက်ဴးေသာဂါထာ
+103.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0103.mp3|၁၀၃။ အပရာမ႒ပါရိသုဒၶိသီလ
+104.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0104.mp3|၁၀၄။ ဒုတိယပဥၥကသီလ
+105.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0105.mp3|၁၀၅။ ဒုတိယပဥၥကသီလ
+106.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0106.mp3|၁၀၆။ ဒုတိယပဥၥကသီလ
+107.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0107.mp3|၁၀၇။ ပယ္ျခင္းဟူသည္
+108.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0108.mp3|၁၀၈။ (၁၁) – (၁၅)
+109.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0109.mp3|၁၀၉။ (၁၆) – (၂၅)
+110.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0110.mp3|၁၁၀။ (၂၆) – (၄၇)
+111.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0111.mp3|၁၁၁။ သီလညစ္ႏြမ္းေၾကာင္း
+112.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0112.mp3|၁၁၂။ သီလညစ္ႏြမ္းေၾကာင္း
+113.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0113.mp3|၁၁၃။ ေမထုန္ငယ္ (၇) ပါး
+114.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0114.mp3|၁၁၄။ သီလျဖဴစင္ေၾကာင္း
+115.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0115.mp3|၁၁၅။ ဓုတဂၤနိေဒၵသ
+116.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0116.mp3|၁၁၆။ အရိယဝံသတရား (၄) ပါး
+117.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0117.mp3|၁၁၇။ ဓုတင္ (၁၃) ပါး
+118.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0118.mp3|၁၁၈။ မာတိကာ
+119.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0119.mp3|၁၁၉။ ဓုတင္မည္ပံု (၃) မ်ိဳး
+120.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0120.mp3|၁၂၀။ ဓုတင္ (၁၃) ပါး၏ အနက္ (၁)
+121.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0121.mp3|၁၂၁။ ဓုတင္ (၂) ပါး၏ အနက္ (၆)
+122.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0122.mp3|၁၂၂။ ဓုတင္ (၇) ပါး၏ အနက္
+123.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0123.mp3|၁၂၃။ ဓုတင္ (၈) ပါး၏ အနက္ (၁၃)
+124.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0124.mp3|၁၂၄။ ဓုတင္၏ လကၡဏ စသည္
+125.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0125.mp3|၁၂၅။ ဓုတင္ ေဆာက္တည္ပံုႏွင္႔ က်င္႔ပံု
+126.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0126.mp3|၁၂၆။ ေမးခြန္းနံပါတ္
+127.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0127.mp3|၁၂၇။ (၁) ပံသုကူဓုတင္
+128.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0128.mp3|၁၂၈။ (၁) ပံသုကူဓုတင္
+129.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0129.mp3|၁၂၉။ (၁) ပံသုကူဓုတင္
+130.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0130.mp3|၁၃၀။ (၂) တိစီဝရိက္ ဓုတင္
+131.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0131.mp3|၁၃၁။ (၂) တိစီဝရိက္ ဓုတင္
+132.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0132.mp3|၁၃၂။ (၃) ပါ႑ိပါတ္ ဓုတင္
+133.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0133.mp3|၁၃၃။ (၃) ပါ႑ိပါတ္ ဓုတင္
+134.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0134.mp3|၁၃၄။ (၄) သပဒါနစာရိက ဓုတင္
+135.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0135.mp3|၁၃၅။ (၄) သပဒါနစာရိက ဓုတင္
+136.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0136.mp3|၁၃၆။ (၅) ဧကာသနိက္ ဓုတင္
+137.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0137.mp3|၁၃၇။ (၆) ပတၱပိုဏ္ ဓုတင္
+138.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0138.mp3|၁၃၈။ (၆) ပတၱပိုဏ္ ဓုတင္
+139.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0139.mp3|၁၃၉။ (၇) ခလုပစၦာဘတ္ ဓုတင္
+140.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0140.mp3|၁၄၀။ (၈) အာရညကင္ ဓုတင္
+141.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0141.mp3|၁၄၁။ (၈) အာရညကင္ ဓုတင္
+142.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0142.mp3|၁၄၂။ (၈) အာရညကင္ ဓုတင္
+143.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0143.mp3|၁၄၃။ (၈) အာရညကင္ ဓုတင္
+144.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0144.mp3|၁၄၄။ (၈) အာရညကင္ ဓုတင္
+145.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0145.mp3|၁၄၅။ (၈) အာရညကင္ ဓုတင္ contd
+146.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0146.mp3|၁၄၆။ (၈) အာရညကင္ ဓုတင္ contd
+147.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0147.mp3|၁၄၇။ (၈) အာရညကင္ ဓုတင္ contd
+148.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0148.mp3|၁၄၈။ (၉) ရုကၡမူ ဓုတင္
+149.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0149.mp3|၁၄၉။ (၁၀) အေဗၻာကာသိက ဓုတင္
+150.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0150.mp3|၁၅၀။ (၁၀) အေဗၻာကာသိက ဓုတင္
+151.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0151.mp3|၁၅၁။ (၁၀) အေဗၻာကာသိက ဓုတင္
+152.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0152.mp3|၁၅၂။ (၁၁) သုႆာန္ ဓုတင္
+153.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0153.mp3|၁၅၃။ (၁၁) သုႆာန္ ဓုတင္
+154.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0154.mp3|၁၅၄။ (၁၂) ယထာသႏၱတိ ဓုတင္
+155.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0155.mp3|၁၅၅။ (၁၃) နိသဇၨီ ဓုတင္
+156.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0156.mp3|၁၅၆။ ဓုတင္ၿပိဳးျပြမ္းျပဆိုခ်က္
+157.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0157.mp3|၁၅၇။ ဓုတ စသည္တို႔ကို ေဝဖန္ေသာနည္း
+158.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0158.mp3|၁၅၈။ ဓုတဓမၼတရား (၅) ပါး….the end.
+159.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0159.mp3|၁၅၉။ လမ္းျပေျမပံု
+160.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0160.mp3|၁၆၀။ ကမၼဌာနဂၢဟဏနိေဒၵသ
+161.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0161.mp3|၁၆၁။ သမာဓိဟူသည္
+162.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0162.mp3|၁၆၂။ သမာဓိအျပား
+163.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0163.mp3|၁၆၃။ ေလာကီ + ေလာကုတၱရာ သမာဓိ
+164.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0164.mp3|၁၆၄။ သမာဓိ (၃) ပါး
+165.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0165.mp3|၁၆၅။ သမာဓိ (၃) ပါး
+166.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0166.mp3|၁၆၆။ သမာဓိ (၄) ပါး
+167.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0167.mp3|၁၆၇။ သမာဓိ (၄) ပါး
+168.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0168.mp3|၁၆၈။ သမာဓိ (၄) ပါး
+169.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0169.mp3|၁၆၉။ သမာဓိ (၄) ပါး
+170.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0170.mp3|၁၇၀။ သမာဓိ (၄) ပါး
+171.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0171.mp3|၁၇၁။ သမာဓိ (၄) ပါး
+172.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0172.mp3|၁၇၂။ သမာဓိ (၄) ပါး
+173.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0173.mp3|၁၇၃။ သမာဓိပြားမ်ားပံု
+174.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0174.mp3|၁၇၄။ ပလိေဗာဓ (၁၀) ပါး
+175.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0175.mp3|၁၇၅။ (၂) ကုလပလိေဗာဓ
+176.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0176.mp3|၁၇၆။ (၃) လာဘပလိေဗာဓ
+177.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0177.mp3|၁၇၇။ (၄) ဃနပလိေဗာဒ
+178.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0178.mp3|၁၇၈။ (၅) ကမၼပလိေဗာဓ
+179.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0179.mp3|၁၇၉။ (၆) ဂႏၱပလိေဗာဓ
+180.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0180.mp3|၁၈၀။ (၁၀) ဣဒိၶပလိေဗာဓ
+181.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0181.mp3|၁၈၁။ ကမၼ႒ာန္း (၂) မ်ိဳး
+182.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0182.mp3|၁၈၂။ မရဏႆတိကမၼ႒ာန္း
+183.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0183.mp3|၁၈၃။ (ခ) ပါရိဟာရိကမၼ႒ာန္း
+184.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0184.mp3|၁၈၄။ မိတ္ေဆြေကာင္း
+185.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0185.mp3|၁၈၅။ မိတ္ေဆြေကာင္း
+186.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0186.mp3|၁၈၆။ ဆရာထံ သြားပံု
+187.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0187.mp3|၁၈၇။ နိကာယ္တစ္ခုမွ်…..
+188.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0188.mp3|၁၈၈။ ဆရာထံေရာက္လွွ်င္ ျပဳရမည္႔က်င္႔ဝတ္
+189.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0189.mp3|၁၈၉။ စရိုက္ဖြင္႔ျပခ်က္
+190.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0190.mp3|၁၉၀။ ရာဂ ႏွင္႔ သဒၵါ
+191.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0191.mp3|၁၉၁။ အပေရဆရာအယူ
+192.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0192.mp3|၁၉၂။ စရိုက္ဆိုင္ရာ ေမးခြန္း (၃) ရပ္
+193.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0193.mp3|၁၉၃။ စရိုက္တို႔၏ျဖစ္ေၾကာင္းတရား (၁)
+194.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0194.mp3|၁၉၄။ စရိုက္တို႔၏ျဖစ္ေၾကာင္းတရား (၂)
+195.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0195.mp3|၁၉၅။ စရိုက္တို႔၏ျဖစ္ေၾကာင္းတရား (၃)
+196.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0196.mp3|၁၉၆။ စရိုက္တို႔ကို ထင္ရွားျပျခင္း
+197.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0197.mp3|၁၉၇။ (၅) တရားတို႔၏ျဖစ္ျခင္းသေဘာ
+198.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0198.mp3|၁၉၈။ (၅) တရားတို႔၏ျဖစ္ျခင္းသေဘာ
+199.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0199.mp3|၁၉၉။ စရိုက္ႏွင္႔သင္႔ေလ်ာ္ေသာအရာမ်ား
+200.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0200.mp3|၂၀၀။ ကမၼဌာန္း (၄၀) ဖြင္႔ျပခ်က္
+201.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0201.mp3|၂၀၁။ (၄) အဂၤါႏွင္႔ အာရံုကိုလြန္….
+202.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0202.mp3|၂၀၂။ (၅) ပြားေစ….မပြားေစအပ္…
+203.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0203.mp3|၂၀၃။ ေစာဒနာ
+204.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0204.mp3|၂၀၄။ (၂) အာနာပါနႆတိ….
+205.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0205.mp3|၂၀၅။ (၂) အာနာပါနႆတိ….
+206.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0206.mp3|၂၀၆။ (၇) ဘံုကိုေဝဖန္
+207.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0207.mp3|၂၀၇။ (၈) ယူအပ္သည္ကို ေဝဖန္….
+208.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0208.mp3|၂၀၈။ (၉) အေၾကာင္းကိုေဝဖန္…
+209.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0209.mp3|၂၀၉။ စရိုက္အားေလ်ာ္စြာေဝဖန္
+210.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0210.mp3|၂၁၀။ ကမၼဌာန္းကိုရယူပံု
+211.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0211.mp3|၂၁၁။ (၃) ျပည္႔စံုေသာအလုိ…
+212.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0212.mp3|၂၁၂။ ကမၼဌာန္းဆရာေဟာၾကားပံု
+213.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0213.mp3|၂၁၃။ ပထဝီကသိဏနီေဒၵသ
+214.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0214.mp3|၂၁၄။ မသင္႔ေလ်ာ္ေသာေက်ာင္း (၁၈)
+215.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0215.mp3|၂၁၅။ သင္႔ေလ်ာ္ေသာေက်ာင္း
+216.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0216.mp3|၂၁၆။ ပလိေဗာဓငယ္မ်ား
+217.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0217.mp3|၂၁၇။ ဘာဝနာပြားျခင္းအစီအရင္
+218.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0218.mp3|၂၁၈။ ဘာဝနာ – ကသိုဏ္းဝန္းကိုၾကည္႔နည္း…
+219.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0219.mp3|၂၁၉။ ဘာဝနာ – ကသိုဏ္းဝန္းကိုၾကည္႔နည္း…
+220.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0220.mp3|၂၂၀။ ပဋိဘာဂနိမိတ္ျဖစ္ေအာင္အားထုတ္ပံု
+221.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0221.mp3|၂၂၁။ နိမိတ္ႏွစ္ပါးထူးျခားခ်က္
+222.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0222.mp3|၂၂၂။ သမာဓိႏွစ္မ်ိဳး
+223.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0223.mp3|၂၂၃။ အလြန္ခက္ခဲေသာအရာ
+224.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0224.mp3|၂၂၄။ ပဋိဘာဂနိမိတ္ကိုေစာင္႔ေရွာက္ပံု
+225.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0225.mp3|၂၂၅။ အပၸနာ၌ကြ်မ္းက်င္ေၾကာင္း (၁၀)ပါး
+226.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0226.mp3|၂၂၆။ နံပါတ္ (၂)
+227.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0227.mp3|၂၂၇။ နံပါတ္ (၂.၁)
+228.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0228.mp3|၂၂၈။ နံပါတ္ (၂.၂)
+229.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0229.mp3|၂၂၉။ နံပါတ္ (၂.၃)
+230.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0230.mp3|၂၃၀။ နံပါတ္ (၃)
+231.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0231.mp3|၂၃၁။ နံပါတ္ (၄)
+232.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0232.mp3|၂၃၂။ နံပါတ္ (၄)
+233.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0233.mp3|၂၃၃။ နံပါတ္ (၄)
+234.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0234.mp3|၂၃၄။ နံပါတ္ (၅)
+235.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0235.mp3|၂၃၅။ နံပါတ္ (၅)
+236.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0236.mp3|၂၃၆။ နံပါတ္ (၅)
+237.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0237.mp3|၂၃၇။ နံပါတ္ (၆, ၇, ၈, ၉, ၁၀)
+238.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0238.mp3|၂၃၈။ နိမိတ္သို႔ ေရွးရႈျဖစ္ေစျခင္း
+239.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0239.mp3|၂၃၉။ ပထမစ်ာန္ျပဆိုခ်က္
+240.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0240.mp3|၂၄၀။ ပထမစ်ာန္ျပဆိုခ်က္
+241.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0241.mp3|၂၄၁။ ပထမစ်ာန္ျပဆိုခ်က္
+242.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0242.mp3|၂၄၂။ ပထမစ်ာန္ျပဆိုခ်က္
+243.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0243.mp3|၂၄၃။ ပထမစ်ာန္ျပဆိုခ်က္
+244.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0244.mp3|၂၄၄။ ပထမစ်ာနကထာအဖြင္႔
+245.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0245.mp3|၂၄၅။ ပထမစ်ာနကထာအဖြင္႔
+246.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0246.mp3|၂၄၆။ (၁) ကာမတို႔မွကင္းဆိတ္၍
+247.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0247.mp3|၂၄၇။ (၁) ကာမတို႔မွကင္းဆိတ္၍
+248.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0248.mp3|၂၄၈။ (၁) ကာမတို႔မွကင္းဆိတ္၍
+249.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0249.mp3|၂၄၉။ (၁) ကာမတို႔မွကင္းဆိတ္၍
+250.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0250.mp3|၂၅၀။ (၁) ကာမတို႔မွကင္းဆိတ္၍
+251.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0251.mp3|၂၅၁။ (၁) ကာမတို႔မွကင္းဆိတ္၍
+252.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0252.mp3|၂၅၂။ (၁) ကာမတို႔မွကင္းဆိတ္၍
+253.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0253.mp3|၂၅၃။ (၁) ကာမတို႔မွကင္းဆိတ္၍
+254.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0254.mp3|၂၅၄။ (၁) ကာမတို႔မွကင္းဆိတ္၍
+255.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0255.mp3|၂၅၅။ အကုသိုလ္တရားတို႔အရ
+256.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0256.mp3|၂၅၆။ ဤသို႔ေသာနည္းျဖင္႔
+257.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0257.mp3|၂၅၇။ ဤသို႔ေသာနည္းျဖင္႔
+258.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0258.mp3|၂၅၈။ (၂) ဝိတက္ ဝိစာရႏွင္႔တကြျဖစ္ေသာ
+259.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0259.mp3|၂၅၉။ (၂) ဝိတက္ ဝိစာရႏွင္႔တကြျဖစ္ေသာ
+260.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0260.mp3|၂၆၀။ ဝိတက္ ႏွင္႔ ဝိစာရ အထူး
+261.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0261.mp3|၂၆၁။ (၃) ဝိေဝကေၾကာင္႔ျဖစ္ေသာ
+262.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0262.mp3|၂၆၂။ (၄) ပီတိသုခရွိေသာ
+263.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0263.mp3|၂၆၃။ ပီတိမွ သမာဓိျဖစ္ပံု အဆင္႔ဆင္႔
+264.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0264.mp3|၂၆၄။ ပီတီ ႏွင္႔ သုခ အထူး
+265.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0265.mp3|၂၆၅။ (၆) ဝိဟရတိ
+266.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0266.mp3|၂၆၆။ (၇) အဂၤါ ၅-ပါးကို ပယ္ၿပီးသည္…..
+267.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0267.mp3|၂၆၇။ (၈) အဂၤါ ၅-ပါးႏွင္႔ ျပည္႔စံုျခင္း
+268.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0268.mp3|၂၆၈။ ဈာန္အဂၤါ ၅-ပါး ျပည္႔စံုပံု
+269.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0269.mp3|၂၆၉။ ဧကဂၢတာသရုပ္ကိုထုတ္မျပ….
+270.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0270.mp3|၂၇၀။ (၉) ေကာင္းျခင္း ၃-ပါး….
+271.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0271.mp3|၂၇၁။ အဘယဂိရိဝါသီဆရာတို႔အဆို
+272.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0272.mp3|၂၇၂။ အဘယဂိရိဝါသီဆရာတို႔အဆို
+273.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0273.mp3|၂၇၃။ အဘယဂိရိဝါသီဆရာတို႔အဆို
+274.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0274.mp3|၂၇၄။ အဘယဂိရိဝါသီဆရာတို႔အဆို
+275.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0275.mp3|၂၇၅။ (၁၀) ပထဝီကသိုဏ္းကို…..
+276.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0276.mp3|၂၇၆။ ၾကာျမင္႔စြာတည္ျခင္းကိုၿပီးေစျခင္း
+277.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0277.mp3|၂၇၇။ ေလးသမား ဥပမာ
+278.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0278.mp3|၂၇၈။ (ခ) နီဝရဏတရားတုိ႔ကို….
+279.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0279.mp3|၂၇၉။ နိမိတ္ကိုပြားေစျခင္း
+280.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0280.mp3|၂၈၀။ နိမိတ္ကိုပြားေစျခင္း
+281.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0281.mp3|၂၈၁။ နိမိတ္ကိုပြားေစျခင္း
+282.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0282.mp3|၂၈၂။ စ်ာန္ဝင္စားျခင္းမ်ားသူျဖစ္ရာ၏
+283.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0283.mp3|၂၈၃။ စ်ာန္ဝင္စားျခင္းမ်ားသူျဖစ္ရာ၏
+284.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0284.mp3|၂၈၄။ စ်ာန္ဝင္စားျခင္းမ်ားသူျဖစ္ရာ၏
+285.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0285.mp3|၂၈၅။ စ်ာန္ဝင္စားျခင္းမ်ားသူျဖစ္ရာ၏
+286.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0286.mp3|၂၈၆။ ဝသီေဘာ္ (၅) ပါး
+287.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0287.mp3|၂၈၇။ ဝသီေဘာ္ (၅) ပါး
+288.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0288.mp3|၂၈၈။ ဒုတိယစ်ာန္ျပဆိုခ်က္
+289.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0289.mp3|၂၈၉။ ဒုတိယစ်ာနကထာအဖြင္႔
+290.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0290.mp3|၂၉၀။ (၁) ဝိတက္ဝိစာရတို႔ ၿငိမ္းျခင္းေၾကာင္႔
+291.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0291.mp3|၂၉၁။ (၄) ေစတေသာ ဧေကာဒိဘာဝံ
+292.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0292.mp3|၂၉၂။ (၅) ဝိတက္ ဝိစာရ မရွိေသာ
+293.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0293.mp3|၂၉၃။ (၅) ဝိတက္ ဝိစာရ မရွိေသာ
+294.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0294.mp3|၂၉၄။ (၅) ဝိတက္ ဝိစာရ မရွိေသာ
+295.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0295.mp3|၂၉၅။ (၅) ဝိတက္ ဝိစာရ မရွိေသာ
+296.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0296.mp3|၂၉၆။ (၅) ဝိတက္ ဝိစာရ မရွိေသာ
+297.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0297.mp3|၂၉၇။ (၅) ဝိတက္ ဝိစာရ မရွိေသာ
+298.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0298.mp3|၂၉၈။ (၅) ဝိတက္ ဝိစာရ မရွိေသာ
+299.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0299.mp3|၂၉၉။ (၆) သမာဓိဇံ
+300.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0300.mp3|၃၀၀။ (၇) ဤသို႔ေနေသာေယာဂီသည္….
+301.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0301.mp3|၃၀၁။ တတိယစ်ာန္ျပဆိုခ်က္
+302.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0302.mp3|၃၀၂။ တတိယစ်ာနကထာအဖြင္႔
+303.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0303.mp3|၃၀၃။ (၁) ပီတိယာ စ ဝိရာဂါ
+304.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0304.mp3|၃၀၄။ (၂) ဥေပကၡေကာ စ ဝိဟရတိ
+305.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0305.mp3|၃၀၅။ (၂) ဥေပကၡေကာ စ ဝိဟရတိ
+306.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0306.mp3|၃၀၆။ ဥေပကၡာ (၁၀) ပါး
+307.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0307.mp3|၃၀၇။ ဥေပကၡာ (၁၀) ပါး
+308.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0308.mp3|၃၀၈။ တရားကိုယ္တူလ်က္အမည္ကြဲပံု
+309.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0309.mp3|၃၀၉။ သခၤါရုေပကၡာ ႏွင္႔ ဝိပႆႏုေပကၡာ
+310.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0310.mp3|၃၁၀။ သခၤါရုေပကၡာ ႏွင္႔ ဝိပႆႏုေပကၡာ
+311.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0311.mp3|၃၁၁။ သခၤါရုေပကၡာ ႏွင္႔ ဝိပႆႏုေပကၡာ
+312.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0312.mp3|၃၁၂။ ေစာဒနာ
+313.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0313.mp3|၃၁၃။ (၃) သေတာ စသမၸဇာေနာ
+314.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0314.mp3|၃၁၄။ (၃) သေတာ စသမၸဇာေနာ
+315.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0315.mp3|၃၁၅။ (၄) သုခဥၥ ကာေယန ပဋိသံေဝေဒတိ
+316.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0316.mp3|၃၁၆။ (၅) တတိယစ်ာန္ႏွင္႔ျပည္႔စံု….
+317.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0317.mp3|၃၁၇။ (၆) ဤသို႔ေနေသာေယာဂီ…
+318.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0318.mp3|၃၁၈။ စတုတၳစ်ာန္ ျပဆိုခ်က္
+319.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0319.mp3|၃၁၉။ စတုတၳစ်ာန္ ျပဆိုခ်က္
+320.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0320.mp3|၃၂၀။ ေစာဒနာ (၁)
+321.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0321.mp3|၃၂၁။ ေစာဒနာ (၂)
+322.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0322.mp3|၃၂၂။ ေစာဒနာ (၂)
+323.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0323.mp3|၃၂၃။ ေစာဒနာ (၂)
+324.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0324.mp3|၃၂၄။ ေစာဒနာ (၃)
+325.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0325.mp3|၃၂၅။ (၄) ဒုကၡလည္းမဟုတ္….
+326.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0326.mp3|၃၂၆။ (၅) ဥေပကၡာေၾကာင္႔….
+327.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0327.mp3|၃၂၇။ (၅) ဥေပကၡာေၾကာင္႔…
+328.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0328.mp3|၃၂၈။ (၆) ဤသို႔ေနေသာေယာဂီ…
+329.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0329.mp3|၃၂၉။ ပဥၥကစ်ာန္ျပဆိုခ်က္
+330.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0330.mp3|၃၃၀။ ပဥၥကစ်ာန္ျပဆိုခ်က္
+331.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0331.mp3|၃၃၁။ ေသသကသိဏနိေဒၵသ
+332.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0332.mp3|၃၃၂။ ေတေဇာကသိုဏ္း
+333.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0333.mp3|၃၃၃။ ဝါေယာကသိုဏ္း
+334.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0334.mp3|၃၃၄။ ဝါေယာကသိုဏ္း
+335.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0335.mp3|၃၃၅။ ပီတကသိုဏ္း
+336.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0336.mp3|၃၃၆။ အာေလာက ကသိုဏ္း
+337.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0337.mp3|၃၃၇။ ၿပိဳးျပြမ္းျပဆိုခ်က္
+338.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0338.mp3|၃၃၈။ ၿပိဳးျပြမ္းျပဆိုခ်က္
+339.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0339.mp3|၃၃၉။ ကသိုဏ္းတို႔၏ အထူးအျပား
+340.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0340.mp3|၃၄၀။ ကသိုဏ္းတို႔၏ အထူးအျပား
+341.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0341.mp3|၃၄၁။ စ်ာန္မရႏိုင္ေသာပုဂၢိဳလ္မ်ား
+342.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0342.mp3|၃၄၂။ အသုဘကမၼ႒ာနနိေဒၵသ
+343.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0343.mp3|၃၄၃။ အသုဘကမၼ႒ာနနိေဒၵသ
+344.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0344.mp3|၃၄၄။ ဥဒၶဳမာတက ကမၼ႒ာန္း
+345.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0345.mp3|၃၄၅။ ပန္ၾကား၍ သြားအပ္ပံု
+346.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0346.mp3|၃၄၆။ အ႒ကထာတို႔၌ျပဆိုေသာအစီအရင္
+347.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0347.mp3|၃၄၇။ အ႒ကထာတို႔၌ျပဆိုေသာအစီအရင္
+348.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0348.mp3|၃၄၈။ အက်ယ္ဖြင္႔ဆိုခ်က္
+349.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0349.mp3|၃၄၉။ (၁၁) ပါးေသာအျခင္းအရာ
+350.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0350.mp3|၃၅၀။ (၁၁) ပါးေသာအျခင္းအရာ
+351.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0351.mp3|၃၅၁။ (၁၁) ပါးေသာအျခင္းအရာ
+352.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0352.mp3|၃၅၂။ နိမိတ္ထင္ေပၚေသာပုဂၢိဳလ္
+353.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0353.mp3|၃၅၃။ ငါးပါးအျပားအားျဖင္႔ နိမိတ္ယူပံု
+354.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0354.mp3|၃၅၄။ ငါးပါးအျပားအားျဖင္႔ နိမိတ္ယူပံု
+355.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0355.mp3|၃၅၅။ အသြားအျပန္လမ္းကိုမွတ္သားျခင္း
+356.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0356.mp3|၃၅၆။ အက်ိဳးအာနိသင္မ်ား
+357.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0357.mp3|၃၅၇။ အက်ိဳးအာနိသင္မ်ား
+358.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0358.mp3|၃၅၈။ အက်ိဳးအာနိသင္ကို ေျမာ္ျမင္ပံု
+359.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0359.mp3|၃၅၉။ အပၸနာအစီအရင္
+360.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0360.mp3|၃၆၀။ ဝိနီလက စေသာ ကမၼ႒ာန္း
+361.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0361.mp3|၃၆၁။ ဝိပုဗၺက ကမၼ႒ာန္း…
+362.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0362.mp3|၃၆၂။ ဝိကၡာယိတက ကမၼ႒ာန္း
+363.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0363.mp3|၃၆၃။ အ႒ိက ကမၼ႒ာန္း
+364.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0364.mp3|၃၆၄။ အ႒ိက ကမၼ႒ာန္း
+365.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0365.mp3|၃၆၅။ ၿပိဳးျပြမ္းျပဆိုခ်က္
+366.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0366.mp3|၃၆၆။ ၿပိဳးျပြမ္းျပဆိုခ်က္ (ခ)
+367.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0367.mp3|၃၆၇။ ပထမစ်ာန္မွ်သာရႏိုင္ျခင္း
+368.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0368.mp3|၃၆၈။ ရွင္ဆဲသူလည္း အသုဘသာျဖစ္ပံု
+369.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0369.mp3|၃၆၉။ ပညာမ်က္စိမရွိသူတို႔၏အျမင္
+370.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0370.mp3|၃၇၀။ ပညာမ်က္စိမရွိသူတို႔၏အျမင္
+371.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0371.mp3|၃၇၁။ ဂါထာ (၃) ပုဒ္
+372.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0372.mp3|၃၇၂။ ဆ-အႏုႆတိနိေဒၵသ
+373.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0373.mp3|၃၇၃။ ဆ-အႏုႆတိနိေဒၵသ
+374.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0374.mp3|၃၇၄။ (၁) ဗုဒၶါႏုႆတိ
+375.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0375.mp3|၃၇၅။ ၁- အရဟံဂုဏ္ေတာ္အဖြင္႔
+376.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0376.mp3|၃၇၆။ ၁- အရဟံဂုဏ္ေတာ္အဖြင္႔
+377.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0377.mp3|၃၇၇။ ၁- အရဟံဂုဏ္ေတာ္အဖြင္႔ (၄)
+378.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0378.mp3|၃၇၈။ ၁- အရဟံဂုဏ္ေတာ္အဖြင္႔ (၅)
+379.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0379.mp3|၃၇၉။ ၂- သမၼာသမၺဳဒၶဂုဏ္ေတာ္
+380.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0380.mp3|၃၈၀။ ၂- သမၼာသမၺဳဒၶဂုဏ္ေတာ္
+381.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0381.mp3|၃၈၁။ ၃- ဝိဇၨာစရဏသမၸႏၷဂုဏ္ေတာ္
+382.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0382.mp3|၃၈၂။ ၃- ဝိဇၨာစရဏသမၸႏၷဂုဏ္ေတာ္
+383.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0383.mp3|၃၈၃။ ၃- ဝိဇၨာစရဏသမၸႏၷဂုဏ္ေတာ္
+384.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0384.mp3|၃၈၄။ ၄- သုဂေတာဂုဏ္ေတာ္
+385.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0385.mp3|၃၈၅။ ၄- သုဂေတာဂုဏ္ေတာ္
+386.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0386.mp3|၃၈၆။ ၄- သုဂေတာဂုဏ္ေတာ္
+387.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0387.mp3|၃၈၇။ ၄- သုဂေတာဂုဏ္ေတာ္
+388.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0388.mp3|၃၈၈။ ၅- ေလာကဝိဒူဂုဏ္ေတာ္
+389.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0389.mp3|၃၈၉။ ၅- ေလာကဝိဒူဂုဏ္ေတာ္
+390.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0390.mp3|၃၉၀။ ၅- ေလာကဝိဒူဂုဏ္ေတာ္
+391.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0391.mp3|၃၉၁။ ၅- ေလာကဝိဒူဂုဏ္ေတာ္
+392.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0392.mp3|၃၉၂။ ၾသကာသေလာကသိပံု
+393.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0393.mp3|၃၉၃။ ၆- အႏုတၱေရာပုရိသဒမၼသာရထိ
+394.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0394.mp3|၃၉၄။ ၆- အႏုတၱေရာပုရိသဒမၼသာရထိ (၆-ခ)
+395.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0395.mp3|၃၉၅။ ၆- အႏုတၱေရာပုရိသဒမၼသာရထိ (၆-ဂ)
+396.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0396.mp3|၃၉၆။ ၇- သတၱာေဒဝမႏုႆာနံ
+397.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0397.mp3|၃၉၇။ ၇- သတၱာေဒဝမႏုႆာနံ
+398.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0398.mp3|၃၉၈။ ၈- ဗုဒၶဂုဏ္ေတာ္
+399.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0399.mp3|၃၉၉။ ၉- ဘဂဝါဂုဏ္ေတာ္
+400.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0400.mp3|၄၀၀။ ဘဂဝါအနက္ (၉) ခ်က္
+401.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0401.mp3|၄၀၁။ (၃) ဘဂ
+402.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0402.mp3|၄၀၂။ ဘုန္းေတာ္ (၆) ပါး
+403.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0403.mp3|၄၀၃။ (၄) ဝိဘတၱဝါ
+404.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0404.mp3|၄၀၄။ ဥပစာရစ်ာန္သို႔ေရာက္ပံု…
+405.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0405.mp3|၄၀၅။ (၂) ဓမၼာႏုႆတိ
+406.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0406.mp3|၄၀၆။ ၁- သြာကၡတဂုဏ္ေတာ္
+407.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0407.mp3|၄၀၇။ ၁- သြာကၡတဂုဏ္ေတာ္
+408.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0408.mp3|၄၀၈။ ၁- သြာကၡတဂုဏ္ေတာ္ မည္ပံုတစ္နည္း
+409.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0409.mp3|၄၀၉။ သႏၵိ႒ိကဂုဏ္ေတာ္
+410.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0410.mp3|၄၁၀။ ေလာကုတၱရာတရား (၉) ပါး
+411.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0411.mp3|၄၁၁။ ေလာကုတၱရာတရား (၉) ပါး
+412.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0412.mp3|၄၁၂။ ၃- အကာလိကဂုဏ္ေတာ္
+413.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0413.mp3|၄၁၃။ ၄- ဧဟိပႆိကဂုဏ္ေတာ္
+414.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0414.mp3|၄၁၄။ ၅- ၾသပေနယ်ိကဂုဏ္ေတာ္
+415.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0415.mp3|၄၁၅။ ၅- ၾသပေနယ်ိကဂုဏ္ေတာ္
+416.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0416.mp3|၄၁၆။ ၆- ပစၥတၱံေဝဒိတေဗၺာဝိညဴဟိ
+417.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0417.mp3|၄၁၇။ တစ္နည္းအဖြင္႔
+418.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0418.mp3|၄၁၈။ ဥပစာရစ်ာန္သို႔ေရာက္ပံု…
+419.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0419.mp3|၄၁၉။ (၃) သံဃာႏုႆတိ
+420.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0420.mp3|၄၂၀။ ၁- သုပၸဋိပႏၷဂုဏ္ေတာ္
+421.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0421.mp3|၄၂၁။ ၂- ဥဇုပၸဋိပႏၷဂုဏ္ေတာ္
+422.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0422.mp3|၄၂၂။ ၃- ဉာယပၸဋိပႏၷဂုဏ္ေတာ္
+423.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0423.mp3|၄၂၃။ ၄- သာမိစိပၸဋိပႏၷဂုဏ္ေတာ္
+424.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0424.mp3|၄၂၄။ ၅- အာဟုေနယ်ဂုဏ္ေတာ္
+425.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0425.mp3|၄၂၅။ ၆- ပါဟုေနယ်ဂုဏ္ေတာ္
+426.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0426.mp3|၄၂၆။ ၇- ဒကၡိေဏယ်ဂုဏ္ေတာ္
+427.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0427.mp3|၄၂၇။ ၈ ႏွင္႔ ၉ ဂုဏ္ေတာ္
+428.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0428.mp3|၄၂၈။ သီလာႏုႆတိ
+429.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0429.mp3|၄၂၉။ စာဂါႏုႆတိ
+430.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0430.mp3|၄၃၀။ စာဂါႏုႆတိ
+431.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0431.mp3|၄၃၁။ စာဂါႏုႆတိ
+432.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0432.mp3|၄၃၂။ စာဂါႏုႆတိ
+433.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0433.mp3|၄၃၃။ ဥပစာရစ်ာန္သို႔ေရာက္ပံု…
+434.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0434.mp3|၄၃၄။ ေဒဝတာႏုႆတိ
+435.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0435.mp3|၄၃၅။ ေဒဝတာႏုႆတိ
+436.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0436.mp3|၄၃၆။ ၿပိဳးျပြမ္းျပဆိုခ်က္
+437.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0437.mp3|၄၃၇။ မ်ားစြာေသာသုတ္တို႔၌ ေဟာေတာ္မူပံု
+438.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0438.mp3|၄၃၈။ ပုထုဇဥ္လည္း ႏွလံုးသြင္းထိုက္ပံု
+439.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0439.mp3|၄၃၉။ မရဏႆတိကမၼ႒ာန္း
+440.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0440.mp3|၄၄၀။ ေသျခင္း
+441.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0441.mp3|၄၄၁။ မရဏႆတိပြားပံု
+442.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0442.mp3|၄၄၂။ ရွစ္ပါးေသာအျခင္းအရာ
+443.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0443.mp3|၄၄၃။ (၁) သူသတ္သမားကဲ႔သို႔
+444.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0444.mp3|၄၄၄။ (၁) သူသတ္သမားကဲ႔သို႔
+445.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0445.mp3|၄၄၅။ (၂) ျပည္႔စံုျခင္း ပ်က္စီးျခင္းအားျဖင္႔
+446.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0446.mp3|၄၄၆။ (၃) အနီးသို႔ေဆာင္ေသာအားျဖင္႔
+447.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0447.mp3|၄၄၇။ (၄) ရုပ္ကိုယ္၏..
+448.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0448.mp3|၄၄၈။ (၈) ရွင္ဆဲခဏ၏…
+449.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0449.mp3|၄၄၉။ ဥပစာရစ်ာန္သို႔ေရာက္ပံု
+450.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0450.mp3|၄၅၀။ အက်ိဳး
+451.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0451.mp3|၄၅၁။ အက်ိဳး
+452.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0452.mp3|၄၅၂။ ကာယဂတာသတိကမၼ႒ာန္း
+453.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0453.mp3|၄၅၃။ ကာယဂတာသတိကမၼ႒ာန္း
+454.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0454.mp3|၄၅၄။ ဥဂၢဟေကာသလႅ
+455.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0455.mp3|၄၅၅။ စိတ္ျဖင္႔ရြတ္ဆိုပံု…
+456.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0456.mp3|၄၅၆။ (၁) ဆံပင္
+457.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0457.mp3|၄၅၇။ ၾကြင္းေကာ႒ာသ – ႏွလံုး
+458.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0458.mp3|၄၅၈။ (၁၂) အသည္း
+459.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0459.mp3|၄၅၉။ (၂၁) သည္းေျခ
+460.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0460.mp3|၄၆၀။ (၂၆) အဆီခဲ
+461.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0461.mp3|၄၆၁။ အာနပါနႆတိကမၼ႒ာန္း
+462.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0462.mp3|၄၆၂။ အာနပါနကမၼ႒ာန္းအားထုတ္ပံု
+463.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0463.mp3|၄၆၃။ အားေကာင္းေသာသတိႏွင္႔ပညာ
+464.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0464.mp3|၄၆၄။ စတုတၳစတုကၠအဖြင္႔
+465.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0465.mp3|၄၆၅။ စာေမးပြဲဆိုင္ရာျပန္လွန္သင္ၾကားျခင္း
+466.mp3|http://dhammadownload.com/MP3Library/DawKhinHlaTin/VisuddhiMagga/Dawkhinhlatin-VisuddhiMagga-0466.mp3|၄၆၆။ စာေမးပြဲဆိုင္ရာျပန္လွန္သင္ၾကားျခင္း
