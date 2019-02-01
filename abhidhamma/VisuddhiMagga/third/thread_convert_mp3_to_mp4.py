@@ -82,6 +82,7 @@ class Converter(Thread):
             result = seconds / self.images_count
             plus_one = result
             command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-pix_fmt|yuv420p|-c:a|aac|-s|320x240|{}.mp4".format(plus_one, self.image_path, mp3file, format)
+            #command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-c:a|aac|{}.mp4".format(plus_one, self.image_path, mp3file, format)
             print(command)
             completed = subprocess.run(command.split('|'))
             print('returncode:', completed)
@@ -133,70 +134,37 @@ parser.add_argument('-o', '--output')
 parser.add_argument('-i', '--ifile')
 parser.add_argument('-f', '--flist')
 
-#def main(argv):
 
 def one(mp3s_count):
     
     mp3s = [mp3 for mp3  in sorted(glob.glob("*.mp3"), key=natural_keys)]
     
-    images = [mp3 for mp3  in sorted(glob.glob("images/citta/new_images/*.jpg"), key=natural_keys)]
-    convert_manager = ConvertManager(mp3s[:mp3s_count], len(images), 'images/citta/new_images/', threads)
+    #print(mp3s[:mp3s_count])
+    
+    images = [mp3 for mp3  in sorted(glob.glob("images/new_images/*.jpg"), key=natural_keys)]
+    convert_manager = ConvertManager(mp3s[:mp3s_count], len(images), 'images/new_images/', threads)
     convert_manager.begin_convert()
     
    
-def two(mp3s_count):
-    
-    mp3s = [mp3 for mp3  in sorted(glob.glob("*.mp3"), key=natural_keys)]
-        
 
-    images = [mp3 for mp3  in sorted(glob.glob("images/cittika/new_images/*.jpg"), key=natural_keys)]
-    convert_manager = ConvertManager(mp3s[:mp3s_count], len(images), 'images/cittika/new_images/', threads)
-    convert_manager.begin_convert()
-
-
-
-def three(mp3s_count):
-    
-    mp3s = [mp3 for mp3  in sorted(glob.glob("*.mp3"), key=natural_keys)]
-
-
-    images = [mp3 for mp3  in sorted(glob.glob("images/pakin/new_images/*.jpg"), key=natural_keys)]
-    convert_manager = ConvertManager(mp3s[:mp3s_count], len(images), 'images/pakin/new_images/', threads)
-    convert_manager.begin_convert()     
-    
+#def main(argv):
 def main():
-    
+
     mp3s = [mp3 for mp3  in sorted(glob.glob("*.mp3"), key=natural_keys)]
-    print(mp3s[:94])
-    print(mp3s[94:162])
-    print(mp3s[162:])
-    
-    first = len(mp3s[:94])
-    second = len(mp3s[94:162])
-    third = len(mp3s[162:])    
+    aa = mp3s
+    #print(aa)
+    first = len(aa)
+     
 
 
     print(first)
-    print(second)
-    print(third)
+    
     one(first)
-    two(second)
-    three(third) 
+    
+    
 
     
-    '''
-    images = [mp3 for mp3  in sorted(glob.glob("images/citta/new_images/*.jpg"), key=natural_keys)]
-    convert_manager = ConvertManager(mp3s[:one], len(images), 'images/citta/new_images/', threads)
-    convert_manager.begin_convert()
     
-    images = [mp3 for mp3  in sorted(glob.glob("images/cittika/new_images/*.jpg"), key=natural_keys)]
-    convert_manager = ConvertManager(mp3s[:two], len(images), 'images/cittika/new_images/', threads)
-    convert_manager.begin_convert()
-
-    images = [mp3 for mp3  in sorted(glob.glob("images/pakin/new_images/*.jpg"), key=natural_keys)]
-    convert_manager = ConvertManager(mp3s[:three], len(images), 'images/pakin/new_images/', threads)
-    convert_manager.begin_convert() 
-    '''
     
    
 

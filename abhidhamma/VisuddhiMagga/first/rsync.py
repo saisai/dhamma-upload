@@ -6,10 +6,10 @@
 import subprocess
 
 remote_username = 'u0_a97'
-remote_hostname = '192.168.1.38'
-escaped_remote = '/data/data/com.termux/files/home/youtube/abhidhamma/'
+remote_hostname = '192.168.1.35'
+escaped_remote = '/data/data/com.termux/files/home/storage/external-1/youtube/VisuddhiMagga/first/'
 #cmd = "/usr/bin/rsync -P --partial -avzzz *.mp4 -e 'ssh -p 8022 -i /d/jcy/sms_copy/ssh_keygen/this' %s@%s:'%s'" % (remote_username, remote_hostname, escaped_remote)
-cmd = "sshpass -p snp /usr/bin/rsync -P --partial -avzzz *.mp4 -e 'ssh -p 8022' %s@%s:'%s'" % (remote_username, remote_hostname, escaped_remote)
+cmd = "sshpass -p snp /usr/bin/rsync -P --partial -avzzz raw_json_title.txt -e 'ssh -p 8022' %s@%s:'%s'" % (remote_username, remote_hostname, escaped_remote)
 #cmd = "/usr/bin/rsync -P --partial -avzzz *.txt -e 'ssh -p 8022 -i /d/jcy/sms_copy/ssh_keygen/this' %s@%s:'%s'" % (remote_username, remote_hostname, escaped_remote)
 result = 1 
 while result != 0:
