@@ -17,3 +17,8 @@ git push -u origin master
 …or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+find . -name "*.bak" -exec rm -rfv {} \;
+find . -name "*.log" -exec rm -rfv {} \;
+find . -name "*.gif" -exec rm -rfv {} \;
