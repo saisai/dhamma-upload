@@ -1,0 +1,997 @@
+<font face="Zawgyi-One">
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+ 
+ 
+ 
+ 
+
+<div style="position: absolute; width: 100px; height: 100px; z-index: 1; left: 7px; top: 4px;" id="layer21">
+	<img src="images/Top-button-wt.gif" width="680" height="132" border="0"></div>
+<div style="position: absolute; width: 506px; height: 63px; z-index: 2; left: 44px; top: 43px;" id="layer22" align="center">
+	<font color="#800080">
+	<span style="font-family: Times New Roman;">
+	<font size="6">Pilot Sayadaw JeYaPandita</font></span></font>
+	</div>
+<div style="position: absolute; width: 100px; height: 100px; z-index: 20; left: 596px; top: 4px;" id="layer23">
+	<img src="images/PilotSayadawJeYaPandita.gif" border="0"></div>
+
+
+<!-- Start dhammadownload menu top and side bar -->
+ 
+
+
+	
+
+
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 143px;" id="layer1">
+       <a href="index.htm" target="_parent">
+       <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+    <p></p>
+</a></div><a href="index.htm" target="_parent">
+
+</a><div style="position: absolute; width: 157px; height: 37px; z-index: 1; left: 22px; top: 154px;" id="layer2" align="center"><a href="index.htm" target="_parent">
+    <font size="4">
+      </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="index.htm">Home Page</a>
+   </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 2; left: 8px; top: 201px" id="layer3">
+    <a href="AbhidhammaInEnglish.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0">
+</a></div><a href="AbhidhammaInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 3; left: 19px; top: 208px;" id="layer4" align="center"><a href="AbhidhammaInEnglish.htm" target="_parent">
+    <font size="4">
+       </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInEnglish.htm">Abhidhamma in English</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; height: 58px; z-index: 4; left: 8px; top: 270px; width: 186px" id="layer5">
+    <a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0">
+</a></div><a href="AbhidhammaInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 32px; z-index: 5; left: 20px; top: 276px;" id="layer6" align="center"><a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInMyanmar.htm">Abhidhamma in Myanmar</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 6; left: 8px; top: 339px;" id="layer7">
+    <a href="AudioInEnglish.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="AudioInEnglish.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 34px; z-index: 7; left: 20px; top: 350px;" id="layer8" align="center"><a href="AudioInEnglish.htm" target="_parent">
+     <font size="4">
+         </font></a><font size="4"><a target="_parent" href="AudioInEnglish.htm">Audio in English</a>
+     </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 8; left: 8px; top: 398px;" id="layer9">
+    <a href="AudioInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="AudioInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 9; left: 19px; top: 408px;" id="layer10" align="center"><a href="AudioInMyanmar.htm" target="_parent">
+      <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AudioInMyanmar.htm">Audio in Myanmar</a>
+      </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 10; left: 8px; top: 457px" id="layer11">
+    <a href="VideoInEnglish.htm" target="_parent">
+      <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="VideoInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 156px; height: 30px; z-index: 11; left: 23px; top: 469px;" id="layer12" align="center"><a href="VideoInEnglish.htm" target="_parent">
+     <font size="4">
+        </font></a><font size="4"><a target="_parent" href="VideoInEnglish.htm">Video in English</a>
+     </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 12; left: 8px; top: 516px" id="layer13">
+    <a href="VideoInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="VideoInMyanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 161px; height: 33px; z-index: 13; left: 18px; top: 527px;" id="layer14" align="center"><a href="VideoInMyanmar.htm" target="_parent">
+     <font size="4"></font></a><font size="4"><a href="VideoInMyanmar.htm">Video in Myanmar </a></font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 14; left: 8px; top: 575px" id="layer15">
+    <a href="eBook-English.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="eBook-English.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 31px; z-index: 15; left: 19px; top: 587px;" id="layer16" align="center"><a href="eBook-English.htm" target="_parent">
+    <font size="4">
+    </font>
+    <font size="4">
+    </font></a><font size="4"><a href="eBook-English.htm">eBook in English</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 16; left: 8px; top: 634px" id="layer17">
+     <a href="eBook-Myanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="eBook-Myanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 154px; height: 32px; z-index: 17; left: 22px; top: 646px;" id="layer18" align="center"><a href="eBook-Myanmar.htm" target="_parent"><font size="4">
+	</font><font size="4">
+	</font></a><font size="4"><a href="eBook-Myanmar.htm">eBook in Myanmar</a></font></div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 18; left: 8px; top: 693px" id="layer19">
+    <a href="dhammadownload-news.htm" target="_parent">
+    <img style="top: 660px; height: 54px;" src="images/Side-button-wt.gif" width="182" border="0">
+</a></div><a href="dhammadownload-news.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 158px; height: 36px; z-index: 19; left: 22px; top: 705px;" id="layer20" align="center"><a href="dhammadownload-news.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="dhammadownload-news.htm">NEWS
+	သတင္း႑</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 993px" id="layer37">
+    <p style="margin-top: 3px; height: 54px;">
+    <a target="_parent" href="Contribute-to-dhammadownload.htm">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 933px" id="layer35"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="Suggestion-cbox.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 872px;" id="layer33"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><p style="margin-top: 3px; height: 54px;"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a target="_parent" href="contact.htm">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 811px" id="layer31"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="usefullinks.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="usefullinks.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 750px" id="layer27"><a href="usefullinks.htm" target="_parent"> </a><a href="live.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="live.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 1010px;" id="layer38" align="center"><a href="live.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="Contribute-to-dhammadownload.htm">လႈဒါန္းရန္</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 946px;" id="layer36" align="center">
+    <font size="4"><a href="Suggestion-cbox.htm">အႀကံျပဳခ်က္မ်ား</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 886px;" id="layer34" align="center">
+    <font size="4"><a href="contact.htm">Contact Us</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 825px;" id="layer32" align="center">
+    <font size="4"><a href="usefullinks.htm">Useful Link</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 762px;" id="layer28" align="center">
+    <font size="4"><a href="live.htm">LIVE Webcast</a></font></div>
+
+
+
+<div style="position: absolute; width: 192px; height: 450px; z-index: 23; left: 9px; top: 1147px; background-color:#F3F3F3" id="layer30">
+<font size="6">iPhone, iPAD </font><font size="2">ကိုအသံုးျပဳသူမ်ားသည္ 
+	Mp3 မ်ားကို တိုက္ရိုက္ နာယူႏိုင္ပါသည္။ ဗီဒီယိုတရားေတာ္မ်ား အတြက္ App Store တြင္
+	<font color="#FF0000">Oplayer Lite</font> (သို႕မဟုတ္) yxplayer2 Lite 
+	ကို Free Download အသုံးျပဳၿပီး ၾကည္႕ရႈႏိုင္ပါသည္။
+</font>
+	<p><font size="2">
+	တျခား Mobile Phone မ်ားအတြက္ Opera Browser ကို အသုံးျပဳႏိုင္ပါသည္။</font></p><p>
+<font size="2">Android version 2.1တြင္ ျမန္မာလို မျမင္ရပါ။  Android  version 2.2 ႏွင့္ ဒီထက္ျမင့္ေသာ Android Version မ်ားပါရွိေသာ Mobile, Tablet မ်ားကို အသုံးျပဳက ျမန္မာလို ျမင္ရ ႏိုင္ပါသည္။</font></p></div>
+
+
+
+<div style="position: absolute; width: 171px; height: 64px; z-index: 23; left: 9px; top: 1074px; " id="layer39">
+<a href="https://www.facebook.com/groups/dhammadownload/?ref=br_rs#">
+<img src="images/facebook-logo.gif" width="159" height="59" border="0"></a></div>
+<!-- end dhammadownload menu top and side bar -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="position: absolute; width: 1065px; height: 1833px; z-index: 21; left: 219px; top: 155px" id="layer24" font="" face="Zawgyi-One">
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<font size="4">
+										<span style="FONT-WEIGHT: 700; FONT-FAMILY: Franklin Gothic Medium">
+									Pilot Sayadaw JeYaPandita</span></font></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<b><font face="Franklin Gothic Medium">Moenhyin 
+									Theingi Monastery </font></b></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<font size="4" face="WinTaungyi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+									</font>
+								</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<font size="4" face="WinTaungyi">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+									</font></p>
+								<p class="MsoTagline" style="text-kashida-space: 50%; text-align: left; margin-top: 0px; margin-bottom: 0px">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<font size="4" face="Zawgyi-One">
+									မိုးကုတ္ဆရာေတာ္ဘုးႀကီး၏ ဥပနိသရခံ<br>
+									<br>
+									</font><font size="5" face="Zawgyi-One">
+									ပိုင္းေလာ့ ဆရာေတာ္္ အရွင္ေဇယ်ပ႑ိတ</font><font size="4" face="Zawgyi-One"><br>
+									<br>
+									မိုးၫွင္း သိဂႌ ေက်ာင္းတိုက္</font></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									၁၆ ရက္ကြက္၊ အမွတ္ ၂ လမ္းမၾကီး <br>
+									ဒဂံုၿမိဳ႕သစ္ေျမာက္ပိုင္းၿမိဳ႕နယ္ <br>
+									ရန္ကုန္တိုင္း <br>
+									ျမန္မာႏိုင္ငံ <br>
+									(၀၉၅)-၀၉-၅၁၉ ၆၁၂၇ <br>
+									(၀၉၅)-၀၉-၅၁၉ ၆၁၂၇
+									<font size="4" face="Zawgyi-One"><br>
+									ေဟာႀကားေတာ္မူေသာတရားေတာ္မ်ား <br>
+									<br>
+									<br>
+									</font><a href="http://pilotsayadaw.net/">
+									http://pilotsayadaw.net/</a></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									ပုိင္း ေလာ့ဆရာေတာ္ဘုရားႀကီးက 
+									မိန္႔ေတာ္မူပါတယ္..။ </p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									ဆရာေတာ္ဘုရားေဟာၾကား ေတာ္မူတဲ့ တရားေတာ္ေတြက 
+									ေယာဂီသစ္ စခန္းတစ္ပတ္စာ၊ ကုိ ေန႔ အလုိက္ 
+									ဥာဏ္အလုိက္ အဆင့္ဆင့္တက္သြား ေပးတာမုိ႔... 
+									အစဥ္လုိက္နာယူဘုိ႔ လုိအပ္ေၾကာင္း၊ ဟုိတစ္ပုဒ္ 
+									ဒီတစ္ပုဒ္ ေဖာက္မနာဘုိ႔ မွာၾကားေတာ္မူပါတယ္..။ </p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									ေယာဂီသစ္ တရားေတာ္မ်ား နာယူၿပီးလွ်င္ေတာ့ 
+									ေယာဂီေဟာင္းအေခြ ကုိနာ ယူႏုိင္ေၾကာင္း 
+									ႀကဳိတင္အမွာစာ လည္းေရး ထားဘုိ႔ 
+									မိန္႔ေတာ္မူပါတယ္..</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<b><font size="5">Dhamma Talk Video</font></b></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p style="margin-top: 0; margin-bottom: 0" align="left">
+<font size="4" face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/Video-Library/PilotSayadawJeYaPandita/PilotSayadawJeYaPandita-KhinPoonGyiSalPar-D1-26-1-2008.wmv">
+ခင္ပြန္းႀကီးဆယ္ပါးကန္ေတာ့ခန္း တရားေတာ္(၁) ၂၆-၁-၂၀၀၈(၄၇-လမ္း)</a></font></p>
+<p style="margin-top: 0; margin-bottom: 0" align="left">
+<font size="4" face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/Video-Library/PilotSayadawJeYaPandita/PilotSayadawJeYaPandita-KhinPoonGyiSalPar-D2-26-1-2008.wmv">
+ခင္ပြန္းႀကီးဆယ္ပါးကန္ေတာ့ခန္း တရားေတာ္(၂) ၂၆-၁-၂၀၀၈(၄၇-လမ္း)</a></font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p style="margin-top: 0; margin-bottom: 0" align="left">
+&nbsp;</p>
+								<p style="margin-top: 0; margin-bottom: 0" align="left">
+<font size="4" face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/Video-Library/PilotSayadawJeYaPandita/PilotSayadawJeYaPandita-VipassanaAhMyinMhan-D1-1-1-2008.wmv">
+၀ိပႆနာအျမင္မွန္ တရားေတာ္(၁) ၁-၁-၂၀၀၈(ဗိုလ္တေထာင္ေစတီ)</a></font></p>
+								<p style="margin-top: 0; margin-bottom: 0" align="left">
+<font size="4" face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/Video-Library/PilotSayadawJeYaPandita/PilotSayadawJeYaPandita-VipassanaAhMyinMhan-D2-1-1-2008.wmv">
+၀ိပႆနာအျမင္မွန္ တရားေတာ္(၂) ၁-၁-၂၀၀၈(ဗိုလ္တေထာင္ေစတီ)</a></font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+****dhamma talks uploaded and published on 11 April 2011****</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4" face="Zawgyi-One">DVD 01 
+								အလုပ္ေပးတရားေတာ္မ်ား</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၁။ အလုပ္ေပးတရားေတာ္</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၂။ ဝိပႆနာ ပညာ (တဏွာအစပ္ျဖတ္ပုံ)</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၃။ ဝဋ္သုံးပါးႏွင့္ အဆုံးသတ္</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၄။ ကုသိုလ္ႏွင့္ အကုသိုလ္</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၅။ မဂ္ႏွင့္ စ်ာန္</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၆။ မဂ္အေၾကာင္း တိရိစာၦန္ဘုံခန္း</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၇။ သံသရာထြက္လမ္း ပါရမီဆယ္ပါး</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၈။ ပဋိသေႏၶအစဥ္ႏွင့္ ခႏၶာျဖစ္ပုံ 
+								(ပ)</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၉။ ပဋိသေႏၶအစဥ္ႏွင့္ ခႏၶာျဖစ္ပုံ 
+								(ဒု)</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၁၀။ မဂၢင္ရွစ္ရပ္ အက်င့္ျမတ္ 
+								(လမ္းမမွားေစရန္)</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၁၁။ ခံစားသိ</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၁၂။ ကံအက်ိဳးေပးမွ ဝိပႆနာကူးပုံ</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၁၃။ အသိမ္းတရားေတာ္</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ၾသစေတးလ်ႏိုင္ငံ(ဆစ္ဒေန) (၂၀၀၈)<br>
+								အမွတ္စဥ္(၁)<br>
+&nbsp;</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-01/01-PilotSayadawJeYaPandita-DVD01.mp4">
+								<font size="4">၁။ လမ္းသံုးလမ္း</font></a><font size="4"><br>
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-01/02-PilotSayadawJeYaPandita-DVD01.mp4">
+								၂။ အပါယ္မ်ိဳးေစ့သကၠာယဒိ႒ိ</a><br>
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-01/03-PilotSayadawJeYaPandita-DVD01.mp4">
+								၃။ ကံႏွင့္ကံအက်ိဳးေပး</a><br>
+&nbsp;</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၂)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">ၾသစေတးလ်ႏိုင္ငံ (ဆစ္ဒေန-၂၀၀၈)<br>
+<br>
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-02/01-PilotSayadawJeYaPandita-DVD02.mp4">
+၁။ ဘုရားေပးတဲ့အလုပ္ေပးတရား</a><br>
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-02/02-PilotSayadawJeYaPandita-DVD02.mp4">
+၂။ နိဗၺာန္လိုခ်င္သူမ်ားအတင္းမေျပာနဲ ့</a><br>
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-02/03-PilotSayadawJeYaPandita-DVD02.mp4">
+၃။ ခင္ပြန္းၾကီးဆယ္ပါးကန္ေတာ့ခန္း(၁)</a><br>
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-02/04-PilotSayadawJeYaPandita-DVD02.mp4">
+၄။ ခင္ပြန္းၾကီးဆယ္ပါးကန္ေတာ့ခန္း(၂)</a><br>
+&nbsp;</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၃)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">မိုးကုတ္ျမိဳ ့ (မဂၤလာေက်ာင္းတိုက္-၂၀၀၉)<br>
+<br>
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-03/01-PilotSayadawJeYaPandita-DVD03.mp4">
+၁။ အဖြင့္ၾသ၀ါဒ</a><br>
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-03/02-PilotSayadawJeYaPandita-DVD03.mp4">
+၂။ ခႏၶာငါးပါးသိရန္ အေရးၾကီးပံု (ဘုရားရွင္ျပဳခဲ့ေသာ ျပဳႏိုင္ခဲေသာအရာ)</a><br>
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-03/03-PilotSayadawJeYaPandita-DVD03.mp4">
+၃။ ခႏၶာငါးပါးျဖစ္ေပၚလာပံုႏွင့္႐ႈမွတ္ပံု (အေဖ၊ အေမေမြးတဲ့ ခႏၶာႏွင့္အာရံုနဲ ့ 
+ဒါြရကေမြးတဲ့ခႏၶာ)</a><br>
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-03/04-PilotSayadawJeYaPandita-DVD03.mp4">
+၄။ ကာလသံုးပါးလြတ္ပံု (အလုပ္ေပးတရား)</a><br>
+&nbsp;</font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၄)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">မိုးကုတ္ျမိဳ ့၊ မဂၤလာေက်ာင္းတိုက္-၂၀၀၉<br>
+<br>
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-04/01-PilotSayadawJeYaPandita-DVD04.mp4">
+၁။ အပါယ္မ်ိဳးေစ့သကၠာယဒိ႒ိပါယ္သတ္ပံု (သစၥာေလးခ်က္တစ္ျပိဳင္နက္ျပီးပုံ) 
+(တဏွာအစပ္စပ္ပံုႏွင့္ ပ်က္ပံု)</a><br>
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-04/02-PilotSayadawJeYaPandita-DVD04.mp4">
+၂။ ၀ဋ္သံုးပါးအေၾကာင္း&nbsp; (၀ဋ္သံုးပါးမွလြတ္ပံု၊ ကာလသံုးပါးလြတ္ပံု)</a><br>
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-04/03-PilotSayadawJeYaPandita-DVD04.mp4">
+၃။ သတိပ႒ာန္ </a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-04/04-PilotSayadawJeYaPandita-DVD04.mp4">
+၄။ သမၼပၸဓာန္အေၾကာင္းႏွင့္ ဣဒိ ဒၶိပါဒ္အေၾကာင္း</a><br>
+&nbsp;</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၅)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-05/01-PilotSayadawJeYaPandita-DVD05.mp4">၁။ ဣဒၵိပါဒ္ ေလးပါး (ကာလမျခား မေနာေပၚပုံ၊ မဂ္ႏွင့္ စ်ာန္၊ 
+အာနႏၵာမေထရ္ႏ်င့္ အိေႃႏၵငါးပါးညွိပုံ)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-05/02-PilotSayadawJeYaPandita-DVD05.mp4">၂။ ေဟာစဥ္တရား</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-05/03-PilotSayadawJeYaPandita-DVD05.mp4">၃။ အာသဝအေၾကာင္း (ကိေလသမာန္ ကိုယ္တြင္းရန္)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-05/04-PilotSayadawJeYaPandita-DVD05.mp4">၄။ တဏွာအစပ္အေၾကာင္း (စိတ္အျမင္မွားႏွင့္ စိတ္အျမင္မွန္)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၆)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-06/01-PilotSayadawJeYaPandita-DVD06.mp4">၁။ သစၥာေလးခ်က္ တစ္ၿပိဳင္နက္ ၿပီးပုံ (တစ္ခုတည္းသာရွိေသာ အရႈဥာဏ္)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-06/02-PilotSayadawJeYaPandita-DVD06.mp4">၂။ အာရကၡတရားေလးပါး 
+</a> </font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-06/03-PilotSayadawJeYaPandita-DVD06.mp4">၃။ ဝိပါကဝဋ္ကို သတ္၍မရ (ကံအက်ိဳးေပးကို နားလည္ေစရန္)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-06/04-PilotSayadawJeYaPandita-DVD06.mp4">၄။ အေဖာ္ေကာင္း</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၇)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-07/01-PilotSayadawJeYaPandita-DVD07.mp4">၁။ ကာလသုံးပါးလြတ္ရန္ အေရးႀကီးပုံ (ဘေဒၵ​​ဎၺသုတၱန္အေၾကာင္း)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-07/02-PilotSayadawJeYaPandita-DVD07.mp4">၂။ တရားစစ္ခန္း</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-07/03-PilotSayadawJeYaPandita-DVD07.mp4">၃။ အသိမ္းတရား (တရားသိမ္းပြဲ)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၈)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-08/01-PilotSayadawJeYaPandita-DVD08.mp4">၁။ အဖြင့္ ၾသဝါဒ</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-08/02-PilotSayadawJeYaPandita-DVD08.mp4">၂။ ဘယ္သူ စကားေျပာသလဲ (ဝဇီသခၤါရ သိမ္းပုံ)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-08/03-PilotSayadawJeYaPandita-DVD08.mp4">၃။ မရဏအသုဘ သံေဝဂ ယွဥ္ေသာ အလုပ္ေပး</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-08/04-PilotSayadawJeYaPandita-DVD08.mp4">၄။ ႀကီးေလးေသာ အျပစ္ကို က်ဴးလြန္ေနျခင္း (သံေဝဂႏွင့္ အလုပ္ေပးတရား)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၉)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+၁။ ခ်မ္းသာခံစားေလေလ</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+၂။ ဆင္းရဲ ထင္ရွားေလေလ</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+၃။ ပညာႏွင့္ ဥာဏ္ (ဥာဏ္ကို ဥာဏ္မွန္းသိ၍ အားထုတ္ေစျခင္း)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+၄။ ျမတ္ဗုဒၶ၏ ေသမင္း မျမင္ႏိုင္ေသာ တရား</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">၅။ ဆင္ေသႏွင့္ က်ီးမိုက္</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-09/01-PilotSayadawJeYaPandita-DVD09.mp4">
+၁။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-09/02-PilotSayadawJeYaPandita-DVD09.mp4">
+၂။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-09/03-PilotSayadawJeYaPandita-DVD09.mp4">
+၃။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-09/04-PilotSayadawJeYaPandita-DVD09.mp4">
+၄။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-09/05-PilotSayadawJeYaPandita-DVD09.mp4">
+၅။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-09/06-PilotSayadawJeYaPandita-DVD09.mp4">
+၆။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-09/07-PilotSayadawJeYaPandita-DVD09.mp4">
+၇။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-09/08-PilotSayadawJeYaPandita-DVD09.mp4">
+၈။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၁၀)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">ေမွာ္ဘီ(စႏၵကူးျမိဳင္သာသနာ့ရိပ္သာ-၂၀၀၉)<br>
+<br>
+၁။ ကမၼဆႏၵဗ်ာပါဒပါယ္ႏုိင္ရန္ <br>
+၂။ ႏွလံုးသြင္းမမွားေစနဲ ့<br>
+၃။ မေကာင္းမႈ၊ ေကာင္းမႈ၊ စိတ္စင္ၾကယ္မႈ<br>
+၄။ သံေ၀ဂႏွင့္အလုပ္ေပး<br>
+&nbsp;</font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-10/01-PilotSayadawJeYaPandita-DVD10.mp4">
+၁။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-10/02-PilotSayadawJeYaPandita-DVD10.mp4">
+၂။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-10/03-PilotSayadawJeYaPandita-DVD10.mp4">
+၃။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-10/04-PilotSayadawJeYaPandita-DVD10.mp4">
+၄။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-10/05-PilotSayadawJeYaPandita-DVD10.mp4">
+၅။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-10/06-PilotSayadawJeYaPandita-DVD10.mp4">
+၆။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-10/07-PilotSayadawJeYaPandita-DVD10.mp4">
+၇။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-10/08-PilotSayadawJeYaPandita-DVD10.mp4">
+၈။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၁၁)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">ေမွာ္ဘီ(စႏၵကူးျမိဳင္သာသနာ့ရိပ္သာ-၂၀၀၉)<br>
+<br>
+၁။ သတိၱအရွိန္အ၀ါေျပာင္းလဲပံု<br>
+၂။ အင္အားအၾကီးဆံုးဓါတ္ႏွစ္ပါး<br>
+၃။ ခင္ပြန္းၾကီးဆယ္ပါးကန္ေတာ့ခန္း<br>
+၄။ ၀ိဇၨာစရဏ<br>
+&nbsp;</font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-11/01-PilotSayadawJeYaPandita-DVD11.mp4">
+၁။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-11/02-PilotSayadawJeYaPandita-DVD11.mp4">
+၂။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-11/03-PilotSayadawJeYaPandita-DVD11.mp4">
+၃။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-11/04-PilotSayadawJeYaPandita-DVD11.mp4">
+၄။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-11/05-PilotSayadawJeYaPandita-DVD11.mp4">
+၅။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-11/06-PilotSayadawJeYaPandita-DVD11.mp4">
+၆။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-11/07-PilotSayadawJeYaPandita-DVD11.mp4">
+၇။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita/DVD-11/08-PilotSayadawJeYaPandita-DVD11.mp4">
+၈။ ------</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၁၂)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-12/01-PilotSayadawJeYaPandita-DVD12.mp4">၁။ အေရးႀကီးေသာ အရကၡတရား</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-12/02-PilotSayadawJeYaPandita-DVD12.mp4">
+၂။ အလုပ္ေပး (သစၥာေလးခ်က္ တၿပိဳင္နက္)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-12/03-PilotSayadawJeYaPandita-DVD12.mp4">၃။ ဆီျပည္႕ခြက္ပမာ</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-12/04-PilotSayadawJeYaPandita-DVD12.mp4">၄။ အဘိဇၨ်ာအေၾကာင္းႏွင့္ ကာလသုံးပါး လြတ္ပုံ (အလုပ္ေပးတရား)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၁၃)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-13/01-PilotSayadawJeYaPandita-DVD13.mp4">၁။ ကိစၥၿပီးျခင္း၊ မၿပီးျခင္း (အဝိဇၨာေအာက္၌ ကိစၥအဝဝၿပီးႏိုင္)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-13/02-PilotSayadawJeYaPandita-DVD13.mp4">၂။ ျမတ္ဗုဒၶ၏ မွာတမ္း</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-13/03-PilotSayadawJeYaPandita-DVD13.mp4">၃။ အသိမ္းတရား</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၁၄)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၁၅)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-15/01-PilotSayadawJeYaPandita-DVD15.mp4">၁။ ဝိပႆနာ အေျခခံ အလုပ္ေပး (၁)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-15/02-PilotSayadawJeYaPandita-DVD15.mp4">၂။ ဝိပႆနာ အေျခခံ အလုပ္ေပး (၂)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-15/03-PilotSayadawJeYaPandita-DVD15.mp4">၃။ ဝိပႆနာ အေျခခံ အလုပ္ေပး (၃)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">DVD အမွတ္စဥ္ (၁၆)</font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-16/01-PilotSayadawJeYaPandita-DVD16.mp4">၁။ စိတ္အေၾကာင္း (ၾသစေတးလ်)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-16/02-PilotSayadawJeYaPandita-DVD16.mp4">၂။ ဘဝအေၾကာင္း (ၾသစေတးလ်)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-16/03-PilotSayadawJeYaPandita-DVD16.mp4">၃။ ကုသိုလ္ႏွင့္ အကုသိုလ္ (ၾသစေတးလ်)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-16/04-PilotSayadawJeYaPandita-DVD16.mp4">၄။ ဘဝျပဳျပင္ေရး (ၾသစေတးလ်)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-16/05-PilotSayadawJeYaPandita-DVD16.mp4">၅။ ကံႏွင့္ ကံ အက်ိဳးေပး (ၾသစေတးလ်)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-16/06-PilotSayadawJeYaPandita-DVD16.mp4">၆။ သတၱိသြင္း အေရးႀကီးပုံ (ရတနာဂုဏ္ျမင့္ေက်ာင္း)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+<font size="4">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP4Library/PilotSayadawJeYaPandita//DVD-16/07-PilotSayadawJeYaPandita-DVD16.mp4">၇။ မရဏ အသုဘ သံေဝဂ (ေမွာဘီ)</a></font></p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+“ကံႏွင့္ကံအက်ဳိးေပး”<br>
+အမွတ္စဥ္(၁)<br>
+<br>
+ပိုင္းေလာ့ဆရာေတာ္<br>
+အရွင္ေဇယ်ပ႑ိတ<br>
+အမွတ္စဥ္(၁)<br>
+ၾသစေၾတးလ်ႏိုင္ငံ(ဆစ္ဒေန)(၂၀၀၈)<br>
+လမ္းသံုးလမ္း<br>
+အပါယ္မ်ဳိးေစ့သကၠာယဒိဠိ<br>
+ကံႏွင့္ကံအက်ဳိးေပး<br>
+<br>
+ပိုင္းေလာ့ဆရာေတာ္<br>
+အရွင္ေဇယ်ပ႑ိတ<br>
+အမွတ္စဥ္(၉)<br>
+ေမွာ္ဘီ(စႏၵကူးျမိဳင္သာသနာ့ရိပ္သာ-၂၀၀၉)<br>
+ခ်မ္းသာခံစားေလေလ<br>
+ဆင္းရဲထင္ရွားေလေလ<br>
+ပညာႏွင့္ဥာဏ္<br>
+(ဥာဏ္ကိုဥာဏ္မွန္းသိ၍အားထုတ္ေစျခင္း)<br>
+ျမတ္ဗုဒၶ၏ေသမင္းမျမင္ႏိုင္ေသာတရား<br>
+ဆင္ေသႏွင့္က်ီးမိုက္<br>
+ပိုင္းေလာ့ဆရာေတာ္<br>
+အရွင္ေဇယ်ပ႑ိတ<br>
+ေမွာ္ဘီ(စႏၵကူးျမိဳင္သာသနာ့ရိပ္သာ-၂၀၀၉)<br>
+အမွတ္စဥ္(10)<br>
+ကမၼဆႏၵဗ်ာပါဒပါယ္ႏိုင္ရန္<br>
+ႏွလံုးသြင္းမမွားေစနဲ႔<br>
+မေကာင္းမႈ၊ေကာင္းမႈ၊စိတ္စင္ၾကယ္မႈ<br>
+သံေ၀ဂႏွင့္အလုပ္ေပး<br>
+<br>
+ပိုင္းေလာ့ဆရာေတာ္<br>
+အရွင္ေဇယ်ပ႑ိတ<br>
+ေမွာ္ဘီ(စႏၵကူးျမိဳင္သာသနာ့ရိပ္သာ-၂၀၀၉)<br>
+အမွတ္စဥ္(11)<br>
+သတိၱအရွိန္အ၀ါေျပာင္းလဲပံု<br>
+အင္အားအၾကီးဆံုးဓါတ္ႏွစ္ပါး<br>
+ခင္ပြန္းၾကီးဆယ္ပါးကန္ေတာ့ခန္း<br>
+၀ိဇၨာစရဏ<br>
+<br>
+<br>
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+ 
+ 
+ 
+ 
+
+
+
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-70zUvF4huN4OU"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-70zUvF4huN4OU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+</font>
+
+
+
+<font face="Zawgyi-One">
+
+
+
+
+
+
+</font>
