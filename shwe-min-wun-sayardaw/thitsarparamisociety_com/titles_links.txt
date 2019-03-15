@@ -1,0 +1,403 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/203.mp3|၁။ ( ၃ )ပါးစံုမွ ပိုေကာင္းလွ (သာဓုသုတၱံ)
+002.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/153.mp3|၂။ ( ၅၂၈ )သြယ္ ေမတၱာ (ေမတၱသုတၱံ)
+003.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/222.mp3|၃။ ( ၆၆ ) ႏွစ္ေျမာက္ ေမြးေန႔ပူေဇာ္ပြဲ
+004.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/64.mp3|၄။ (၁၁) မီးၿငိမ္းတရား
+005.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/166.mp3|၅။ (၃၈) ျဖာ မဂၤလာ (မာတာပိတုဥပ႒ာနံ) တရားေတာ္
+006.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/158.mp3|၆။ ကဆုန္လျပည္႔ ဗုဒၶေန႔
+007.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/85.mp3|၇။ ကာလသုတၱန္
+008.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/145.mp3|၈။ ကိုယ္႔ကိုခ်စ္ရင္ ကိုယ္ျပဳျပင္
+009.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/191.mp3|၉။ ကိုယ္႔ကိုခ်စ္ရင္ ကိုယ္ျပဳျပင္ (၂ ၀၁၃ -သႀကၤန္ )
+010.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/140.mp3|၁၀။ ကိုယ္႔အားကိုယ္႔ကိုး လူ႔တန္ဘိုး
+011.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/61.mp3|၁၁။ ကိုယ္႔အားကုိယ္ကိုး လူ႔တန္ဘိုး
+012.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/141.mp3|၁၂။ ကုသိုလ္အျမတ္ယူတတ္ပါေစ
+013.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/149.mp3|၁၃။ က်ိဳး ( ၅ ) ပါးပိုင္ ဒါနကိုင္
+014.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/121.mp3|၁၄။ ေကာင္းျခင္းေလးျဖာ
+015.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/217.mp3|၁၅။ ေက်းဇူးဂုဏ္အင္ ဆပ္ေစခ်င္
+016.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/195.mp3|၁၆။ ေက်းဇူးရွိက ဆပ္ေပးရ
+017.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/134.mp3|၁၇။ ခုေရာ ေနာင္ပါ ၿမဲဝမ္းသာ
+018.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/187.mp3|၁၈။ စိတ္ကိုဆံုးမ နိဗၺာန္ရ ( ၁ )
+019.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/188.mp3|၁၉။ စိတ္ကိုဆံုးမ နိဗၺာန္ရ ( ၂ )
+020.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/184.mp3|၂၀။ စိတ္ကိုျပဳျပင္ နိဗၺာန္ဝင္ ( ၁ )
+021.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/185.mp3|၂၁။ စိတ္ကိုျပဳျပင္ နိဗၺာန္ဝင္ ( ၂ )
+022.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/186.mp3|၂၂။ စိတ္ကိုျပဳျပင္ နိဗၺာန္ဝင္ ( ၃ )
+023.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/136.mp3|၂၃။ စူ႒သုတေသာမဇတ္
+024.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/135.mp3|၂၄။ ဆင္းရဲကင္းေဝး ခ်မ္းသာေရး
+025.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/220.mp3|၂၅။ ဆင္းရဲကင္းေဝး ခ်မ္းသာေရး
+026.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/86.mp3|၂၆။ ဆဆကၠသုတၱန္
+027.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/147.mp3|၂၇။ ဆရာ႔ေက်းဇူး
+028.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/67.mp3|၂၈။ တရားနဲ႔သာ ပူေဇာ္ပါ
+029.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/81.mp3|၂၉။ တရားရျခင္း ( ၅ )ပါး -၁
+030.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/82.mp3|၃၀။ တရားရျခင္း ( ၅ )ပါး -၂
+031.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/83.mp3|၃၁။ တရားရျခင္း ( ၅ )ပါး -၃
+032.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/84.mp3|၃၂။ တရားရျခင္း ( ၅ )ပါး -၄
+033.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/180.mp3|၃၃။ တရားရႈနည္း
+034.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/182.mp3|၃၄။ တရားရႏိုင္တဲ႔ အခြင္႔အခါေကာင္း ( ၄ )မ်ိဳး
+035.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/196.mp3|၃၅။ တရားအားထုတ္တဲ႔ ပုဂၢိဳလ္ဆိုတာ ( ၁ )
+036.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/197.mp3|၃၆။ တရားအားထုတ္တဲ႔ ပုဂၢိဳလ္ဆိုတာ ( ၂ )
+037.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/181.mp3|၃၇။ တရားအားထုတ္ရမယ္႔အခ်ိန္အခါ ( ၅ )မ်ိဳး
+038.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/190.mp3|၃၈။ တရားအားထုတ္ရမယ္႔အခ်ိန္အခါ ( ၅ )မ်ိဳး ( ၂၀၁၃-သႀကၤန္ )
+039.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/127.mp3|၃၉။ တရားအားထုတ္သူ ျပည္႔စံုရမည္႔ အရည္အခ်င္း ( ၅ )မ်ိဳး
+040.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/177.mp3|၄၀။ တရားေစာင္႔မွ ခ်မ္းသာရ ( ၁ )
+041.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/178.mp3|၄၁။ တရားေစာင္႔မွ ခ်မ္းသာရ ( ၂ )
+042.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/151.mp3|၄၂။ တားမရေသာ ေဘးႀကီး (၄)မ်ိဳး
+043.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/174.mp3|၄၃။ တိုက္ပြဲဝင္တရား
+044.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/169.mp3|၄၄။ တေယာဇနဝတၳဳ (ကံတရားသည္သာ ကိုယ္ပိုင္ဥစၥာ)
+045.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/129.mp3|၄၅။ ဒါနကထာ
+046.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/41.mp3|၄၆။ ဒါရုကၡေႏၶာပမသုတၱန္ ( ၁ )
+047.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/42.mp3|၄၇။ ဒါရုကၡေႏၶာပမသုတၱန္ ( ၂ )
+048.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/43.mp3|၄၈။ ဒါရုကၡေႏၶာပမသုတၱန္ ( ၃ )
+049.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/44.mp3|၄၉။ ဒါရုကၡေႏၶာပမသုတၱန္ ( ၄ )
+050.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/194.mp3|၅၀။ ဒါရုဋိကပုတၱဝတၳဳ
+051.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/148.mp3|၅၁။ ဒိ႒ိပယ္ခြာေရး
+052.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/183.mp3|၅၂။ ဓမၼ အပၸမာဒမဂၤလာ
+053.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/80.mp3|၅၃။ ဓမၼပီတိ / ဓမၼရသ
+054.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/167.mp3|၅၄။ နိဗၺာနသညာ
+055.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/144.mp3|၅၅။ နႏၵေတၳရ ဝတၳဳ
+056.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/168.mp3|၅၆။ ႏွစ္သစ္မဂၤလာ
+057.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/192.mp3|၅၇။ ႏွစ္သစ္မဂၤလာ ( အႏွစ္-၄ပါး )
+058.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/62.mp3|၅၈။ ႏွစ္သစ္မဂၤလာတရား
+059.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/137.mp3|၅၉။ ပညာဘာဝနာျပည္႔စံုမွ
+060.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/122.mp3|၆၀။ ပဥၥဂၢဒါယကျဗဟၼဏဝတၳဳ
+061.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/253.mp3|၆၁။ ပဥၥဘိကၡဳဝတၳဳ ( ၁ )
+062.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/254.mp3|၆၂။ ပဥၥဘိကၡဳဝတၳဳ ( ၂ )
+063.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/255.mp3|၆၃။ ပဥၥဘိကၡဳဝတၳဳ ( ၃ )
+064.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/116.mp3|၆၄။ ပါရမီ
+065.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/202.mp3|၆၅။ ပုဂၢိဳလ္ ( ၃ )မ်ိဳး
+066.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/179.mp3|၆၆။ ပုဂၢိဳလ္ ( ၄ ) မ်ိိဳး (ပုဂၢသုတၱံ)
+067.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/78.mp3|၆၇။ ပုဂၢိဳလ္ ( ၄ ) မ်ိဳး
+068.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/157.mp3|၆၈။ ေပသကာရေဒတုဝတၱဳ (ရက္ကန္းသည္ သမီး)
+069.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/163.mp3|၆၉။ ဗဟုကာရသုတၱန္
+070.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/156.mp3|၆၀။ ဗဟုပုတၱိကေထရီ (သားသမီးမ်ားေသာ ေထရီ)
+071.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/139.mp3|၇၀။ ဗိလာလပါဒကေသ႒ိဝတၱဳ
+072.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/162.mp3|၇၂။ ဘဝ တာဝန္ ေက်ပြန္ပါေစ
+073.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/218.mp3|၇၃။ ဘဝ တာဝန္ ေက်ပြန္ပါေစ
+074.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/219.mp3|၇၄။ ဘဝ တာဝန္ ေက်ပြန္ပါေစ
+075.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/161.mp3|၇၅။ ဘဝတန္ဘိုး
+076.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/251.mp3|၇၆။ ဘာဝနာသုတၱန္
+077.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/200.mp3|၇၇။ ဘုရားရွင္၏ အာမခံခ်က္
+078.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/262.mp3|၇၈။ မဆုတ္ယုတ္ေၾကာင္း ( ၄ )ပါး-၁
+079.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/263.mp3|၇၉။ မဆုတ္ယုတ္ေၾကာင္း ( ၄ )ပါး-၂
+080.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/77.mp3|၈၀။ မဟာကပၸိဏေထရသုတၱန္
+081.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/165.mp3|၈၁။ မဟာဓနဝါဏိစၥ
+082.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/66.mp3|၈၂။ မဟာေဂါသဂၤသုတ္
+083.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/88.mp3|၈၃။ မအို မနာ မေသမႈတရား
+084.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/89.mp3|၈၄။ မာဂဏီယ သုတ္
+085.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/143.mp3|၈၅။ မိမိသည္သာ အားကိုးရာ
+086.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/150.mp3|၈၆။ မိုးႏွင္႔တူေသာ ပုဂၢိဳလ္ ( ၄ )မ်ိဳး
+087.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/22.mp3|၈၇။ ျဗဟၼာ႔ဝိဟာရ ( ၁ )
+088.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/23.mp3|၈၈။ ျဗဟၼာ႔ဝိဟာရ ( ၂ )
+089.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/154.mp3|၈၉။ ျမတ္ေသာေနထိုင္ျခင္း
+090.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/260.mp3|၉၀။ ျမတ္ေသာေနထိုင္ျခင္း ( ၁ )
+091.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/261.mp3|၉၁။ ျမတ္ေသာေနထိုင္ျခင္း ( ၂ )
+092.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/249.mp3|၉၂။ ေမတၱသုတၱံ
+093.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/250.mp3|၉၃။ ေမတၱာအခါေတာ္ေန႔
+094.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/69.mp3|၉၄။ ေယာဂီက်င္႔ဖြယ္
+095.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/138.mp3|၉၅။ ရခဲျခင္းတရား ( ၄ ) ပါး
+096.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/221.mp3|၉၆။ ရခဲျခင္းတရား ေလးပါး
+097.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/146.mp3|၉၇။ ေရာဟိတႆသုတၱန္
+098.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/29.mp3|၉၈။ ေရႊမင္းဝံ ရိပ္သာမိသားစုမ်ားအေပၚေက်းဇူးဆပ္၊ တိုက္တြန္း တရား
+099.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/176.mp3|၉၉။ လံုၿခံဳေရးတရား
+100.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/131.mp3|၁၀၀။ လွ်င္ျမန္တဲ႔ဟသၤာ
+101.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/142.mp3|၁၀၁။ လိုတာလွဴက လိုျပည္႔ဝ
+102.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/252.mp3|၁၀၂။ လူ႔ဘဝဂုဏ္ရည္
+103.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/164.mp3|၁၀၃။ ေလးျဖာခ်မ္းသာ ေရြးခ်ယ္ပါ
+104.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/65.mp3|၁၀၄။ ေလာကႀကီးဟာ သင္႔ဆရာ
+105.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/133.mp3|၁၀၅။ ဝန္ထုတ္ဝန္ပိုး
+106.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/52.mp3|၁၀၆။ ဝမၼိကသုတ္ ( ၁ )
+107.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/53.mp3|၁၀၇။ ဝမၼိကသုတ္ ( ၂ )
+108.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/54.mp3|၁၀၈။ ဝမၼိကသုတ္ ( ၃ )
+109.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/55.mp3|၁၀၉။ ဝမၼိကသုတ္ ( ၄ )
+110.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/119.mp3|၁၁၀။ ဝါဆိုလျပည္႔ ဓမၼစၾကာအခါေတာ္ေန႔
+111.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/24.mp3|၁၁၁။ ဝိပႆနာဂုဏ္ရည္ ( ၁ )
+112.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/25.mp3|၁၁၂။ ဝိပႆနာဂုဏ္ရည္ ( ၂ )
+113.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/26.mp3|၁၁၃။ ဝိပႆနာဂုဏ္ရည္ ( ၃ )
+114.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/27.mp3|၁၁၄။ ဝိပႆနာဂုဏ္ရည္ ( ၄ )
+115.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/128.mp3|၁၁၅။ ဝိပႆနာညစ္ညဴးေၾကာင္း ( ၁၀ )ပါး
+116.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/264.mp3|၁၁၆။ ဝိပႆနာရႈနည္း
+117.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/199.mp3|၁၁၇။ ဝိပႆနာသမၼဒိ႒ိ
+118.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/68.mp3|၁၁၈။ သကၠပဥၥသုတ္
+119.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/204.mp3|၁၁၉။ သကၤန္းလွဴက်ိဳး
+120.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/90.mp3|၁၂၀။ သကၤန္းလွဴက်ိဳး အမ်ိဳးမ်ိဳး
+121.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/87.mp3|၁၂၁။ သတိပ႒ာန္
+122.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/30.mp3|၁၂၂။ သတိပ႒ာန္ ( ၁ )
+123.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/31.mp3|၁၂၃။ သတိပ႒ာန္ ( ၂ )
+124.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/32.mp3|၁၂၄။ သတိပ႒ာန္ ( ၃ )
+125.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/33.mp3|၁၂၅။ သတိပ႒ာန္ ( ၄ )
+126.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/265.mp3|၁၂၆။ သတိပ႒ာန္ဂုဏ္ရည္ တရားေတာ္
+127.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/126.mp3|၁၂၇။ သတိပ႒ာန္ရႈတာ ဘယ္သူ႔အတြက္
+128.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/125.mp3|၁၂၈။ သတိပ႒ာန္ရႈနည္း
+129.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/123.mp3|၁၂၉။ သတိပ႒ာန္အက်ဥ္း
+130.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/124.mp3|၁၃၀။ သတိပ႒ာန္အက်ိဳး ( ၇ )မ်ိဳးအက်ဥ္း
+131.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/117.mp3|၁၃၁။ သတိပ႒ာန္ေလးပါး ရႈပြားပံု ( ၁ )
+132.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/118.mp3|၁၃၂။ သတိပ႒ာန္ေလးပါး ရႈပြားပံု ( ၂ )
+133.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/257.mp3|၁၃၃။ သတိပ႒ာန္ေလးပါးရႈမွတ္ၿပီး ရရွိႏိုင္ေသာဥာဏ္ (၁)
+134.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/258.mp3|၁၃၄။ သတိပ႒ာန္ေလးပါးရႈမွတ္ၿပီး ရရွိႏိုင္ေသာဥာဏ္ (၂)
+135.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/259.mp3|၁၃၅။ သတိပ႒ာန္ေလးပါးရႈမွတ္ၿပီး ရရွိႏိုင္ေသာဥာဏ္ (၃)
+136.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/152.mp3|၁၃၆။ သတိပ႒ာန္ေဟာၾကားရာေနရာ
+137.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/170.mp3|၁၃၇။ သတိေပးတိုက္တြန္းတရား
+138.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/38.mp3|၁၃၈။ သပၸဇဥ္ရႈမွတ္ပံု ( ၁ )
+139.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/39.mp3|၁၃၉။ သပၸဇဥ္ရႈမွတ္ပံု ( ၂ )
+140.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/40.mp3|၁၄၀။ သပၸဇဥ္ရႈမွတ္ပံု ( ၃ )
+141.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/159.mp3|၁၄၁။ သမထ ႏွင္႔ ဝိပႆနာတရားေတာ္
+142.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/189.mp3|၁၄၂။ သမထႏွင္႔ ဝိပႆနာ ( ၂၀၁၃ – သႀကၤန္ )
+143.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/175.mp3|၁၄၃။ သမယသုတၱန္
+144.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/79.mp3|၁၄၄။ သာသနာ႔ႏုဂၢဟ
+145.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/256.mp3|၁၄၅။ သီလဝႏၱသုတၱန္
+146.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/201.mp3|၁၄၆။ သူေတာ္ဥစၥာ ( ၇ )ျဖာ
+147.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/63.mp3|၁၄၇။ သူေတာ္ေကာင္း လကၡဏာတရားေတာ္
+148.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/130.mp3|၁၄၈။ ေသမင္းကိုမေၾကာက္ရန္
+149.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/58.mp3|၁၄၉။ ေသာတာပန္ ပယ္ရမည္႔ ကိေလသာ
+150.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/28.mp3|၁၅၀။ ေသာတာပန္ ပယ္ရမည္႔သံေယာဇဥ္
+151.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/56.mp3|၁၅၁။ ေသာတာပန္ျဖစ္ျခင္း အေၾကာင္း ( ၄ )ပါး
+152.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/171.mp3|၁၅၂။ ေသာတာပန္ျဖစ္ရန္ ေၾကာင္းေလးတန္
+153.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/172.mp3|၁၅၃။ ေသာတာပန္ျဖစ္ရန္ ေၾကာင္းေလးတန္
+154.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/57.mp3|၁၅၄။ ေသာတာပန္အဂၤါ ( ၄ )ပါး
+155.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/160.mp3|၁၅၅။ အခ်ိန္ရွိခိုက္ လံု႔လစိုက္
+156.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/173.mp3|၁၅၆။ အဂၢိဒတၱပုဏၰားဝတၳဳ (အားေပးစကား)
+157.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/216.mp3|၁၅၇။ အမွန္တရား ( ၄ )ပါး
+158.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/198.mp3|၁၅၈။ အျမင္႔ျမတ္ဆံုး တရား
+159.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/132.mp3|၁၅၉။ အရြယ္ ( ၁၀ )ပါး
+160.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/155.mp3|၁၆၀။ အရိပ္ခ်မ္းသာ (ေလာကနီတိ)
+161.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/120.mp3|၁၆၁။ အားထုတ္နည္းေလးရသြားပါေစ
+162.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/110.mp3|၁၆၂။ အႏုဂၢဟိတသုတၱံ
+163.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/34.mp3|၁၆၃။ ဣရိယာပထ ( ၁ )
+164.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/59.mp3|၁၆၄။ ဣရိယာပထ ( ၁ )
+165.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/35.mp3|၁၆၅။ ဣရိယာပထ ( ၂ )
+166.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/60.mp3|၁၆၆။ ဣရိယာပထ ( ၂ )
+167.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/36.mp3|၁၆၇။ ဣရိယာပထ ( ၃ )
+168.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/37.mp3|၁၆၈။ ဣရိယာပထ ( ၄ )
+169.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/193.mp3|၁၆၉။ ဥပါသကာဂုဏ္ရည္
+170.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/210.mp3|၁၇၀။ မ်က္ေမွာက္ခ်မ္းသာေရး ( ၁ )
+171.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/211.mp3|၁၇၁။ မ်က္ေမွာက္ခ်မ္းသာေရး ( ၂ )
+172.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/212.mp3|၁၇၂။ မ်က္ေမွာက္ခ်မ္းသာေရး ( ၃ ) 
+173.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/213.mp3|၁၇၃။ မ်က္ေမွာက္ခ်မ္းသာေရး ( ၄ )
+174.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/214.mp3|၁၇၄။ မ်က္ေမွာက္ခ်မ္းသာေရး ( ၅ )
+175.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/215.mp3|၁၇၅။ မ်က္ေမွာက္ခ်မ္းသာေရး ( ၆ )
+176.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/91.mp3|၁၇၆။ သတိပ႒ာန္အက်ိဳး ( ၁ )
+177.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/92.mp3|၁၇၇။ သတိပ႒ာန္အက်ိဳး ( ၂ )
+178.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/93.mp3|၁၇၈။ သတိပ႒ာန္အက်ိဳး ( ၃ )
+179.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/94.mp3|၁၇၉။ သတိပ႒ာန္အက်ိဳး ( ၄ )
+180.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/95.mp3|၁၈၀။ သတိပ႒ာန္အက်ိဳး ( ၅ )
+181.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/96.mp3|၁၈၁။ သတိပ႒ာန္အက်ိဳး ( ၆ )
+182.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/97.mp3|၁၈၂။ သတိပ႒ာန္အက်ိဳး ( ၇ )
+183.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/98.mp3|၁၈၃။ သတိပ႒ာန္အက်ိဳး ( ၈ )
+184.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/99.mp3|၁၈၄။ သတိပ႒ာန္အက်ိဳး ( ၉ )
+185.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/100.mp3|၁၈၅။ သတိပ႒ာန္အက်ိဳး ( ၁၀ )
+186.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/223.mp3|၁၈၆။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၁)
+187.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/224.mp3|၁၈၇။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၂)
+188.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/225.mp3|၁၈၈။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၃)
+189.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/226.mp3|၁၈၉။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၄)
+190.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/227.mp3|၁၉၀။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၅)
+191.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/228.mp3|၁၉၁။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၆)
+192.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/229.mp3|၁၉၂။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၇)
+193.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/230.mp3|၁၉၃။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၈)
+194.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/231.mp3|၁၉၄။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၉)
+195.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/232.mp3|၁၉၅။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၁၀)
+196.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/233.mp3|၁၉၆။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၁၁)
+197.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/234.mp3|၁၉၇။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၁၂)
+198.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/235.mp3|၁၉၈။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၁၃)
+199.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/236.mp3|၁၉၉။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၁၄)
+200.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/237.mp3|၂၀၀။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၁၅)
+201.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/238.mp3|၂၀၁။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၁၆)
+202.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/239.mp3|၂၀၂။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၁၇)
+203.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/240.mp3|၂၀၃။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၁၈)
+204.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/241.mp3|၂၀၄။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၁၉)
+205.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/242.mp3|၂၀၅။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၂၀)
+206.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/243.mp3|၂၀၆။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၂၁)
+207.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/244.mp3|၂၀၇။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၂၂)
+208.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/245.mp3|၂၀၈။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၂၃)
+209.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/246.mp3|၂၀၉။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၂၄)
+210.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/247.mp3|၂၁၀။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၂၅)
+211.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/248.mp3|၂၁၁။ သတိပ႒ာန္ ေၾကြးေၾကာ္သံ (၂၆)
+212.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/205.mp3|၂၁၂။ အရိယာတို႔၏ စံအိမ္ ( ၁ )
+213.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/206.mp3|၂၁၃။ အရိယာတို႔၏ စံအိမ္ ( ၂ )
+214.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/207.mp3|၂၁၄။ အရိယာတို႔၏ စံအိမ္ ( ၃ )
+215.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/208.mp3|၂၁၅။ အရိယာတို႔၏ စံအိမ္ ( ၄ )
+216.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/209.mp3|၂၁၆။ အရိယာတို႔၏ စံအိမ္ ( ၅ )
+217.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/70.mp3|၂၁၇။ အေျခခံဘာသာေရး (၁)
+218.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/71.mp3|၂၁၈။ အေျခခံဘာသာေရး (၂)
+219.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/72.mp3|၂၁၉။ အေျခခံဘာသာေရး (၃)
+220.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/73.mp3|၂၂၀။ အေျခခံဘာသာေရး (၄)
+221.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/74.mp3|၂၂၁။ အေျခခံဘာသာေရး (၅)
+222.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/75.mp3|၂၂၂။ အေျခခံဘာသာေရး (၆)
+223.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/76.mp3|၂၂၃။ အေျခခံဘာသာေရး (၇)
+224.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/45.mp3|၂၂၄။ အရိယာဝါသတရား ( ၁ )
+225.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/46.mp3|၂၂၅။ အရိယာဝါသတရား ( ၂ )
+226.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/47.mp3|၂၂၆။ အရိယာဝါသတရား ( ၃ )
+227.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/48.mp3|၂၂၇။ အရိယာဝါသတရား ( ၄ )
+228.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/49.mp3|၂၂၈။ အရိယာဝါသတရား ( ၅ )
+229.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/50.mp3|၂၂၉။ အရိယာဝါသတရား ( ၆ )
+230.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/51.mp3|၂၃၀။ အရိယာဝါသတရား ( ၇ )
+231.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/101.mp3|၂၃၁။ ဣေျႏၵထက္ေၾကာင္း ( ၉ )ပါး-၁
+232.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/102.mp3|၂၃၂။ ဣေျႏၵထက္ေၾကာင္း ( ၉ )ပါး-၂
+233.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/103.mp3|၂၃၃။ ဣေျႏၵထက္ေၾကာင္း ( ၉ )ပါး-၃
+234.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/104.mp3|၂၃၄။ ဣေျႏၵထက္ေၾကာင္း ( ၉ )ပါး-၄
+235.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/105.mp3|၂၃၅။ ဣေျႏၵထက္ေၾကာင္း ( ၉ )ပါး-၅
+236.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/106.mp3|၂၃၆။ ဣေျႏၵထက္ေၾကာင္း ( ၉ )ပါး-၆
+237.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/107.mp3|၂၃၇။ ဣေျႏၵထက္ေၾကာင္း ( ၉ )ပါး-၇
+238.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/108.mp3|၂၃၈။ ဣေျႏၵထက္ေၾကာင္း ( ၉ )ပါး-၈
+239.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/109.mp3|၂၃၉။ ဣေျႏၵထက္ေၾကာင္း ( ၉ )ပါး-၉
+240.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/111.mp3|၂၄၀။ ဣရိယာပထပိုင္း ( ၁ )
+241.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/112.mp3|၂၄၁။ ဣရိယာပထပိုင္း ( ၂ )
+242.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/113.mp3|၂၄၂။ ဣရိယာပထပိုင္း ( ၃ )
+243.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/114.mp3|၂၄၃။ ဣရိယာပထပိုင္း ( ၄ )
+244.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/115.mp3|၂၄၄။ ဣရိယာပထပိုင္း ( ၅ )
+245.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/266.mp3|၂၄၅။ (၇) တရားစခန္း အပိုင္း (၁)
+246.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/267.mp3|၂၄၆။ (၇) တရားစခန္း အပိုင္း (၂)
+247.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/268.mp3|၂၄၇။ (၇) တရားစခန္း အပိုင္း (၃)
+248.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/269.mp3|၂၄၈။ (၇) တရားစခန္း အပိုင္း (၄)
+249.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/270.mp3|၂၄၉။ (၇) တရားစခန္း အပိုင္း (၅)
+250.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/271.mp3|၂၅၀။ (၇) တရားစခန္း အပိုင္း (၆)
+251.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/272.mp3|၂၅၁။ (၇) တရားစခန္း အပိုင္း (၇)
+252.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/273.mp3|၂၅၂။ (၇) တရားစခန္း အပိုင္း (၈)
+253.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/274.mp3|၂၅၃။ (၇) တရားစခန္း အပိုင္း (၉)
+254.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/275.mp3|၂၅၄။ (၇) တရားစခန္း အပိုင္း (၁၀)
+255.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/276.mp3|၂၅၅။ (၇) တရားစခန္း အပိုင္း (၁၁)
+256.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/277.mp3|၂၅၆။ (၇) တရားစခန္း အပိုင္း (၁၂)
+257.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/278.mp3|၂၅၇။ (၇) တရားစခန္း အပိုင္း (၁၃)
+258.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/14.mp3|၂၅၈။ ( ၈ )ပါးသီလေပး၊ သတိပ႒ာနသုတၱန္ ( ၁ )
+259.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/15.mp3|၂၅၉။ သတိပ႒ာနသုတၱန္ ( ၂ )
+260.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/16.mp3|၂၆၀။ သတိပ႒ာနသုတၱန္ ( ၃ )
+261.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/17.mp3|၂၆၁။ သတိပ႒ာနသုတၱန္ ( ၄ )
+262.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/18.mp3|၂၆၂။ သတိပ႒ာနသုတၱန္ ( ၅ )
+263.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/19.mp3|၂၆၃။ သတိပ႒ာနသုတၱန္ ( ၆ )
+264.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/20.mp3|၂၆၄။ သတိပ႒ာနသုတၱန္ ( ၇ )
+265.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/21.mp3|၂၆၅။ သမထ ႏွင့္ ဝိပႆနာ
+266.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/1.mp3|၂၆၆။ ဓမၼဂုဏ္ရည္ျပ ခရီးစဥ္ တရားေတာ္ (ဆန္ဖရန္စစၥကို)
+267.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/290.mp3|၂၆၇။ (၁၀) တရားစခန္း အပိုင္း (၁)
+268.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/291.mp3|၂၆၈။ (၁၀) တရားစခန္း အပိုင္း (၂)
+269.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/292.mp3|၂၆၉။ (၁၀) တရားစခန္း အပိုင္း (၃)
+270.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/293.mp3|၂၇၀။ (၁၀) တရားစခန္း အပိုင္း (၄)
+271.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/294.mp3|၂၇၁။ (၁၀) တရားစခန္း အပိုင္း (၅)
+272.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/295.mp3|၂၇၂။ (၁၀) တရားစခန္း အပိုင္း (၆)
+273.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/296.mp3|၂၇၃။ (၁၀) တရားစခန္း အပိုင္း (၇)
+274.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/297.mp3|၂၇၄။ (၁၀) တရားစခန္း အပိုင္း (၈)
+275.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/298.mp3|၂၇၅။ (၁၀) တရားစခန္း အပိုင္း (၉)
+276.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/299.mp3|၂၇၆။ (၁၀) တရားစခန္း အပိုင္း (၁၀)
+277.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/279.mp3|၂၇၇။ (၆) တရားစခန္း အပိုင္း (၁)
+278.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/280.mp3|၂၇၈။ (၆) တရားစခန္း အပိုင္း (၂)
+279.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/281.mp3|၂၇၉။ (၆) တရားစခန္း အပိုင္း (၃)
+280.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/282.mp3|၂၈၀။ (၆) တရားစခန္း အပိုင္း (၄)
+281.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/283.mp3|၂၈၁။ (၆) တရားစခန္း အပိုင္း (၅)
+282.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/284.mp3|၂၈၂။ (၆) တရားစခန္း အပိုင္း (၆)
+283.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/285.mp3|၂၈၃။ (၆) တရားစခန္း အပိုင္း (၇)
+284.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/286.mp3|၂၈၄။ (၆) တရားစခန္း အပိုင္း (၈)
+285.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/287.mp3|၂၈၅။ (၆) တရားစခန္း အပိုင္း (၉)
+286.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/288.mp3|၂၈၆။ (၆) တရားစခန္း အပိုင္း (၁၀)
+287.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/289.mp3|၂၈၇။ (၆) တရားစခန္း အပိုင္း (၁၁)
+288.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/343.mp3|၂၈၈။ (၅) တရားစခန္း အပိုင္း (၁)
+289.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/344.mp3|၂၈၉။ ၅) တရားစခန္း အပိုင္း (၂)
+290.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/345.mp3|၂၉၀။ (၅) တရားစခန္း အပိုင္း (၃)
+291.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/346.mp3|၂၉၁။ (၅) တရားစခန္း အပိုင္း (၄)
+292.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/347.mp3|၂၉၂။ (၅) တရားစခန္း အပိုင္း (၅)
+293.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/348.mp3|၂၉၃။ (၅) တရားစခန္း အပိုင္း (၆)
+294.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/349.mp3|၂၉၄။ (၅) တရားစခန္း အပိုင္း (၇)
+295.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/350.mp3|၂၉၅။ (၅) တရားစခန္း အပိုင္း (၈)
+296.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/351.mp3|၂၉၆။ (၅) တရားစခန္း အပိုင္း (၉)
+297.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/352.mp3|၂၉၇။ (၅) တရားစခန္း အပိုင္း (၁၀)
+298.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/353.mp3|၂၉၈။ (၅) တရားစခန္း အပိုင္း (၁၁)
+299.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/300.mp3|၂၉၉။ (၁၀) တရားစခန္း အပိုင္း (၁)
+300.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/301.mp3|၃၀၀။ (၁၀) တရားစခန္း အပိုင္း (၂)
+301.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/302.mp3|၃၀၁။ (၁၀) တရားစခန္း အပိုင္း (၃)
+302.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/303.mp3|၃၀၂။ (၁၀) တရားစခန္း အပိုင္း (၄)
+303.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/304.mp3|၃၀၃။ (၁၀) တရားစခန္း အပိုင္း (၅)
+304.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/305.mp3|၃၀၄။ (၁၀) တရားစခန္း အပိုင္း (၆)
+305.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/306.mp3|၃၀၅။ (၁၀) တရားစခန္း အပိုင္း (၇)
+306.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/307.mp3|၃၀၆။ (၁၀) တရားစခန္း အပိုင္း (၈)
+307.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/308.mp3|၃၀၇။ (၁၀) တရားစခန္း အပိုင္း (၉)
+308.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/309.mp3|၃၀၈။ (၁၀) တရားစခန္း အပိုင္း (၁၀)
+309.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/310.mp3|၃၀၉။ (၁၀) တရားစခန္း အပိုင္း (၁၁)
+310.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/311.mp3|၃၁၀။ (၁၀) တရားစခန္း အပိုင္း (၁၂)
+311.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/312.mp3|၃၁၁။ (၁၀) တရားစခန္း အပိုင္း (၁၃)
+312.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/313.mp3|၃၁၂။ (၁၀) တရားစခန္း အပိုင္း (၁၄)
+313.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/314.mp3|၃၁၃။ (၁၀) တရားစခန္း အပိုင္း (၁၅)
+314.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/315.mp3|၃၁၄။ (၁၀) တရားစခန္း အပိုင္း (၁၆)
+315.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/316.mp3|၃၁၅။ (၁၀) တရားစခန္း အပိုင္း (၁၇)
+316.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/317.mp3|၃၁၆။ (၁၀) တရားစခန္း အပိုင္း (၁၈)
+317.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/318.mp3|၃၁၇။ (၁၀) တရားစခန္း အပိုင္း (၁၉)
+318.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/319.mp3|၃၁၈။ (၁၀) တရားစခန္း အပိုင္း (၂၀)
+319.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/320.mp3|၃၁၉။ (၁၀) တရားစခန္း အပိုင္း (၂၁)
+320.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/321.mp3|၃၂၀။ (၁၀) တရားစခန္း အပိုင္း (၂၂)
+321.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/354.mp3|၃၂၁။ (၅) တရားစခန္း အပိုင္း (၁)
+322.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/355.mp3|၃၂၂။ (၅) တရားစခန္း အပိုင္း (၂)
+323.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/356.mp3|၃၂၃။ (၅) တရားစခန္း အပိုင္း (၃)
+324.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/357.mp3|၃၂၄။ (၅) တရားစခန္း အပိုင္း (၄)
+325.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/358.mp3|၃၂၅။ (၅) တရားစခန္း အပိုင္း (၅)
+326.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/359.mp3|၃၂၆။ (၅) တရားစခန္း အပိုင္း (၆)
+327.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/360.mp3|၃၂၇။ (၅) တရားစခန္း အပိုင္း (၇)
+328.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/361.mp3|၃၂၈။ (၅) တရားစခန္း အပိုင္း (၈)
+329.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/362.mp3|၃၂၉။ (၅) တရားစခန္း အပိုင္း (၉)
+330.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/363.mp3|၃၃၀။ (၅) တရားစခန္း အပိုင္း (၁၀)
+331.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/364.mp3|၃၃၁။ (၅) တရားစခန္း အပိုင္း (၁၁)
+332.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/365.mp3|၃၃၂။ (၅) တရားစခန္း အပိုင္း (၁၂)
+333.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/322.mp3|၃၃၃။ (၅) တရားစခန္း အပိုင္း (၁)
+334.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/323.mp3|၃၃၄။ (၅) တရားစခန္း အပိုင္း (၂)
+335.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/324.mp3|၃၃၅။ (၅) တရားစခန္း အပိုင္း (၃)
+336.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/325.mp3|၃၃၆။ (၅) တရားစခန္း အပိုင္း (၄)
+337.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/326.mp3|၃၃၇။ (၅) တရားစခန္း အပိုင္း (၅)
+338.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/327.mp3|၃၃၈။ (၅) တရားစခန္း အပိုင္း (၆)
+339.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/328.mp3|၃၃၉။ (၅) တရားစခန္း အပိုင္း (၇)
+340.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/329.mp3|၃၄၀။ (၅) တရားစခန္း အပိုင္း (၈)
+341.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/330.mp3|၃၄၁။ (၅) တရားစခန္း အပိုင္း (၉)
+342.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/331.mp3|၃၄၂။ (၅) တရားစခန္း အပိုင္း (၁၀)
+343.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/332.mp3|၃၄၃။ (၅) တရားစခန္း အပိုင္း (၁၁)
+344.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/415.mp3|၃၄၄။ ရႈမွတ္နည္း အလုပ္ေပးတရား
+345.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/416.mp3|၃၄၅။ ဝန္ခံျခင္း ႏွင္႔ ေဟာခဲ႔သည္ (၁၁-၆-၂၀၁၆)
+346.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/417.mp3|၃၄၆။ အက်ိဳး ရွိေအာင္ေနပါ (၁၂-၆-၂၀၁၆)
+347.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/418.mp3|၃၄၇။ အရိယာစံအိမ္ (၁၃-၆-၂၀၁၆)
+348.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/419.mp3|၃၄၈။ အရိယာစံအိမ္ (၁၄-၆-၂၀၁၆)
+349.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/420.mp3|၃၄၉။ အရိယာစံအိမ္ (၁၅-၆-၂၀၁၆)
+350.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/421.mp3|၃၅၀။ အရိယာစံအိမ္ (၁၆-၆-၂၀၁၆)
+351.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/422.mp3|၃၅၁။ အရိယာစံအိမ္ (၁၇-၆-၂၀၁၆)
+352.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/423.mp3|၃၅၂။ အရိယာစံအိမ္ (၁၈-၆-၂၀၁၆)
+353.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/424.mp3|၃၅၃။ ၾသဝါဒပါတိေမာက္ (၁၉-၆-၂၀၁၆)
+354.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/425.mp3|၃၅၄။ English လိုေဟာ
+355.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/394.mp3|၃၅၅။ ( ၈ )ပါး သီလေပး
+356.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/395.mp3|၃၅၆။ ေယာဂီလိုက္နာရမည္႔ တရား ( ၄ )ပါး တရားေတာ္
+357.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/396.mp3|၃၅၇။ သတိပ႒ာန္တရား ( ၄ )ပါး တရားေတာ္ (၁၀-၆-၂၀၁၇)
+358.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/397.mp3|၃၅၈။ အခြင္႔ေကာင္း ( ၄ ) ပါး တရားေတာ္ (၁၁-၆-၂၀၁၇)
+359.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/398.mp3|၃၅၉။ ဣရိယာပထပိုင္း (၁၂-၆-၂၀၁၇)
+360.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/399.mp3|၃၆၀။ တရားအားထုတ္သူမ်ား ျပည္႔စံုရမည္႔အေၾကာင္း အဂၤါ ( ၅ )ပါး -၁
+361.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/400.mp3|၃၆၁။ တရားအားထုတ္သူမ်ား ျပည္႔စံုရမည္႔အေၾကာင္း အဂၤါ ( ၅ )ပါး -၂
+362.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/401.mp3|၃၆၂။ ဝိပႆနာ ဂုဏ္ရည္ျပတရားေတာ္ (၁၃-၆-၂၀၁၇)
+363.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/402.mp3|၃၆၃။ ဝိပႆနာ ဂုဏ္ရည္ျပတရားေတာ္ (၁၄-၆-၂၀၁၇)
+364.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/403.mp3|၃၆၄။ ဝိပႆနာ ဂုဏ္ရည္ျပတရားေတာ္ (၁၅-၆-၂၀၁၇)
+365.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/404.mp3|၃၆၅။ ဝိပႆနာ ဂုဏ္ရည္ျပတရားေတာ္ (၁၆-၆-၂၀၁၇)
+366.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/405.mp3|၃၆၆။ ဓမၼခ်မ္းသာ ရေအာင္ရွာ (၁၇-၆-၂၀၁၇)
+367.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/406.mp3|၃၆၇။ တရားစခန္းေအာင္ပြဲ ၾသဝါဒ (၁၈-၆-၂၀၁၇)
+368.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/407.mp3|၃၆၈။ စိတၱာႏုပႆနာတရားေတာ္
+369.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/408.mp3|၃၆၉။ ေဝဒနာႏုပႆနာတရားေတာ္
+370.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/409.mp3|၃၇၀။ ဓမၼာႏုပႆနာတရားေတာ္
+371.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/410.mp3|၃၇၁။ အလုပ္ေပးတရား
+372.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/411.mp3|၃၇၂။ အလုပ္ေပးတရား
+373.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/412.mp3|၃၇၃။ ေမြးေန႔အလွဴေတာ္ – ေဒၚေမရီခ်စ္တီး
+374.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/413.mp3|၃၇၄။ ( ၅ )ပါးသီလေပး / ကိုယ္ေစာင္႔တရား ( ၄ )ပါး၊ ဓမၼအလင္းေရာင္ေက်ာင္းတိုက္
+375.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/414.mp3|၃၇၅။ ဆြမ္းအႏုေမာဒနာ ဦးေဝၿဖိဳးေအာင္ + မေအးမြန္၊ ေဒၚေမသန္း (မႏၱေလး ထမင္းဆိုင္)
+376.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/366.mp3|၃၇၆။ ၁၁.၅.၂၀၁၇ (နံနက္ပိုင္း)
+377.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/367.mp3|၃၇၇။ ၁၂-၅-၂၀၁၇ (နံနက္ပို္င္း)
+378.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/368.mp3|၃၇၈။ ၁၃-၅-၂၀၁၇ (နံနက္ပို္င္း)
+379.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/369.mp3|၃၇၉။ ၁၄-၅-၂၀၁၇ (နံနက္ပို္င္း)
+380.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/370.mp3|၃၈၀။ ၁၅-၅-၂၀၁၇ (နံနက္ပို္င္း)
+381.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/371.mp3|၃၈၁။ ၁၁-၅-၂၀၁၇ (ညေနပို္င္း)
+382.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/372.mp3|၃၈၂။ ၁၂-၅-၂၀၁၇ (ညေနပို္င္း)
+383.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/373.mp3|၃၈၃။ ၁၃-၅-၂၀၁၇ (ညေနပို္င္း)
+384.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/374.mp3|၃၁၄။ ၁၄-၅-၂၀၁၇ (ညေနပို္င္း)
+385.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/375.mp3|၃၈၅။ ၁၅-၅-၂၀၁၇ (ညေနပို္င္း)
+386.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/376.mp3|၃၈၆။ ၁၆-၅-၂၀၁၇ တရားစခန္းပိတ္ပြဲ
+387.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/377.mp3|၃၈၇။ ၁၇-၅-၂၀၁၇ ရႈမွတ္နည္း အလုပ္ေပးတရား (မဟာစည္ ဆရာေတာ္ႀကီး)
+388.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/378.mp3|၃၈၈။ ၁၈-၅-၂၀၁၇ ရႈမွတ္နည္း အလုပ္ေပးတရား
+389.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/379.mp3|၃၈၉။ ၁၉-၅-၂၀၁၇ ရႈမွတ္နည္း အလုပ္ေပးတရား
+390.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/380.mp3|၃၉၀။ ၂၀-၅-၂၀၁၇ ရႈမွတ္နည္း အလုပ္ေပးတရား
+391.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/381.mp3|၃၉၁။ ၂၁-၅-၂၀၁၇ ရႈမွတ္နည္း အလုပ္ေပးတရား
+392.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/382.mp3|၃၉၂။(၂၂-၅-၂၀၁၇) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
+393.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/383.mp3|၃၉၃။ ၂၂-၅-၂၀၁၇ (ညေနပိုင္း) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
+394.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/384.mp3|၃၉၄။ ၂၃-၅-၂၀၁၇ (နံနက္ပိုင္း) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
+395.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/385.mp3|၃၉၅။ ၂၃-၅-၂၀၁၇ (ညေနပိုင္း) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
+396.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/386.mp3|၃၉၆။ ၂၄-၅-၂၀၁၇ (နံနက္ပိုင္း) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
+397.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/387.mp3|၃၉၇။ ၂၄-၅-၂၀၁၇ (ညေနပိုင္း) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
+398.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/388.mp3|၃၉၈။ ၂၅-၅-၂၀၁၇ (နံနက္ပိုင္း) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
+399.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/389.mp3|၃၉၉။ ၂၅-၅-၂၀၁၇ (ညေနပိုင္း) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
+400.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/390.mp3|၄၀၀။ ၂၆-၅-၂၀၁၇ (နံနက္ပိုင္း) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
+401.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/391.mp3|၄၀၁။ ၂၆-၅-၂၀၁၇ (ညေနပိုင္း) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
+402.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/392.mp3|၄၀၂။ ၂၇-၅-၂၀၁၇ (နံနက္ပိုင္း) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
+403.mp3|https://media.thitsarparamisociety.com/mp3/2018/shwe_min_won_sayardaw/1/393.mp3|၄၀၃။ ၂၇-၅-၂၀၁၇ (ညေနပိုင္း) လုပ္ငန္းစဥ္ျပ အလုပ္ေပးတရား
