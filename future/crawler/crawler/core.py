@@ -50,7 +50,7 @@ def get_json(file_in_1, file_in_2, file_out, playlist, description_title, source
 
     for title, description in zip(titles, descriptions):
       
-        
+        #print(title)
         if len(title.split('|')[2]) > 100:
             dict_title = {
                          "playlist" : playlist,
@@ -59,7 +59,8 @@ def get_json(file_in_1, file_in_2, file_out, playlist, description_title, source
                            "id": "{}".format( title.split('|')[0].split('.')[0] )
                         }       
 
-            print('{}။{} greater than 100'.format(change(counter), title.split('။')[1]))
+            #print('{}။{} greater than 100'.format(change(counter), title.split('။')[1]))
+            print('{} greater than 100'.format(title.split('|')[2]))
             results.append(dict_title)
         else:
             if len(description.split('|')[1]) > 0:
@@ -161,6 +162,7 @@ def update_raw_titles_links(file_in, file_out, count=1):
     with open(file_out, 'w') as f:
         counter = count
         for line in lines:
+            #print(line.split('|')[1])
             #media = line.split('|')[0]
             url = line.split('|')[1]
             ext = url.split('.')[-1]
@@ -172,6 +174,29 @@ def update_raw_titles_links(file_in, file_out, count=1):
                 f.write( '{}.{}|{}|{}။{}\n'.format(media, ext, url, change(counter), title) ) 
     
             counter += 1
+            
+def update_raw_reversed_titles_links(file_in, file_out, count=1):
+
+    file_in = running_from_path+file_in
+    #print(file_in)
+    file_out = running_from_path+file_out
+    
+    lines = [f.strip('\n') for f in open(file_in)]
+    
+    with open(file_out, 'w') as f:
+        counter = count
+        for line in reversed(lines):
+            #media = line.split('|')[0]
+            url = line.split('|')[1]
+            ext = url.split('.')[-1]
+            media = '{:03d}'.format(counter)
+            title = line.split('|')[2]
+            if title.find('။') > 0: # found
+                f.write( '{}.{}|{}|{}။{}\n'.format(media, ext, url, change(counter), title.split('။')[1]) )
+            else:
+                f.write( '{}.{}|{}|{}။{}\n'.format(media, ext, url, change(counter), title) ) 
+    
+            counter += 1            
     
             
 
@@ -214,7 +239,7 @@ def get_html_mp3(file_in, file_out, count=1):
     
     file_out = running_from_path+file_out
 
-    text = open(param, 'r').read()
+    text = open(file_in, 'r').read()
 
     soup = bs4(text, 'html.parser')
     
@@ -228,7 +253,7 @@ def get_html_mp3(file_in, file_out, count=1):
                 counter = '{:03d}'.format(count)
                 fd.write('{}.mp3|{}|{}\n'.format(counter, ''.join(key.get('href').split()), ' '.join(key.get_text().split())))
 
-            count += 1        
+                count += 1        
 '''
 if __name__ == '__main__':
     get_html_mp4('get_url.txt', 3)

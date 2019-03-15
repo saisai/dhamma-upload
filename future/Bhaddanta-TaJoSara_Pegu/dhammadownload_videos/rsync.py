@@ -8,7 +8,7 @@ import shutil
 import os
 
 remote_username = 'u0_a97'
-remote_hostname = '192.168.1.39'
+remote_hostname = '192.168.1.64'
 escaped_remote = '/data/data/com.termux/files/home/storage/external-1/youtube/Bhaddanta-TaJoSara_Pegu/'
 
 #data = [f.strip('\n').split('|')[0] for f in open('new_urltext_upload.txt', 'r') if os.path.isfile('%s.mp4' % (f.strip('\n').split('|')[0],))]
@@ -20,6 +20,8 @@ escaped_remote = '/data/data/com.termux/files/home/storage/external-1/youtube/Bh
 if not os.path.isdir('finished'):
     os.mkdir('finished')
    
+cmd = "sshpass -p snp /usr/bin/rsync -P --partial -avzzz %s -e 'ssh -p 8022' %s@%s:'%s'" % ('raw_json_title.txt', remote_username, remote_hostname, escaped_remote)   
+result = subprocess.Popen(cmd,shell=True).wait()
 '''
 for i in range(0, 30):
     

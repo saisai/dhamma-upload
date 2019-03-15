@@ -29,7 +29,7 @@ running_from_path = os.path.abspath(pathname) + '/'
 #os.chdir(path)
 
 # Create directory if not existed
-finished_dir = 'finished'
+finished_dir = running_from_path + 'finished'
 if not os.path.isdir(finished_dir):
     os.mkdir(finished_dir)
     
@@ -60,19 +60,20 @@ class Job:
 class Converter(Thread):
     """Downloader class - read queue and downloads each file in succession"""
 
-    def __init__(self, queue):
+    def __init__(self, running_from_path, queue):
 
         Thread.__init__(self, name=binascii.hexlify(os.urandom(16)))
         self.queue = queue
+        self.running_from_path = running_from_path
 
     def run(self):
         while True:
             # gets the url from the queue
             getObj = self.queue.get()
-            if os.path.isfile(str('{:03}'.format(getObj.priority)) + '.mp4'):
-                mp3file = str('{:03}'.format(getObj.priority)) + '.mp4'
-            elif os.path.isfile(str('{:03}'.format(getObj.priority)) + '.wmv'):
-                mp3file = str('{:03}'.format(getObj.priority)) + '.wmv'
+            if os.path.isfile(str('{}{:03}'.format(self.running_from_path, getObj.priority)) + '.mp4'):
+                mp3file = str('{}{:03}'.format(self.running_from_path, getObj.priority)) + '.mp4'
+            elif os.path.isfile(str('{}{:03}'.format(self.running_from_path, getObj.priority)) + '.wmv'):
+                mp3file = str('{}{:03}'.format(self.running_from_path, getObj.priority)) + '.wmv'
             else:
                 mp3file = ''
                 
@@ -98,10 +99,11 @@ class Converter(Thread):
                 title, description, playlist, mp3file)):
                 print("Yes")
                 print("Moving file...", mp3file)
-                if os.path.isfile('finished/{}'.format(mp3file)):
-                    os.remove('finished/{}'.format(mp3file))
+                files = mp3file.split('/')[-1]
+                if os.path.isfile('{}finished/{}'.format(self.running_from_path, files)):
+                    os.remove('{}finished/{}'.format(self.running_from_path, files))
 
-                shutil.move(mp3file, 'finished/')
+                shutil.move(mp3file, '{}finished/{}'.format(self.running_from_path) )
                 #print('sleep 5 seconds')
                 #time.sleep(5)                
             else:
@@ -117,9 +119,10 @@ class Converter(Thread):
 
 class ConvertManager():
     """Spawns downoader threads and manages URL downloads queue"""
-    def __init__(self, convert_list, thread_count=4):
+    def __init__(self, running_from_path, convert_list, thread_count=4):
         self.thread_count = thread_count
         self.convert_list = convert_list
+        self.running_from_path = running_from_path
         
 
     def begin_convert(self):
@@ -132,7 +135,7 @@ class ConvertManager():
         queue = PriorityQueue()
         # create a thred pool and give them a queue
         for i in range(self.thread_count):
-            t = Converter(queue)
+            t = Converter(self.running_from_path, queue)
             t.setDaemon(True)
             t.start()
 
@@ -166,7 +169,7 @@ def thread_upload(file_in, threads):
         mp3s = json.loads(data)    
 
     
-    convert_manager = ConvertManager(mp3s, threads)
+    convert_manager = ConvertManager(running_from_path, mp3s, threads)
     convert_manager.begin_convert()
 
 def thread_upload_test(file_in):
@@ -177,14 +180,15 @@ def thread_upload_test(file_in):
         mp3s = json.loads(data)
     
     for key in mp3s:
-        print(key['id'])
-        if os.path.isfile(str('{}'.format(key['id'])) + '.mp4'):
-            files = str('{}'.format(key['id'])) + '.mp4'
-        elif os.path.isfile(str('{}'.format(key['id'])) + '.wmv'):
-            files = str('{}'.format(key['id'])) + '.wmv'
+        #print('hi', key['id'])
+        #print('hi', os.path.isfile(str('{}{}.mp4'.format(running_from_path, key['id']))))
+        if os.path.isfile(str('{}{}'.format(running_from_path, key['id'])) + '.mp4'):
+            files = str('{}{}'.format(running_from_path, key['id'])) + '.mp4'
+        elif os.path.isfile(str('{}{}'.format(running_from_path, key['id'])) + '.wmv'):
+            files = str('{}{}'.format(running_from_path, key['id'])) + '.wmv'
         else:
             files = ''
-        
+        print(files)
         if os.path.isfile(files):
         
             title =  key['title']             

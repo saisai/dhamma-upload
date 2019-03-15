@@ -90,7 +90,7 @@ class Converter(Thread):
                     f.flush()
                 except AttributeError as err:
                     #f.write('{')
-                    f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].mp3file.split('/')[-2], 'NoneType'))
+                    f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-2], 'NoneType'))
                     f.write('\n')
                     f.flush()        
                     # AttributeError: 'NoneType' object has no attribute 'get_text'
