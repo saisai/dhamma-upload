@@ -8,6 +8,7 @@ from crawler.core import (
     get_json,    
     update_raw_titles_links,
     update_raw_reversed_titles_links,
+    get_splited_lines
 )
 
 from crawler.thread_download import thread_download

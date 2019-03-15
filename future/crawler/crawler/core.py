@@ -15,6 +15,24 @@ pathname = os.path.dirname(file)
 running_from_path = os.path.abspath(pathname) + '/'
 #print(running_from_path)
 
+
+
+
+def splited_lines_generator(lines, n):
+    for i in range(0, len(lines), n):
+        yield lines[i: i + n]
+
+def get_splited_lines(file_in, line_num):
+    
+    file_in = running_from_path + file_in
+    files = [f.strip('\n') for f in open(file_in, 'r') if len(f) > 2]
+    
+    
+    for index, lines in enumerate(splited_lines_generator(files, line_num)):
+        with open('{}{}.txt'.format(running_from_path, str(index)), 'w') as f:
+            f.write('\n'.join(lines))
+            
+
 def change(num):
     mm = ['၀','၁','၂','၃', '၄', '၅', '၆','၇','၈','၉']
     strmm = ''
