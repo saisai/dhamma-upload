@@ -6,7 +6,7 @@ from crawler import (get_fb_title, rearrange_urls, download_fb, get_splited_line
 
 #rearrange_urls('raw_urls.txt', 'links.txt')
 #get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver.exe')
-get_splited_lines('links.txt', 10)
+get_splited_lines('links.txt', 15)
 #download_fb('links.txt', 1)
 
 #get_html_mp4('get_url.txt', 'raw_titles_links.txt', 1)
