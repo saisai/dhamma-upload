@@ -6,9 +6,10 @@ from crawler.core import (
     check_duplicate,
     convert_myanmar_number,
     get_json,    
+    get_json_fb,
     update_raw_titles_links,
     update_raw_reversed_titles_links,
-    get_splited_lines
+    get_splited_lines,
 )
 
 from crawler.thread_download import thread_download
