@@ -1,0 +1,6 @@
+# Every 2 minutes
+*/2 * * * * python /data/data/com.termux/files/home/cronrun.py > /data/data/com.termux/files/home/youtube/log/`date +%Y_%m_%d_%H_%M_%S`.txt 2>&1
+#12 17 * * * python /data/data/com.termux/files/home/cronrun.py > /data/data/com.termux/files/home/youtube/log/`date +%Y_%m_%d_%H_%M_%S`.txt 2>&1
+#10 17 * * * echo "hello" > /data/data/com.termux/files/home/youtube/log/`date +%Y-%m-%d-%H:%M:%S`.txt 2>&1
+
+
