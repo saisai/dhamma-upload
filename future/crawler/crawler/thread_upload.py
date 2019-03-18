@@ -86,13 +86,13 @@ class Converter(Thread):
             self.download_file(mp3file, description, title, playlist)
             # send a signal to the queue that the job is done
             self.queue.task_done()
-
-
+            
+            
     def download_file(self, mp3file, description, title, playlist):
         """Download file"""
         if os.path.isfile(mp3file):
-        
-            print(mp3file, 'uploading...')           
+
+            print(mp3file, 'uploading...')
             #print('sleep 5 seconds')
             #time.sleep(5)
             if 0 == os.system('{} --title="{}" --description="{}" --playlist="{}" {}'.format('youtube-upload', \
@@ -103,18 +103,19 @@ class Converter(Thread):
                 if os.path.isfile('{}finished/{}'.format(self.running_from_path, files)):
                     os.remove('{}finished/{}'.format(self.running_from_path, files))
 
-                shutil.move(mp3file, '{}finished/{}'.format(self.running_from_path) )
+                shutil.move(mp3file, '{}finished/'.format(self.running_from_path) )
                 #print('sleep 5 seconds')
-                #time.sleep(5)                
+                #time.sleep(5)
             else:
-                os.killpg(0, signal.SIGKILL)         
-                
-            
+                os.killpg(0, signal.SIGKILL)
+
+
         else:
             print('No file found', mp3file)
-        
+
             #else:
             #    print("* Thread: {} Bad URL: {}".format(self.name, url))
+
 
 
 class ConvertManager():
