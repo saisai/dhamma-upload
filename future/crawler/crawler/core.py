@@ -133,6 +133,11 @@ def get_json_fb(file_in_1, file_in_2, file_out, playlist, description_title, sou
     for title, description in zip(titles, descriptions):
       
         #print(title)
+        
+        if len("{}\n{} {}".format(description_title, description.split('|')[2], source)) > 5000:
+            print(len("{}\n{} {}".format(description_title, description.split('|')[2], source)))
+            print("{}\n{}\n{} {}".format(description.split('|')[0].split('.')[0],description_title, description.split('|')[2], source))
+        
         if len(title) > 100:
             dict_title = {
                          "playlist" : playlist,
