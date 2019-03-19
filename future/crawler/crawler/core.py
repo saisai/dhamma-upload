@@ -2,8 +2,11 @@ import os
 import sys
 import collections
 import json
+import shutil
+import subprocess
 
 from bs4 import BeautifulSoup as bs4
+import requests
 
 file = sys.argv[0]
 
@@ -16,6 +19,38 @@ running_from_path = os.path.abspath(pathname) + '/'
 #print(running_from_path)
 
 
+def copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote):
+    #remote_username = 'u0_a97'
+    #remote_hostname = '192.168.1.36'
+    #escaped_remote = '/storage/1527-15E5/Android/data/com.termux/files/youtube/ashin-zaw-ti-ka-nyaungdone/'
+    copied_file = running_from_path + copied_file
+    
+    if os.path.isfile(copied_file):
+        cmd = "sshpass -p %s /usr/bin/rsync -P --partial -avzzz %s -e 'ssh -p %s' %s@%s:'%s'" % (remote_pass, copied_file, remote_port, remote_username, remote_hostname, escaped_remote)
+
+        result = 1 
+        while result != 0:
+            result = subprocess.Popen(cmd,shell=True).wait()
+            #text = result.communicate()[0]
+            #returncode = result.returncode
+        
+            print(result)
+
+            if os.path.isfile(copied_file):
+                print('Moving file...', copied_file)
+                shutil.move(copied_file, '%sfinished/' % (running_from_path))    
+
+
+def get_line_from_file(file_in):
+    file_in = running_from_path + file_in
+    for f in open(file_in, 'r'):
+        yield f.split('|')[1]
+
+
+def check_link(url):
+    r = requests.get(url)
+    return r.status_code
+    
 
 
 def splited_lines_generator(lines, n):

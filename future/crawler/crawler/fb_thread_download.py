@@ -9,21 +9,33 @@ import argparse
 import binascii
 import json
 import re 
-
 import glob
-from pydub.utils import mediainfo
 import subprocess
 import datetime
 import os
 import shutil
+from pathlib import Path, PureWindowsPath
 
+
+from pydub.utils import mediainfo
+
+# import from current folder
+from .helper import change_unix_to_window
 
 file = sys.argv[0]
-
 pathname = os.path.dirname(file)
 
-running_from_path = os.path.abspath(pathname) + '/'
+print(sys.platform)
+running_from_path = os.path.abspath(pathname)
+if sys.platform == "linux" or sys.platform == "linux2":
+    running_from_path = os.path.abspath(pathname) + '/'
+elif sys.platform == "msys": # running from msys2 of windows
+    running_from_path = os.path.abspath(pathname)
+    running_from_path = change_unix_to_window(running_from_path) + '\\'
+else:
+    print('no linux')
 
+print(running_from_path)
 
 class Converter(Thread):
     """Downloader class - read queue and downloads each file in succession"""
@@ -39,9 +51,9 @@ class Converter(Thread):
         while True:
             # gets the url from the queue
             mp3file = self.queue.get()
-            print(type(mp3file))
+            #print(type(mp3file))
             # download the file
-            print("* Thread {} - processing URL".format(self.name))
+            #print("* Thread {} - processing URL".format(self.name))
             self.download_file(mp3file)
             # send a signal to the queue that the job is done
             self.queue.task_done()
@@ -73,7 +85,7 @@ class Converter(Thread):
             print('returncode:', completed)
             '''
  
-
+        
 
 class ConvertManager():
     """Spawns downoader threads and manages URL downloads queue"""
