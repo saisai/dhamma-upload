@@ -12,7 +12,9 @@ from crawler.core import (
     get_splited_lines,
     check_link,
     get_line_from_file,
-    copy_to_remote
+    copy_to_remote,
+    change_order,
+    get_results
 )
 
 from crawler.thread_download import thread_download

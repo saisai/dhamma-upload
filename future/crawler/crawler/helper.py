@@ -9,6 +9,7 @@ import subprocess
 # Change path unix to window
 # \e\dhamma-upload\future\PilotSayadawJeYaPandita\fb
 # E:\dhamma-upload\future\PilotSayadawJeYaPandita\fb\
+# https://stackoverflow.com/questions/8220108/how-do-i-check-the-operating-system-in-python/8220141
 
 def change_unix_to_window(param):
     #print(param)
@@ -20,4 +21,6 @@ def change_unix_to_window(param):
     drive = result[0].upper() + ':\\'
     final_path = drive + no_drive_result
     return final_path
+    
+    
     

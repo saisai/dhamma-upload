@@ -4,6 +4,7 @@ import collections
 import json
 import shutil
 import subprocess
+import glob
 
 from bs4 import BeautifulSoup as bs4
 import requests
@@ -16,14 +17,41 @@ pathname = os.path.dirname(file)
 #print(file)
 
 running_from_path = os.path.abspath(pathname) + '/'
-#print(running_from_path)
+print(running_from_path)
 
+
+# read file 
+# return list as result
+def get_results(file_in):
+    file_in = running_from_path + file_in
+    #print(file_in, 'a')
+    return [f.strip('\n') for f in open(file_in) ]
+    
+
+def change_order(list_result):
+
+    tmp = []
+    
+    for line in list_result:
+        if line.split('|')[0].strip() == 'breaker':
+            
+            cc = list(reversed(tmp))
+            
+            for dd in cc:
+                yield dd + '|' + line.split('|')[1]
+                
+            tmp.clear() # make empty list
+            
+        else:            
+            tmp.append(line)
 
 def copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote):
     #remote_username = 'u0_a97'
     #remote_hostname = '192.168.1.36'
     #escaped_remote = '/storage/1527-15E5/Android/data/com.termux/files/youtube/ashin-zaw-ti-ka-nyaungdone/'
     copied_file = running_from_path + copied_file
+    
+    print(glob.glob(copied_file))
     
     if os.path.isfile(copied_file):
         cmd = "sshpass -p %s /usr/bin/rsync -P --partial -avzzz %s -e 'ssh -p %s' %s@%s:'%s'" % (remote_pass, copied_file, remote_port, remote_username, remote_hostname, escaped_remote)
@@ -217,9 +245,11 @@ def convert_myanmar_number(file_in, file_out, count=1, desc=None):
             for title in titles:                       
                 
                 if title.find('။') > 0: # found
-                    f.write( '{}။{}|\n'.format(change(counter), title.split('|')[2].split('။')[1]) )
+                    extra = '|%s' % (title.split('|')[3] if len(title.split('|')) > 0 else '')
+                    f.write( '{}။{}{}\n'.format(change(counter), title.split('|')[2].split('။')[1], extra))
                 else:
-                    f.write( '{}။{}|\n'.format(change(counter), title.split('|')[2]) ) 
+                    extra = '|%s' % (title.split('|')[3] if len(title.split('|')) > 0 else '')
+                    f.write( '{}။{}{}\n'.format(change(counter), title.split('|')[2], extra ) ) 
                 
                 counter += 1    
     else:
@@ -274,6 +304,7 @@ def update_raw_titles_links(file_in, file_out, count=1):
     with open(file_out, 'w') as f:
         counter = count
         for line in lines:
+            #print(line)
             #print(line.split('|')[1])
             #media = line.split('|')[0]
             url = line.split('|')[1]
@@ -281,9 +312,11 @@ def update_raw_titles_links(file_in, file_out, count=1):
             media = '{:03d}'.format(counter)
             title = line.split('|')[2]
             if title.find('။') > 0: # found
-                f.write( '{}.{}|{}|{}။{}\n'.format(media, ext, url, change(counter), title.split('။')[1]) )
+                extra = '|%s' % (line.split('|')[3] if len(line.split('|')) > 0 else '')
+                f.write( '{}.{}|{}|{}။{}{}\n'.format(media, ext, url, change(counter), title.split('။')[1], extra))
             else:
-                f.write( '{}.{}|{}|{}။{}\n'.format(media, ext, url, change(counter), title) ) 
+                extra = '|%s' % (line.split('|')[3] if len(line.split('|')) > 0 else '')
+                f.write( '{}.{}|{}|{}။{}{}\n'.format(media, ext, url, change(counter), title, extra ) ) 
     
             counter += 1
             
@@ -365,7 +398,9 @@ def get_html_mp3(file_in, file_out, count=1):
                 counter = '{:03d}'.format(count)
                 fd.write('{}.mp3|{}|{}\n'.format(counter, ''.join(key.get('href').split()), ' '.join(key.get_text().split())))
 
-                count += 1        
+                count += 1
+                
+                
 '''
 if __name__ == '__main__':
     get_html_mp4('get_url.txt', 3)
