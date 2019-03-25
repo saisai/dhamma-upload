@@ -11,16 +11,17 @@ from crawler import (get_fb_title, rearrange_urls, download_fb,
 #download_fb('du.txt', 1)
 #copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote)
 
+
 remote_username = 'u0_a97'
 remote_pass = 'snp'
 remote_hostname = '192.168.1.36'
-escaped_remote = '/data/data/com.termux/files/home/storage/external-1/PahtamagyiGrade/'
+escaped_remote = '/data/data/com.termux/files/home/storage/external-1/youtube/PilotSayadawJeYaPandita/fb/'
 remote_port = 8022
 #copy_to_remote('*.pdf',
-copy_to_remote('AshinTayzaniya-YamakaAhLinYaung-for-Pahtamagyigrade.pdf',
+copy_to_remote('*.mp4',
                 remote_username, remote_pass, remote_hostname, remote_port, escaped_remote
                 )
-  
+
 
 '''
 playlist = 'ပိုင္းေလာ့ဆရာေတာ္-Pilot Sayartaw'

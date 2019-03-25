@@ -53,20 +53,23 @@ def copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, r
     
     print(glob.glob(copied_file))
     
-    if os.path.isfile(copied_file):
-        cmd = "sshpass -p %s /usr/bin/rsync -P --partial -avzzz %s -e 'ssh -p %s' %s@%s:'%s'" % (remote_pass, copied_file, remote_port, remote_username, remote_hostname, escaped_remote)
+    for copied_file in glob.glob(copied_file):
+        print(copied_file)
+    
+        if os.path.isfile(copied_file):
+            cmd = "sshpass -p %s /usr/bin/rsync -P --partial -avzzz %s -e 'ssh -p %s' %s@%s:'%s'" % (remote_pass, copied_file, remote_port, remote_username, remote_hostname, escaped_remote)
 
-        result = 1 
-        while result != 0:
-            result = subprocess.Popen(cmd,shell=True).wait()
-            #text = result.communicate()[0]
-            #returncode = result.returncode
-        
-            print(result)
+            result = 1 
+            while result != 0:
+                result = subprocess.Popen(cmd,shell=True).wait()
+                #text = result.communicate()[0]
+                #returncode = result.returncode
+            
+                print(result)
 
-            if os.path.isfile(copied_file):
-                print('Moving file...', copied_file)
-                shutil.move(copied_file, '%sfinished/' % (running_from_path))    
+                if os.path.isfile(copied_file):
+                    print('Moving file...', copied_file)
+                    shutil.move(copied_file, '%sfinished/' % (running_from_path))    
 
 
 def get_line_from_file(file_in):
