@@ -22,5 +22,15 @@ def change_unix_to_window(param):
     final_path = drive + no_drive_result
     return final_path
     
+def date_difference(first_date, second_date):
+    from datetime import date 
+    first_date =  date(first_date) # year, month, day
+    second_date =  date(second_date) # year, month, day
+    delta = second_date - first_date
+    return delta
+    
+    
+       
+    
     
     
