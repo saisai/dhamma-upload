@@ -23,6 +23,7 @@ def change_unix_to_window(param):
     return final_path
     
 def date_difference(first_date, second_date):
+    # https://stackoverflow.com/questions/151199/how-to-calculate-number-of-days-between-two-given-dates
     from datetime import date 
     first_date =  date(first_date) # year, month, day
     second_date =  date(second_date) # year, month, day

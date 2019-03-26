@@ -35,7 +35,7 @@ class URL(click.ParamType):
 @click.option('--foo', help='A mysterious parameter.')
 @click.option('--url', help='A URL', type=URL())
 @click.version_option()
-def cli(count, foo, url):
+def main(count, foo, url):
     """Validation.
 
     This example validates parameters in different ways.  It does it
@@ -49,7 +49,7 @@ def cli(count, foo, url):
     click.echo('foo: %s' % foo)
     click.echo('url: %s' % repr(url))
 
-def main():
+def maina():
     print('hello from cli')
     #args = sys.argv[1:]
     

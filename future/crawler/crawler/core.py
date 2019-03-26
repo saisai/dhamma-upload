@@ -66,7 +66,8 @@ def copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, r
                 #returncode = result.returncode
             
                 print(result)
-
+            
+            if result == 0:
                 if os.path.isfile(copied_file):
                     print('Moving file...', copied_file)
                     shutil.move(copied_file, '%sfinished/' % (running_from_path))    

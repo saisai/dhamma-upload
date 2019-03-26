@@ -82,7 +82,7 @@ class Converter(Thread):
             playlist = getObj.playlist            
             
             # download the file
-            print("* Thread {} - processing URL".format(self.name))
+            #print("* Thread {} - processing URL".format(self.name))
             self.download_file(mp3file, description, title, playlist)
             # send a signal to the queue that the job is done
             self.queue.task_done()
