@@ -25,10 +25,29 @@ def change_unix_to_window(param):
 def date_difference(first_date, second_date):
     # https://stackoverflow.com/questions/151199/how-to-calculate-number-of-days-between-two-given-dates
     from datetime import date 
-    first_date =  date(first_date) # year, month, day
-    second_date =  date(second_date) # year, month, day
+    #print(type(first_date))
+    
+    first_date = first_date.split(',')
+    second_date = second_date.split(',')
+    
+    #first_date = 
+    first_date =  date(int(first_date[0]), int(first_date[1]), int(first_date[2]) ) # year, month, day
+    second_date =  date(int(second_date[0]), int(second_date[1]), int(second_date[2]) ) # year, month, day
+    #second_date =  date(int(second_date)) # year, month, day
     delta = second_date - first_date
     return delta
+    
+def get_percent():
+    cmd = "df -h | grep media_rw | awk '{print $5}'"
+    ps = subprocess.Popen(cmd,shell=True,stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+    output = ps.communicate()[0].decode()
+    print(output.split('%')[0])
+    return int(output.split('%')[0])
+    # https://stackoverflow.com/questions/13332268/how-to-use-subprocess-command-with-pipes
+    # https://www.programcreek.com/python/example/78/subprocess.PIPE
+    # subprocess.check_output("df -h | grep Avail | awk '{print $2}'", shell=True).decode('utf-8')
+    # https://docs.python.org/3/library/subprocess.html
+
     
     
        

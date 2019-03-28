@@ -1,63 +1,48 @@
 import sys 
+from optparse import OptionParser
+
+from .helper import date_difference
 
 
-import click
-
-
-import click
-try:
-    from urllib import parse as urlparse
-except ImportError:
-    import urlparse
-
-
-def validate_count(ctx, param, value):
-    if value < 0 or value % 2 != 0:
-        raise click.BadParameter('Should be a positive, even integer.')
-    return value
-
-
-class URL(click.ParamType):
-    name = 'url'
-
-    def convert(self, value, param, ctx):
-        if not isinstance(value, tuple):
-            value = urlparse.urlparse(value)
-            if value.scheme not in ('http', 'https'):
-                self.fail('invalid URL scheme (%s).  Only HTTP URLs are '
-                          'allowed' % value.scheme, param, ctx)
-        return value
-
-
-@click.command()
-@click.option('--count', default=2, callback=validate_count,
-              help='A positive even number.')
-@click.option('--foo', help='A mysterious parameter.')
-@click.option('--url', help='A URL', type=URL())
-@click.version_option()
-def main(count, foo, url):
-    """Validation.
-
-    This example validates parameters in different ways.  It does it
-    through callbacks, through a custom type as well as by validating
-    manually in the function.
-    """
-    if foo is not None and foo != 'wat':
-        raise click.BadParameter('If a value is provided it needs to be the '
-                                 'value "wat".', param_hint=['--foo'])
-    click.echo('count: %s' % count)
-    click.echo('foo: %s' % foo)
-    click.echo('url: %s' % repr(url))
-
-def maina():
-    print('hello from cli')
-    #args = sys.argv[1:]
+def main():
     
-    #cli.main(args=args, prog_name=name)
+    usage = "usage: %prog [options] arg"
+    parser = OptionParser(usage)
+    #parser.add_option("-f", "--file", dest="filename",
+    #                  help="read data from FILENAME")
+    parser.add_option("-v", "--verbose",
+                      action="store_true", dest="verbose")
+    parser.add_option("-q", "--quiet",
+                      action="store_false", dest="verbose")
+    #parser.add_option("-d", "--date", action="store_true", help="Date difference")                      
+    parser.add_option("-d", "--date", action="store_true", help="Date difference 2019,1,9 2019,4,9 year,month,day")                      
+                      
+    (options, args) = parser.parse_args()
+    print(len(args))
+    print(options)
+    print(args)
+    #if len(args) != 1:
+        #parser.error("incorrect number of arguments")
+    #if options.verbose:
+        #print("reading %s..." % options.filename)                      
+    if options.date:
+        print('date')
+        # year, month, day
+        print(len(args))
+        if len(args) >= 2:
+            result = date_difference(args[0], args[1])
+            print(result)
+        else:
+            parser.print_help()
+        #print("reading %s..." % options.filename)
+        
     
 	
     
 
 if __name__ == '__main__':
     main()
+    
+    # https://pymotw.com/3/argparse/index.html
+    # https://docs.python.org/3/library/optparse.html
     
