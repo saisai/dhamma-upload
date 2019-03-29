@@ -1,0 +1,126 @@
+tt=1; for((; ;)); do echo "sleep 5 secs"; sleep 2; date;  echo $tt; tt=$((tt+1)); if(($tt >= 6)); then break; fi; done
+
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-6.html
+https://stackoverflow.com/questions/16034749/if-elif-else-statement-issues-in-bash
+https://stackoverflow.com/questions/31625794/infinite-for-loop-with-bash
+https://askubuntu.com/questions/385528/how-to-increment-a-variable-in-bash
+
+You can use for example arithmetic expansion:
+
+var=$((var+1))
+((var=var+1))
+((var+=1))
+((var++))
+
+Or you can use let:
+
+let "var=var+1"
+let "var+=1"
+let "var++"
+
+
+svn co svn://gcc.gnu.org/svn/gcc/tags/gcc_8_3_0_release
+svn ls svn://gcc.gnu.org/svn/gcc/tags | grep gcc | grep release
+
+
+https://seleniumhq.github.io/selenium/docs/api/py/webdriver_firefox/selenium.webdriver.firefox.firefox_profile.html#module-selenium.webdriver.firefox.firefox_profile
+https://selenium-python.readthedocs.io/api.html
+https://stackoverflow.com/questions/25251583/downloading-file-to-specified-location-with-selenium-and-python
+http://kb.mozillazine.org/Firefox_:_FAQs_:_About:config_Entries
+
+
+https://stackoverflow.com/questions/36309314/set-firefox-profile-to-download-files-automatically-using-selenium-and-java/36309735
+https://stackoverflow.com/questions/11223011/attributeerror-list-object-has-no-attribute-click-selenium-webdriver
+https://stackoverflow.com/questions/42216174/selecting-a-button-list-object-has-no-attribute-click-python-selenium?rq=1
+https://stackoverflow.com/questions/18439851/how-can-i-download-a-file-on-a-click-event-using-selenium
+
+
+https://www.toolsqa.com/selenium-webdriver/how-to-download-files-using-selenium/
+https://stackoverflow.com/questions/17396275/selenium-python-downloading-but-file-is-saved-as-part
+Selenium-python downloading but file is saved as .part
+
+
+https://www.linode.com/docs/development/nodejs/install-configure-selenium-grid-ubuntu-16-04/
+https://github.com/mozilla/geckodriver/releases/tag/v0.24.0
+https://tecadmin.net/setup-selenium-with-firefox-on-ubuntu/
+
+
+https://stackoverflow.com/questions/25251583/downloading-file-to-specified-location-with-selenium-and-python
+https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.firefox.firefox_profile
+https://github.com/pradeepta02/python-behave-automation-framework
+
+https://www.programcreek.com/python/example/100026/selenium.webdriver.FirefoxProfile
+
+https://anandology.com/python-practice-book/iterators.html
+
+https://github.com/VivekSharma1897
+https://github.com/VivekSharma1897/AnimeDownloader/blob/master/DownloadEpisode.py
+https://www.reddit.com/r/learnpython/comments/8vffbw/python_selenium_find_out_when_a_download_has/
+https://github.com/seb-m/pyinotify/tree/master/python3/examples
+https://github.com/yagyanshbhatia?tab=repositories
+
+https://stackoverflow.com/questions/2104080/how-to-check-file-size-in-python
+https://stackoverflow.com/questions/18439851/how-can-i-download-a-file-on-a-click-event-using-selenium
+https://stackoverflow.com/questions/21746750/check-and-wait-until-a-file-exists-to-read-it
+https://stackoverflow.com/questions/34338897/python-selenium-find-out-when-a-download-has-completed
+https://github.com/yagyanshbhatia/Comprehensive-Manga-Downloader/blob/master/go.py
+https://gist.github.com/alisterscott/2936040
+https://www.dev2qa.com/selenium-webdriver-handle-firefox-or-chrome-download-popup/
+
+
+
+# Every 2 minutes
+*/2 * * * * python /data/data/com.termux/files/home/cronrun.py > /data/data/com.termux/files/home/youtube/log/`date +%Y_%m_%d_%H_%M_%S`.txt 2>&1
+#12 17 * * * python /data/data/com.termux/files/home/cronrun.py > /data/data/com.termux/files/home/youtube/log/`date +%Y_%m_%d_%H_%M_%S`.txt 2>&1
+#10 17 * * * echo "hello" > /data/data/com.termux/files/home/youtube/log/`date +%Y-%m-%d-%H:%M:%S`.txt 2>&1
+
+https://stackoverflow.com/questions/25905540/importerror-no-module-named-tkinter
+
+
+sudo apt-get install python3-tk
+https://pysimplegui.readthedocs.io/tutorial/#what-is-a-gui
+
+
+
+
+
+https://github.com/uploadcare/pillow-simd/issues/31
+https://github.com/python-pillow
+https://github.com/python-pillow/Sane
+https://gitlab.com/sane-project/backends
+https://github.com/python-pillow/Pillow
+https://stackoverflow.com/questions/5226311/installing-specific-package-versions-with-pip
+https://wiki.wxpython.org/How%20to%20install%20wxPython
+https://realpython.com/python-gui-with-wxpython/
+https://github.com/PySimpleGUI/PySimpleGUI
+https://pysimplegui.readthedocs.io/tutorial/#what-is-a-gui
+http://planet.python.org/rss20.xml
+
+
+https://www.facebook.com/webgraphql/query/?doc_id=1756845024340619&variables={"video_id":"580385285761185"}
+
+https://www.facebook.com/pilotsayartaw/videos/580385285761185/
+
+https://stackoverflow.com/questions/2322750/replace-transparency-in-png-images-with-white-background
+https://www.imagemagick.org/discourse-server/viewtopic.php?t=30755
+convert \
+${args.inputFiles} \
+-quality 100 \
+-density 300x300 \
+-compress jpeg \
+-units PixelsPerInch \
+-background white \
+-alpha remove \
++repage \
+${args.outputPdf}
+
+https://stackoverflow.com/questions/6605006/convert-pdf-to-image-with-high-resolution
+convert           \
+   -verbose       \
+   -density 150   \
+   -trim          \
+    test.pdf      \
+   -quality 100   \
+   -flatten       \
+   -sharpen 0x1.0 \
+    24-18.jpg
