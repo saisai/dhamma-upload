@@ -75,6 +75,9 @@ class Converter(Thread):
     def download_file(self, mp3file):
         """Download file"""
         if os.path.isfile(mp3file):
+            result = mp3file.split('/')
+            formatter = '/'.join(result[:-1]) + '/' + result[-1].split('.')[0]
+            #print(result[-1].split('.')[0])
             #print('ccc', mp3file)
             #print('ccc', '/'.join(mp3file.split('.')[0].split('/')[:-1]))
             #output_path ='/'.join(mp3file.split('.')[0].split('/')[:-1]) + '/'
@@ -84,7 +87,7 @@ class Converter(Thread):
             
             #print("* Thread: {} Download {} in {} seconds.".format(self.name, mp3file, str(t_elapsed)))   
 
-            formatter = mp3file.split('.')[0]
+            #formatter = mp3file.split('.')[0]
             print('counter' , formatter)
             #print('counter aa' , self.output_path)
             info = mediainfo(mp3file)
