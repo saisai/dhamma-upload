@@ -19,7 +19,7 @@ from crawler.core import (
 
 from crawler.thread_download import thread_download
 
-from crawler.thread_upload import thread_upload, thread_upload_test
+from crawler.thread_upload import thread_upload, thread_upload_test, thread_upload_test_title
 
 from crawler.get_fb_title import get_fb_title, rearrange_urls
 

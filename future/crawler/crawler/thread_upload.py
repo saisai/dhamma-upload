@@ -197,7 +197,25 @@ def thread_upload_test(file_in):
                 title, key['description'], key['playlist'], files))            
             
         else:
-            print('No file found to be uploaded', files)    
+            print('No file found to be uploaded', files) 
+
+
+def thread_upload_test_title(file_in):
+    file_in = running_from_path + file_in
+    mp3s = []
+    with open(file_in) as json_file:
+        data = json.load(json_file)
+        mp3s = json.loads(data)
+    
+    count = 1
+    for key in mp3s:        
+        files_test = '{:03d}.m4'.format(count)
+        title =  key['title']             
+        print('{} --title="{}" --description="{}" --playlist="{}" file={}'.format('youtube-upload', \
+            title, key['description'], key['playlist'], files_test))            
+        count += 1
+            
+  
     
 '''    
 parser = argparse.ArgumentParser(add_help=True, description="youtube upload script") 

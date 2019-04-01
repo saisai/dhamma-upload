@@ -62,7 +62,7 @@ class Converter(Thread):
     def run(self):
         while True:
             # gets the url from the queue
-            mp3file = self.queue.get()
+            mp3file = self.image_path + self.queue.get()
             print(mp3file)
             # download the file
             print("* Thread {} - processing URL".format(self.name))
