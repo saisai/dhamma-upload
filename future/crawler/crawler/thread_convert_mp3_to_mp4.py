@@ -84,8 +84,8 @@ class Converter(Thread):
             
             #print("* Thread: {} Download {} in {} seconds.".format(self.name, mp3file, str(t_elapsed)))   
 
-            format = mp3file.split('.')[0]
-            print('counter' , format)
+            formatter = mp3file.split('.')[0]
+            print('counter' , formatter)
             #print('counter aa' , self.output_path)
             info = mediainfo(mp3file)
             
@@ -96,7 +96,7 @@ class Converter(Thread):
                 seconds = float(info['duration'])            
                 result = seconds / self.images_count
                 plus_one = result
-                command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-pix_fmt|yuv420p|-c:a|aac|-s|320x240|{}.mp4".format(plus_one, self.image_path, mp3file, format)
+                command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-pix_fmt|yuv420p|-c:a|aac|-s|320x240|{}.mp4".format(plus_one, self.image_path, mp3file, formatter)
                 #command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-c:a|aac|{}.mp4".format(plus_one, self.image_path, mp3file, format)
                 print(command)
                 completed = subprocess.run(command.split('|'))
