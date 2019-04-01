@@ -1,4 +1,5 @@
-
+ffmpeg -i in.mp4 -ss [start] -t [duration] -c copy out.mp4
+https://superuser.com/questions/377343/cut-part-from-video-file-from-start-position-to-end-position-with-ffmpeg#
 
     ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
     Sound recording
@@ -51,3 +52,22 @@ ffmpeg -i 466.mp4 -ss 00:05:30 -codec copy 466_out.mp4
 Sound recording
 4:08 - 5:39 
 ffmpeg -i 512.mp4 -ss 00:06:10 -codec copy 512_out.mp4 
+
+
+စင္ကာပူတရားစခန္းဒုတိယေန႔-ပထမအခ်ိန္(၆.၅.၂၀၁၈)
+882.mp4|https://www.facebook.com/pilotsayartaw/videos/2013793992171763/
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+Sound recording
+3:08 - 4:43
+ffmpeg -i 882.mp4 -ss 00:05:01 -codec copy 882_out.mp4
+
+
+851.mp4|https://www.facebook.com/pilotsayartaw/videos/2000771260140703/
+ဗုဒၶဘိေသကမဂၤလာပူျဖင့္ပူေဇာ္ျခင္း
+851
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 3 - หล่า เซ่ ผ่อง
+Sound recording
+1:57:53 - 2:04:06
+
+
+ffmpeg -i 851.mp4 -ss 00:00:00 -t 1:56:00  -c copy 851_out.mp4

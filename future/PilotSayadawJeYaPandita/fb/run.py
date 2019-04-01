@@ -14,7 +14,7 @@ from crawler import (get_fb_title, rearrange_urls, download_fb,
 
 remote_username = 'u0_a97'
 remote_pass = 'snp'
-remote_hostname = '192.168.1.36'
+remote_hostname = '192.168.1.38'
 escaped_remote = '/data/data/com.termux/files/home/storage/external-1/youtube/PilotSayadawJeYaPandita/fb/'
 remote_port = 8022
 #copy_to_remote('*.pdf',
