@@ -51,12 +51,13 @@ def natural_keys(text):
 class Converter(Thread):
     """Downloader class - read queue and downloads each file in succession"""
 
-    def __init__(self, queue, images_count, image_path):
+    def __init__(self, queue, images_count, image_path, output_path):
 
         Thread.__init__(self, name=binascii.hexlify(os.urandom(16)))
         self.queue = queue
         self.images_count = images_count
         self.image_path = image_path
+        self.output_path = output_path
         
 
     def run(self):
@@ -89,7 +90,7 @@ class Converter(Thread):
                 seconds = float(info['duration'])            
                 result = seconds / self.images_count
                 plus_one = result
-                command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-pix_fmt|yuv420p|-c:a|aac|-s|320x240|{}{}.mp4".format(plus_one, self.image_path, mp3file, running_from_path, format)
+                command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-pix_fmt|yuv420p|-c:a|aac|-s|320x240|{}{}.mp4".format(plus_one, self.image_path, mp3file, self.output_path, format)
                 #command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-c:a|aac|{}.mp4".format(plus_one, self.image_path, mp3file, format)
                 print(command)
                 completed = subprocess.run(command.split('|'))
@@ -107,11 +108,12 @@ class Converter(Thread):
 
 class ConvertManager():
     """Spawns downoader threads and manages URL downloads queue"""
-    def __init__(self, convert_list, images_count, image_path, thread_count=4):
+    def __init__(self, convert_list, images_count, image_path, output_path, thread_count=4):
         self.thread_count = thread_count
         self.convert_list = convert_list
         self.images_count = images_count
         self.image_path = image_path
+        self.output_path = output_path
         
 
     def begin_convert(self):
@@ -123,7 +125,7 @@ class ConvertManager():
         queue = Queue()
         # create a thred pool and give them a queue
         for i in range(self.thread_count):
-            t = Converter(queue, self.images_count, self.image_path)
+            t = Converter(queue, self.images_count, self.image_path, self.output_path)
             t.setDaemon(True)
             t.start()
 
@@ -150,7 +152,7 @@ def one(mp3s_count, threads):
     #print(mp3s[:mp3s_count])
     
     images = [mp3 for mp3  in sorted(glob.glob(running_from_path + "images/*.jpg"), key=natural_keys)]
-    convert_manager = ConvertManager(mp3s[:mp3s_count], len(images), running_from_path + 'images/', threads)
+    convert_manager = ConvertManager(mp3s[:mp3s_count], len(images), running_from_path + 'images/', running_from_path, threads)
     convert_manager.begin_convert()
     
    
