@@ -66,7 +66,7 @@ class Converter(Thread):
             mp3file = self.queue.get()
             print(mp3file)
             # download the file
-            print("* Thread {} - processing URL".format(self.name))
+            #print("* Thread {} - processing URL".format(self.name))
             self.download_file(mp3file)
             # send a signal to the queue that the job is done
             self.queue.task_done()
@@ -75,6 +75,9 @@ class Converter(Thread):
     def download_file(self, mp3file):
         """Download file"""
         if os.path.isfile(mp3file):
+            #print('ccc', mp3file)
+            #print('ccc', '/'.join(mp3file.split('.')[0].split('/')[:-1]))
+            #output_path ='/'.join(mp3file.split('.')[0].split('/')[:-1]) + '/'
             
             #t_start = time.clock()
             #t_elapsed = time.clock() - t_start
@@ -83,14 +86,17 @@ class Converter(Thread):
 
             format = mp3file.split('.')[0]
             print('counter' , format)
+            #print('counter aa' , self.output_path)
             info = mediainfo(mp3file)
             
             if len(info) > 0:            
-                print(info, len(info), 'aa')
+                #print(info, len(info), 'aa')
+                #format = self.output_path + format
+                #print('aa test', format)
                 seconds = float(info['duration'])            
                 result = seconds / self.images_count
                 plus_one = result
-                command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-pix_fmt|yuv420p|-c:a|aac|-s|320x240|{}{}.mp4".format(plus_one, self.image_path, mp3file, self.output_path, format)
+                command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-pix_fmt|yuv420p|-c:a|aac|-s|320x240|{}.mp4".format(plus_one, self.image_path, mp3file, format)
                 #command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-c:a|aac|{}.mp4".format(plus_one, self.image_path, mp3file, format)
                 print(command)
                 completed = subprocess.run(command.split('|'))
