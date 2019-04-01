@@ -62,7 +62,7 @@ class Converter(Thread):
     def run(self):
         while True:
             # gets the url from the queue
-            mp3file = self.image_path + self.queue.get()
+            mp3file = self.queue.get()
             print(mp3file)
             # download the file
             print("* Thread {} - processing URL".format(self.name))
@@ -89,7 +89,7 @@ class Converter(Thread):
                 seconds = float(info['duration'])            
                 result = seconds / self.images_count
                 plus_one = result
-                command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-pix_fmt|yuv420p|-c:a|aac|-s|320x240|{}.mp4".format(plus_one, self.image_path, mp3file, format)
+                command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-pix_fmt|yuv420p|-c:a|aac|-s|320x240|{}{}.mp4".format(plus_one, self.image_path, mp3file, running_from_path, format)
                 #command = "ffmpeg|-y|-r|1/{}|-start_number|1|-i|{}photo-%03d.jpg|-i|{}|-r|18|-c:a|aac|{}.mp4".format(plus_one, self.image_path, mp3file, format)
                 print(command)
                 completed = subprocess.run(command.split('|'))
