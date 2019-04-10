@@ -8,7 +8,7 @@ from crawler import (get_fb_title, rearrange_urls, download_fb,
 #fb
 #rearrange_urls('raw_urls.txt', 'links.txt')
 #get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver.exe')
-#download_fb('du.txt', 1)
+#download_fb('du.txt', 3)
 #copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote)
 
 

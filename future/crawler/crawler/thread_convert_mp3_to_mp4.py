@@ -17,6 +17,11 @@ import os
 import shutil
 import functools
 
+
+from .helper import natural_keys
+
+
+
 file = sys.argv[0]
 
 pathname = os.path.dirname(file)
@@ -33,21 +38,6 @@ if not os.path.isdir(moved_mp3):
     os.mkdir(moved_mp3)
     
     
-#threads = int(sys.argv[1])
-#print(threads)
-
-
-def atoi(text):
-    return int(text) if text.isdigit() else text
-
-def natural_keys(text):
-    '''
-    alist.sort(key=natural_keys) sorts in human order
-    http://nedbatchelder.com/blog/200712/human_sorting.html
-    (See Toothy's implementation in the comments)
-    '''
-    return [ atoi(c) for c in re.split('(\d+)', text) ]
-
 class Converter(Thread):
     """Downloader class - read queue and downloads each file in succession"""
 

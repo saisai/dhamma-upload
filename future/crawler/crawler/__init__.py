@@ -27,6 +27,8 @@ from crawler.fb_thread_download import download_fb
 
 from crawler.thread_convert_mp3_to_mp4 import thread_convert_mp3_to_mp4
 
+from crawler.thread_upload_remote import thread_upload_remote
+
 
 
 

@@ -1,9 +1,5 @@
-import os
-import sys
-import collections
-import json
-import shutil
 import subprocess
+import re
 
 
 # Change path unix to window
@@ -47,6 +43,17 @@ def get_percent():
     # https://www.programcreek.com/python/example/78/subprocess.PIPE
     # subprocess.check_output("df -h | grep Avail | awk '{print $2}'", shell=True).decode('utf-8')
     # https://docs.python.org/3/library/subprocess.html
+    
+def atoi(text):
+    return int(text) if text.isdigit() else text
+
+def natural_keys(text):
+    '''
+    alist.sort(key=natural_keys) sorts in human order
+    http://nedbatchelder.com/blog/200712/human_sorting.html
+    (See Toothy's implementation in the comments)
+    '''
+    return [ atoi(c) for c in re.split('(\d+)', text) ]    
 
     
     

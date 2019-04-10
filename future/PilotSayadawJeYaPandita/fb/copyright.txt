@@ -71,3 +71,42 @@ Sound recording
 
 
 ffmpeg -i 851.mp4 -ss 00:00:00 -t 1:56:00  -c copy 851_out.mp4
+
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 3 - หล่า เซ่ ผ่อง
+Sound recording
+1:45:27 - 1:51:39
+
+
+
+
+ညခ်မ္​းဓမၼပူဇာသဘင္​(14.10.2018)
+1102.mp4|https://www.facebook.com/pilotsayartaw/videos/670010183399083/
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+Sound recording
+5:31 - 7:00 
+
+ffmpeg -i 1102.mp4 -ss 00:00:00 -t 0:05:00  -c copy 1102_out_1.mp4
+ffmpeg -i 1102.mp4 -ss 00:07:05 -c copy 1102_out_2.mp4
+ffmpeg -i "concat:1102_out_1.mp4|1102_out_2.mp4" -c copy 1102_out.mp4
+
+
+​နံနက္​ခင္​းဓမၼသဘင္​-ဒုတိယ​ေန႔​(9.12.2018)
+1166.mp4|https://www.facebook.com/pilotsayartaw/videos/1878453565585711/
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+Sound recording
+5:11 - 6:19
+
+ffmpeg -i 1166.mp4 -ss 00:00:00 -t 0:05:00  -c copy 1166_out_1.mp4
+ffmpeg -i 1166.mp4 -ss 00:06:30 -c copy 1166_out_2.mp4
+ffmpeg -i "concat:1166_out_1.mp4|1166_out_2.mp4" -c copy 1166_out.mp4
+
+​​အဖြင္​့ၾသဝါဒ(1412.2018)
+1169.mp4|https://www.facebook.com/pilotsayartaw/videos/803116383367060/
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+Sound recording
+6:32 - 7:40
+
+ffmpeg -i 1169.mp4 -ss 00:00:00 -t 0:06:00  -c copy 1169_out_1.mp4
+ffmpeg -i 1169.mp4 -ss 00:08:00 -c copy 1169_out_2.mp4
+ffmpeg -i "concat:1169_out_1.mp4|1169_out_2.mp4" -c copy 1169_out.mp4

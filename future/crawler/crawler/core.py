@@ -9,6 +9,9 @@ import glob
 from bs4 import BeautifulSoup as bs4
 import requests
 
+
+from .helper import natural_keys
+
 file = sys.argv[0]
 
 pathname = os.path.dirname(file)
@@ -51,9 +54,9 @@ def copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, r
     #escaped_remote = '/storage/1527-15E5/Android/data/com.termux/files/youtube/ashin-zaw-ti-ka-nyaungdone/'
     copied_file = running_from_path + copied_file
     
-    print(glob.glob(copied_file))
+    #print(glob.glob(copied_file))
     
-    for copied_file in glob.glob(copied_file):
+    for copied_file in sorted(glob.glob(copied_file),   key=natural_keys):
         print(copied_file)
     
         if os.path.isfile(copied_file):
