@@ -1,0 +1,100 @@
+from bs4 import BeautifulSoup
+soup = BeautifulSoup(html, 'html.parser')
+with open('new_file_test_today.txt', 'w') as f:
+    for data in soup.find_all('ytd-playlist-video-renderer'):
+        #print(data.find('yt-formatted-string'))
+        #print(data.find('a', attrs={'id':'thumbnail','class': 'yt-simple-endpoint inline-block style-scope ytd-thumbnail'}).get('href'))
+        try:
+            
+            a_result = data.find('a', attrs={'id':'thumbnail','class': 'yt-simple-endpoint inline-block style-scope ytd-thumbnail'}).get('href')
+            id = a_result.split('&')[0].split('=')[1]
+            time = data.find('span', attrs={'class': 'style-scope ytd-thumbnail-overlay-time-status-renderer'}).get_text().strip()
+            title = data.find('span', attrs={'id': 'video-title'}).get_text().strip()
+            f.write('https://www.youtube.com/watch?v={}|||{}|||{}\n'.format(id, time, title))
+        except AttributeError as err:
+            print(err, 'err')
+            
+import datetime
+from pydub.utils import mediainfo
+import glob
+import re
+
+def atoi(text):
+    return int(text) if text.isdigit() else text
+
+def natural_keys(text):
+    '''
+    alist.sort(key=natural_keys) sorts in human order
+    http://nedbatchelder.com/blog/200712/human_sorting.html
+    (See Toothy's implementation in the comments)
+    '''
+    return [ atoi(c) for c in re.split('(\d+)', text) ]
+
+for mp4 in sorted(glob.glob('*.mp3'), key=natural_keys):
+    data = mediainfo(mp4)
+    # datetime.timedelta(hours=1, minutes=40, seconds=0).seconds = 6000
+    # datetime.timedelta(hours=1, minutes=15, seconds=0).seconds = 4500
+    if int(float(data['duration'])) <= 4500:
+        print(mp4)
+        #print(type(int(float(data['duration']))))
+        #print(int(float(data['duration'])))
+        #print(data['duration'])
+
+
+import datetime
+import glob
+import re 
+
+from pydub.utils import mediainfo
+
+
+def atoi(text):
+    return int(text) if text.isdigit() else text
+
+def natural_keys(text):
+    '''
+    alist.sort(key=natural_keys) sorts in human order
+    http://nedbatchelder.com/blog/200712/human_sorting.html
+    (See Toothy's implementation in the comments)
+    '''
+    return [ atoi(c) for c in re.split('(\d+)', text) ]
+
+for mp4 in sorted(glob.glob('*.mp3'), key=natural_keys):
+    data = mediainfo(mp4)
+    # datetime.timedelta(hours=1, minutes=40, seconds=0).seconds = 6000
+    # datetime.timedelta(hours=1, minutes=15, seconds=0).seconds = 4500
+    if int(float(data['duration'])) <= 0:
+        print(mp4)
+        #print(type(int(float(data['duration']))))
+        #print(int(float(data['duration'])))
+        #print(data['duration'])
+
+
+import os
+from PyPDF2 import PdfFileReader, PdfFileWriter
+
+pages = 'pages'
+
+if not os.path.isdir(pages):
+    os.mkdir(pages)
+
+
+def pdf_splitter(path):
+    fname = os.path.splitext(os.path.basename(path))[0]
+
+    pdf = PdfFileReader(path)
+    for page in range(pdf.getNumPages()):
+        pdf_writer = PdfFileWriter()
+        pdf_writer.addPage(pdf.getPage(page))
+
+        output_filename = 'pages/{}_page_{}.pdf'.format(
+            fname, page+1)
+
+        with open(output_filename, 'wb') as out:
+            pdf_writer.write(out)
+
+        print('Created: {}'.format(output_filename))
+
+if __name__ == '__main__':
+    path = 'a.pdf'
+    pdf_splitter(path)        

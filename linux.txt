@@ -1,0 +1,2 @@
+https://serverfault.com/questions/98745/how-to-repeatedly-call-rsync-until-files-are-sucessfully-transferred
+https://unix.stackexchange.com/questions/48425/how-to-stop-the-loop-bash-script-in-terminal/48465

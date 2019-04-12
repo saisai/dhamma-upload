@@ -1,0 +1,187 @@
+https://www.digitalocean.com/pricing/
+https://www.linode.com/pricing
+https://aws.amazon.com/lightsail/pricing/
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xvii-deployment-on-linux
+
+https://pypi.org/project/watchdog/
+https://github.com/rvoicilas?tab=repositories
+https://realpython.com/tutorials/flask/
+https://github.com/tesseract-ocr/tesseract
+https://github.com/ybur-yug/python_ocr_tutorial/issues
+https://github.com/alexcouper
+https://gitlab.com/pycqa/flake8
+
+
+https://blog.miguelgrinberg.com/index/page/2
+https://github.com/vishnubob/python-midi
+https://github.com/vishnubob/wait-for-it
+
+
+https://pythonprogramming.net/practical-flask-introduction/
+https://www.fullstackpython.com/flask.html
+https://stackoverflow.com/questions/7023052/configure-flask-dev-server-to-be-visible-across-the-network/30111421
+flask run --host=0.0.0.0
+http://theshybulb.com/2016/08/27/flask-blog.html
+http://flask.pocoo.org/docs/1.0/tutorial/deploy/
+python -c 'import os; print(os.urandom(8))'
+python -c 'import os; print(os.urandom(16))'
+
+
+https://www.jakowicz.com/flask-apache-wsgi/
+https://blog.ekbana.com/deploying-flask-application-using-mod-wsgi-bdf59174a389
+https://www.bogotobogo.com/python/Flask/Python_Flask_HelloWorld_App_with_Apache_WSGI_Ubuntu14.php
+http://flask.pocoo.org/docs/1.0/deploying/mod_wsgi/#installing-mod-wsgi
+
+
+https://pythonprogramminglanguage.com/flask-hello-world/
+
+
+https://github.com/sol-prog/threads
+https://solarianprogrammer.com/2011/12/16/cpp-11-thread-tutorial/
+https://www.classes.cs.uchicago.edu/archive/2013/spring/12300-1/labs/lab6/
+https://www.tutorialcup.com/cplusplus/multithreading.htm
+http://deathbytape.com/articles/2015/02/03/cpp-threading.html
+https://github.com/sol-prog/fgets-getline-usage-examples
+
+https://solarianprogrammer.com/
+https://github.com/sol-prog/threads/blob/master/cpp_thread_01.cpp
+https://www.acodersjourney.com/c11-multithreading-tutorial-via-faq-thread-management-basics/
+http://www.computersciencelab.com/MultithreadingTut1.htm
+https://www.studytonight.com/cpp/multithreading-in-cpp.php
+https://codescracker.com/cpp/cpp-multithreading.htm
+http://www.yolinux.com/TUTORIALS/LinuxTutorialPosixThreads.html
+http://holowczak.com/introduction-to-multithreading-in-cplusplus/2/
+https://riptutorial.com/de/cplusplus/example/2330/std----thread-erstellen
+https://randu.org/tutorials/threads/
+https://randu.org/tutorials/c/make.php
+https://baptiste-wicht.com/posts/2012/03/cp11-concurrency-tutorial-part-2-protect-shared-data.html
+https://github.com/wichtounet?tab=repositories
+https://www.w3adda.com/rust-tutorial
+https://www.w3adda.com/cplusplus-tutorial/cpp-for-loop
+
+https://github.com/stalinstepin/nsrpasswd/blob/master/nsrpasswd_linux.py
+https://www.nomachine.com/opensource
+
+
+
+https://github.com/ActiveState/code/tree/master/recipes
+https://code.activestate.com/
+https://code.activestate.com/recipes/langs/python/
+https://github.com/ContinuumIO/gulinalg/tree/master/gulinalg/src/lapack_lite
+https://github.com/ContinuumIO
+https://github.com/blackducksoftware
+https://github.com/Polymer
+https://github.com/ojdkbuild/ojdkbuild/issues
+https://openjdk.java.net/install/
+https://www.openhub.net/explore/orgs
+https://www.webucator.com/programming-training/course/linux-fundamentals.cfm
+http://monty-says.blogspot.com/
+
+/usr/lib/python3.7/socketserver.py
+
+https://github.com/codeezer/livescore-cli/blob/master/lib/lsweb.py
+https://github.com/ActiveState/code/tree/master/recipes/C%2B%2B/577552_Binary_Search_Tree
+https://github.com/DonJayamanne?tab=repositories
+https://github.com/palantir/python-language-server
+https://github.com/palantir
+https://github.com/pybind
+https://github.com/jagerman/loki-sn-bot
+https://github.com/jagerman/loki-sn-bot/tree/master/lokisnbot
+https://github.com/wjakob?tab=repositories
+https://blog.pythonanywhere.com/
+https://github.com/codeezer?tab=repositories
+https://o6ucs.wordpress.com/second-year-semester-1/data-structure/
+https://github.com/vitessio/vitess/blob/master/py/vtdb/times.py
+
+
+https://blog.codeonion.com/2014/12/01/codeigniter-2-20-how-to-manage-assets-js-jpg-etc-using-view/
+https://github.com/gpedro/CodeIgniter-Assets-Helper/blob/master/applications/helpers/assets_helper.php
+
+
+
+
+
+
+
+https://github.com/gpedro/CodeIgniter-Assets-Helper/tree/master/applications/config
+https://github.com/duan-li/CodeIgniter-Asset-Library/tree/master/application/config
+http://www.codeigniter.in.th/forum/helper_reference/6/
+
+https://github.com/glooby/pexels/tree/master/script
+https://github.com/glooby/pexels/blob/master/script/setperm
+https://github.com/glooby/pexels
+
+https://github.com/glooby/pexels/tree/master/script
+
+
+PHP: missing --enable-exif / Pacman & Package Upgrade Issues ...
+
+
+sudo pacman -Sp php --print-format '%n' --needed > php.txt
+pacman -Sp deepin --print-format '%n' --needed > install.txt
+
+
+https://www.youtube.com/watch?v=OiWhB7J-UA4&list=PLkAlGChAwhhzgGvAE3bSxho2ML5h5NK2h
+https://www.youtube.com/list=PLkAlGChAwhhzgGvAE3bSxho2ML5h5NK2h
+
+
+youtube-dl --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" https://www.youtube.com/list=PLkAlGChAwhhzgGvAE3bSxho2ML5h5NK2h
+
+youtube-dl -cit --extract-audio --audio-format mp3 https://www.youtube.com/playlist?list=PLttJ4RON7sleuL8wDpxbKHbSJ7BH4vvCk
+youtube-dl -cit --extract-audio --audio-format mp3 https://www.youtube.com/playlist?list=PLkAlGChAwhhzgGvAE3bSxho2ML5h5NK2h
+
+youtube-dl -x --audio-quality 0 --audio-format mp3 -o '%(uploader)s/%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s' 
+
+
+
+youtube-dl -cit --extract-audio --audio-format mp3 https://www.youtube.com/playlist?list=PLkAlGChAwhhzgGvAE3bSxho2ML5h5NK2h
+youtube-dl --extract-audio --audio-format mp3 -o "%(playlist_index)s-%(title)s.%(ext)s" https://www.youtube.com/playlist?list=PLkAlGChAwhhzgGvAE3bSxho2ML5h5NK2h
+
+
+gs \
+  -o repaired.pdf \
+  -sDEVICE=pdfwrite \
+  -dPDFSETTINGS=/prepress \
+   Ka_Pa.pdf
+   
+gs \
+  -o repaired.pdf \
+  -sDEVICE=pdfwrite \
+  -dPDFSETTINGS=/prepress \
+   "LMA)Pali-Myanmar dictionary.pdf"
+   
+   
+https://ubuntuforums.org/showthread.php?t=2394609
+#!/usr/bin/python3
+ 
+# adapted from https://github.com/recantha/EduKit3-RC-Keyboard/blob/master/rc_keyboard.py
+ 
+import sys, termios, tty, os, time
+import fcntl
+ 
+def getch():
+    fd = sys.stdin.fileno()
+    old_settings = termios.tcgetattr(fd)
+    try:
+        tty.setraw(sys.stdin.fileno())
+        ch = sys.stdin.read(1)
+ 
+    finally:
+        termios.tcsetattr(fd, termios.TCSADRAIN, old_settings)
+    return ch
+ 
+button_delay = 0.2
+
+fd = sys.stdin.fileno()
+fl = fcntl.fcntl(fd, fcntl.F_GETFL)
+fcntl.fcntl(fd, fcntl.F_SETFL, fl | os.O_NONBLOCK)
+ 
+while True:
+    char = getch()
+    
+    
+https://rosettacode.org/wiki/Keyboard_input/Keypress_check#Python
+https://en.wikiversity.org/wiki/Python_Concepts/While_Statement
+https://gis.stackexchange.com/questions/2190/keyboardinterrupt-doesnt-work-when-arcgisscripting-module-is-loaded
+http://effbot.org/zone/stupid-exceptions-keyboardinterrupt.htm
+http://zguide.zeromq.org/py:interrupt       

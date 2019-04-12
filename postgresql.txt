@@ -1,0 +1,167 @@
+systemctl start postgresql
+systemctl status postgresql
+chown -R postgres:postgres /var/lib/postgres/
+su - postgres -c "initdb --locale en_US.UTF-8 -D '/var/lib/postgres/data'"
+The files belonging to this database system will be owned by user "postgres".
+This user must also own the server process.
+
+The database cluster will be initialized with locale "en_US.UTF-8".
+The default database encoding has accordingly been set to "UTF8".
+The default text search configuration will be set to "english".
+
+Data page checksums are disabled.
+
+creating directory /var/lib/postgres/data ... ok
+creating subdirectories ... ok
+selecting default max_connections ... 100
+selecting default shared_buffers ... 128MB
+selecting dynamic shared memory implementation ... posix
+creating configuration files ... ok
+running bootstrap script ... ok
+performing post-bootstrap initialization ... ok
+syncing data to disk ... ok
+
+WARNING: enabling "trust" authentication for local connections
+You can change this by editing pg_hba.conf or using the option -A, or
+--auth-local and --auth-host, the next time you run initdb.
+
+Success. You can now start the database server using:
+
+    pg_ctl -D /var/lib/postgres/data -l logfile start
+
+    
+https://wiki.archlinux.org/index.php/PostgreSQL    
+https://linuxhint.com/install-postgresql-10-arch-linux/
+https://wiki.archlinux.org/index.php/PostgreSQL
+https://github.com/phppgadmin/phppgadmin
+https://bbs.archlinux.org/viewtopic.php?id=151593
+# chown -R postgres:postgres /var/lib/postgres/
+# su - postgres -c "initdb --locale en_US.UTF-8 -D '/var/lib/postgres/data'"
+https://stackoverflow.com/questions/10431426/trying-to-get-postgres-setup-in-my-environment-but-cant-seem-to-get-permissions/10436707
+https://blog.hagander.net/
+https://github.com/phppgadmin/phppgadmin
+https://stackoverflow.com/questions/10431426/trying-to-get-postgres-setup-in-my-environment-but-cant-seem-to-get-permissions/10436707
+# sudo mkdir /usr/local/var/postgres
+# sudo chmod 775 /usr/local/var/postgres
+# sudo chown construct /usr/local/var/postgres
+# initdb /usr/local/var/postgres
+# sudo chown wdurant /usr/local/var/postgres
+
+https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e
+sudo -u postgres psql
+postgres=# create database mydb;
+postgres=# create user myuser with encrypted password 'mypass';
+postgres=# grant all privileges on database mydb to myuser;
+
+
+Doing purely via psql
+CREATE DATABASE yourdbname;
+CREATE USER youruser WITH ENCRYPTED PASSWORD 'yourpass';
+GRANT ALL PRIVILEGES ON DATABASE yourdbname TO youruser;    
+
+
+
+
+
+https://www.cyberciti.biz/faq/howto-add-postgresql-user-account/
+
+https://makandracards.com/makandra/49388-postgresql-upgrading-your-user-to-a-superuser
+https://chartio.com/resources/tutorials/how-to-change-a-user-to-superuser-in-postgresql/
+https://stackoverflow.com/questions/10757431/postgres-upgrade-a-user-to-be-a-superuser
+https://www.ntchosting.com/encyclopedia/databases/postgresql/create-user/
+http://www.postgresqltutorial.com/postgresql-change-password/
+
+netstat -ntlp
+https://stackoverflow.com/questions/50049463/remote-postgresql-connection-with-pgadmin?noredirect=1&lq=1
+
+
+https://enterprise.arcgis.com/en/server/10.3/cloud/amazon/change-default-database-passwords-on-linux.htm
+https://chartio.com/resources/tutorials/how-to-set-the-default-user-password-in-postgresql/
+https://blog.dbi-services.com/inheriting-super-user-privileges-over-a-role-automatically-in-postgresql/
+https://stackoverflow.com/questions/3602450/where-are-my-postgres-conf-files
+$ psql -U postgres -c 'SHOW config_file'
+
+https://stackoverflow.com/questions/50049463/remote-postgresql-connection-with-pgadmin?noredirect=1&lq=1
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04
+https://stackoverflow.com/questions/25033619/cant-connect-to-phppgadmin
+https://linoxide.com/tools/setup-postgresql-access-phppgadmin-ubuntu-16-04/
+https://github.com/malnvenshorn/OctoPrint-FilamentManager/wiki/Setup-PostgreSQL-on-Arch-Linux
+https://github.com/foosel/OctoPrint
+
+https://github.com/malnvenshorn/OctoPrint-FilamentManager
+https://github.com/phpmyadmin/phpmyadmin/blob/master/sql/create_tables.sql
+
+https://planet.postgresql.org/
+https://www.digitalocean.com/community/tutorials/how-to-install-configure-pgadmin4-server-mode
+https://bbs.archlinux.org/viewtopic.php?id=239357
+https://linuxhint.com/pgadmin4_tutorial_beginners/
+http://yallalabs.com/databases/how-to-install-pgadmin-4-in-server-mode-as-a-web-application-using-wsgi-on-ubuntu-18-04-lts-ubuntu-16-04-lts/
+
+https://stackoverflow.com/questions/40324824/how-to-access-remotely-pgadmin4
+
+
+You need to add below config options,
+
+DEFAULT_SERVER = '0.0.0.0'
+
+in config_local.py (in "pgAdmin4" folder).
+
+If also want to change default port then also add
+
+DEFAULT_SERVER_PORT = 5050
+
+
+flask projects
+https://github.com/postgres/pgadmin4
+
+django projects
+https://github.com/WeblateOrg/weblate
+https://hosted.weblate.org/projects/
+
+arch linux
+apachectl -M 
+
+
+
+https://dominicm.com/install-apache-web-server-on-arch-linux/
+https://wiki.archlinux.org/index.php/Apache_HTTP_Server
+
+
+#DocumentRoot "/srv/http"
+#<Directory "/srv/http">
+    #
+    # Possible values for the Options directive are "None", "All",
+    # or any combination of:
+    #   Indexes Includes FollowSymLinks SymLinksifOwnerMatch ExecCGI MultiViews
+    #
+    # Note that "MultiViews" must be named *explicitly* --- "Options All"
+    # doesn't give it to you.
+    #
+    # The Options directive is both complicated and important.  Please see
+    # http://httpd.apache.org/docs/2.4/mod/core.html#options
+    # for more information.
+    #
+#    Options Indexes FollowSymLinks
+
+    #
+    # AllowOverride controls what directives may be placed in .htaccess files.
+    # It can be "All", "None", or any combination of the keywords:
+    #   AllowOverride FileInfo AuthConfig Limit
+    #
+#    AllowOverride None
+
+    #
+    # Controls who can get stuff from this server.
+    #
+#    Require all granted
+#</Directory>
+
+
+DocumentRoot "/mnt/working"
+<Directory "/mnt/working">
+    Options Indexes FollowSymLinks
+    AllowOverride All
+    Require all granted
+</Directory>
+
+

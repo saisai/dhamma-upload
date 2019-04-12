@@ -1,0 +1,25 @@
+Converting Epoch time into the datetime
+
+To convert your time value (float or int) to a formatted string, use:
+time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(1347517370))
+https://stackoverflow.com/questions/12400256/converting-epoch-time-into-the-datetime
+
+
+https://stackoverflow.com/questions/12458595/convert-timestamp-since-epoch-to-datetime-datetime/12458703
+
+
+>>> import time
+>>> time.gmtime(1346114717972/1000.)
+time.struct_time(tm_year=2012, tm_mon=8, tm_mday=28, tm_hour=0, tm_min=45, tm_sec=17, tm_wday=1, tm_yday=241, tm_isdst=0)
+
+
+https://stackoverflow.com/questions/151199/how-to-calculate-number-of-days-between-two-given-dates
+from datetime import date
+
+d0 = date(2008, 8, 18)
+d1 = date(2008, 9, 26)
+delta = d1 - d0
+print delta.days
+
+
+https://docs.python.org/3/tutorial/datastructures.html
