@@ -15,6 +15,8 @@ from crawler.core import (
     copy_to_remote,
     change_order,
     get_results,    
+    get_json_option,
+    check_duplicate_option
 )
 
 from crawler.thread_download import thread_download

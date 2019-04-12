@@ -176,6 +176,78 @@ def get_json(file_in_1, file_in_2, file_out, playlist, description_title, source
     with open(file_out, encoding='utf-8', mode='w') as f:
         json.dump(data, f)  
         
+def get_json_option(file_in_1, file_in_2, file_out, playlist, description_title, source=''):
+
+    file_in_1 = running_from_path+file_in_1
+    file_in_2 = running_from_path+file_in_2
+    
+    file_out = running_from_path+file_out
+    
+    titles = [title.strip('\n') for title in open(file_in_1)]
+    #get_count = len(titles)
+    #print(get_count)
+
+
+    descriptions = [title.strip('\n') for title in open(file_in_2)]
+    #get_count_descriptions = len(descriptions)
+    #print(get_count_descriptions)
+
+    description_title = description_title
+    source = source
+
+
+    results = []    
+    playlist = playlist
+
+    for title, description in zip(titles, descriptions):
+      
+        #print(title)
+        if len(title.split('|')[2]) > 100:
+            dict_title = {
+                         "playlist" : playlist,
+                         "title": "{}".format(title.split('|')[2]),
+                          "description": "{}\n{}{}".format(description_title, description, source), 
+                           "id": "{}".format( title.split('|')[0].split('.')[0] )
+                        }       
+
+            #print('{}။{} greater than 100'.format(change(counter), title.split('။')[1]))
+            print('{} greater than 100'.format(title.split('|')[2]))
+            results.append(dict_title)
+        else:
+            dict_title = {
+                          "playlist" : playlist,
+                         "title": "{}".format(title.split('|')[2]),
+                          "description": "{}\n{} {}".format(description_title, description.split('|')[2], source), 
+                           "id": "{}".format(title.split('|')[0].split('.')[0])
+                        }       
+
+            results.append(dict_title)        
+            '''
+            if len(description.split('|')[1]) > 0:
+            
+                dict_title = {
+                              "playlist" : playlist,
+                             "title": "{}".format(title.split('|')[2]),
+                              "description": "{}\n{} ({}){}".format(description_title, description.split('|')[0], description.split('|')[1], source), 
+                               "id": "{}".format(title.split('|')[0].split('.')[0])
+                            }       
+
+                results.append(dict_title)
+            else:
+                dict_title = {
+                              "playlist" : playlist,
+                             "title": "{}".format(title.split('|')[2]),
+                              "description": "{}\n{} {}".format(description_title, description.split('|')[2], source), 
+                               "id": "{}".format(title.split('|')[0].split('.')[0])
+                            }       
+
+                results.append(dict_title)            
+            '''
+        
+    data = json.dumps(results, indent=4)        
+    with open(file_out, encoding='utf-8', mode='w') as f:
+        json.dump(data, f)          
+        
 # convert result to json        
 def get_json_fb(file_in_1, file_in_2, file_out, playlist, description_title, source=''):
 
@@ -300,6 +372,28 @@ def check_duplicate(file_in):
         if val > 1:
             print(key, val)
             
+# check duplicate and do not add the latter            
+def check_duplicate_option(file_in):
+
+    file_in = running_from_path+file_in
+    
+    
+    urls = [url.split('|')[1] for url in open(file_in)]
+    new_urls = set()
+    
+    for key, val in collections.Counter(urls).items():        
+        if val > 1:
+            print(key, val)
+    
+    urls = [url.strip('\n') for url in open(file_in)]
+    new_urls = set()    
+    print('unique')
+    for url in urls:
+        new_url = url.split('|')[1]
+        if new_url not in new_urls:
+            new_urls.add(new_url)
+            print(url)
+            
 def update_raw_titles_links(file_in, file_out, count=1):
 
     file_in = running_from_path+file_in
@@ -401,9 +495,11 @@ def get_html_mp3(file_in, file_out, count=1):
     with open(file_out, 'w') as fd:
 
         for key in soup.find_all('a'):
-            if '.mp3' in key.get('href'):
+            #if ['.mp3', '.MP3'] in key.get('href'):
+            if '.mp3' in key.get('href') or '.MP3' in key.get('href'):
+                mp3_type = key.get('href').split('/')[-1].split('.')[-1]
                 counter = '{:03d}'.format(count)
-                fd.write('{}.mp3|{}|{}\n'.format(counter, ''.join(key.get('href').split()), ' '.join(key.get_text().split())))
+                fd.write('{}.{}|{}|{}\n'.format(counter, mp3_type, ''.join(key.get('href').split()), ' '.join(key.get_text().split())))
 
                 count += 1
                 
