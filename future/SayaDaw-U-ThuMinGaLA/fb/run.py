@@ -25,17 +25,17 @@ function myStopFunction() {
 #download_fb('du.txt', 1)
 #copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote)
 
-'''
+
 remote_username = 'u0_a97'
 remote_pass = 'snp'
-remote_hostname = '192.168.1.36'
-escaped_remote = '/data/data/com.termux/files/home/storage/external-1/PahtamagyiGrade/'
+remote_hostname = '192.168.1.39'
+escaped_remote = '/storage/1527-15E5/youtube/SayaDaw-U-ThuMinGaLA/'
 remote_port = 8022
 #copy_to_remote('*.pdf',
-copy_to_remote('AshinTayzaniya-YamakaAhLinYaung-for-Pahtamagyigrade.pdf',
+copy_to_remote('raw_json_title.txt',
                 remote_username, remote_pass, remote_hostname, remote_port, escaped_remote
                 )
-'''  
+
 
 '''
 playlist = 'သုမဂၤလာ ဗုဒၶတရားေတာ္ႏွင့္ လုပ္ငန္းစဥ္ျပန္႕ပြားေရး တရားဌာန မဂၤလာတိုက္ page မွာ videos မ်ား'
@@ -48,5 +48,5 @@ get_json_fb('titles.txt', 'results.txt', 'raw_json_title.txt',playlist, descript
 
 #download_fb('0.txt', 1)
 #thread_upload('raw_json_title.txt', 1)
-thread_upload_test('raw_json_title.txt')
+#thread_upload_test('raw_json_title.txt')
 
