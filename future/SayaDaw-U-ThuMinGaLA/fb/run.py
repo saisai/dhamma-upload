@@ -32,7 +32,7 @@ remote_hostname = '192.168.1.39'
 escaped_remote = '/storage/1527-15E5/youtube/SayaDaw-U-ThuMinGaLA/'
 remote_port = 8022
 #copy_to_remote('*.pdf',
-copy_to_remote('raw_json_title.txt',
+copy_to_remote('*.mp4',
                 remote_username, remote_pass, remote_hostname, remote_port, escaped_remote
                 )
 
