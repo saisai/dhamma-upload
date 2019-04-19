@@ -1,0 +1,220 @@
+dhamma links
+http://www.dhammaransi.com/index.php/dhamma-mp3s.html
+https://media.thitsarparamisociety.com/mp3/Sayardaw%20U%20Zawti%20Ka%20(Nyaung%20Done)/
+https://www.thitsarparamisociety.com/ashin-zaw-ti-ka-nyaungdone/
+https://www.facebook.com/BooksShelfDIRUTL/posts/1137089866464273?__tn__=C-R
+https://www.facebook.com/search/str/%E1%80%95%E1%80%AB%E1%80%A0%E1%80%AD%E1%80%9E%E1%80%92%E1%81%B5%E1%80%AB+%E1%80%9B%E1%80%AF%E1%80%95%E1%80%B9%E1%80%90%E1%80%BC%E1%80%80%E1%80%B9%E1%80%99%E1%80%BA%E1%80%AC%E1%80%B8/keywords_search?epa=SEARCH_BOX
+
+https://github.com/jarun/dslib/tree/master/test
+https://gist.github.com/jarun?page=3
+https://github.com/jarun/primepalindrome/blob/master/primepalindrome.c
+https://github.com/jarun/tictactoe
+
+
+$ rsync -avzz -p -e 'ssh -p 8022' snp@192.168.1.39:/storage/1527-15E5/youtube/SayaDaw-U-ThuMinGaLA/{252..254}.mp4 .
+
+
+https://github.com/unbit/ulver
+https://pkgs.org/about/
+https://linuxtv.org/
+https://rpmfind.net/linux/rpm2html/search.php?query=v4l-utils
+https://github.com/jarun/eudyptula
+https://github.com/jarun/xtrlock
+https://github.com/jarun/nnn
+https://github.com/k0pernicus/nnn
+https://github.com/k0pernicus?tab=repositories
+
+Data-Structures and algorithm
+https://github.com/mjwestcott/Goodrich
+https://github.com/jwasham?tab=repositories
+https://github.com/jwasham/coding-interview-university
+
+English 
+https://teacherluke.co.uk/
+
+
+Python rust
+https://github.com/PyO3/pyo3/tree/master/examples/word-count
+
+
+rust tutorial
+https://stevedonovan.github.io/rust-gentle-intro/readme.html
+https://doc.rust-lang.org/rust-by-example/attribute/cfg/custom.html
+
+https://gitconnected.com/
+
+python tutorial
+https://github.com/diveintomark/diveintopython3/tree/master/examples
+http://diveintopython3.py.cz/your-first-python-program.html
+https://github.com/mattmakai?tab=repositories
+https://www.datacamp.com/community/tutorials/reading-writing-files-python
+https://github.com/tokland/tokland/tree/master/sudoku
+
+https://nox.thea.codes/en/stable/
+https://github.com/theacodes?tab=repositories
+https://github.com/urllib3
+https://github.com/encode/rest-framework-tutorial/tree/master/snippets
+https://tox.readthedocs.io/en/latest/
+https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/ch04.html
+https://github.com/s1s1ty/learning-resources
+https://github.com/floyernick?tab=repositories
+https://stackoverflow.com/questions/31058055/how-do-i-convert-a-python-3-byte-string-variable-into-a-regular-string/31060836
+https://code-maven.com/temporary-files-and-directory-for-pytest
+
+
+vim dot files 
+https://github.com/shazow/dotfiles
+
+linux kernel tutorial 
+https://github.com/jarun/eudyptula
+
+pkgs.org - Packages Search
+https://pkgs.org/about/
+
+English
+https://dictionary.cambridge.org/dictionary/english/sarcasm
+https://en.islcollective.com/resources/printables/worksheets_doc_docx/who_is_the_burglar_-_30_conversation_cards_-_roleplay_-_class_and_group_speaking/tenses-describing-people/1519
+https://www.youtube.com/user/IELTSPodcastBW/videos
+https://www.ieltspodcast.com/ielts-vocabulary/lexical-resource/#12isv
+
+Convert zawgyi to unicode
+http://www.mcf.org.mm/myanmar-unicode-converter/
+https://github.com/AungMyoKyaw/Myanmar-Unicode-Fonts/blob/master/Myanmar3/Myanmar3.ttf
+
+
+Os
+https://www.trueos.org/handbook/dualboot.html
+
+
+Maths
+https://www.math-only-math.com/subsets-of-a-given-set.html
+
+Css 
+https://github.com/zurb/foundation-sites-template/blob/master/index.html
+https://github.com/laravel-frontend-presets/zurb-foundation
+
+
+Videos to be uploaded
+https://www.facebook.com/profile.php?id=100013313172440&lst=100007043114370%3A100013313172440%3A1554953379&sk=videos
+
+cpp tutorial
+http://www.cplusplus.com/doc/tutorial/templates/
+https://github.com/sinairv/Cpp-Tutorial-Samples
+
+hosting
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/http-504-gateway-timeout.html
+
+pdf download
+https://doc.lagout.org/programmation/python/
+
+Python 
+https://docs.python.org/3/library/json.html
+https://github.com/bitprophet?tab=repositories
+https://github.com/pyinvoke/invoke
+https://github.com/vitessio/vitess
+https://github.com/quora
+https://realpython.com/intro-to-python-threading/
+https://github.com/vitessio/vitess/blob/master/py/vtdb/times.py
+https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python
+https://timber.io/blog/multiprocessing-vs-multithreading-in-python-what-you-need-to-know/
+https://github.com/pallets/click/blob/master/examples/validation/setup.py
+https://github.com/realpython/python-scripts/tree/master/scripts
+https://github.com/pantsbuild
+https://stackoverflow.com/questions/1296501/find-path-to-currently-running-file
+http://www.pitt.edu/~naraehan/python3/file_path_cwd.html
+https://www.ics.uci.edu/~pattis/ICS-33/
+https://github.com/paulgribble/adventofcode/tree/master/2018
+https://www.tutorialsteacher.com/python
+https://github.com/sams248/DataQuest/tree/master/Missions/1.%20Python%20Introduction/Python%20Programming%20Intermediate/2.%20Classes
+https://www.dev2qa.com/python-article-list/
+https://julien.danjou.info/
+https://julien.danjou.info/python-memcached-efficient-caching-in-distributed-applications/
+https://www.dev2qa.com/how-to-extract-text-from-pdf-in-python/
+https://stackoverflow.com/questions/25351083/measuring-the-time-it-takes-for-a-function-to-run-and-complete-in-python
+https://github.com/jarun/Buku
+
+vim config 
+https://github.com/spf13/spf13-vim
+
+.htaccess
+https://docs.bolt.cm/3.6/howto/making-sure-htaccess-works
+
+PHP 
+https://computingforgeeks.com/how-to-install-php-7-3-on-arch-linux-and-manjaro/
+https://gist.github.com/dario2994/9445587
+https://stackoverflow.com/questions/48469330/apache-is-not-redirecting-to-index-php-in-arch-linux
+
+
+ffmpeg
+https://therandombits.com/2015/03/how-to-combine/merge-mp4-videos-with-ffmpeg/
+
+django
+https://github.com/rtfd/readthedocs.org
+https://github.com/nijel
+https://github.com/overiq/TGDB/tree/master/django_project/cadmin
+https://github.com/systers/vms/tree/develop/vms
+
+android
+http://zwyuan.github.io/2015/12/22/three-ways-to-use-android-ndk-cross-compiler/
+https://github.com/9gag-open-source/bypass/tree/master/platform/android/library/src/main
+https://github.com/9gag-open-source
+
+Thai
+https://www.youtube.com/watch?v=pnL6nBHy26M
+https://www.youtube.com/watch?v=niqDVFQwcek
+https://www.youtube.com/watch?v=wXHZr9F5IhM
+https://www.youtube.com/watch?v=3ssrNqPjJiY
+https://www.youtube.com/watch?v=szRnfJAHebI
+https://www.youtube.com/watch?v=hIQot6dMun4
+https://www.youtube.com/watch?v=mrWxDiC9MuM
+
+linux 
+https://sourcemage.org/History
+https://wiki.videolan.org/Git
+http://www.videolan.org/developers/x264.html
+https://blog.jasonantman.com/2018/05/linux-surveillance-camera-software-evaluation/
+
+c tutorial
+https://gist.github.com/SkrewEverything
+https://gribblelab.org/CBootCamp/3_Basic_Types_Operators_And_Expressions.html
+https://github.com/paulgribble/CBootCamp
+https://schronk.com/index.php?n=Projects.C-Data-Structures
+https://github.com/paulgribble/pubmed
+
+MySQL Database
+https://github.com/ezSQL/ezSQL/tree/master/lib
+
+
+Pali
+https://drive.google.com/file/d/1dBWRcwRzZUEdfhegwH_kJzUiy5aJ-2Z9/view?fbclid=IwAR2Tzp7yh2BjPFwKoxHxAT8N_VR5ROnevkknplDK9ayWKnwdlx52lSQBr1I
+https://yadi.sk/d/ZntSx1xDGb-h1Q
+
+pdf 
+https://superuser.com/questions/278562/how-can-i-fix-repair-a-corrupted-pdf-file
+On Linux, try this command:
+
+ gs \
+  -o repaired.pdf \
+  -sDEVICE=pdfwrite \
+  -dPDFSETTINGS=/prepress \
+   corrupted.pdf
+
+On Windows, try this one:
+
+ gswin32c.exe ^
+  -o repaired.pdf ^
+  -sDEVICE=pdfwrite ^
+  -dPDFSETTINGS=/prepress ^
+   corrupted.pdf
+
+
+
+others
+http://highscalability.com/
+https://repology.org/projects/
+https://github.com/sebastinas/yafc
+http://www.cocoawithlove.com/2009/06/base64-encoding-options-on-mac-and.html
+http://spys.one/en/socks-proxy-list/
+https://www.saltycrane.com/blog/
+https://www.quora.com/What-is-the-formula-to-convert-KB-to-MB-What-is-the-procedure
+https://www.linuxhelp.com/how-to-install-ghostscript-on-ubuntu-16-04

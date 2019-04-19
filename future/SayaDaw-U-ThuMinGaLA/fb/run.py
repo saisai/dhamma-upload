@@ -25,7 +25,7 @@ function myStopFunction() {
 #download_fb('du.txt', 1)
 #copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote)
 
-
+'''
 remote_username = 'u0_a97'
 remote_pass = 'snp'
 remote_hostname = '192.168.1.39'
@@ -35,7 +35,7 @@ remote_port = 8022
 copy_to_remote('*.mp4',
                 remote_username, remote_pass, remote_hostname, remote_port, escaped_remote
                 )
-
+'''
 
 '''
 playlist = 'သုမဂၤလာ ဗုဒၶတရားေတာ္ႏွင့္ လုပ္ငန္းစဥ္ျပန္႕ပြားေရး တရားဌာန မဂၤလာတိုက္ page မွာ videos မ်ား'
@@ -47,6 +47,6 @@ get_json_fb('titles.txt', 'results.txt', 'raw_json_title.txt',playlist, descript
 #get_splited_lines('links.txt', 30)
 
 #download_fb('0.txt', 1)
-#thread_upload('raw_json_title.txt', 1)
+thread_upload('raw_json_title.txt', 1)
 #thread_upload_test('raw_json_title.txt')
 
