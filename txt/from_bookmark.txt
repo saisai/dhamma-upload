@@ -11,7 +11,7 @@ https://github.com/jarun/primepalindrome/blob/master/primepalindrome.c
 https://github.com/jarun/tictactoe
 
 
-$ rsync -avzz -p -e 'ssh -p 8022' snp@192.168.1.39:/storage/1527-15E5/youtube/SayaDaw-U-ThuMinGaLA/{252..254}.mp4 .
+$ rsync -avzz -p -e 'ssh -p 8022' user@192.168.1.39:/storage/1527-15E5/youtube/SayaDaw-U-ThuMinGaLA/{252..254}.mp4 .
 
 
 https://github.com/unbit/ulver
