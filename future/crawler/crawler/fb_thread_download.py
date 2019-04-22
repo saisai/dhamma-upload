@@ -45,6 +45,7 @@ class Converter(Thread):
         Thread.__init__(self, name=binascii.hexlify(os.urandom(16)))
         self.queue = queue
         self.output_path = output_path
+        self.finished = output_path + 'fb_down_finished.txt'
         
 
     def run(self):
@@ -61,20 +62,94 @@ class Converter(Thread):
 
     def download_file(self, line):
         """Download file"""
+        print('ff' ,self.finished)
         print(line)
-        #format_count = line.split(',')[0].split('/')[-2]
-        format_count = line.split('|')[0]
-        
-        #if not os.path.isfile(format_count + '.mp4'):    
-        if not os.path.isfile(format_count):    
-            print(format_count)
+        if not os.path.isfile(self.finished):
+            lines = []
+        else:
+            lines = [f.strip('\n').split('|')[1] for f in open(self.finished, 'r')]
+
+        if line.split('|')[1] in lines:
+
+            pass
+        else:
+
+            print(line)
+
+            format_count = line.split('|')[0]
+            if not os.path.isfile(format_count):
+                print(format_count)
+                format_count = line.split('|')[0].split('.')[0]
+                line_url= line.split('|')[1]
+
+                #success = 1
+
+                #while success != 0:
+
+                command = 'fbdown|{}|--output|{}{}.mp4'.format(line_url,self.output_path, format_count)
+
+                print(command.split('|'))
+
+                completed = subprocess.run(command.split('|'))
+                print('returncode:', completed)
+
+                success = completed.returncode
+
+                if success == 0:
+
+                    with open(self.finished, 'a') as fd:
+                        fd.write(line)
+                        fd.write('\n')
+                        fd.flush()
+
+
+
+
+
+    def download_file1(self, line):
+        """Download file"""
+        print('ff' ,self.finished)
+        if not os.path.isfile(self.finished):
+            lines = []
+        else:
+            lines = [f.strip('\n').split('|')[1] for f in open(self.finished, 'r')]
+
+
+        if line.split('|')[1] in lines:
+            pass
+        else:
             
-            format_count = line.split('|')[0].split('.')[0]
-            line= line.split('|')[1]
-            command = 'youtube-dl|-c|-o|{}{}.%(ext)s|{}'.format(self.output_path, format_count, line)
-            print(command.split('|'))
-            completed = subprocess.run(command.split('|'))
-            print('returncode:', completed)            
+            print(line)
+
+            #format_count = line.split(',')[0].split('/')[-2]
+            format_count = line.split('|')[0]
+            #if not os.path.isfile(format_count + '.mp4'):    
+            if not os.path.isfile(format_count):    
+                print(format_count)
+                format_count = line.split('|')[0].split('.')[0]
+                line= line.split('|')[1]
+                #command = 'youtube-dl|-c|-o|{}{}.%(ext)s|{}'.format(self.output_path, format_count, line)
+                command = 'fbdown|{}|--output|{}{}.mp4'.format(line,self.output_path, format_count)
+                print(command.split('|'))
+
+
+                success = 1
+
+                while success != 0:
+
+                    completed = subprocess.run(command.split('|'))
+                    print('returncode:', completed) 
+
+
+                    success = completed
+
+                    if success == 0:
+
+                        with open(self.finished, 'a') as fd:
+                            fd.write(line)
+                            fd.write('\n')
+                            fd.flush()
+
             
             '''
             format_count = line.split(',')[0].split('/')[-2]
