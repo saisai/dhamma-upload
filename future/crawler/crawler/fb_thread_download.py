@@ -85,6 +85,8 @@ class Converter(Thread):
                 #success = 1
 
                 #while success != 0:
+                
+                #command = 'youtube-dl|-c|-o|{}{}.%(ext)s|{}'.format(self.output_path, format_count, line)
 
                 command = 'fbdown|{}|--output|{}{}.mp4'.format(line_url,self.output_path, format_count)
 

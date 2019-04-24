@@ -5,7 +5,8 @@ import os
 from crawler import (get_fb_title, rearrange_urls, download_fb, 
                     get_json_fb, thread_upload_test, copy_to_remote, convert_myanmar_number,
                     update_raw_titles_links, get_json_fb,
-                    get_splited_lines, download_fb, thread_upload)
+                    get_splited_lines, download_fb, thread_upload,
+                    thread_upload_test_title)
 
 #fb
 '''
@@ -21,7 +22,7 @@ function myStopFunction() {
 }
 '''
 #rearrange_urls('raw_urls.txt', 'links.txt')
-get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver.exe')
+#get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver.exe')
 #download_fb('du.txt', 1)
 #copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote)
 
@@ -36,17 +37,16 @@ copy_to_remote('AshinTayzaniya-YamakaAhLinYaung-for-Pahtamagyigrade.pdf',
                 remote_username, remote_pass, remote_hostname, remote_port, escaped_remote
                 )
 '''  
-
 '''
-playlist = 'သုမဂၤလာ ဗုဒၶတရားေတာ္ႏွင့္ လုပ္ငန္းစဥ္ျပန္႕ပြားေရး တရားဌာန မဂၤလာတိုက္ page မွာ videos မ်ား'
-description_title = 'သုမဂၤလာ ဗုဒၶတရားေတာ္ႏွင့္ လုပ္ငန္းစဥ္ျပန္႕ပြားေရး တရားဌာန မဂၤလာတိုက္ page မွာ videos မ်ား'
-source='\nsource from https://www.facebook.com/pg/thumingalarfoundation/videos/'
+playlist = 'Dhammalan Mdy page မွာ ေဒါက္တာစိုးလြင္ (မႏၲေလး) ၀ိသုဒၶိမဂ္ဓမၼလမ္း၀ိပႆနာသင္တန္း တရားေတာ္မ်ား'
+description_title = 'Dhammalan Mdy page မွာ ေဒါက္တာစိုးလြင္ (မႏၲေလး) ၀ိသုဒၶိမဂ္ဓမၼလမ္း၀ိပႆနာသင္တန္း တရားေတာ္မ်ား'
+source='\nsource from https://www.facebook.com/profile.php?id=100014194418570&lst=100007043114370%3A100014194418570%3A1555906860&sk=videos/'
 get_json_fb('titles.txt', 'results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 '''
-
 #get_splited_lines('links.txt', 30)
 
 #download_fb('0.txt', 1)
 #thread_upload('raw_json_title.txt', 1)
 #thread_upload_test('raw_json_title.txt')
+thread_upload_test_title('raw_json_title.txt')
 
