@@ -18,8 +18,9 @@ from crawler import (get_html_mp4, check_duplicate,
                     thread_download, update_raw_titles_links,
                     thread_upload, thread_upload_test, get_html_mp3,
                     change_order, get_results, thread_convert_mp3_to_mp4,
-                    thread_upload_test_title, thread_upload_remote,
-                    thread_convert_mp3_to_mp4_with_text
+                    thread_upload_test_title, thread_upload_remote,  
+                    get_json_option,
+                    get_json_files_in_same,
                     )
                     
                     
@@ -43,17 +44,15 @@ from crawler import (get_html_mp4, check_duplicate,
 #convert_myanmar_number('titles_links.txt', 'description.txt') # titles_links.txt description.txt
 
 
-'''
-playlist = 'ေဒါက္တာစိုးလြင္ (မႏၲေလး) ၀ိသုဒၶိမဂ္ဓမၼလမ္း၀ိပႆနာသင္တန္း တရားေတာ္မ်ား'
-description_title = 'ေဒါက္တာစိုးလြင္ (မႏၲေလး) ၀ိသုဒၶိမဂ္ဓမၼလမ္း၀ိပႆနာသင္တန္း တရားေတာ္မ်ား'
-source='\nsource from https://www.thitsarparamisociety.com/'
-get_json('titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
-'''
-
+playlist = 'ဓမၼဓရ ေဒါက္တာ ကုမာရ ေဟာႀကားေတာ္မူေသာတရားေတာ္မ်ား'
+description_title = 'ဝိနယ ဝိဒူ သာသနတကၠသီလာ မဟာ ဓမၼာစရိယ  B.A (Hons;), M.A (Buddhism), Ph.D (Thesis)  ကထိက၊ ပိဋကတ္ဆိုင္ရာ အဂၤလိပ္စာေပဌာန ႏိုင္ငံေတာ္ ပရိယတၱိသာသနာ့ တကၠသိုလ္၊ မႏ ၱေလး။'
+source='\nsource from http://dhammadownload.com/' 
+#get_json('raw_titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+#get_json_files_in_same('raw_titles_links.txt', 'raw_titles_links.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
 #thread_download('raw_titles_links.txt', 3)
 #thread_upload_test('raw_json_title.txt')
-#thread_upload_test_title('raw_json_title.txt')
+thread_upload_test_title('raw_json_title.txt')
 #thread_upload('raw_json_title.txt', 1)
 
 
@@ -75,6 +74,6 @@ thread_upload_remote('*.mp4', running_from_path,
 #thread_upload_remote(, 2)
 
 
-thread_convert_mp3_to_mp4_with_text('convert.txt', 2)
+#thread_convert_mp3_to_mp4_with_text('convert.txt', 2)
 
 

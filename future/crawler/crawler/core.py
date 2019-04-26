@@ -246,7 +246,58 @@ def get_json_option(file_in_1, file_in_2, file_out, playlist, description_title,
         
     data = json.dumps(results, indent=4)        
     with open(file_out, encoding='utf-8', mode='w') as f:
-        json.dump(data, f)          
+        json.dump(data, f)  
+
+def get_json_files_in_same(file_in_1, file_in_2, file_out, playlist, description_title, source=''):
+
+    file_in_1 = running_from_path+file_in_1
+    file_in_2 = running_from_path+file_in_2
+    
+    file_out = running_from_path+file_out
+    
+    titles = [title.strip('\n') for title in open(file_in_1)]
+    #get_count = len(titles)
+    #print(get_count)
+
+
+    descriptions = [title.strip('\n') for title in open(file_in_2)]
+    #get_count_descriptions = len(descriptions)
+    #print(get_count_descriptions)
+
+    description_title = description_title
+    source = source
+
+
+    results = []    
+    playlist = playlist
+
+    for title, description in zip(titles, descriptions):
+      
+        #print(title)
+        if len(title.split('|')[2]) > 100:
+            dict_title = {
+                         "playlist" : playlist,
+                         "title": "{}".format(title.split('|')[2]),
+                          "description": "{}\n{}{}".format(description_title, description.split('|')[2], source), 
+                           "id": "{}".format( title.split('|')[0].split('.')[0] )
+                        }       
+
+            #print('{}။{} greater than 100'.format(change(counter), title.split('။')[1]))
+            print('{} greater than 100'.format(title.split('|')[2]))
+            results.append(dict_title)
+        else:
+            dict_title = {
+                          "playlist" : playlist,
+                         "title": "{}".format(title.split('|')[2]),
+                          "description": "{}\n{} {}".format(description_title, description.split('|')[2], source), 
+                           "id": "{}".format(title.split('|')[0].split('.')[0])
+                        }       
+
+            results.append(dict_title) 
+        
+    data = json.dumps(results, indent=4)        
+    with open(file_out, encoding='utf-8', mode='w') as f:
+        json.dump(data, f)        
         
 # convert result to json        
 def get_json_fb(file_in_1, file_in_2, file_out, playlist, description_title, source=''):

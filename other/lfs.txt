@@ -1,7 +1,19 @@
-http://releases.ubuntu.com/16.04/
-https://wiki.ubuntu.com/Releases
+zesty ubuntu sources.list
+ubuntu 17.04
+https://shinobi.video/articles/2018-01-20-fix-apt-on-unsupported-ubuntu-1704-zesty
 
-sudo apt install m4 bison
+https://wiki.ubuntu.com/Releases
+https://github.com/ngkz/my-lfs-setup
+https://github.com/Yibo-Li/linuxfromscratch
+
+sudo apt install m4 bison gawk texinfo
+
+ERROR: /bin/sh does not point to bash
+rm -v /bin/sh && ln -s /bin/bash /bin/sh
+
+
+version-check.sh: line 48: makeinfo: command not found
+apt install texinfo
 
 
 version-check.sh: line 48: makeinfo: command not found
@@ -71,9 +83,31 @@ export MAKEFLAGS='-j 2'
 make -j2
 
 
+chapter 5
+
 
 
 
 https://github.com/bboti86/LFS
 https://packages.ubuntu.com/xenial/amd64/texinfo/download
 https://ftp.gnu.org/gnu/texinfo/
+
+errors
+zic command not found
+
+http://www.linuxfromscratch.org/lfs/view/stable/chapter06/glibc.html
+tar -xf ../../tzdata2018i.tar.gz
+
+ZONEINFO=/usr/share/zoneinfo
+mkdir -pv $ZONEINFO/{posix,right}
+
+for tz in etcetera southamerica northamerica europe africa antarctica  \
+          asia australasia backward pacificnew systemv; do
+    zic -L /dev/null   -d $ZONEINFO       ${tz}
+    zic -L /dev/null   -d $ZONEINFO/posix ${tz}
+    zic -L leapseconds -d $ZONEINFO/right ${tz}
+done
+
+cp -v zone.tab zone1970.tab iso3166.tab $ZONEINFO
+zic -d $ZONEINFO -p America/New_York
+unset ZONEINFO
