@@ -145,8 +145,12 @@ parser.add_argument('-f', '--flist')
 
 
 def one(mp3s_count, threads):
+
+    mp3s = glob.glob(running_from_path + "*.mp3")
+    mp3s.extend(glob.glob(running_from_path + "*.MP3"))
     
-    mp3s = [mp3 for mp3  in sorted(glob.glob(running_from_path + "*.mp3"), key=natural_keys)]
+    mp3s = sorted(mp3s, key=natural_keys)
+    #mp3s = [mp3 for mp3  in sorted(glob.glob(running_from_path + "*.mp3"), key=natural_keys)]
     
     #print(mp3s[:mp3s_count])
     
@@ -159,7 +163,10 @@ def one(mp3s_count, threads):
 #def main(argv):
 def thread_convert_mp3_to_mp4(threads):
 
-    mp3s = [mp3 for mp3  in sorted(glob.glob(running_from_path+"*.mp3"), key=natural_keys)]
+    mp3s = glob.glob(running_from_path + "*.mp3")
+    mp3s.extend(glob.glob(running_from_path + "*.MP3"))
+
+    mp3s = [mp3 for mp3  in sorted(mp3s, key=natural_keys)]
     aa = mp3s
     #print(aa)
     first = len(aa)

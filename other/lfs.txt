@@ -1,9 +1,16 @@
+delete all folders in current directory 
+for val in $(ls -d */); do echo $val; rm -rfv $val; done
+
+start from  6.48. Libelf from Elfutils-0.176 
+
 zesty ubuntu sources.list
 ubuntu 17.04
 https://shinobi.video/articles/2018-01-20-fix-apt-on-unsupported-ubuntu-1704-zesty
 
 https://wiki.ubuntu.com/Releases
 https://github.com/ngkz/my-lfs-setup
+
+Reference on it
 https://github.com/Yibo-Li/linuxfromscratch
 
 sudo apt install m4 bison gawk texinfo
@@ -86,7 +93,14 @@ make -j2
 chapter 5
 
 
+chapter 6
 
+chroot "$LFS" /tools/bin/env -i \
+    HOME=/root                  \
+    TERM="$TERM"                \
+    PS1='(lfs chroot) \u:\w\$ ' \
+    PATH=/bin:/usr/bin:/sbin:/usr/sbin:/tools/bin \
+    /tools/bin/bash --login +h
 
 https://github.com/bboti86/LFS
 https://packages.ubuntu.com/xenial/amd64/texinfo/download
@@ -111,3 +125,22 @@ done
 cp -v zone.tab zone1970.tab iso3166.tab $ZONEINFO
 zic -d $ZONEINFO -p America/New_York
 unset ZONEINFO
+
+
+
+
+
+cat > /etc/fstab << "EOF"
+# Begin /etc/fstab
+# file system  mount-point  type     options             dump  fsck
+#                                                              order
+/dev/sda5      /            ext4     defaults            1     1
+proc           /proc        proc     nosuid,noexec,nodev 0     0
+sysfs          /sys         sysfs    nosuid,noexec,nodev 0     0
+devpts         /dev/pts     devpts   gid=5,mode=620      0     0
+tmpfs          /run         tmpfs    defaults            0     0
+devtmpfs       /dev         devtmpfs mode=0755,nosuid    0     0
+# End /etc/fstab
+EOF
+
+run make in linux 8.3
