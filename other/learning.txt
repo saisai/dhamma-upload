@@ -1,0 +1,59 @@
+Configuration Management    
+    Puppet 
+    Ansible
+    Salt Stack
+        https://docs.saltstack.com/en/getstarted/fundamentals/install.html
+        https://github.com/saltstack/salt
+    
+General Networking 
+    switches, routing
+    
+    
+Monitoring services 
+    Sensu 
+        https://github.com/sensu
+    Nagios
+        https://github.com/NagiosEnterprises/nagioscore
+    Logstash
+    Graphite
+        https://github.com/graphite-project
+        
+        
+        
+        
+c sites
+    https://www.howtoforge.com/learning-c-cplusplus-step-by-step-p6
+    https://overiq.com/
+    
+c plus plus    
+    http://www.cplusplus.com/reference/unordered_set/
+    http://computing.southern.edu/halterman/textbooks.html
+    
+javascript
+    https://eloquentjavascript.net/
+    
+python
+    https://pymotw.com/3/
+    https://doc.lagout.org/programmation/python/
+    https://planetpython.org/rss10.xml
+    https://github.com/dabeaz/python-cookbook/
+    
+linux 
+    https://github.com/torvalds/linux
+    https://0xax.gitbooks.io/linux-insides/content/
+    https://archive.org/details/ucberkeley-webcast-PL4BBB74C7D2A1049C?&sort=date
+    http://www.linuxfromscratch.org/lfs/view/stable/chapter06/bash.html
+    http://www.linuxfromscratch.org/lfs/view/stable/chapter08/kernel.html
+    https://github.com/Yibo-Li/linuxfromscratch/tree/master/script
+    https://www.linuxquestions.org/questions/linux-from-scratch-13/lfs-grub-config-for-dual-boot-4175587577/
+    
+http://www.cs.bham.ac.uk/~jxb/DSA/dsa.pdf
+https://apps2.mdp.ac.id/perpustakaan/ebook/Karya%20Umum/Dsa.pdf
+http://www.zentut.com/c-tutorial/c-linked-list/
+https://runestone.academy/runestone/static/cppds/LinearBasic/ConvertingDecimalNumberstoBinaryNumbers.html
+https://runestone.academy/runestone/static/cppds/LinearBasic/ConvertingDecimalNumberstoBinaryNumbers.html
+https://www.dipmat.univpm.it/~demeio/public/
+https://github.com/Penguinazor/lfs-7.8
+https://runestone.academy/runestone/static/cppds/LinearBasic/Objectives.html
+https://www.vultr.com/docs/    
+            
