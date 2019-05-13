@@ -12,6 +12,7 @@ General Networking
 Monitoring services 
     Sensu 
         https://github.com/sensu
+        https://opensource.com/article/18/8/getting-started-sensu-monitoring-solution
     Nagios
         https://github.com/NagiosEnterprises/nagioscore
     Logstash
