@@ -608,6 +608,7 @@ def update_raw_titles_links(file_in, file_out, count=1):
             ext = url.split('.')[-1]
             media = '{:03d}'.format(counter)
             title = line.split('|')[2]
+            print(line)
             if title.find('။') > 0: # found
                 extra = '|%s' % (line.split('|')[3] if len(line.split('|')) > 0 else '')
                 f.write( '{}.{}|{}|{}။{}{}\n'.format(media, ext, url, change(counter), title.split('။')[1], extra))
@@ -616,6 +617,62 @@ def update_raw_titles_links(file_in, file_out, count=1):
                 f.write( '{}.{}|{}|{}။{}{}\n'.format(media, ext, url, change(counter), title, extra ) ) 
     
             counter += 1
+            
+def update_raw_titles_links_option(file_in, file_out, count=1):
+
+    file_in = running_from_path+file_in
+    #print(file_in)
+    file_out = running_from_path+file_out
+    
+    lines = [f.strip('\n') for f in open(file_in)]
+    
+    with open(file_out, 'w') as f:
+        counter = count
+        for line in lines:
+            #print(line)
+            #print(line.split('|')[1])
+            #media = line.split('|')[0]
+            url = line.split('|')[1]
+            ext = url.split('.')[-1]
+            media = '{:03d}'.format(counter)
+            title = line.split('|')[2]
+            print(line)
+            if title.find('။') > 0: # found
+                #extra = '|%s' % (line.split('|')[2] if len(line.split('|')) > 0 else '')
+                f.write( '{}.{}|{}|{}။{}\n'.format(media, ext, url, change(counter), title.split('။')[1]))
+            else:
+                #extra = '|%s' % (line.split('|')[2] if len(line.split('|')) > 0 else '')
+                f.write( '{}.{}|{}|{}။{}\n'.format(media, ext, url, change(counter), title) ) 
+    
+            counter += 1 
+
+def update_raw_titles_links_mp3_and_title(file_in, file_out, count=1):
+
+    file_in = running_from_path+file_in
+    #print(file_in)
+    file_out = running_from_path+file_out
+    
+    lines = [f.strip('\n') for f in open(file_in)]
+    
+    with open(file_out, 'w') as f:
+        counter = count
+        for line in lines:
+            #print(line)
+            #print(line.split('|')[1])
+            #media = line.split('|')[0]
+            url = line.split('|')[1]
+            ext = url.split('.')[-1]
+            media = '{:03d}'.format(counter)
+            title = line.split('|')[2]
+            print(line)
+            if title.find('။') > 0: # found
+                #extra = '|%s' % (line.split('|')[2] if len(line.split('|')) > 0 else '')
+                f.write( '{}.{}|{}|{}။{}\n'.format(media, ext, url, change(counter), title.split('။')[1]))
+            else:
+                #extra = '|%s' % (line.split('|')[2] if len(line.split('|')) > 0 else '')
+                f.write( '{}.{}|{}|{}။{}\n'.format(media, ext, url, change(counter), title) ) 
+    
+            counter += 1            
             
 def update_raw_reversed_titles_links(file_in, file_out, count=1):
 

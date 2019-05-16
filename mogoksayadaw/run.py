@@ -39,7 +39,7 @@ from crawler import (get_html_mp4, check_duplicate,
 #check_duplicate('raw_titles_links_2.txt') #titles_links.txt
 #check_duplicate_option('raw_titles_links_2.txt') #titles_links.txt
 #update_raw_titles_links('links.txt', 'titles_links.txt', 1)
-
+'''
 lines = [f.strip('\n') for f in open('{}raw_titles_links_2.txt'.format(running_from_path))]
 
 count = 1
@@ -51,7 +51,7 @@ for line in lines:
     print('{}.{}|{}|{}'.format(count_fmt, mp3_type, line.split('|')[1], line.split('|')[2]))
     
     count += 1 
-
+'''
 
 #convert_myanmar_number('titles_links.txt', 'description.txt') # titles_links.txt description.txt
 
@@ -64,6 +64,7 @@ get_json('titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, d
 '''
 
 
+thread_download('results.txt', 2)
 #thread_download('titles_links.txt', 1)
 #thread_upload_test('raw_json_title.txt')
 #thread_upload_test_title('raw_json_title.txt')
@@ -72,6 +73,7 @@ get_json('titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, d
 
 
 #thread_convert_mp3_to_mp4(1)
+'''
 remote_username = 'u0_a97'
 remote_pass = 'snp'
 remote_hostname = '192.168.1.38'
@@ -84,5 +86,5 @@ thread_upload_remote('*.mp4', running_from_path,
                 2
                 )
 #thread_upload_remote(, 2)
-
+'''
 
