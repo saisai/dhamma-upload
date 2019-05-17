@@ -1,0 +1,11 @@
+/storage/34A5-151A/youtube/paauk-sayadaw/upload.py
+
+
+#*/2 * * * * python /data/data/com.termux/files/home/cronrun.py > /data/data/com.termux/files/home/youtube/log/`date +%Y_%m_%d_%H_%M_%S`.txt 2>&1
+#*/2 * * * * python /data/data/com.termux/files/home/cronrun.py > /data/data/com.termux/files/home/storage/external-1/youtube/log/`date +%Y_%m_%d_%H_%M_%S`.txt 2>&1
+
+#*/2 * * * * python /data/data/com.termux/files/home/cronrun.py > /storage/1527-15E5/youtube/log/`date +%Y_%m_%d_%H_%M_%S`.txt 2>&1
+*/2 * * * * python /data/data/com.termux/files/home/cronrun.py > /storage/34A5-151A/youtube/log/`date +%Y_%m_%d_%H_%M_%S`.txt 2>&1
+
+#12 17 * * * python /data/data/com.termux/files/home/cronrun.py > /data/data/com.termux/files/home/youtube/log/`date +%Y_%m_%d_%H_%M_%S`.txt 2>&1
+#10 17 * * * echo "hello" > /data/data/com.termux/files/home/youtube/log/`date +%Y-%m-%d-%H:%M:%S`.txt 2>&1
