@@ -1,0 +1,1937 @@
+<font face="Zawgyi-One">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-70zUvF4huN4OU"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-70zUvF4huN4OU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start dhammadownload menu top and side bar -->
+
+<div style="position: absolute; width: 100px; height: 100px; z-index: 1; left: 7px; top: 4px;" id="layer21">
+    <img src="images/Top-button-wt.gif" width="680" height="132" border="0">
+</div>
+
+<div style="position: absolute; width: 506px; height: 63px; z-index: 2; left: 52px; top: 31px;" id="layer22" align="center">
+    <font color="#800080">
+	<span style="font-family: Times New Roman; font-size: 32pt">Ashin Zawana</span> </font>
+</div>
+
+<div style="position: absolute; width: 100px; height: 100px; z-index: 20; left: 596px; top: 4px;" id="layer23">
+    <img src="images/Ashin-Zawana.gif" border="0">
+</div>
+
+
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 143px;" id="layer1">
+       <a href="index.htm" target="_parent">
+       <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+    <p></p>
+</a></div><a href="index.htm" target="_parent">
+
+</a><div style="position: absolute; width: 157px; height: 37px; z-index: 1; left: 22px; top: 154px;" id="layer2" align="center"><a href="index.htm" target="_parent">
+    <font size="4">
+      </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="index.htm">Home Page</a>
+   </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 2; left: 8px; top: 201px" id="layer3">
+    <a href="AbhidhammaInEnglish.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0">
+</a></div><a href="AbhidhammaInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 3; left: 19px; top: 208px;" id="layer4" align="center"><a href="AbhidhammaInEnglish.htm" target="_parent">
+    <font size="4">
+       </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInEnglish.htm">Abhidhamma in English</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; height: 58px; z-index: 4; left: 8px; top: 270px; width: 186px" id="layer5">
+    <a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0">
+</a></div><a href="AbhidhammaInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 32px; z-index: 5; left: 20px; top: 276px;" id="layer6" align="center"><a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInMyanmar.htm">Abhidhamma in Myanmar</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 6; left: 8px; top: 339px;" id="layer7">
+    <a href="AudioInEnglish.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="AudioInEnglish.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 34px; z-index: 7; left: 20px; top: 350px;" id="layer8" align="center"><a href="AudioInEnglish.htm" target="_parent">
+     <font size="4">
+         </font></a><font size="4"><a target="_parent" href="AudioInEnglish.htm">Audio in English</a>
+     </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 8; left: 8px; top: 398px;" id="layer9">
+    <a href="AudioInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="AudioInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 9; left: 19px; top: 408px;" id="layer10" align="center"><a href="AudioInMyanmar.htm" target="_parent">
+      <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AudioInMyanmar.htm">Audio in Myanmar</a>
+      </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 10; left: 8px; top: 457px" id="layer11">
+    <a href="VideoInEnglish.htm" target="_parent">
+      <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="VideoInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 156px; height: 30px; z-index: 11; left: 23px; top: 469px;" id="layer12" align="center"><a href="VideoInEnglish.htm" target="_parent">
+     <font size="4">
+        </font></a><font size="4"><a target="_parent" href="VideoInEnglish.htm">Video in English</a>
+     </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 12; left: 8px; top: 516px" id="layer13">
+    <a href="VideoInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="VideoInMyanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 161px; height: 33px; z-index: 13; left: 18px; top: 527px;" id="layer14" align="center"><a href="VideoInMyanmar.htm" target="_parent">
+     <font size="4"></font></a><font size="4"><a href="VideoInMyanmar.htm">Video in Myanmar </a></font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 14; left: 8px; top: 575px" id="layer15">
+    <a href="eBook-English.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="eBook-English.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 31px; z-index: 15; left: 19px; top: 587px;" id="layer16" align="center"><a href="eBook-English.htm" target="_parent">
+    <font size="4">
+    </font>
+    <font size="4">
+    </font></a><font size="4"><a href="eBook-English.htm">eBook in English</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 16; left: 8px; top: 634px" id="layer17">
+     <a href="eBook-Myanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="eBook-Myanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 154px; height: 32px; z-index: 17; left: 22px; top: 646px;" id="layer18" align="center"><a href="eBook-Myanmar.htm" target="_parent"><font size="4">
+	</font><font size="4">
+	</font></a><font size="4"><a href="eBook-Myanmar.htm">eBook in Myanmar</a></font></div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 18; left: 8px; top: 693px" id="layer19">
+    <a href="dhammadownload-news.htm" target="_parent">
+    <img style="top: 660px; height: 54px;" src="images/Side-button-wt.gif" width="182" border="0">
+</a></div><a href="dhammadownload-news.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 158px; height: 36px; z-index: 19; left: 22px; top: 705px;" id="layer20" align="center"><a href="dhammadownload-news.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="dhammadownload-news.htm">NEWS
+	သတင္း႑</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 993px" id="layer37">
+    <p style="margin-top: 3px; height: 54px;">
+    <a target="_parent" href="Contribute-to-dhammadownload.htm">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 933px" id="layer35"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="Suggestion-cbox.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 872px;" id="layer33"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><p style="margin-top: 3px; height: 54px;"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a target="_parent" href="contact.htm">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 811px" id="layer31"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="usefullinks.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="usefullinks.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 750px" id="layer27"><a href="usefullinks.htm" target="_parent"> </a><a href="live.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="live.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 1010px;" id="layer38" align="center"><a href="live.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="Contribute-to-dhammadownload.htm">လႈဒါန္းရန္</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 946px;" id="layer36" align="center">
+    <font size="4"><a href="Suggestion-cbox.htm">အႀကံျပဳခ်က္မ်ား</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 886px;" id="layer34" align="center">
+    <font size="4"><a href="contact.htm">Contact Us</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 825px;" id="layer32" align="center">
+    <font size="4"><a href="usefullinks.htm">Useful Link</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 762px;" id="layer28" align="center">
+    <font size="4"><a href="live.htm">LIVE Webcast</a></font></div>
+
+
+
+<div style="position: absolute; width: 192px; height: 450px; z-index: 23; left: 9px; top: 1147px; background-color:#F3F3F3" id="layer30">
+<font size="6">iPhone, iPAD </font><font size="2">ကိုအသံုးျပဳသူမ်ားသည္ 
+	Mp3 မ်ားကို တိုက္ရိုက္ နာယူႏိုင္ပါသည္။ ဗီဒီယိုတရားေတာ္မ်ား အတြက္ App Store တြင္
+	<font color="#FF0000">Oplayer Lite</font> (သို႕မဟုတ္) yxplayer2 Lite 
+	ကို Free Download အသုံးျပဳၿပီး ၾကည္႕ရႈႏိုင္ပါသည္။
+</font>
+	<p><font size="2">
+	တျခား Mobile Phone မ်ားအတြက္ Opera Browser ကို အသုံးျပဳႏိုင္ပါသည္။</font></p><p>
+<font size="2">Android version 2.1တြင္ ျမန္မာလို မျမင္ရပါ။  Android  version 2.2 ႏွင့္ ဒီထက္ျမင့္ေသာ Android Version မ်ားပါရွိေသာ Mobile, Tablet မ်ားကို အသုံးျပဳက ျမန္မာလို ျမင္ရ ႏိုင္ပါသည္။</font></p></div>
+
+
+
+<div style="position: absolute; width: 171px; height: 64px; z-index: 23; left: 9px; top: 1074px; " id="layer39">
+<a href="https://www.facebook.com/groups/dhammadownload/?ref=br_rs#">
+<img src="images/facebook-logo.gif" width="159" height="59" border="0"></a></div>
+<!-- end dhammadownload menu top and side bar -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<div style="position: absolute; width: 930px; height: 2225px; z-index: 21; left: 219px; top: 153px" id="layer24" font="" face="Zawgyi-One">
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<font size="5">
+										<span style="FONT-FAMILY: Franklin Gothic Medium">
+									Ashin Zawana</span></font></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<font size="4" face="Zawgyi-One">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+									</font>
+								</p>
+								<p class="MsoTagline" style="text-kashida-space: 50%; text-align: left; margin-top: 0px; margin-bottom: 0px">
+								<font size="6" face="Zawgyi-One">အရွင္ဇဝန 
+								(ေမတၲာရွင္) ေရႊျပည္သာ</font></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<font size="4" face="Zawgyi-One">
+									မႏၲေလးေက်ာင္း၊ ေရႊျပည္သာၿမိဳ႔ ၊ 
+									ရန္ကုန္တိုင္း<br>
+									<br>
+									ေဟာႀကားေတာ္မူေသာတရားေတာ္မ်ား <br>
+									&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+									</font></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<b><font size="5">Dhamma Talk Audio</font></b></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<b>&nbsp;</b></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+****dhamma talk uploaded and published on ၄ September 2010****</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">DVD 01</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၀၁)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/001-AshinZawana-LwKoteTYrExm.mp3">၁။ ေလာကုတၱရာ စာေမးပြဲ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/002-AshinZawana-MiYoePhLroteDrThr.mp3">၂။ မိရိုးဖလာ ဗုဒၶဘာသာႏွင့္ တကယ့္ ဗုဒၶဘာသာ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/003-AshinZawana-Myet-Yy-M-Ky-Khin-Thi-Sy-Chin.mp3">၃။ မ်က္ရည္မက်ခင္သိေစခ်င္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/004-AshinZawana-KuThoPhyitKhinKyungYin.mp3">၄။ ကုသိုလ္ျဖစ္ျခင္းအေၾကာင္းရင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/005-AshinZawana-4TypesOfMn.mp3">၅။ လူ(၄)မ်ိဳး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/006-AshinZawana--Thr-Sn-Hnint--Nr-Khn.mp3">၆။ အသာစံျခင္းႏွင့္ အနာခံျခင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/007-AshinZawana-PlwGSweKhwMeThu.mp3">၇။ အပါယ္ၾသဃဆြဲခ်မည္႕သူ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/008-AshinZawana-rrKoeYrhHmn_ThoneGw.mp3">၈။ အားကိုးရာမွန္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/009-AshinZawana-WSoDrKoKhShonePyHmShoneTrr.mp3">၉။ ကိုယ္အရႈံးေပးမွ ရႈးတာပါ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/010-AshinZawana-DhmmMwy_SinDe.mp3">၁၀။ ဓမၼအေမြ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/011-AshinZawana-Two-sic-Fcts-for-uddhism.mp3">၁၁။ ဗုဒၶဘာသာဝင္တို႕အတြက္ အေျခခံ(၂)ခ်က္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/012-AshinZawana-5TypesOfThMrDteHti.mp3">၁၂။ သမၼာဒိ႒ိ(၅)မ်ိဳး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/013-AshinZawana-Lw--Kone-Hlin-Nte-n-Win.mp3">၁၃။ ေလာဘကုန္လွ်င္ နိဗၺာန္ဝင္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/014-AshinZawana-MiKyyZuSutPhuiLr.mp3">၁၄။ မိဘေက်းဇူးဆပ္ဖူးၿပီလား</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/015-AshinZawana-MiKhinHnintTuThwYr.mp3">၁၅။ မိခင္ႏွင့္တူေသာအရာ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/016-AshinZawana-RTNrGoneYi.mp3">၁၆။ ရတနာ့ဂုဏ္ရည္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/017-AshinZawana-ThinLuTYwtPhyitPyiLr.mp3">၁၇။ သင္လူတစ္ေယာက္ျဖစ္ၿပီလား</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/018-AshinZawana-ThuTwKungToEiSteHtr.mp3">၁၈။ သူေတာ္ေကာင္းတို႕၏ စိတ္ထား</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/019-AshinZawana-MetPhoMYKhinKyungYin.mp3">၁၉။ မဂ္ဖိုလ္မရျခင္းအေၾကာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/020-AshinZawana-HtyYWrDHmtKyuk.mp3">၂၀။ ေထရဝါဒမွတ္ေက်ာက္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/021-AshinZawana-PhnZinShin3Oo.mp3">၂၁။ ဖန္ဆင္းရွင္(၃)ဦး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/001-Selection_1/022-AshinZawana-PrmiHtikeThwDrN.mp3">၂၂။ ပါရမီထိုက္ေသာ ဒါန</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၀၂)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/001-AshinZawana-BuddhaALoKyaDhannaPyuNee.mp3">၁။ ဗုဒၶအလိုက် ဒါနျပဳနည္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/002-AshinZawana-TimelyDhanna.mp3">၂။ ကာလဒါနႏွင့္ ပကာသနဒါန</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/003-AshinZawana-ParamiKusala.mp3">၃။ ေလာဘကင္းစင္ နိဗၺာန္ဝင္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/004-AshinZawana-LawBaKinSinNateBanWin.mp3">၄။ မယ္ေတာ္ေက်းဇူး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/005-AshinZawana-MalTawKyayZu.mp3">၅။ ပါရမီကုသိုလ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/006-AshinZawana-EnemyInSide.mp3">၆။ အတြင္းရန္သူ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/007-AshinZawana-ItZatTaTaikPweThuWunna.mp3">၇။ အဇၥ်တၱတိုက္ပြဲ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/008-AshinZawana-ASoeSoneASate.mp3">
+								၈။ အဆိုးဆုံး အဆိပ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/009-AshinZawana-PracticeForBuddhist-1.mp3">
+								၉။ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/010-AshinZawana-PracticeForBuddhist-2.mp3">
+								၁၀။ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/011-AshinZawana-PracticeForBuddhist-3.mp3">
+								၁၁။ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ (၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/012-AshinZawana-PracticeForBuddhist-4.mp3">
+								၁၂။ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ (၄)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/013-AshinZawana-PracticeForBuddhist-5.mp3">
+								၁၃။ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ (၅)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/014-AshinZawana-PracticeForBuddhist-6.mp3">
+								၁၄။ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ (၆)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/015-AshinZawana-AnDaThode.mp3">
+								၁၅။ အႏၶသုတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/016-AshinZawana-ArSaRiYaPuZawPwe.mp3">
+								၁၆။ အာစရိယပူေဇာ္ပြဲ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/017-AshinZawana-Buddha%20ANayKaZar.mp3">
+								၁၇။ ဘုရားအေနကဇာ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/018-AshinZawana-FourNobleTruth.mp3">
+								၁၈။ သစၥာ(၄)ပါး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/019-AshinZawana-AhShoneMaShiThawDaThaNa.mp3">
+								၁၉။ အရႈံးမရွိေသာ ဒသန</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/020-AshinZawana-PyoneThayMeltThay.mp3">
+								၂၀။ ၿပံဳးေသ၊ မဲ့ေသ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/021-AshinZawana-WayDaNarTuThawLeThayTarMaTu.mp3">
+								၂၁။ ေဝဒနာတူေသာ္လည္း ေသတာမတူ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/022-AshinZawana-AThayMyatChinThayNeeThin.mp3">
+								၂၂။ အေသျမတ္ခ်င္ ေသနည္းသင္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/023-AshinZawana-DangerToMegga.mp3">
+								၂၃။ မဂ္တားဖိုလ္တား အႏ ၱရာယ္မ်ား</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/002-Selection_2/024-AshinZawana-First-Nibbana.mp3">
+								၂၄။ ပထမ နိဗၺာန္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၀၃)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/001-AshinZawana-Bay%20Gyi%204%20per.mp3">
+								၁။ ပညာသိႏွင့္ သညာသိ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/002-AshinZawana-Mg%20Karla%20ThoTaPan%20Ti%20Chin.mp3">
+								၂။ ပညာသိႏွင့္ သညာသိ (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/003-AshinZawana-MugFo%20Ya%20Chin%20Ma%20Ya%20Chin.mp3">
+								၃။ ပညာသိႏွင့္ သညာသိ (၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/004-AshinZawana-Six%20Sense.mp3">
+								၄။ ပညာသိႏွင့္ သညာသိ (၄)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/005-AshinZawana-Eight%20kind%20of%20Material.mp3">
+								၅။ ပညာသိႏွင့္ သညာသိ (၅)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/006-AshinZawana-KhanDar%205%20Per.mp3">
+								၆။ ပညာသိႏွင့္ သညာသိ (၆)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/007-AshinZawana-TaNyar%20Thi%20&amp;%20PaNyar%20Thi.mp3">
+								၇။ ပညာသိႏွင့္ သညာသိ (၇)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/008-AshinZawana-ParRaMi%20Htite%20Thi%20DhaNa.mp3">
+								၈။ ပညာသိႏွင့္ သညာသိ (၈)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/009-AshinZawana-Looking%20For%20Good%20Teacher.mp3">
+								၉။ ပညာသိႏွင့္ သညာသိ (၉)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/010-AshinZawana-Thu%20Ti%20Ma%20Tayer%20Koe%20Khan.mp3">
+								၁၀။ ပညာသိႏွင့္ သညာသိ (၁၀)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/011-AshinZawana-KawtThaung%2001.mp3">
+								၁၁။ ဝိပႆနာ (၁) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/012-AshinZawana-KawtThaung%2002.mp3">
+								၁၂။ ဝိပႆနာ (၂) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/013-AshinZawana-KawtThaung%2003.mp3">
+								၁၃။ ဝိပႆနာ (၃) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/014-AshinZawana-KawtThaung%2004.mp3">
+								၁၄။ ဝိပႆနာ (၄) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/015-AshinZawana-KawtThaung%2005.mp3">
+								၁၅။ ဝိပႆနာ (၅) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/016-AshinZawana-KawtThaung%2006.mp3">
+								၁၆။ ဝိပႆနာ (၆) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/017-AshinZawana-KawtThaung%2007.mp3">
+								၁၇။ ဝိပႆနာ (၇) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/018-AshinZawana-KawtThaung%2008.mp3">
+								၁၈။ ဝိပႆနာ (၈) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/019-AshinZawana-KawtThaung%2011.mp3">
+								၁၉။ ဝိပႆနာ (၉) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/020-AshinZawana-KawtThaung%2012.mp3">
+								၂၀။ ဝိပႆနာ (၁၀) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/021-AshinZawana-KawtThaung%2013.mp3">
+								၂၁။ ဝိပႆနာ (၁၁) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/022-AshinZawana-KawtThaung%2014.mp3">
+								၂၂။ ဝိပႆနာ (၁၂) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/023-AshinZawana-KawtThaung%2015.mp3">
+								၂၃။ ဝိပႆနာ (၁၃) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/024-AshinZawana-KawtThaung%2016.mp3">
+								၂၄။ ဝိပႆနာ (၁၄) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/003-KawtThaung/025-AshinZawana-KawtThaung%2017.mp3">
+								၂၅။ ဝိပႆနာ (၁၅) ေကာ့ေသာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၀၄)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/001-AshinZawana-ThodaVipassana.mp3">
+								၁။ သုဒၶဝိပႆနာက်င့္စဥ္ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/002-AshinZawana-ThodaVipassana.mp3">
+								၂။ သုဒၶဝိပႆနာက်င့္စဥ္ (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/003-AshinZawana-ThodaVipassana.mp3">
+								၃။ သုဒၶဝိပႆနာက်င့္စဥ္ (၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/004-AshinZawana-ThodaVipassana.mp3">
+								၄။ သုဒၶဝိပႆနာက်င့္စဥ္ (၄)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/005-AshinZawana-ThodaVipassana.mp3">
+								၅။ သုဒၶဝိပႆနာက်င့္စဥ္ (၅)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/006-AshinZawana-ThodaVipassana.mp3">
+								၆။ သုဒၶဝိပႆနာက်င့္စဥ္ (၆)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/007-AshinZawana-ThodaVipassana.mp3">
+								၇။ သုဒၶဝိပႆနာက်င့္စဥ္ (၇)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/008-AshinZawana-ThodaVipassana.mp3">
+								၈။ သုဒၶဝိပႆနာက်င့္စဥ္ (၈)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/009-AshinZawana-ThodaVipassana.mp3">
+								၉။ သုဒၶဝိပႆနာက်င့္စဥ္ (၉)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/010-AshinZawana-ThodaVipassana.mp3">
+								၁၀။ သုဒၶဝိပႆနာက်င့္စဥ္ (၁၀)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/011-AshinZawana-ThodaVipassana.mp3">
+								၁၁။ သုဒၶဝိပႆနာက်င့္စဥ္ (၁၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/012-AshinZawana-ThodaVipassana.mp3">
+								၁၂။ သုဒၶဝိပႆနာက်င့္စဥ္ (၁၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/013-AshinZawana-ThodaVipassana.mp3">
+								၁၃။ သုဒၶဝိပႆနာက်င့္စဥ္ (၁၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/014-AshinZawana-ThodaVipassana.mp3">
+								၁၄။ သုဒၶဝိပႆနာက်င့္စဥ္ (၁၄)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/015-AshinZawana-ThodaVipassana.mp3">
+								၁၅။ သုဒၶဝိပႆနာက်င့္စဥ္ (၁၅)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/016-AshinZawana-ThodaVipassana.mp3">
+								၁၆။ သုဒၶဝိပႆနာက်င့္စဥ္ (၁၆)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/017-AshinZawana-ThodaVipassana.mp3">
+								၁၇။ သုဒၶဝိပႆနာက်င့္စဥ္ (၁၇)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/018-AshinZawana-ThodaVipassana.mp3">
+								၁၈။ သုဒၶဝိပႆနာက်င့္စဥ္ (၁၈)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/019-AshinZawana-ThodaVipassana.mp3">
+								၁၉။ သုဒၶဝိပႆနာက်င့္စဥ္ (၁၉)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/020-AshinZawana-ThodaVipassana.mp3">
+								၂၀။ သုဒၶဝိပႆနာက်င့္စဥ္ (၂၀)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/021-AshinZawana-ThodaVipassana.mp3">
+								၂၁။ သုဒၶဝိပႆနာက်င့္စဥ္ (၂၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/022-AshinZawana-ThodaVipassana.mp3">
+								၂၂။ သုဒၶဝိပႆနာက်င့္စဥ္ (၂၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/023-AshinZawana-ThodaVipassana.mp3">
+								၂၃။ သုဒၶဝိပႆနာက်င့္စဥ္ (၂၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/004-ThodeDa-Vipa/024-AshinZawana-ThodaVipassana.mp3">
+								၂၄။ သုဒၶဝိပႆနာက်င့္စဥ္ (၂၄)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၀၅)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/001-AshinZawana-Mergui.mp3">
+								၁။ ဝိပႆနာ (၁) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/002-AshinZawana-Mergui.mp3">
+								၂။ ဝိပႆနာ (၂) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/003-AshinZawana-Mergui.mp3">
+								၃။ ဝိပႆနာ (၃) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/004-AshinZawana-Mergui.mp3">
+								၄။ ဝိပႆနာ (၄) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/005-AshinZawana-Mergui.mp3">
+								၅။ ဝိပႆနာ (၅) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/006-AshinZawana-Mergui.mp3">
+								၆။ ဝိပႆနာ (၆) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/007-AshinZawana-Mergui.mp3">
+								၇။ ဝိပႆနာ (၇) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/008-AshinZawana-Mergui.mp3">
+								၈။ ဝိပႆနာ (၈) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/009-AshinZawana-Mergui.mp3">
+								၉။ ဝိပႆနာ (၉) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/010-AshinZawana-Mergui.mp3">
+								၁၀။ ဝိပႆနာ (၁၀) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/011-AshinZawana-Mergui.mp3">
+								၁၁။ ဝိပႆနာ (၁၁) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/012-AshinZawana-Mergui.mp3">
+								၁၂။ ဝိပႆနာ (၁၂) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/013-AshinZawana-Mergui.mp3">
+								၁၃။ ဝိပႆနာ (၁၃) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/014-AshinZawana-Mergui.mp3">
+								၁၄။ ဝိပႆနာ (၁၄) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/015-AshinZawana-Mergui.mp3">
+								၁၅။ ဝိပႆနာ (၁၅) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/016-AshinZawana-Mergui.mp3">
+								၁၆။ ဝိပႆနာ (၁၆) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/017-AshinZawana-Mergui.mp3">
+								၁၇။ ဝိပႆနာ (၁၇) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/018-AshinZawana-Mergui.mp3">
+								၁၈။ ဝိပႆနာ (၁၈) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/019-AshinZawana-Mergui.mp3">
+								၁၉။ ဝိပႆနာ (၁၉) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/020-AshinZawana-Mergui.mp3">
+								၂၀။ ဝိပႆနာ (၂၀) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/005-Vipasana-Mergui/021-AshinZawana-Mergui.mp3">
+								၂၁။ ဝိပႆနာ (၂၁) ၿမိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၀၆)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/001-AshinZawana-20070104-MateSweHnintYanThu.mp3">
+								၁။ မိတ္ေဆြႏွင့္ ရန္သူ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/002-AshinZawana-20070105-NyanHtetSayThawDarNaHnintNyanPyetSayThawDarNa.mp3">
+								၂။ ဉာဏ္ထက္ ဒါန၊ ဉာဏ္ပ်က္ ဒါန</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/003-AshinZawana-20070106-SaYarKaungKoSharPhwayChin.mp3">
+								၃။ ဆရာေကာင္းကို ရွာေဖြျခင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/004-AshinZawana-20070705-BaTharTanboe-PhaungGadar.mp3">
+								၄။ ဘာသာတန္ခိုး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/005-AshinZawana-20070625-APalTaGarPateKuThoSate-AungLan.mp3">
+								၅။ အပါယ္တံခါးပိတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/006-AshinZawana-20070930-DarNaASwanAntMaKhan-Myeik.mp3">
+								၆။ ဒါနအစြမ္း အံ့မခမ္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/007-AshinZawana-20070828-SoneLanNeltSanLan-Myeik.mp3">
+								၇။ စုန္လမ္း၊ ဆန္လမ္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/008-AshinZawana-20070902-KyaukHlyinLweYeHlyinMinPhyit-Oakpomaw.mp3">
+								၈။ ေၾကာက္ရင္လြဲ၊ ရဲရင္မင္းျဖစ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/009-AshinZawana-20070905-91KaBarKaWutKyaway-Myeik.mp3">
+								၉။ ကိုးဆယ့္တစ္ကမာၻက ဝ႗္ေႂကြး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/010-AshinZawana-20070916-TaOoKaSayTaNarTaOoKaMyitTar-Myeik.mp3">
+								၁၀။ တစ္ဦးက ေစတနာ၊ တစ္ဦးက ေမတၱာ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/011-AshinZawana-20071006-KanKaungAungKyoeSarNee-Myeik.mp3">
+								၁၁။ ကံေကာင္းေအာင္ ႀကိဳးစားနည္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/012-AshinZawana-20071011-DhammaMyetYay-Myeik.mp3">
+								၁၂။ ဓမၼမ်က္ရည္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/013-AshinZawana-20071014-92KaBarTaingTaingKyaKheDeMyetYay-Myeik.mp3">
+								၁၃။ ကိုယ့္ဆယ့္တစ္ကမာၻ ဝဋ္ေႂကြး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/014-AshinZawana-20071019-SaYarWarDa-Myeik.mp3">
+								၁၄။ ဆရာ႕ဝါဒ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/015-AshinZawana-20070813-AwWarDa-Myeik.mp3">
+								၁၅။ ၾသဝါဒ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/016-AshinZawana-20070821-ThanThaYarAwGaHmaKuMyawtPone-Myeik.mp3">
+								၁၆။ သံသရာၾသဃမွ ကူးေျမာက္ပုံ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/017-AshinZawana-20070924-LetTwaeKiLayTharKoPalThatNee-Kawthaung.mp3">
+								၁၇။ လက္ေတြ႕ကိေလသာကို ပယ္ဖ်က္နည္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/018-AshinZawana-20070921-ATharLutSarChinHnintBuddhaAMyin-Kawthayng.mp3">
+								၁၈။ အသားလြတ္စားျခင္းႏွင့္ ဗုဒၶအျမင္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/019-AshinZawana-20070917-EainTwinVipassanaKyintSin-Myeik.mp3">
+								၁၉။ အိမ္တြင္ ဝိပႆနာက်င့္စဥ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/020-AshinZawana-20071021-BasicBuddhaBarTharKyintSin-1-PyinWon.mp3">
+								၂၀။ အေျခခံ ဗုဒၶဘာသာက်င့္စဥ္ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/021-AshinZawana-20071022-BasicBuddhaBarTharKyintSin-2-PyinWon.mp3">
+								၂၁။ အေျခခံ ဗုဒၶဘာသာက်င့္စဥ္ (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/022-AshinZawana-20070925-ArYone6ParKoDhammaAPhyitAThoneChaChin-Kawthaung.mp3">
+								၂၂။ အာရုံေျခာက္ပါးကို ဓမၼအျဖစ္ အသုံးခ်ျခင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/023-AshinZawana-20070924-VipassanarExam-Kawthaung.mp3">
+								၂၃။ ဝိပႆနာ စာေမးပြဲ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/006-MyitTarShin-4/024-AshinZawana-MyitTarSutta.mp3">
+								၂၄။ ေမတၱာသုတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၀၇)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/007-Mp3-1/001-AshinZawana.mp3">
+								၁။ နိဗၺာန္ (၃) မ်ဳိး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/007-Mp3-1/002-AshinZawana.mp3">
+								၂။ သူေတာ္စင္မ်ား၏ စိတ္ထား</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/007-Mp3-1/003-AshinZawana.mp3">
+								၃။ ေၾကာက္ရင္လြဲ ရဲရင္မင္းျဖစ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/007-Mp3-1/004-AshinZawana.mp3">
+								၄။ အနာထပိဏ္က်တဲ့ မ်က္ရည္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/007-Mp3-1/005-AshinZawana.mp3">
+								၅။ စုန္လမ္း ဆန္းလမ္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/007-Mp3-1/006-AshinZawana.mp3">
+								၆။ ဝိပႆနာ ရႈနည္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/007-Mp3-1/007-AshinZawana.mp3">
+								၇။ ေမတၱာအစြမ္း အံ့မခမ္း (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/007-Mp3-1/008-AshinZawana.mp3">
+								၈။ ေမတၱာအစြမ္း အံ့မခမ္း (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၀၈)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/008-Mp3-2/001-AshinZawana.mp3">
+								၁။ အရႈံးမရွိေသာ ဒႆန</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/008-Mp3-2/002-AshinZawana.mp3">
+								၂။ ဝစီေဗဒ ထိတိုင္းရွ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/008-Mp3-2/003-AshinZawana.mp3">
+								၃။ ေလးမ်ဳိး သုံးလီ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/008-Mp3-2/004-AshinZawana.mp3">
+								၄။ အသာစံျခင္း၊ အနာခံျခင္း (ဝါဆိုလျပည္႕ေန႕)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/008-Mp3-2/005-AshinZawana.mp3">
+								၅။ ကာလဒါန တရားေတာ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/008-Mp3-2/006-AshinZawana.mp3">
+								၆။ ကိုးဆယ့္တစ္ကမာၻ ဝဋ္ေႂကြး (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/008-Mp3-2/007-AshinZawana.mp3">
+								၇။ ကိုးဆယ့္တစ္ကမာၻ ဝဋ္ေႂကြး (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/008-Mp3-2/008-AshinZawana.mp3">
+								၈။ ဗုဒၶေဟာၾကား ႀကီးပြားေၾကာင္းတရား</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၀၉)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/009-Mp3-3/001-AshinZawana.mp3">
+								၁။ ဝိပႆနာ အလုပ္ေပးတရား (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/009-Mp3-3/002-AshinZawana.mp3">
+								၂။ ဝိပႆနာ အလုပ္ေပးတရား (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/009-Mp3-3/003-AshinZawana.mp3">
+								၃။ ဝိပႆနာ အလုပ္ေပးတရား (၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/009-Mp3-3/004-AshinZawana.mp3">
+								၄။ ဝိပႆနာ အလုပ္ေပးတရား (၄)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/009-Mp3-3/005-AshinZawana.mp3">
+								၅။ ဝိပႆနာ အလုပ္ေပးတရား (၅)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/009-Mp3-3/006-AshinZawana.mp3">
+								၆။ ဝိပႆနာ အလုပ္ေပးတရား (၆)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/009-Mp3-3/007-AshinZawana.mp3">
+								၇။ ဝိပႆနာ အလုပ္ေပးတရား (၇)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/009-Mp3-3/008-AshinZawana.mp3">
+								၈။ ဝိပႆနာ အလုပ္ေပးတရား (၈)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၁၀)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/010-Mp3-4/001-AshinZawana.mp3">
+								၁။ ဝိပႆနာ အလုပ္ေပးတရား (၉)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/010-Mp3-4/002-AshinZawana.mp3">
+								၂။ ဝိပႆနာ အလုပ္ေပးတရား (၁၀)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/010-Mp3-4/003-AshinZawana.mp3">
+								၃။ ဝိပႆနာ အလုပ္ေပးတရား (၁၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/010-Mp3-4/004-AshinZawana.mp3">
+								၄။ ဝိပႆနာ အလုပ္ေပးတရား (၁၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/010-Mp3-4/005-AshinZawana.mp3">
+								၅။ ဝိပႆနာ အလုပ္ေပးတရား (၁၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/010-Mp3-4/006-AshinZawana.mp3">
+								၆။ ဝိပႆနာ အလုပ္ေပးတရား (၁၄)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/010-Mp3-4/007-AshinZawana.mp3">
+								၇။ ဗာတိယ သုတၱန္ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/010-Mp3-4/008-AshinZawana.mp3">
+								၈။ ဗာတိယ သုတၱန္ (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၁၁)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/011-Mp3-5/001-AshinZawana.mp3">
+								၁။ ဓမၼဓိ႒ာန္ ဘာသာေရြးနည္းတရား</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/011-Mp3-5/002-AshinZawana.mp3">
+								၂။ အသက္နဲ႕လဲ တရားပြဲ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/011-Mp3-5/003-AshinZawana.mp3">
+								၃။ အေမး -ဘာသာျခား၊ အေျဖ- ေဂါတမဘုရား</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/011-Mp3-5/004-AshinZawana.mp3">
+								၄။ မ်က္ရည္မက်ခင္ သိေစခ်င္ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/011-Mp3-5/005-AshinZawana.mp3">
+								၅။ မ်က္ရည္မက်ခင္ သိေစခ်င္ (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/011-Mp3-5/006-AshinZawana.mp3">
+								၆။ မ်က္ရည္မက်ခင္ သိေစခ်င္ (၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/011-Mp3-5/007-AshinZawana.mp3">
+								၇။ ပရိတ္ တရားေတာ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/011-Mp3-5/008-AshinZawana.mp3">
+								၈။ ပ႒ာန္းပစၥယ နိေဒၵသ အနက္အဓိပၸါယ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၁၂)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/012-Mp3-6/001-AshinZawana.mp3">
+								၁။ ဝိပႆနာအားထုတ္ရျခင္းအေၾကာင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/012-Mp3-6/002-AshinZawana.mp3">
+								၂။ ေဘးႀကီးေလးပါး (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/012-Mp3-6/003-AshinZawana.mp3">
+								၃။ ေဘးႀကီးေလးပါး (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/012-Mp3-6/004-AshinZawana.mp3">
+								၄။ ပညတ္ ပရမတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/012-Mp3-6/005-AshinZawana.mp3">
+								၅။ ဒိ႒ိကိေလသာ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/012-Mp3-6/006-AshinZawana.mp3">
+								၆။ ပထဝီ အာေပါ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/012-Mp3-6/007-AshinZawana.mp3">
+								၇။ ေတေဇာဓါတ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/012-Mp3-6/008-AshinZawana.mp3">
+								၈။ ဝါေယာ၊ ဝဏၰ၊ ဂႏၶ၊ ရသ၊ ၾသဇ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၁၃)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/013-Mp3-7/001-AshinZawana.mp3">
+								၁။ အာကာသဓါတ္၊ ခႏၶာငါးပါး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/013-Mp3-7/002-AshinZawana.mp3">
+								၂။ ခႏၶာငါးပါး၊ ဓါတ္ရွစ္ပါး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/013-Mp3-7/003-AshinZawana.mp3">
+								၃။ ခႏၶာငါးပါး ျဖစ္ပုံ၊ ပ်က္ပုံ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/013-Mp3-7/004-AshinZawana.mp3">
+								၄။ သကၠာယ ဒိ႒ိခြါပုံ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/013-Mp3-7/005-AshinZawana.mp3">
+								၅။ ပစၥယ ပဋိဂၢဟဉာဏ္၊ ဝီထိစဥ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/013-Mp3-7/006-AshinZawana.mp3">
+								၆။ အနစၥ ႏုပႆနာ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/013-Mp3-7/007-AshinZawana.mp3">
+								၇။ ငါးပ်ံတစ္လွည္႕ ဗုံလံုတလွည္႕ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/013-Mp3-7/008-AshinZawana.mp3">
+								၈။ ငါးပ်ံတစ္လွည္႕ ဗုံလံုတလွည္႕ (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၁၄)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/014-Mp3-8/001-%20Gon%20Taw%20Ah%20Swan.mp3">
+								၁။ ဂုဏ္ေတာ္ အစြမ္း အံ့မခန္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/014-Mp3-8/002-%20Ku%20Tho%20Phit%20Chin%20(a).mp3">
+								၂။ ကုသိုလ္ျဖစ္ျခင္း အေၾကာင္းရင္း (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/014-Mp3-8/003-%20Ku%20Tho%20Phit%20Chin%20(b).mp3">
+								၃။ ကုသိုလ္ျဖစ္ျခင္း အေၾကာင္းရင္း (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/014-Mp3-8/004-%20Ya%20Ta%20Na%20Gon%20Yi.mp3">
+								၄။ ရတနာ့ဂုဏ္ရည္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/014-Mp3-8/005-%20A%20Pel%20Au%20Ga%20Swe%20Cha.mp3">
+								၅။ အပါယ္ၾသဃ ဆြဲခ်မည္႕သူ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/014-Mp3-8/006-%20Izzeta%20Tike%20Pwe.mp3">
+								၆။ အဇၨ်တၱ တိုက္ပြဲ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/014-Mp3-8/007-%20Wai%20Da%20Nar%20Chin%20Tu.mp3">
+								၇။ ေဝဒနာျခင္းတူ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/014-Mp3-8/008-%20Par%20Ra%20Me%20Htite%20taw%20%20Darna.mp3">
+								၈။ ပါရမီမထိုက္ေသာ ဒါနႏွင့္ ပါရမီထိုက္ေသာဒါန</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/014-Mp3-8/009-%20Dhamma%20Amway-1.mp3">
+								၉။ ဓမၼအေမြ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/014-Mp3-8/010-%20Dhamma%20Amway-2.mp3">
+								၁၀။ ဓမၼအေမြ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၁၅)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/015-Mp3-9/001-TaRaNaGon%20(3)%20per.mp3">
+								၁။ သရဏဂုံ သုံးပါး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/015-Mp3-9/002-%20Mi%20Khin%20Nae%20To%20Taw.mp3">
+								၂။ မိခင္ႏွင့္ တူေသာအရာ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/015-Mp3-9/003-AhMyin%20Mhan(5)Myo.mp3">
+								၃။ အျဖစ္မွန္ ငါးမ်ဳိး</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/015-Mp3-9/004-Htay%20Ra%20War%20Da%20ANhit%20Chote.mp3">
+								၄။ ေထရဝါဒ အႏွစ္ခ်ဳပ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/015-Mp3-9/005-LawKoteTara.mp3">
+								၅။ ေလာကုတၱရာ စာေမးပြဲ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/015-Mp3-9/006-FirstNibbana.mp3">
+								၆။ ပထမ နိဗၺာန္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/015-Mp3-9/007-AhThayMyatChin.mp3">
+								၇။ ငါးပါးသီလ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/015-Mp3-9/008-%20Mag%20Tar%20Pho%20Tar-1.mp3">
+								၈။ ဒိ႒ိျပဳတ္ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/015-Mp3-9/009-%20Mag%20Tar%20Pho%20Tar-2.mp3">
+								၉။ ဒိ႒ိျပဳတ္ (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/015-Mp3-9/010-%20Ah%20Soe%20Sone%20Ah%20Sait.mp3">
+								၁၀။ အဆိုးဆုံး အဆိပ္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၁၆)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၁။ ဘာေၾကာင့္ ဝိပႆနာ ပြားရသလဲ</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၂။ မနာလိုျခင္း၊ ဣသာ၊ 
+								ေဘးႀကီးေလးပါး</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၃။ ဗုဒၶဘာသာဝင္မ်ားသည္ လူေသတာႏွင့္ 
+								သႆတဒိ႒ိ ခြဲပုံ</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၄။ နိဗၺာန္ႏွင့္ ပတ္သတ္ေသာ သႆတဒိ႒ိ 
+								ခြဲပုံ</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၅။ သမထမပါေသာ သုဒၶဝိပႆနာႏွင့္ 
+								သမထယာနိက ရွင္းတမ္း</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၆။ ေသာတပန္တည္ျခင္း အဂၤါ(၄)ရပ္</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၇။ ခႏၶာငါးပါး</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၈။ ခႏၶာငါးပါးျပန္ရွင္းတမ္းႏွင့္ 
+								မ်က္လွည္႕ႏွင့္တူေသာ ဝိညာဏကၡႏၶာ</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">၉။ ပါရမီမလို ဆရာေကာင္းလိုျခင္း</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၁၇)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/017-MawKyun/001-AshinZawana-07-6-8-WiPaThaNar-(MorKuing).mp3">
+								၁။ ၂၀၀၇ခုႏွစ္ ေမာ္ကၽြန္း တရားမ်ား (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/017-MawKyun/002-AshinZawana-07-6-9-WiPaThaNar-(MorKuing).mp3">
+								၂။ ၂၀၀၇ခုႏွစ္ ေမာ္ကၽြန္း တရားမ်ား (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/017-MawKyun/003-AshinZawana-07-6-10-WiPaThaNar-(MorKuing).mp3">
+								၃။ ၂၀၀၇ခုႏွစ္ ေမာ္ကၽြန္း တရားမ်ား (၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/017-MawKyun/004-AshinZawana-07-6-11-WiPaThaNar-(MorKuing).mp3">
+								၄။ ၂၀၀၇ခုႏွစ္ ေမာ္ကၽြန္း တရားမ်ား (၄)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/017-MawKyun/005-AshinZawana-07-6-12-WiPaThaNar-(MorKuing).mp3">
+								၅။ ၂၀၀၇ခုႏွစ္ ေမာ္ကၽြန္း တရားမ်ား (၅)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၁၈)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/001-AshinZawana-20070512-ThaRaNaGonASwanEantMaKhan.mp3">
+								၁။ သရဏဂုံ အစြမ္း အံ့မခန္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/002-AshinZawana-20070513-SinYeTharToeEiHtwetPauk.mp3">
+								၂။ ဆင္းရဲသားတို႕၏ ထြက္ေပါက္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/003-AshinZawana-20070520-AShoneMaShiThaDaThaNa.mp3">
+								၃။ အရႈံးမရွိေသာ ဒႆန</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/004-AshinZawana-20070522-BuddhaALoKyaDarNaPyuNee.mp3">
+								၄။ ဗုဒၶအလိုက် ဒါနျပဳနည္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/005-AshinZawana-20070524-MeYoePhalaBuddhaBarThar.mp3">
+								၅။ မိရိုးဖလာ ဗုဒၶဘာသာႏွင့္ တကယ့္ ဗုဒၶဘာသာ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/006-AshinZawana-20070526-MyetYayMaKyaKhinThiSayChin.mp3">
+								၆။ မ်က္ရည္မက်ခင္ သိေစခ်င္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/007-AshinZawana-20070527-LuPhitYaChinEiYiYwalChet.mp3">
+								၇။ လူျဖစ္ရျခင္း၏ ရည္ရြယ္ခ်က္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/008-AshinZawana-20070528-HtayRaWaDaHmatKyauk.mp3">
+								၈။ ေထရဝါဒ မွတ္ေက်ာက္</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/009-AshinZawana-20070529-BuddhaHawKyarKyeePwarKyaung.mp3">
+								၉။ ဗုဒၶေဟာၾကား ႀကီးပြားေၾကာင္းတရား</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/010-AshinZawana-20070530-ANarKhanChinHnintATharSanChin.mp3">
+								၁၀။ အနာခံျခင္းႏွင့္ အသာစံျခင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/011-AshinZawana-20070530-ThuTawSinToeEiSateHtar.mp3">
+								၁၁။ သူေတာ္စင္တို႕၏ စိတ္ထား</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/012-AshinZawana-20070531-MateSweHnintYanThu.mp3">
+								၁၂။ မိတ္ေဆြႏွင့္ရန္သူ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/013-AshinZawana-20070604-SaYarKaungKoSharPhwayChin.mp3">
+								၁၃။ ဆရာေကာင္းကိုရွာျခင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/014-AshinZawana-20070606-PyoneThayMeltThay.mp3">
+								၁၄။ ၿပံဳးေသ မဲ့ေသ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/015-AshinZawana-20070608-Vipassana-1.mp3">
+								၁၅။ ဝိပႆနာ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/016-AshinZawana-20070609-Vipassana-2.mp3">
+								၁၆။ ဝိပႆနာ (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/017-AshinZawana-20070610-Vipassana-3.mp3">
+								၁၇။ ဝိပႆနာ (၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/018-AshinZawana-20070611-Vipassana-4.mp3">
+								၁၈။ ဝိပႆနာ (၄)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/018-S3/019-AshinZawana-20070612-Vipassana-5.mp3">
+								၁၉။ ဝိပႆနာ (၅)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၁၉)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/001-AshinZawana-07-5-12-tharanagon-(MyinChan).mp3">
+								၁။ လက္ေရြးစင္တရားမ်ား (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/002-AshinZawana-07-5-13-SinYeThar-(MyinChan).mp3">
+								၂။ လက္ေရြးစင္တရားမ်ား (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/003-AshinZawana-07-5-18-Buddha-haw-(Chauk).mp3">
+								၃။ လက္ေရြးစင္တရားမ်ား (၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/004-AshinZawana-07-5-20-Ashone-MaShi-(KyaukPT).mp3">
+								၄။ လက္ေရြးစင္တရားမ်ား (၄)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/005-AshinZawana-07-5-21-HtayRaWada-(KyaukPT).mp3">
+								၅။ လက္ေရြးစင္တရားမ်ား (၅)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/006-AshinZawana-07-5-22-Parami-Htike-(KyaukPT).mp3">
+								၆။ လက္ေရြးစင္တရားမ်ား (၆)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/007-AshinZawana-07-5-24-MeYoePhala-(SintKai).mp3">
+								၇။ လက္ေရြးစင္တရားမ်ား (၇)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/008-AshinZawana-07-5-25-Buddha-HawKyar-(SintKai).mp3">
+								၈။ လက္ေရြးစင္တရားမ်ား (၈)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/009-AshinZawana-07-5-26-Myat-Ye-(Amarapura).mp3">
+								၉။ လက္ေရြးစင္တရားမ်ား (၉)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/010-AshinZawana-07-5-27-LuPhitYaChin(AMARAPURA).mp3">
+								၁၀။ လက္ေရြးစင္တရားမ်ား (၁၀)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/011-AshinZawana-07-5-28-HtayRaWaDa(AMARAPURA).mp3">
+								၁၁။ လက္ေရြးစင္တရားမ်ား (၁၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/012-AshinZawana-07-5-29-Buddha-Haw(AMARAPURA).mp3">
+								၁၂။ လက္ေရြးစင္တရားမ်ား (၁၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/013-AshinZawana-07-5-30-Anar-Khan-(NanTM).mp3">
+								၁၃။ လက္ေရြးစင္တရားမ်ား (၁၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/019-Slt-1/014-AshinZawana-07-5-30-ThuTawSin-(NanTM).mp3">
+								၁၄။ လက္ေရြးစင္တရားမ်ား (၁၄)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">ေမတၱာရွင္ေရႊျပည္သာ (၂၀)</font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/001-AshinZawana-Aryon6par.mp3">
+								၁။ အာရံု(၆)ပါးကို ဓမၼအျဖစ္ အသုံးခ်ျခင္း</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/002-AshinZawana-Buddha-KyeePwar-1.mp3">
+								၂။ ဗုဒၶေဟာၾကား ႀကီးပြားေရး တရား (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/003-AshinZawana-B-K-P-2.mp3">
+								၃။ ဗုဒၶေဟာၾကား ႀကီးပြားေရး တရား (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/004-AshinZawana-B-K-P-3.mp3">
+								၄။ ဗုဒၶေဟာၾကား ႀကီးပြားေရး တရား (၃)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/005-AshinZawana-Botataung-A.mp3">
+								၅။ ဗိုလ္တေထာင္ (၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/006-AshinZawana-Botataung-B.mp3">
+								၆။ ဗိုလ္တေထာင္ (၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/007-AshinZawana-Kha-Ni-Ka-Samardi.mp3">
+								၇။ ခဏိက သမာဓိျဖင့္ ရဟႏာၱျဖစ္ပုံ</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/008-AshinZawana-Ko-Thar-Nar--1.mp3">
+								၈။ ကိုယ္သာနာ၍ စိတ္မနာေစနဲ႕(၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/009-AshinZawana-Ko-Thar-Nar-2.mp3">
+								၉။ ကိုယ္သာနာ၍ စိတ္မနာေစနဲ႕(၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/010-AshinZawana--Pat-Ti-Darna.mp3">
+								၁၀။ ပတၱိဒါန</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/011-AshinZawana-QA-Baik.mp3">
+								၁၁။ အေမး၊ အေျဖ (ၿမိတ္)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/012-AshinZawana-QA-Chaung-Wa.mp3">
+								၁၂။ အေမး၊ အေျဖ (ေခ်ာင္းႀကီးဝ ရြာ)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/013-AshinZawana-Yon-Myait-1.mp3">
+								၁၃။ ယုံမွတ္လို႕ ပုံအပ္မိသူမ်ား(၁)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/DVD/020-Slt-2/014-AshinZawana-Yon-Myait-2.mp3">
+								၁၄။ ယုံမွတ္လို႕ ပုံအပ္မိသူမ်ား(၂)</a></font></p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4"><br>
+								အရွင္ဇ၀န ေမတၱာရွင္ (ေရႊၿပည္သာ) <br>
+								DVD-MP-3<br>
+								(111)-ပုဒ္<br>
+								၁-၂-၃။ သစၥာေလးပါး<br>
+								၄။ ပင္လယ္ေရႏွင္႔ၿမစ္ေရ<br>
+								၅။ မွန္သည္႔ဘက္၌ ရပ္တည္ရဲသူမ်ား<br>
+								၆။ ဆင္းရဲၿခင္း၏ အေၾကာင္းတရားမ်ား<br>
+								၇။ ဒါန(၆)မ်ိဳး<br>
+								၈-၉။ တကယ္႔ဗုဒၶဘာသာက်င္႔စဥ္<br>
+								၁၀။ ဆင္းရဲၿခင္း၏ အေၾကာင္းတရားမ်ား<br>
+								၁၁။ လိုတရသီလ<br>
+								<br>
+								၁၂။ ႏွလံုးသာမွာဘုရားတည္<br>
+								၁၃။ ကာယစြမ္းအားႏွင္႔ ဉာဏစြမ္းသား<br>
+								၁၄-၁၅။ ဘ၀ဇတ္ေၾကာင္း<br>
+								၁၆။ ဆင္းရဲၿခင္း၏ အေၾကာင္းတရားမ်ား<br>
+								၁၇။ အလုပ္ၿဖင္႔ကိေလသာကို ပယ္သတ္ၿခင္း<br>
+								၁၈။ မ်က္ရည္မက်ခင္ သိေစခ်င္<br>
+								၁၉။ ၾကည္ညိဳၿခင္း (၃)မ်ိဳး<br>
+								၂၀။ စာဖတ္နည္(၃)မ်ဳိးႏွင္႔တရားနာနည္း(၃)မ်ိဳး<br>
+								၂၁။ ဘိုကိတ္၏ သာသနာၿပဳနည္း<br>
+								၂၂။ လိုတရသီလ<br>
+								၂၃-၂၄။ တကယ္႔ဗုဒၶဘာသာက်င္႔စဥ္<br>
+								၂၅။ ေမတၱာေရွ ႔ေဆာင္ၾကံတိုင္းေအာင္<br>
+								၂၆။ စာဖတ္နည္း(၃)မ်ိဳးႏွင္႔ တရားနာနည္း(၃)မ်ိဳး<br>
+								၂၇။ တံငါသည္ ေသာတာပန္တည္ပံု<br>
+								၂၈။ ဗာဟိရမေထရ္ ရဟႏၱာၿဖစ္ပံု<br>
+								၂၉။ ကံစခန္းႏွင္႔ကံလမ္း<br>
+								၃၀။ ဗုဒၶက်င္႔စဥ္ႏွင္႔အရွင္ေဒ၀ဒတ္က်င္႔စဥ္<br>
+								၃၁။ ဉာဏ္စခန္းႏွင္႔ ဉာဏ္လမ္း<br>
+								၃၂။ လူေလးမ်ိဳး<br>
+								၃၃။ ေထရ၀ါဒမွတ္ေက်ာက္<br>
+								၃၄။ သဒၶါႏွင္႔ပညာ<br>
+								၃၅။ မွန္သည္႔ဘက္၌ ရပ္တည္ရဲသူမ်ား<br>
+								၃၆။ ေၾကာက္လွ်င္လြဲ ရဲလွ်င္မင္းၿဖစ္<br>
+								၃၇။ ပ်င္းရိၿခင္းႏွင္႔ ေရာင္႔ရဲၿခင္း<br>
+								၃၈။ အရွုံးမရိွေသာ ဒႆန<br>
+								၃၉။ ေလာကဓံ ၈-ပါး<br>
+								၄၀။ ေမတၱာေရွ ႔ေဆာင္ၾကံတိုင္းေအာင္<br>
+								၄၁။ ဆင္းရဲၿခင္း၏အေၾကာင္းတရားမ်ား<br>
+								၄၂။ ႏွလံုးသား၀ယ္ ဘုရားတည္<br>
+								၄၃။ ဘ၀ကို အေသသတ္ေသာစိတ္<br>
+								၄၄။ ပါရမီထိုက္ေသာဒါနႏွင္႔ပါရမီမထိုက္ေသာဒါန<br>
+								၄၅။ လိုတရသီလ<br>
+								၄၆။ ဆရာေကာင္းကိုရွာေဖြၿခင္း<br>
+								၄၈။ သတၱိ ၃-မ်ိဳး<br>
+								၄၉။ ဗုဒၶက်င္႔စဥ္ႏွင္႔ေဒ၀ဒတ္က်င္႔စဥ္<br>
+								၅၀။ နာဂစ္ကာကြယ္ေရး <br>
+								၅၁။ ဘ၀ႏွင္႔ရင္းရေသာ အေတြးအၿမင္မ်ား<br>
+								၅၃။ ဘ၀ကို အေသသတ္ေသာစိတ္<br>
+								၅၄။ စိတ္သခင္ႏွင္႔စိတ္ကြ်န္<br>
+								၅၅။ အေသၿမတ္ခ်င္ ေသနည္းသင္<br>
+								၅၆။ ဆင္းရဲၿခင္း၏အေၾကာင္းတရားမ်ား<br>
+								၅၇။ ဗုဒၶဘာသာႏွင္႔ အၿခားဘာသာ၏ၿခားနားခ်က္<br>
+								၅၈။ ဒါနဘာေၾကာင္႔ၿပဳရသလဲ<br>
+								၅၉။ ခါးပိုက္ႏိိွဳက္ ေသာတပန္တည္ပံု<br>
+								၆၀။ ေအာက္တန္းက်ေစေသာစိတ္<br>
+								၆၁။ ေခါင္းေဆာင္ေကာင္း၏အဂၤါရပ္မ်ား<br>
+								၆၂။ ေမတၱာၿဖင္႔စီးပြားရွာၿခင္း<br>
+								၆၃။ အေသၿမတ္ခ်င္ ေသနည္းသင္<br>
+								၆၄။ ပါရမီထိုက္ေသာ ဒါန<br>
+								၆၅။ သိၾကားမင္းက်င္႔စဥ္<br>
+								၆၆။ ေစတနာသာ အဓိကပါ<br>
+								၆၇။ ဗုဒၶအလုိက် ဒါနၿပဳနည္း<br>
+								၆၈။ လိုတရသီလ<br>
+								၆၉။ အညတရမ်ားကို ၾကည္ညိဳတတ္ၿခင္း<br>
+								၇၀။ ကံေကာင္းေအာင္ၾကိဳးစားနည္း<br>
+								၇၁။ စိတ္သခင္ႏွင္႔စိတ္ကြ်န္<br>
+								၇၂။ ဆင္းရဲၿခင္းအေၾကာင္းတရားမ်ား<br>
+								၇၃။ ဘဂၤၼဉာဏ္ရဲ ႔အက်ိဳးရွစ္ပါး<br>
+								၇၄။ နာဂစ္ကာကြယ္ေရး<br>
+								၇၅။ အဆိုးေလာကဓံကို ရဟႏၱာၿဖစ္ေအာင္သံုးခ်ပံု<br>
+								၇၆။ မယ္ေတာ္ဂုဏ္ရည္<br>
+								၇၇။ ဆင္းရဲၿခင္းအေၾကာင္းတရားမ်ား<br>
+								၇၈။ လိုတရသီလ<br>
+								၇၉။ နာဂစ္ကာကြယ္ေရး<br>
+								၈၀-၈၁-၈၂။ အလုပ္ၿဖင္႔ ကိေလသာကို ပယ္သတ္ၿခင္း<br>
+								၈၃။ မယ္ေတာ္ၾကီးေမးတဲ႔ ေမးခြန္းတစ္ခု<br>
+								၈၄။ ဆင္းရဲၿခင္း၏အေၾကာင္းတရားမ်ား<br>
+								၈၅-၈၆။ လိုတရသီလ<br>
+								၈၇။ ေထရ၀ါဒမွတ္ေက်ာက္<br>
+								၈၈။ မိရိုးဖလာဗုဒၶၶဘာသာႏွင္႔တကယ္႔ဗုဒၶၶဘာသာ<br>
+								၈၉။ အလုပ္ေပး<br>
+								၉၀။ နိဗၺာန္ေရာက္မည္႔ အႏိုင္ယူနည္း<br>
+								၉၁။ မ်ွတမွ တရားရ<br>
+								၉၂။ မာရ္နတ္၏ တပ္မၾကီးမ်ား<br>
+								၉၃။ အေမးအေၿဖ-၁<br>
+								၉၄-၉၅။ အလုပ္ၿဖင္႔ ကိေလသာကို ပယ္သတ္ၿခင္း<br>
+								၉၆။ အေမးအေၿဖ-၂<br>
+								၉၇။ အလုပ္ၿဖင္႔ ကိေလသာကို ပယ္သတ္ၿခင္း-၃<br>
+								၉၈။ ပထမနိဗၺာန္<br>
+								၉၉။ အေမးအေၿဖ-၃<br>
+								၁၀၀။ မယ္ေတာ္ဂုဏ္ရည္<br>
+								၁၀၁-၁၀၂။ အေမးအေၿဖ ၄-၅<br>
+								၁၀၃။ ဒုတိယနိဗၺာန္<br>
+								၁၀၄-၁၀၅-၁၀၆။ အေမးအေၿဖ ၆-၇-၈<br>
+								၁၀၇။ မိရိုးဖလာဗုဒၶဘာသာႏွင္႔ တကယ္႔ဗုဒၶဘာသာ<br>
+								၁၀၈-၁၀၉။ နာဂစ္ကာကြယ္ေရး<br>
+								၁၁၀။ တရားနာနည္းသံုးမ်ိဳး<br>
+								၁၁၁။ မသိမသာ<br>
+								<br>
+								</font>
+								<br>
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<span style="font-family: Zawgyi-One">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc01/001-AshinZawana-MeatYoePhaLarBuddhaBarTharNatTaKaetBuddhaBarThar-23-2-2004.mp3">
+								၁။ မိရုိးဖလာ ဗုဒၶဘာသာႏွင့္ တကယ့္ ဗုဒၶဘာသာ</a> 
+								(၁၃၆၅ခုႏွစ္ တေပါင္းလဆန္း ၄ရက္။ ၂၃-၂-၂၀၀၄)</span></font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<span style="font-family:Zawgyi-One">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc01/002-AshinZawana-PyoneThayMatThay-23-2-2004.mp3">
+								၂။ ၿပဳံးေသမဲ့ေသတရား</a> 
+								(၁၃၆၅ခုႏွစ္ တေပါင္းလဆန္း ၄ရက္။ ၂၃-၂-၂၀၀၄)</font></span></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4">
+								<span style="font-family: Zawgyi-One">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc01/003-AshinZawana-PhanSinShinThoneOo-26-11-2004.mp3">
+								၃။ ဖန္ဆင္းရွင္သုံးဦး</a> 
+								(၁၃၆၆ခုႏွစ္ တန္ေဆာင္မုန္းလဆန္း ၁၅ရက္။ 
+								၂၆-၁၁-၂၀၀၄)</span></font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4" face="Zawgyi-One">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc01/004-AshinZawana-MetTarPhoTarAnDaYaelMyar-26-1-2005.mp3">
+								၄။ မဂ္တား၊ ဖိုလ္တား အႏၱရာယ္မ်ား</a>&nbsp; 
+								၂၆-၁-၂၀၀၅</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<span style="font-family: Zawgyi-One">
+								<font size="4">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc01/005-AshinZawana-MyatYeeMaKyaKhinTheatSaeChin-27-1-2005.mp3">
+								၅။ မ်က္ရည္မက်ခင္ သိေစခ်င္</a> (၂၇-၁-၂၀၀၅)</font></span></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4" face="Zawgyi-One">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc01/006-AshinZawana-MeBaKoKyaeZooSetPhooPyiLar-10-2-2005.mp3">
+								၆။ မိဘေက်းဇူး ဆပ္ဖူးၿပီလား ၁၀-၂-၂၀၀၅</a></font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4" face="Zawgyi-One">
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc02/001-AshinZawana-BayGyi4Par-5-2-2005.mp3">
+								၁။ ေဘးႀကီးေလးပါး တရားေတာ္ ၅-၂-၂၀၀၅<br>
+								</a>
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc02/002-AshinZawana-MgKarlaThawTaPanTeChin-6-2-2005.mp3">
+								၂။ ေမာင္ကာလ ေသာတပန္ တည္ပုံ တရားေတာ္ ၆-၂-၂၀၀၅<br>
+								</a>
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc02/003-AshinZawana-MugFoYaChinMaYaChin-16-2-2005.mp3">
+								၃။ မဂ္ဖိုလ္ရျခင္း၊ မရျခင္းႏွင့္ ပညတ္ ပရမတ္ 
+								ခြဲျခင္း ၁၆-၂-၂၀၀၅<br>
+								</a>
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc02/004-AshinZawana-ErrYoneChoakPar-17-2-2005.mp3">
+								၄။ အာရုံ ေျခာက္ပါး ၁၇-၂-၂၀၀၅<br>
+								</a>
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc02/005-AshinZawana-YokeDatShitPar-18-2-2005.mp3">
+								၅။ ရုပ္ဓါတ္ (၈)ပါး တရားေတာ္ ၁၈-၂-၂၀၀၅<br>
+								</a>
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc02/006-AshinZawana-KhanDa5Par-19-2-2005.mp3">
+								၆။ ခႏၶာငါးပါး တရားေတာ္ ၁၉-၂-၂၀၀၅<br>
+								</a>
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc02/007-AshinZawana-ThaNyarTheat-PyanNyarTheat-20-2-2005.mp3">
+								၇။ သညာသိႏွင့္ ပညာသိ ၂၀-၂-၂၀၀၅<br>
+								</a>
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc02/008-AshinZawana-ParRaMeeHtikeTheatDarNa-20-4-2005.mp3">
+								၈။ ပါရမီ ထိုက္သၫ္႕ ဒါန ၂၀-၄-၂၀၀၅<br>
+								</a>
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc02/009-AshinZawana-SayaKongKoSharPhuayChin-21-4-2005.mp3">
+								၉။ ဆရာေကာင္းကို ရွာေဖြျခင္း ၂၁-၄-၂၀၀၅<br>
+								</a>
+								<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/AshinZawana/MP3Disc02/010-AshinZawana-ThuTheatMaTayerKhoeKhan-22-4-2005.mp3">
+								၁၀။ သုသိမ တရားခိုးခန္း ၂၂-၄-၂၀၀၅<br>
+&nbsp;</a></font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font size="4" face="Zawgyi-One">၁၊ သရဏဂံုအစြမ္း အံ့မခန္း <br>
+								၂၊ ဆင္းရဲသားတို႕၏ ထြက္ေပါက္ <br>
+								၃၊ အရံႈးမရိွေသာ ဒႆန <br>
+								၄၊ ဗုဒၶအလိုက် ဒါနျပဳနည္း <br>
+								၅၊ မိရိုးဖလာဗုဒၶဘာသာႏွင့္ တကယ့္ဗုဒၶဘာသာ <br>
+								၆၊ မ်က္ရည္မက်ခင္ သိေစခ်င္ <br>
+								၇၊ လူျဖစ္ရျခင္း၏ ရည္ရြယ္ခ်က္ <br>
+								၈၊ ေထရ၀ါဒ မွတ္ေက်ာက္ <br>
+								၉၊ ဗုဒၶေဟာၾကား ႀကီးပြါးေၾကာင္းတရား <br>
+								၁၀၊ အနာခံျခင္းႏွင့္ အသာစံျခင္း <br>
+								၁၁၊ သူေတာ္စင္တို႕၏ စိတ္ထား <br>
+								၁၂၊ မိတ္ေဆြႏွင့္ ရန္သူ <br>
+								၁၃၊ ဆရာေကာင္းကို ရွာေဖြျခင္း <br>
+								၁၄၊ ျပံဳးေသ မဲ့ေသ <br>
+								၁၅ - ၁၉၊ ၀ိပႆနာ ၁ - ၅<br>
+								<br>
+								<br>
+								<br>
+								<br>
+								၁။ ကုသိုလ္ၿဖစ္ၿခင္း အေၾကာင္းရင္း <br>
+								၂။ လူ (၄) မ်ိဳး<br>
+								၃။ ဓမၼအေမြ<br>
+								၄။ ဗုဒၶဘာသာ၀င္တို႕အတြက္ အေျခခံ ၂ ခ်က္<br>
+								၅။ သင္လူတစ္ေယာက္ျဖစ္ၿပီလား<br>
+								၆။ ဖန္ဆင္းရွင္ (၃) ဦး ၂၆-၁၂-၂၀၀၄<br>
+								၇။ အသာခံျခင္းႏွင့္ အနာခံျခင္း ၇-၇-၂၀၀၅<br>
+								၈။ ေလာဘကုန္လွ်င္ နိဗၺာန္၀င္ ၇-၈-၂၀၀၅<br>
+								၉။ မိခင္ႏွင့္တူေသာအရာ ၂၆-၁၂-၂၀၀၅<br>
+								၁၀။ သမၼာဒိဌိ (၅) မ်ိဳး ၂၇-၁၂-၂၀၀၅<br>
+								၁၁။ ေထရ၀ါဒ မွတ္ေက်ာက္ ၆-၂-၂၀၀၆<br>
+								၁၂။ အားကိုးရာအမွန္ ၆-၃-၂၀၀၆<br>
+								၁၃။ အပါယ္ၾသဃဆြဲခ်မည့္သူ ၁၃-၃-၂၀၀၆<br>
+								၁၄။ ေလာကုတၱရာ စာေမးပြဲ ၁၈-၃-၂၀၀၆<br>
+								၁၅။ ကုိယ္အရံႈးေပးမွ ရံႈးတာပါ ၂၄-၃-၂၀၀၆<br>
+								၁၆။ ရတနာ့ ဂုဏ္ရည္ ၂-၃-၂၀၀၆<br>
+								၁၇။ မဂ္ဖိုလ္မရၿခင္း အေၾကာင္းရင္း ၈-၄-၂၀၀၆<br>
+								၁၈။ သူေတာ္ေကာင္းတို႕၏ စိတ္ထား ၉-၅-၂၀၀၆<br>
+								<br>
+								<br>
+								<br>
+								<br>
+								<br>
+								၁ ဗုဒၶအလိုက် ဒါနၿပဳနည္း<br>
+								၂ ကာလဒါနႏွင့္ ပကာသနဒါန<br>
+								၃ ေလာဘကင္းစင္ နိဗၺာန္၀င္<br>
+								၄ မယ္ေတာ္႔ေက်းဇူး<br>
+								၅ ပါရမီကုသိုလ္<br>
+								၆ အတြင္းရန္သူ<br>
+								၇ အဇၥ်တၱတိုက္ပြဲ<br>
+								၈ အဆိုးဆံုး အဆိပ္<br>
+								၉ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ ၁<br>
+								၁၀ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ ၂<br>
+								၁၁ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ ၃<br>
+								၁၂ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ ၄<br>
+								၁၃ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ ၅<br>
+								၁၄ တကယ့္ဗုဒၶဘာသာက်င့္စဥ္ ၆<br>
+								၁၅ အႏၶသုတ္<br>
+								၁၆ အာစရိယ ပူေဇာ္ပြဲ<br>
+								၁၇ ဘုရား အေနကဇာ<br>
+								၁၈ သစၥာ (၄)ပါး<br>
+								၁၉ အ႐ံႈးမရိွေသာ ဒႆန<br>
+								၂၀ ၿပံဳးေသ မဲ့ေသ<br>
+								၂၁ ေ၀ဒနာတူေသာ္လည္း ေသတာမတူ<br>
+								၂၂ အေသျမတ္ခ်င္ ေသနည္းသင္<br>
+								၂၃ မဂ္တားဖိုလ္တား အႏၲရာယ္မ်ား<br>
+								၂၄ ပထမ နိဗၺာန္<br>
+&nbsp;</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+	<p>&nbsp;</p></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+</font>
+
+
+
+<font face="Zawgyi-One">
+
+
+
+
+
+
+</font>
