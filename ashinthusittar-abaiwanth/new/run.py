@@ -49,12 +49,22 @@ from crawler import (get_html_mp4, check_duplicate,
 
 #convert_myanmar_number('titles_links.txt', 'description.txt') # titles_links.txt description.txt
 '''
+<<<<<<< HEAD
 playlist = 'နံ ႔သာျမိဳင္ဗုိလ္ေက်ာင္းဆရာေတာ္ အရွင္သုစိတၱာဘိ၀ံသ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား'
 description_title = 'မႏၱေလးျမဳိ ႔၊ မဟာဓမၼိကာရာမတုိက္၊ နံ ႔သာျမိဳင္ဗုိလ္ေက်ာင္းဆရာေတာ္ အရွင္သုစိတၱာဘိ၀ံသ [သ၊ စ၊ သ၊ အ - ေလးဘြဲ ႔ရ ဓမၼာစရိယ]  ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား'
 source='' 
 get_json_files_in_same('titles_links.txt', 'titles_links.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 '''
 #get_json('raw_titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+=======
+playlist = 'အရွင္ သုစိတၱာဘိဝံသ ပို႔ခ်ေတာ္မူေသာ နံ႔သာၿမိဳင္ ဓမၼာစရိယစာ၀ါမ်ား'
+description_title = 'အရွင္ သုစိတၱာဘိဝံသ ပို႔ခ်ေတာ္မူေသာ နံ႔သာၿမိဳင္ ဓမၼာစရိယစာ၀ါမ်ား'
+source='\nsource from https://www.thitsarparamisociety.com/' 
+get_json('raw_titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+'''
+#get_json_files_in_same('titles_links.txt', 'titles_links.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+
+>>>>>>> 996e475e2d433dfc76c452e3c9d0fa7f086c0514
 #thread_download('raw_titles_links.txt', 3)
 #thread_upload_test('raw_json_title.txt')
 thread_upload_test_title('raw_json_title.txt')
