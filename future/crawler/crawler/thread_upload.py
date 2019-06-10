@@ -209,7 +209,7 @@ def thread_upload_test_title(file_in):
     
     count = 1
     for key in mp3s:        
-        files_test = '{:03d}.m4'.format(count)
+        files_test = '{:03d}.mp4'.format(count)
         title =  key['title']             
         print('{} --title="{}" --description="{}" --playlist="{}" file={}'.format('youtube-upload', \
             title, key['description'], key['playlist'], files_test))            
