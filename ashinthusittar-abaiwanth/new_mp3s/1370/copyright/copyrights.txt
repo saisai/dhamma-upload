@@ -1,0 +1,10 @@
+ffmpeg -i 100.mp4 -ss 00:00:00 -t 0:06:00  -c copy 100_out_1.mp4
+ffmpeg -i 264.mp4 -ss 00:05:59 -c copy 264_out.mp4
+
+ffmpeg -i 264.mp4 -ss 00:00:00 -t 01:01:07  -c copy 264_out_1.mp4
+
+
+
+
+ffmpeg -i 049.mp4 -ss 00:02:38 -c copy 049_out_1.mp4
+ffmpeg -i 049.mp4 -ss 00:00:00 -t 01:00:55 -c copy 049_out_1.mp4
