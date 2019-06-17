@@ -1,0 +1,227 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/001.mp3|၁။ေသာဏကဇာတ္
+002.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/002.mp3|၂။သံေဝဇနိယေလးဌာန
+003.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/003.mp3|၃။သိၾကားမင္းရွိခိုးထိုက္သူ
+004.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/004.mp3|၄။ဥဒကူပမသုတ္
+005.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/005.mp3|၅။ဥဒယဘဒၵ
+006.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/006.mp3|၆။ကထိန္အက်ိဳးငါးမ်ဳိး
+007.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/007.mp3|၇။အရိပ္ငါးပါး
+008.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/008.mp3|၈။ေ၀ဠဳဒြါေရယ်က
+009.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/009.mp3|၉။ရ႒ပါလ
+010.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/010.mp3|၁၀။နတ္တမန္တရားေတာ္
+011.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/011.mp3|၁၁။အလွျပင္
+012.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/012.mp3|၁၂။သာသနာႏွင့္ေတြ႕သူ
+013.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/013.mp3|၁၃။ရတနာေရႊအိုးျမွဳပ္
+014.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/014.mp3|၁၄။နတ္တို႔မွာတမ္း
+015.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/015.mp3|၁၅။အျပန္လမ္း
+016.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/016.mp3|၁၆။သူေဌးစစ္
+017.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/017.mp3|၁၇။လေရာင္ကြန္႔ျမဴး ရဟႏ ၱာထူး
+018.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/018.mp3|၁၈။အမာတာပုတၱိက
+019.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/019.mp3|၁၉။ဇနီးေမာင္ႏွံေလးမ်ဳိး
+020.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/020.mp3|၂၀။မဟာသုတေသာမဇာတ္
+021.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/021.mp3|၂၁။ဝိပလႅာသ
+022.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/022.mp3|၂၂။လူခ်င္းတူ အသက္ရႈကြဲ
+023.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/023.mp3|၂၃။ရတနာေက်ာက္ ေကာက္ထိုက္သူ
+024.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/024.mp3|၂၄။ၾကြက္ေလးမ်ဳိး
+025.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/025.mp3|၂၅။ဗုဒၶလမ္းစဥ္
+026.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/026.mp3|၂၆။လူေလးမ်ဳိး
+027.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/027.mp3|၂၇။ထိသာထိေစ မမိေစနဲ႔
+028.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/028.mp3|၂၈။ခရီးသြား ခရီးနား
+029.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/029.mp3|၂၉။အစားတက္လွ်င္ နိဗၺာန္ဝင္
+030.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/030.mp3|၃၀။ဘုရားဖူးနည္း သံုးမ်ဳိး
+031.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/031.mp3|၃၁။သူေတာ္ေကာင္းအလွဴ
+032.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/032.mp3|၃၂။မင္းပြဲသဘင္
+033.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/033.mp3|၃၃။ေကာင္းမႈစစ္ပြဲ
+034.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/034.mp3|၃၄။ေစ်းသည္ႀကီး
+035.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/035.mp3|၃၅။ေတမိယဇာတ္
+036.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/036.mp3|၃၆။လူေလးမ်ဳိး (တေမာတမ)
+037.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/037.mp3|၃၇။သူေတာ္ေကာင္းအလွဴ
+038.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/038.mp3|၃၈။ေက်းဇူးရွင္ ေလးမ်ဳိး
+039.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/039.mp3|၃၉။ေသမင္းေအာင္လံ
+040.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/040.mp3|၄၀။သားသမီး ဆံုးမခန္း
+041.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/041.mp3|၄၁။ခႏၶာရထား
+042.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/042.mp3|၄၂။လမ္းသံုးသြယ္
+043.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/043.mp3|၄၃။ဗုဒၶမယ္ေတာ္
+044.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/044.mp3|၄၄။ခ်မ္းသာေလးပါး
+045.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/045.mp3|၄၅။ေဖာင္ေတာ္ႀကီးငါးစင္း
+046.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/046.mp3|၄၆။ကာမဂုဏ္တရားငါးပါး
+047.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/047.mp3|၄၇။ေရႊဟသၤာမင္းတရား
+048.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/048.mp3|၄၈။ရွင္ျပဳအလွဴ
+049.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/049.mp3|၄၉။လသာခိုက္ဗိုင္းငင္
+050.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/050.mp3|၅၀။သံသရာခရီးသည္
+051.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/051.mp3|၅၁။ေက်းမင္းဇာတ္တရား
+052.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/052.mp3|၅၂။ႏွလံုးသားအလွဆင္တရား
+053.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/053.mp3|၅၃။အေပ်ာက္ရွာတရား
+054.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/054.mp3|၅၄။ဖခင္နယ္တြင္း အႏ ၱရာယ္ကင္း
+055.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/055.mp3|၅၅။မိဘတို႔ေမွ်ာ္လင့္ခ်က္ငါးမ်ိဳး
+056.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/056.mp3|၅၆။မီး(၁၁)ပါး
+057.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/058.mp3|၅၇။ဆရာ့ေက်းဇူး (တိလမု႒ိဇာတ္)
+058.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/059.mp3|၅၈။နတ္တမန္ (ေဒဝဒူတ)
+059.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/060.mp3|၅၉။အႏွစ္ရတနာဥစၥာရွာ
+060.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/061.mp3|၆၀။မဂၢင္ရွင္ေဖာ္ေလွေလွာ္တရား
+061.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/062.mp3|၆၁။ရာဟုလာအေမြေတာင္းခန္း
+062.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/063.mp3|၆၂။သံဃိက ပုဂၢလိက အလွဴတရားေတာ္
+063.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/064.mp3|၆၃။သာသနာႏွင့္ေတြ႕သူ မေတြ႕သူ
+064.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/065.mp3|၆၄။ေရကန္ႀကီးသံုးကန္ (တု႑ိလဇာတ္)
+065.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/066.mp3|၆၅။မီးႏွင့္ေရတရား
+066.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/067.mp3|၆၆။သဗၺဒဒ(ေက်ာင္းအလွဴ)တရား
+067.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/068.mp3|၆၇။ခႏၶာေလွတြင္ ရိကၡာတင္တရား
+068.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/069.mp3|၆၈။၀န၀ါသီတိႆသာမေဏ
+069.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD1/070.mp3|၆၉။သာသနဥယ်ာဥ္တရားေတာ္
+070.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0001.mp3|၇၀။ေမတၱာသုတ္တရား-၁-၂
+071.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0002.mp3|၇၁။လူေလးမ်ဳိး(ဇဋိသေသ႒ိ)တရား-၁
+072.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0003.mp3|၇၂။ဗုဒၶလမ္းစဥ္(ဂဏကေမဂၢသာန)-၁-၂
+073.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0004.mp3|၇၃။ေဆးေတာ္ႀကီး(အဘိဏွွွွသုတ္
+074.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0005.mp3|၇၄။စက္ေလးပါး
+075.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0006.mp3|၇၅။ငွက္ေလးမ်ိဳးတရားေတာ္
+076.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0007.mp3|၇၆။ကိုယ္သာနာ စိတ္မနာေစနဲ႔(နကုလပိတု)
+077.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0008.mp3|၇၇။အားကိုးစရာ အႏွစ္ရွာ(သနာထသုတ္)
+078.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0009.mp3|၇၈။ေႏွာင္ႀကိဳးျဖဳတ္(ဗႏၶနသုတ္)-၁-၂
+079.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0010.mp3|၇၉။သိၾကားမင္းရွိခိုးထိုက္သူ(ဂဟ႒ဝႏၵနာ)-၁-၂
+080.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0011.mp3|၈၀။သဗၺဒဒ(ေက်ာင္းအလွဴ-သတၱဝတီ)
+081.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0012.mp3|၈၁။လူသံုးမ်ဳိး(အႏၶသုတ္)
+082.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0013.mp3|၈၂။အေယာဃရကုမာရ္ဇာတ္
+083.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0014.mp3|၈၃။တဏွာ့ကၽြန္ေဘး လြတ္ေအာင္ေျပး(ဒုတဇာတ္)
+084.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0015.mp3|၈၄။မိဘကိုသတ္တိုင္းရင္ကိုမႈန္း(လကု႑ကဘဒၵိယ)
+085.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0016.mp3|၈၅။အမိႈက္ပံုၾကားက ပတၱျမား
+086.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0017.mp3|၈၆။ဆုႀကီးေလးပါး
+087.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0018.mp3|၈၇။ေမတၱာသုတ္တရားေတာ္
+088.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0019.mp3|၈၈။ရတနာသုတ္တရားေတာ္
+089.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0020.mp3|၈၉။ကဆုန္လျပည့္ဗုဒၶေန႔တရား
+090.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0021.mp3|၉၀။ေခမာေထရီတရား
+091.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0022.mp3|၉၁။ဓမၼေစတီ(က်မ္းစာအုပ္အလွဴ)တရား
+092.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0023.mp3|၉၂။ေရႊဟသၤာမင္းဇာတ္
+093.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0024.mp3|၉၃။ဝိပႆနာအားထုတ္နည္း
+094.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0025.mp3|၉၄။ဘိကၡဳေခၚပံု(ပဥၥဂၢဒါယကာ)
+095.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0026.mp3|၉၅။ေစာင္းတန္းတက္ပြဲ(ဆဠဂၤသမၸႏၷာဂတသုတ္)-၁-၂
+096.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0027.mp3|၉၆။ပရိတ္(၁၁)သုတ္တရားေတာ္ -၁
+097.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0028.mp3|၉၇။ပရိတ္(၁၁)သုတ္တရားေတာ္ -၂
+098.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0029.mp3|၉၈။ဗုဒၶါႏုႆတဘာဝနာ(နမကၠာရဘုရားရွိခိုး) -၁
+099.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0030.mp3|၉၉။ဗုဒၶါႏုႆတဘာဝနာ(နမကၠာရဘုရားရွိခိုး) -၂
+100.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0031.mp3|၁၀၀။ဗုဒၶါႏုႆတဘာဝနာ(နမကၠာရဘုရားရွိခိုး) -၃
+101.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0032.mp3|၁၀၁။ပရမိတၱဇာလသုတ္
+102.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0033.mp3|၁၀၂။မဟာသမယသုတ္တရားေတာ္- ၁
+103.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0034.mp3|၁၀၃။မဟာသမယသုတ္တရားေတာ္- ၂
+104.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0035.mp3|၁၀၄။မဟာသမယသုတ္တရားေတာ္- ၃
+105.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0036.mp3|၁၀၅။ေအာင္ျခင္းရစ္ပါးတရားေတာ္-၁
+106.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0037.mp3|၁၀၆။ေအာင္ျခင္းရစ္ပါးတရားေတာ္-၂
+107.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0038.mp3|၁၀၇။ေအာင္ျခင္းရစ္ပါးတရားေတာ္-၃
+108.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0039.mp3|၁၀၈။ေအာင္ျခင္းရစ္ပါးတရားေတာ္-၄
+109.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0040.mp3|၁၀၉။ေအာင္ျခင္းရစ္ပါးတရားေတာ္-၅
+110.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0041.mp3|၁၁၀။ေအာင္ျခင္းရစ္ပါးတရားေတာ္-၆
+111.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0042.mp3|၁၁၁။ေအာင္ျခင္းရစ္ပါးတရားေတာ္-၇
+112.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0043.mp3|၁၁၂။ေအာင္ျခင္းရစ္ပါးတရားေတာ္-၈
+113.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0044.mp3|၁၁၃။အမွီေကာင္းမွ ခ်မ္းသာရ
+114.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0045.mp3|၁၁၄။မိုးေပါက္ကေလးမ်ားစုေပါင္းအား
+115.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0046.mp3|၁၁၅။ေန႔ေန႔ညညကုသိုလ္ရ
+116.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0047.mp3|၁၁၆။လူ႔ထက္သာသူ
+117.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0048.mp3|၁၁၇။တဏွာရန္ေဘးလြတ္ေအာင္ေျပး
+118.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0049.mp3|၁၁၈။အလဲတက္လွ်င္ နိဗၺာန္ဝင္
+119.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0050.mp3|၁၁၉။အရံႈးျပန္အျမတ္ျပန္
+120.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0051.mp3|၁၂၀။ထပ္တလဲလဲေဘး
+121.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0052.mp3|၁၂၁။ရန္သူႀကီးေလးေယာက္
+122.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0053.mp3|၁၂၂။မၿမဲသုံးခ်က္ ၿမဲသံုးခ်က္
+123.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0054.mp3|၁၂၃။ျမင္းေလးမ်ဳိး(ပေတာဒသုတ္)
+124.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0055.mp3|၁၂၄။အငိုနဲ႔စ အၿပံဳးနဲ႔ဆံုး
+125.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0056.mp3|၁၂၅။ေရႊထီးေတာ္အလွဴ
+126.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0057.mp3|၁၂၆။တိုက္သစ္မဂၤလာ
+127.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0058.mp3|၁၂၇။လူသံုးမ်ဳိး(မာဂ႑ိယ)
+128.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0059.mp3|၁၂၈။အားကိုးစရာ အႏွစ္ရွာ
+129.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0060.mp3|၁၂၉။သက္ရႈမရွင္သက္ရႈရွင္
+130.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0061.mp3|၁၃၀။အေအးဓာတ္ငါးမ်ဳိး
+131.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0062.mp3|၁၃၁။အလွဴေပး အလွဴခံေလးမ်ဳိး
+132.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0063.mp3|၁၃၂။သားသံုးမ်ဳိး
+133.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0064.mp3|၁၃၃။ေပါက္ပြင့္ေခြးေမွ်ာ္
+134.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0065.mp3|၁၃၄။ေႏွာင္ႀကိဳးျဖဳတ္
+135.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0066.mp3|၁၃၅။ထိုက္ေနေနသူ
+136.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0067.mp3|၁၃၆။လက္ခုတ္တီး၍ ငါးဟင္းစား
+137.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0068.mp3|၁၃၇။သုမနေဒဝီ
+138.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0069.mp3|၁၃၈။တြဲေဘးခြဲေဘး
+139.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0070.mp3|၁၃၉။လယ္ေကာင္းပမာသာသနာ
+140.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0071.mp3|၁၄၀။ဗူးေတာင္းပမာက်င့္ေစရာ
+141.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0072.mp3|၁၄၁။ဒုလႅဘတရားငါးပါး
+142.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0073.mp3|၁၄၂။ေသာဏာေထရီ
+143.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0074.mp3|၁၄၃။ေတမိယဇာတ္
+144.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0075.mp3|၁၄၄။မိတ္ေကာင္းေဆြေကာင္း
+145.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0076.mp3|၁၄၅။ကုန္ျခင္းငါးမ်ဳိး
+146.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0077.mp3|၁၄၆။အပါယ္ကင္းခႏၶာျဖစ္ေစပါ
+147.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0078.mp3|၁၄၇။သဗၺတူပမသုတၱန္
+148.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0079.mp3|၁၄၈။အေရာင္လင္းပစၥည္းျဖစ္ပါေစ
+149.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0080.mp3|၁၄၉။ဒုကၡေတြသိမ္းအပူၿငိမ္း
+150.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0081.mp3|၁၅၀။ရြာပ်က္ႀကီး
+151.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0082.mp3|၁၅၁။သီဟာသနဒါယကမေထရ္
+152.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0083.mp3|၁၅၂။မိမိကုိယ္ခ်စ္
+153.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0084.mp3|၁၅၃။ေဝႆႏၱရာဇာတ္(ေရႊအိုးျမွပ္)
+154.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0085.mp3|၁၅၄။သုခေလးပါး(ရဇၨဳမၼာလာ)
+155.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0086.mp3|၁၅၅။ေစ်းသည္ႀကီး(ေက်ာ္သံုးေက်ာ္)
+156.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0087.mp3|၁၅၆။မုဒုလကၡဏ(ဆာနာၿငိမ္းေဆး)
+157.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0088.mp3|၁၅၇။ဆယ့္တစ္ဘံု မ်က္လွည့္ရံု
+158.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0089.mp3|၁၅၈။စိတ္ခႏၶာကုိယ္အလွဆင္
+159.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0090.mp3|၁၅၉။ကိေလသာခန္းနိဗၺာန္ျမန္း
+160.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0091.mp3|၁၆၀။လာရဌာန မျပန္ရေစ
+161.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0092.mp3|၁၆၁။မဟာကပၸိနဇာတ္-၁-၂
+162.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0093.mp3|၁၆၂။တိလမု႒ိဇာတ္
+163.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0094.mp3|၁၆၃။ေဝႆႏၱရာဇာတ္
+164.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0095.mp3|၁၆၄။ဘဒၵဝဂၢီညီေနာင္သံုးက်ိတ္-၁
+165.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0096.mp3|၁၆၅။ဘဒၵဝဂၢီညီေနာင္သံုးက်ိတ္-၂
+166.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0097.mp3|၁၆၆။ဇဋိလသူေဌးေလာင္း
+167.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0098.mp3|၁၆၇။အာဋာနာဋိယသုတ္
+168.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0099.mp3|၁၆၈။သာသနာအေမြခံ
+169.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/DVD2/0100.mp3|၁၆၉။ကထိန္အက်ဳိးႏွင့္ ပရိေယသနသုတ္
+170.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/001-par.mp3|၁၇၀။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၁) – (၁)
+171.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/002-Par.mp3|၁၇၁။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၁) – (၂)
+172.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/003-Par.mp3|၁၇၂။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၁) – (၃)
+173.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/004-Par.mp3|၁၇၃။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၁) – (၄)
+174.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/005-Par.mp3|၁၇၄။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၁) – (၅)
+175.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/006-Par.mp3|၁၇၅။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၁) – (၆)
+176.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/007-Par.mp3|၁၇၆။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၁) – (၇)
+177.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/008-Par.mp3|၁၇၇။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၁) – (၈)
+178.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/009-Par.mp3|၁၇၈။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၁) – (၉)
+179.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/010-Par.mp3|၁၇၉။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၁) – (၁၀)
+180.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/011-Par.mp3|၁၈၀။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၂) – (၁)
+181.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/012-Par.mp3|၁၈၁။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၂) – (၂)
+182.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/013-Par.mp3|၁၈၂။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၂) – (၃)
+183.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/014-Par.mp3|၁၈၃။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၂) – (၄)
+184.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/015-Par.mp3|၁၈၄။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၂) – (၅)
+185.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/016-Par.mp3|၁၈၅။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၂) – (၆)
+186.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/017-Par.mp3|၁၈၆။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၂) – (၇)
+187.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/018-Par.mp3|၁၈၇။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၂) – (၈)
+188.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/019-Par.mp3|၁၈၈။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၂) – (၉)
+189.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/020-Par.mp3|၁၈၉။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၂) – (၁၀)
+190.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/021-Par.mp3|၁၉၀။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၃) – (၁)
+191.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/022-Par.mp3|၁၉၁။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၃) – (၂)
+192.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/023-Par.mp3|၁၉၂။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၃) – (၃)
+193.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/024-Par.mp3|၁၉၃။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၃) – (၄)
+194.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/025-Par.mp3|၁၉၄။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၃) – (၅)
+195.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/026-Par.mp3|၁၉၅။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၃) – (၆)
+196.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/027-Par.mp3|၁၉၆။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၃) – (၇)
+197.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/028-Par.mp3|၁၉၇။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၃) – (၈)
+198.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/029-Par.mp3|၁၉၈။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၃) – (၉)
+199.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/030-Par.mp3|၁၉၉။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၃) – (၁၀)
+200.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/031-Par.mp3|၂၀၀။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၄) – (၁)
+201.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/032-Par.mp3|၂၀၁။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၄) – (၂)
+202.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/033-Par.mp3|၂၀၂။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၄) – (၃)
+203.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/034-Par.mp3|၂၀၃။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၄) – (၄)
+204.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/035-Par.mp3|၂၀၄။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၄) – (၅)
+205.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/036-Par.mp3|၂၀၅။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၄) – (၆)
+206.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/037-Par.mp3|၂၀၆။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၄) – (၇)
+207.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/038-Par.mp3|၂၀၇။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၄) – (၈)
+208.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/039-Par.mp3|၂၀၈။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၄) – (၉)
+209.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/040-Par.mp3|၂၀၉။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၄) – (၁၀)
+210.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/041-Par.mp3|၂၁၀။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၅) – (၁)
+211.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/042-Par.mp3|၂၁၁။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၅) – (၂)
+212.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/043-Par.mp3|၂၁၂။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၅) – (၃)
+213.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/044-Par.mp3|၂၁၃။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၅) – (၄)
+214.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/045-Par.mp3|၂၁၄။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၅) – (၅)
+215.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/046-Par.mp3|၂၁၅။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၅) – (၆)
+216.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/047-Par.mp3|၂၁၆။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၅) – (၇)
+217.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/048-Par.mp3|၂၁၇။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၅) – (၈)
+218.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/049-Par.mp3|၂၁၈။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၅) – (၉)
+219.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/050-Par.mp3|၂၁၉။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၅) – (၁၀)
+220.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/051-Par.mp3|၂၂၀။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၆) – (၁)
+221.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/052-Par.mp3|၂၂၁။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၆) – (၂)
+222.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/053-Par.mp3|၂၂၂။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၆) – (၃)
+223.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/054-Par.mp3|၂၂၃။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၆) – (၄)
+224.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/055-Par.mp3|၂၂၄။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၆) – (၅)
+225.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/056-Par.mp3|၂၂၅။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၆) – (၆)
+226.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/057-Par.mp3|၂၂၆။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၆) – (၇)
+227.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Kone-Nalar/paryarzikan-leture/058-Par.mp3|၂၂၇။ပါရာဇိကဏ္ပို႔ခ်ခ်က္ အမွတ္(၆) – (၈)
