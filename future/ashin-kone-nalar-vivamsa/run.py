@@ -42,22 +42,23 @@ from crawler import (get_html_mp4, check_duplicate,
 
 #check_duplicate('raw_titles_links.txt') #titles_links.txt
 #update_raw_titles_links('raw_titles_links.txt', 'titles_links.txt', 1)
-convert_myanmar_number_option('raw_titles_links.txt', 'titles_links.txt', 1)
+#convert_myanmar_number_option('raw_titles_links.txt', 'titles_links.txt', 1)
 
 #add_extra_description(get_results('raw_titles_links_desc.txt'))
 
 
 #convert_myanmar_number('titles_links.txt', 'description.txt') # titles_links.txt description.txt
-'''
-playlist = 'ဆရာေတာ္ ဦးေဇာတိက (မဟာၿမိဳင္ေတာရ) ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား'
-description_title = 'ဆရာေတာ္ ဦးေဇာတိက (မဟာၿမိဳင္ေတာရ) ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား'
-source='\nsource from https://www.thitsarparamisociety.com/' 
-get_json_files_in_same('raw_titles_links.txt', 'raw_titles_links.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
-'''
+
+def get_json_new():        
+    playlist = 'အမရပူရျမိဳ႕ မဟာဂႏၶာရုံေက်ာင္းတိုက္ ဆရာေတာ္အရွင္ကု႑လာဘိ၀ံသ ေဟာၾကားေတာ္မူအပ္ေသာတရားေတာ္မ်ား'
+    description_title = 'အမရပူရျမိဳ႕ မဟာဂႏၶာရုံေက်ာင္းတိုက္ ဆရာေတာ္အရွင္ကု႑လာဘိ၀ံသ ေဟာၾကားေတာ္မူအပ္ေသာတရားေတာ္မ်ား'
+    source='\nhttps://www.thitsarparamisociety.com/' 
+    get_json_files_in_same('titles_links.txt', 'titles_links.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+    #get_json('raw_titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
 #get_json('raw_titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
-
+#get_json_new()
 #thread_download('raw_titles_links.txt', 3)
 #thread_upload_test('raw_json_title.txt')
 #thread_upload_test_title('raw_json_title.txt')
@@ -65,7 +66,7 @@ get_json_files_in_same('raw_titles_links.txt', 'raw_titles_links.txt', 'raw_json
 
 
 
-#thread_convert_mp3_to_mp4(1)
+thread_convert_mp3_to_mp4(1)
 '''
 remote_username = 'u0_a97'
 remote_pass = 'snp'
