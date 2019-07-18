@@ -1,0 +1,85 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/42.mp3|၁။ ရွစ္ပါးသီလေပး
+002.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/43.mp3|၂။ ဒိ႒ိသကၠာယ ပယ္ခြာခ်
+003.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/44.mp3|၃။ ႏွလံုးသြင္းမွန္ ျမတ္နိဗၺာန္
+004.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/45.mp3|၄။ ဒိ႒ိျပဳတ္မႈ စိတၱာႏု
+005.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/46.mp3|၅။ ပမာပင့္ကူ က်င့္သံုးယူ
+006.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/47.mp3|၆။ ေဝဒနာကုန္ေပ်ာက္ နိဗၺာန္ေရာက္
+007.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/48.mp3|၇။ ဗိ်ဳင္းကိုစံျပဳ ခႏၶာရႈ
+008.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/49.mp3|၈။ ႏွစ္ဖက္ႏွစ္ဦး အက်ိဳးထူး
+009.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/50.mp3|၉။ ဣေျႏၵညွိနည္း နိႆ ရည္း
+010.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/51.mp3|၁၀။ ခႏၶာမွာၾကည့္ သစၥာသိ
+011.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/52.mp3|၁၂။ ဒိ႒ိျဖစ္ျခင္း အေၾကာင္းရင္း
+012.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/53.mp3|၁၃။ ကံေၾကြးဟူသမွ် ဥာဏ္ႏွင့္ျဖတ္
+013.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/56.mp3|၁၄။ သုညတမွ သုညတသို႔
+014.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/54.mp3|၁၅။ သားေကာင္းအေပါင္း ႏိုင္ေအာင္ေၾကာင္း
+015.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/55.mp3|၁၆။ ဝန္ထမ္းေမာင္မယ္ ခရီးသည္
+016.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/57.mp3|၁၇။ ဗာလပ႑ိ ခြဲျခားသိ
+017.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/58.mp3|၁၈။ အႏၱရာယ္ကင္းေပ်ာက္ နိဗၺာန္ေရာက္
+018.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/59.mp3|၁၉။ သံုးသပ္ဆင္ျခင္ သစၥာျမင္
+019.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/60.mp3|၂၀။ ဥာဏ္သံုးဆင့္ေျမာက္ နိဗၺာန္ေရာက္
+020.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarSo/61.mp3|၂၁။ သႏိ​ ၱလကၡဏံ ျမတ္နိဗၺာန္
+021.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/01Morning/00%20%282%29%20%282%29.mp3|၁။ ရွစ္ပါးသီလေပး
+022.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/01Morning/23.mp3|၂။ နိဗၺာန္ေရာက္ျခင္း အေၾကာင္းရင္း
+023.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/01Morning/24.mp3|၃။ ေလးျဖာဣရိယာ ရႈမွတ္ပါ
+024.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/01Morning/25.mp3|၄။ ဒိ႒ိအေလး ဓာတ္ဥာဏ္ေဆာက္ျဖတ္
+025.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/01Morning/26.mp3|၅။ ေရပြက္ပမာ တရားရွာ
+026.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/01Morning/27.mp3|၆။ ဒိ႒ိျပဳတ္ျပန္ ေသာတပန္
+027.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/01Morning/28.mp3|၇။ လိပ္ကိုစံျပဳ ခႏၶာရႈ
+028.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/01Morning/29.mp3|၈။ အျမင္မွန္မွ နိဗၺာန္ရ
+029.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/01Morning/30.mp3|၉။ နိဗၺာန္ကိုသြား ဥာဏ္ေလွခါး
+030.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/01Morning/31.mp3|၁၀။ ေလးျဖာသစၥာ စံုညီညာ
+031.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/01Morning/32.mp3|၁၁။ သန္႔ရွင္းစင္ၾကည္ ျမတ္ေယာဂီ
+032.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/02Evening/33.mp3|၁၂။ အေပါင္းသင္းမွန္မွ နိဗၺာန္ရ
+033.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/02Evening/34.mp3|၁၃။ သံသရာစခန္း ထြက္ရာလမ္း
+034.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/02Evening/35.mp3|၁၄။ သာသနာေခတ္မွာ အႏွစ္ရွာ
+035.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/02Evening/36.mp3|၁၅။ အေစးခမ္းမွ ေအးခ်မ္းရ
+036.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/02Evening/37.mp3|၁၆။ ျမဳတ္ေမ်ာေရွာင္ၾကဥ္ ဆန္းလမ္းယွဥ္
+037.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/02Evening/38.mp3|၁၇။ သံေယာဇဥ္ျဖတ္ ရလဒ္ နိဗၺာန္
+038.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/02Evening/39.mp3|၁၈။ ရွာမွီးျခင္းမွန္ ျမတ္နိဗၺာန္
+039.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/02Evening/40.mp3|၁၉။ နိဗၺာန္ကိုသြား ယာဥ္ရထား
+040.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/02Evening/41.mp3|၂၀။ သစၥာေလးတန္ ကံေလးကံ
+041.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-WarKaung/02Evening/42.mp3|၂၁။ ေလာင္စာသိမ္းျပန္ မီးၿငိမ္းမွန္
+042.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/01%20Morning/01.mp3|၁။ ရွစ္ပါးသီလေပး
+043.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/01%20Morning/02.mp3|၂။ ဝိပႆ နာေရွ႕ထြက္ ဒိ႒ိျဖဳတ္
+044.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/01%20Morning/03.mp3|၃။ မဂ္ဖိုလ္မရ သႆ တ
+045.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/01%20Morning/04.mp3|၄။ ဒိ႒ိဥေစ ၦဒ ပယ္ခြါခ်
+046.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/01%20Morning/05.mp3|၅။ ဒိ႒ိျပဳတ္ျပန္ ေသာတာပန္
+047.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/01%20Morning/06.mp3|၆။ ေျခာက္ပါးဝိညာဥ္ အလုပ္စဥ္
+048.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/01%20Morning/07.mp3|၇။ အာသာဝကုန္စင္ နိဗၺာန္ဝင္
+049.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/01%20Morning/08.mp3|၈။ ေရပြက္ပမာ တရားရွာ
+050.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/01%20Morning/09.mp3|၉။ မဂ္ဖိုရက်ိဳး က်င့္ေလးမ်ိဳး
+051.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/01%20Morning/10.mp3|၁၀။ ျဖစ္ပ်က္လြန္ေျမာက္ နိဗၺာန္ေရာက္
+052.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/01%20Morning/11.mp3|၁၁။ အိမ္ေဂဟာၾက မေမ့ရ
+053.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/02%20Evening/01.mp3|၁၂။ ေၾကာင္းက်ိဳးသိျမင္ ဒိ႒ိစင္
+054.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/02%20Evening/02.mp3|၁၃။ ဒိ႒ိျဖစ္တာ ေၾကာင္းရွာ
+055.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/02%20Evening/03.mp3|၁၄။ ခႏၶာဥာဏ္ေရာက္ ဒိ႒ိေပ်ာက္
+056.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/02%20Evening/04.mp3|၁၅။ သစၥာဥဏ္ေပါက္ နိဗၺာန္ေရာက္
+057.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/02%20Evening/05.mp3|၁၆။ မဂၢင္က်င့္မွ နိဗၺာန္ရ
+058.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/02%20Evening/06.mp3|၁၇။ အာသဝရန္သူ ေအာင္ပြဲယူ
+059.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/02%20Evening/07.mp3|၁၈။ ျဗဟၼစရိယံ ေအးနိဗၺာန္
+060.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/02%20Evening/08.mp3|၁၉။ တဏွာကိုးတန္ မွတ္သားရန္
+061.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/02%20Evening/09.mp3|၂၀။ ဥာဏ္သံုးဆင့္ေျမာက္ နိဗၺာန္ေရာက္
+062.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/68-Nattaw/02%20Evening/10.mp3|၂၁။ ေလာင္စာသိမ္းျပန္ မီးၿငိမ္းမွန္
+063.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/01MaHarWeDalLaTHut%2840-TawThaLinn%29.mp3|၁။ မဟာေဝဒလႅသုတ္ တရားေတာ္
+064.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/02PhakKhuNaThoke%2840-ThiTinn-San-8%29.mp3|၂။ ေသနည္းသင္တရားေတာ္ (ဖဂၢဳဏသုတ္)
+065.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/03KyaukTheLwitYarNeeLamShar%281340-Taw-sun-8%29.mp3|၃။ ေၾကာက္ေသလြတ္ရာ နည္းလမ္းရွာ
+066.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/04KyeMoneDeThaNar%2848-Taw-San-7%29.mp3|၄။ ေၾကးမံုေဒသနာ
+067.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/05ZaNaPaDaKaHlyarNi%281340-Taw-sun-15%29.mp3|၅။ ဇနပဒကလ်ာဏီသုတ္ တရားေတာ္ (ဆီခြက္ဥပမာ)
+068.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/06WeDaNarNuPatThaNar%281341-War-Sope-14%29.mp3|၆။ ေဝဒနာႏုပႆ နာ ရႈ႔ပြားနည္း တရားေတာ္ (က်းစားခံရဟန္း)
+069.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/07ThinKharRaKonePyauk%2842-Taw-San-8%29.mp3|၇။ သခၤ ါရကုန္ေပ်ာက္ နိဗၺာန္ေရာက္
+070.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/08YokeNanDamMaThinKharRa%20%2841-Thi-Sope-14%29%20.mp3|၈။ ရုပ္နာမ္ဓမၼ သခၤ ါရ အနိစၥ
+071.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/09BaYamBaDarBeLwetMyaukYe%2849-Taw-San-8%29.mp3|၉။ ဘရမ္းဘတာေဘး လြတ္ေျမာက္ေရ
+072.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/10AnatTaLatKhaNarNyanMyatShar.mp3|၁၀။ အနတၱလကၡဏာ ဥာဏ္ျမတ္ရွာ
+073.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/11YawGiTaiTwinThaTiShin%2853-Du-So-San-14%29.mp3|၁၁။ ေယာဂီတိုင္း သတိယွဥ္
+074.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/5-30/12YawGiPanTaiTetHlamNaing%2848-Thi-San-12%29.mp3|၁၂။ ေယာဂီပတန္းတိုင္ တက္လွမ္းႏိုင္
+075.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/DVD1/PadamyaYeiktharSayadaw-Dhamma-Part1.mp3|၁။ သီလေပးၾသ၀ါဒေပး တရားေတာ္
+076.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/DVD1/PadamyaYeiktharSayadaw-Dhamma-Part2.mp3|၂။ ၀ိပႆနာေရွ့အလုပ္ ဒိ႒ိျဖဳတ္
+077.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/DVD1/PadamyaYeiktharSayadaw-Dhamma-Part3.mp3|၃။ စိတ္ကိုရြံမုန္း ဒုကၡဆံုး
+078.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/DVD1/PadamyaYeiktharSayadaw-Dhamma-Part4.mp3|၄။ ဆုေတာင္းမရနိဗၺာန
+079.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/DVD1/PadamyaYeiktharSayadaw-Dhamma-Part5.mp3|၅။ ပမာလိပ္အသြင္ ရႈဥာဏ္၀င္
+080.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/DVD1/PadamyaYeiktharSayadaw-Dhamma-Part6.mp3|၆။ လကၡဏာဥာဏ္၀င္ နိဗၺာန္၀င္
+081.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/DVD1/PadamyaYeiktharSayadaw-Dhamma-Part7.mp3|၇။ပစၥဳပၸန္တည့္တည့္ ရႈဥာဏ္လွည့္
+082.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/DVD1/PadamyaYeiktharSayadaw-Dhamma-Part8.mp3|၈။အႏၱရာယ္ကင္းေျပာက္ နိဗၺာန္ေရာက္
+083.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/DVD1/PadamyaYeiktharSayadaw-Dhamma-Part9.mp3|၉။ အနတၱဥာဏ္ေပါက္ နိဗၺာန္ေရာက္
+084.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/DVD1/PadamyaYeiktharSayadaw-Dhamma-Part10.mp3|၁၀။ေလးျဖာသစၥာ ဆံုညီရာ
+085.mp3|https://media.thitsarparamisociety.com/mp3/PadamyaYeiktharSayardaw/DVD1/PadamyaYeiktharSayadaw-Dhamma-Part11.mp3|၁၁။ ဘုရားအၾကိဳက္ပူေဇာ္ပါ
