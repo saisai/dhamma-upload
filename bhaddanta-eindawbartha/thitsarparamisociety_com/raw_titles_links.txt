@@ -1,0 +1,602 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/010109.mp3|၁။ ေဝဒနာမွာငါမပါ
+002.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/020109.mp3|၂။ စကၥဳကရဏီညာဏဘရဏီ
+003.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/030109.mp3|၃။ အျပစ္ျဖစ္ရာကံသံုးျဖာ
+004.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/040109.mp3|၄။ ကမၼဝ႗္သာမရွိပါဝိပါကဝ႗္မရွိသတည္း
+005.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/050109.mp3|၅။ ဥပါဒါန္ကၥႏၶာကိေလသာအာရံု
+006.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/060109.mp3|၆။ ဥပါဒါန္မပူး ၊ ကံမပူး၊ အရူးမျဖစ္ၿပီ
+007.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/070109.mp3|၇။ အရက္မမူးေသာ
+008.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/080109.mp3|၈။ ပန္းပင္တစ္ပင္သူမ်ားျမင္
+009.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/090109.mp3|၉။ 'ငါ' လိုခ်င္တယ္
+010.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/100109.mp3|၁၀။ ဥပါဒါေန ဘယံဒိသြာ ဇာတိမရဏသမၱေဝ
+011.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/110109.mp3|၁၁။ ဓေမၼစပဇာနာတိ
+012.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/120109.mp3|၁၂။ တကယ္လို႔ဝ႗္မွန္းသိရင္
+013.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/130109.mp3|၁၃။ အားထည္႔ေသာကိေလသာဝ႗္
+014.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/140109.mp3|၁၄။ 'ေလာက' ကလြန္
+015.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/150109.mp3|၁၅။ ဌာနနဲကာလ
+016.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/160109.mp3|၁၆။ မိမိစိတ္ကိုျဖဴစင္ေစျခင္းသည္ဘုရား၏အဆံုးအမ
+017.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/170109.mp3|၁၇။ ၿငိမ္းေၾကာင္းမၿငိမ္းေၾကာင္း
+018.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/180109.mp3|၁၈။ 'သူ' 'ငါ' ဆိုေသာကိေလသာဝ႗္အေၾကာင္း
+019.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/190109.mp3|၁၉။ ကိေလသာတို႔ကိုသတ္ေလွ်ာက္သြားတတ္ေသာ
+020.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/200109.mp3|၂၀။ အာဃာတနရင္႔က်က္လို႔ေမာဟျဖစ္ေၾကာင္း
+021.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/210109.mp3|၂၁။ ထန္းရည္မေသာက္ေသာ
+022.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/220109.mp3|၂၂။ ကိေလသာဝ႗္ေၾကာင္႔ကမၼျဖစ္ပံု ကိေလသာဝ႗္ေၾကာင္႔ဝိပါကဝ႗္ျဖစ္ပံု
+023.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/230109.mp3|၂၃။ အနာဒါနံအကိဥၥနာ
+024.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/240109.mp3|၂၄။ ဝ႗္သံုးပါးလွည္႔ျခင္း
+025.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/250109.mp3|၂၅။ စက္ခလုတ္စက္ရုပ္
+026.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/260109.mp3|၂၆။ စိန္ေဗဒါႀကီးဝ႗္သံုးပါးျဖစ္သြားျခင္း
+027.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/270109.mp3|၂၇။ မခိုးတာကနိေရာဓသစၥာ
+028.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/280109.mp3|၂၈။ ငါအေယာင္ေဆာင္တဏွာေကာင္ အေျပာင္ရွင္းရမည္
+029.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/290109.mp3|၂၉။ လူႏွစ္ေကာင္အေယာင္ေဆာင္
+030.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/300109.mp3|၃၀။ အနိစၥေကာင္ အေယာင္ေဆာင္
+031.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/01-Jan%202009/310109.mp3|၃၁။ အပၸမာဏဝိမုတိၱ၊ ေစတာဝိမုတိၱ
+032.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/010209.mp3|၁။ ပညတ္ေစတသိတ္
+033.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/020209.mp3|၂။ အာဃာတနာနံပရိဝါကတၱာ
+034.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/030209.mp3|၃။ ၾသဃာေယာဂကုန္တဲ႔တရားေတာ္
+035.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/040209.mp3|၄။ သစၥာေလးခ်က္
+036.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/060209.mp3|၆။ မိန္းမႏွစ္ေကာင္အေယာင္ေဆာင္တစ္ေကာင္ဒိဌိသူကိုသိတရားသိ၏မွတ္
+037.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/070209.mp3|၇။ အေခၚခံႏိုင္ေသာတရားေတာ္
+038.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/080209.mp3|၈။ စိတ္မွာသာလွ်င္သစၥာ
+039.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/090209.mp3|၉။ ေျမႀကီးႏွင္႔အတူ
+040.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/100209.mp3|၁၀။ အရိုးေယာကၤ်ား
+041.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/110209.mp3|၁၁။ မ်က္စိျမင္တုန္ ရူပါရံုသိကုန္သမၼာဒိဌိ
+042.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/120209.mp3|၁၂။ သမာဒိဌိတရားေတာ္
+043.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/130209.mp3|၁၃။ (၁၃.၂.၂၀၀၉) ေဟာတရားေတာ္
+044.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/140209.mp3|၁၄။ မဂ္တရားဖိုလ္တရားနိဗၺန္တရားေတာ္ျမတ္ကိုရပါလို၏အရွင္ဘုရား
+045.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/150209.mp3|၁၅။ 'ဝိသခၤါရကတံစိတံၱ' ျပဳျပင္ျခင္းကင္းတဲ႔စိတ္
+046.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/160209.mp3|၁၆။ မေနာကံ သစၥာေလးပါး
+047.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/170209.mp3|၁၇။ (သမၶာဒိဌိရွိရင္ကိေလသာေတြ)စိစိညက္ညက္ေၾက
+048.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/180209.mp3|၁၈။ ဘီလူးမသားလုတရားေတာ္
+049.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/190209.mp3|၁၉။ 'ဘာမဆိုသစၥာေလးပါး'
+050.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/200209.mp3|၂၀။ 'သခၤါရၾကမ္းျငမ္းခ်မ္းဖို႔ရန္'
+051.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/210209.mp3|၂၁။ အစြန္းႏွစ္ဖက္မွလြတ္တဲ႔
+052.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/220209.mp3|၂၂။ 'ကာလမျခားတဲ႔ဇာတိ'
+053.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/230209.mp3|၂၃။ အစြဲအလမ္းလြတ္ေသာ
+054.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/240209.mp3|၂၄။ မ်က္စိကျမင္ 'သူ' 'ငါ' ထင္ဤတြင္ဥပဓိျဖစ္သတည္း
+055.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/250209.mp3|၂၅။ 'အဝိဇၨာအရင္ကအာသေဝါ'
+056.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/270209.mp3|၂၇။ 'ကံ ကိေလသာနဲ႔သံုးဆယ္႔တစ္ဘံု'
+057.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/02-Feb%202009/280209.mp3|၂၈။ ေဗာဇၥ်င္မဂၢင္တရားေတာ္
+058.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090301.mp3|၁။ မေနာမွာေတာ႔သမၼာဒိဌိ
+059.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090302.mp3|၂။ အေယာင္ေဆာင္ကြာသမၼာဒိဌိ
+060.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090303.mp3|၃။ လႈပ္တာနဲ႔လုပ္တာွ
+061.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090304.mp3|၄။ သတိသေမၼာဇၥ်င္သႏၱာန္တြင္ရွိမရွိ စိစစ္သိေအာင္အားထုတ္တရားအလုပ္
+062.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090305.mp3|၅။ ကံသံုးပါးမွာမဂၢင္ပါသူဟာအရိယာျဖစ္သတည္း
+063.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090306.mp3|၆။ ဥပါဒါနကၥႏၶာဒုကၡသစၥာအခြဲ
+064.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090307.mp3|၇။ ကိုင္းဟယ္…..ကိုင္းဟယ္
+065.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090308.mp3|၈။ ေခါင္းမွာသမၼာဒိဌိ၊ စိတ္မွာသမၼာသကၤပြ
+066.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090309.mp3|၉။ စကၡဳကရဏီဥာဏကရဏီ
+067.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090310.mp3|၁၀။ 'ပါးစပ္နားမွာ'……
+068.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090311.mp3|၁၁။ လမ္းေပၚကေက်ာက္ခဲ ေခါင္းေက်ာက္ခဲ
+069.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090312.mp3|၁၂။ ပစၥဳပၸန္ကိုမူ 'ငါ' မယူ
+070.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090313.mp3|၁၃။ ဥပပတိၳဘဝ ဇာတိ ဇရာ မရဏ
+071.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090314.mp3|၁၄။ ဝ႗္သံုးပါးကို 'ငါ' ထင္တယ္
+072.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090315.mp3|၁၅။ 'ဘိန္းထ' ေသာတရားေတာ္
+073.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090316.mp3|၁၆။ လူေသေကာင္ထက္ပိုတာ အေယာင္ေဆာင္ 'ငါ'
+074.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090317.mp3|၁၇။ ဒိျပင္အာရံုမဟုတ္ေသာ
+075.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090318.mp3|၁၈။ သခၤါရထဲမွာသံုးဆယ္႔တစ္ဘံုရွိတယ္
+076.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090319.mp3|၁၉။ အာရံုကိုသိမကပ္ၿငိ
+077.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090320.mp3|၂၀။ ဝ႗္သံုးပါးအနတၱ
+078.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090321.mp3|၂၁။ သစၥာေလးပါးေရာက္တဲ႔တရားေတာ္
+079.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090322.mp3|၂၂။ အစြဲျဖဳတ္တရားေတာ္
+080.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090323.mp3|၂၃။ ဌာန နဲ႔ ဌာနီအခြဲ
+081.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090324.mp3|၂၄။ အေမ….က်ဳပ္မေသဘူးေနာ္….
+082.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090325.mp3|၂၅။ ေရွးကလုပ္ဖူးလို႔….လုပ္ခ်င္တယ္
+083.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090326.mp3|၂၆။ ေဝဘူေတာင္မွ်ပမာဏ
+084.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090327.mp3|၂၇။ ေဝဒနာမွာ 'ငါ' မပါ
+085.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090328.mp3|၂၈။ သစၥာေလးပါးတရားေတာ္
+086.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090329.mp3|၂၉။ 'ငါ' အေယာင္ေဆာင္ 'ငါ' ႏွစ္ေကာင္
+087.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090330.mp3|၃၀။ အရံုမွန္တရားေတာ္
+088.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/03-Mar%202009/090331.mp3|၃၁။ 'သူ' 'ငါ' ဖိုးႀကီးအို မယ္ႀကီးအို
+089.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090401.mp3|၁။ အာရံုကိုသိသမၼာဒိဌိ
+090.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090402.mp3|၂။ သမၼာဒိဌိ၏မဇၥ်မပ႗ိပ႗ာျဖစ္ျခင္း
+091.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090403.mp3|၃။ ဒိဌိအနတၱ
+092.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090404.mp3|၄။ တီဗြီထဲကအရုပ္ေတြလို လူေတြ႔လုိ႔မွတ္ရမည္
+093.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090405.mp3|၅။ အနတၱတရားေတာ္
+094.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090406.mp3|၆။ ဇီဝရုပ္၊ စက္ရုပ္ ထိုႏွစ္ရုပ္ ရုပ္ရွင္ရုပ္ဟုမွတ္
+095.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090407.mp3|၇။ 'ဝိပါတ္' က 'ျမင္သိ' တရားေတာ္
+096.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090408.mp3|၈။ ဝိဇၨာ ဝိမုတၱိ
+097.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090409.mp3|၉။ ဒိဌိသညာတရားေတာ္
+098.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090410.mp3|၁၀။ ဥပါဒါနပစၥယာ ကမၼဘေဝါ
+099.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090411.mp3|၁၁။ ဝ႗္သံုးပါးအလိမ္ခံရေသာ
+100.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090412.mp3|၁၂။ မာရ္မင္း၏စစ္သည္ကိုႏွိမ္နင္းတတ္ေသာ
+101.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090413.mp3|၁၃။ 'ငါမဟုတ္တဲ႔' တရားေတာ္
+102.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090414.mp3|၁၄။ သူ႔ကိုမွီ၍ျဖစ္ေပမယ္႔ သူလုပ္တာမွမဟုတ္ပဲ
+103.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090415.mp3|၁၅။ မဂၢင္လမ္းမွန္တရားေတာ္
+104.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090416.mp3|၁၆။ အႏုသယနဲ႔စိတၱဇက ဝိပါတ္ေၾကာင္႔ျဖစ္တယ္
+105.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090417.mp3|၁၇။ ငါကိုမွီ၍ျဖစ္ေပမယ္႔ငါလုပ္တာမွမဟုတ္ဘဲ
+106.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090418.mp3|၁၈။ ဝိပါတ္ေၾကာင္႔စိတၱဇနဲ႔ အႏုသယျဖစ္တယ္
+107.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090419.mp3|၁၉။ ဘုရားရတနာ တရားရတနာ သံဃာရတနာ
+108.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090420.mp3|၂၀။ ကံသံုးပါးမွာမဂၢင္ပါ
+109.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090421.mp3|၂၁။ ကံအပ်က္အရွိကိုၪာဏ္မဂ္အသိျဖင္႔လိုက္ျခင္း
+110.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090422.mp3|၂၂။ မဂၢင္ရွိမွကံသံုးပါးၿငိမ္းေသာ
+111.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090423.mp3|၂၃။ ဇိဝရုပ္ စက္ရုပ္
+112.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090424.mp3|၂၄။ တစ္ေလာကလံုး၊ ပ႗ိစၥသမုပၸါဒ္
+113.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090425.mp3|၂၅။ ကမၼဘဝနဲ႔ဥပပတၱိဘဝ
+114.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090426.mp3|၂၆။ ပ႗ိစၥသမုပၸါဒ္ပဲစိတ္ထဲထားေတာ႔တယ္
+115.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090427.mp3|၂၇။ မေနာကံမဂ္ၪာဏ္
+116.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090428.mp3|၂၈။ သမၼာဒိဌိ ကိုယ္ဝယ္ရွိ
+117.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090429.mp3|၂၉။ ၪာဏ္ရဲ႔အာရံု၊ ကံရဲ႔အာရံု၊ ကိေလသာရဲ႔အာရံု
+118.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/04-Apr%202009/090430.mp3|၃၀။ သမၼာဒိဌိတရားေတာ္
+119.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/010509.mp3|၁။ ကာယကံ၊ ဝဝီကံ၊ မေနာကံကို သမၼဒိဌိမွႏိုင္တယ္
+121.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/020509.mp3|၂။ ကံသံုးပါးမွာမဂၢင္ပါ
+122.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/030509.mp3|၃။ ဘုရားလက္ထက္
+123.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/040509.mp3|၄။ အေသဝနာစဗာလာနံ
+124.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/050509.mp3|၅။ ၪာဏ္အျမင္
+125.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/060509.mp3|၆။ ဒႆနသမၼဒါယ
+126.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/070509.mp3|၇။ ဘာဝနာယ ပဟာတဗၺ
+127.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/080509.mp3|၈။ သမၼာဒိဌိတရားေတာ္
+128.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/090509.mp3|၉။ အဝိဇၨာပစၥယာသခၤါရ
+129.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/100509.mp3|၁၀။ ကံပံုရိပ္လႊာ-၁
+130.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/110509.mp3|၁၁။ ကံပံုရိပ္လႊာ-၂
+131.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/120509.mp3|၁၂။ ဥပါဒါနကၥႏၥာဒုကၡသစၥာ
+132.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/130509.mp3|၁၃။ ၾသဃေယာဂမယွဥ္တဲ႔နည္း
+133.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/140509.mp3|၁၄။ ကံဝါပါက ကိေလသာအဟံငါမပါ
+134.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/150509.mp3|၁၅။ ဝိပါတ္ဝိၪာဏ္၊ ကမၼဝိၪာဏ္၊ မိုးေရဝိၪာဏ္
+135.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/160509.mp3|၁၆။ ကိုယ္ထြက္ပစၥည္း
+136.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/170509.mp3|၁၇။ ငါ႔အေပၚမွာလွည္႔ေနေသာသံသရာ
+137.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/180509.mp3|၁၈။ 'မဂၢင္ဟူေသာေဆး'
+138.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/190509.mp3|၁၉။ သံသရာလြတ္တဲ႔မဂၤလာ
+139.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/200509.mp3|၂၀။ ကံ သခၤါရ ဒုကၡသစၥာ
+140.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/210509.mp3|၂၁။ အစြန္းႏွစ္ဖက္မွလြတ္တဲ႔႔
+141.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/220509.mp3|၂၂။ ကိေလသာကိုငါမွတ္တဲ႔
+142.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/230509.mp3|၂၃။ ဇရာ မရဏ မုဥၥေယ
+143.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/240509.mp3|၂၄။ စကၥဳကရဏီ ၪာဏကရဏီ
+144.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/250509.mp3|၂၅။ ေတခိဏဗီဇာအဝိရု႒ိဆႏၵာ
+145.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/260509.mp3|၂၆။ ငါလို႔မမွတ္နဲ႔
+146.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/270509.mp3|၂၇။ 'ဝ႗' ျဖစ္ဆဲ
+147.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/280509.mp3|၂၈။ ဒုကၡၿငိမ္းေၾကာင္းတရားေတာ္
+148.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/290509.mp3|၂၉။ ဇိဝရုပ္စက္ရုပ္
+149.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/300509.mp3|၃၀။ ျပန္ေျပာ တုန္႔ျပန္
+150.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/05-May%202009/310509.mp3|၃၁။ ကံေၾကာင႔္ျဖစ္တဲ႔ခႏၶာဥပါဒါနကၥႏၶာ
+151.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/010609.mp3|၁။ ေကာင္းတယ္ထင္လို႔လြန္က်ဴးတယ္
+152.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/020609.mp3|၂။ သုစရိုက္တရားကိုမေမ႔နဲ႔
+153.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/030609.mp3|၃။ ဥပါဒါန္ကိုေဘးလို႔ျမင္တဲ႔တရားေတာ္
+154.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/040609.mp3|၄။ ကာယကံ တရားေတာ္
+155.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/050609.mp3|၅။ သမၼာဒိဌိ တရားေတာ္ (၁)
+156.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/060609.mp3|၆။ သမၼာဒိဌိသာရွိေလပါ တရားေတာ္ (၁)
+157.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/070609.mp3|၇။ သစၥံသေတၱာ ပ႗ိသႏၶိ
+158.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/080609.mp3|၈။ ေလာဘဒိဌိနဲ႔ျဖစ္တဲ႔ခႏၶာ-ဥပါဒါနကၥႏၶာ
+159.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/090609.mp3|၉။ သမၼာဒိဌိရွိတဲ႔တရားေတာ္
+160.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/100609.mp3|၁၀။ အာရံုကိုသိမကပ္ၿငိလြတ္၏သံသရာ
+161.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/110609.mp3|၁၁။ သမၼာဒိဌိတရားေတာ္ (၂)
+162.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/120609.mp3|၁၂။ မနဥၥ ပဇာနာတိ
+163.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/130609.mp3|၁၃။ ဘုရားေတြ႔တဲ႔တရားေတာ္
+164.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/140609.mp3|၁၄။ သူခိုးမရွိ၊ ဒိုက္မရွိ
+165.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/150609.mp3|၁၅။ ေယဓမၼာ ေဟတုပၸဘာဝါ
+166.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/160609.mp3|၁၆။ ကိေလသဝ႗္ ကမၼဝ႗္ ဝိပါကဝ႗္
+167.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/170609.mp3|၁၇။ 'ေဒြ ေမ အႏၱာ' သံုးဆယ္႔တစ္ဘံု
+168.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/180609.mp3|၁၈။ လူမဟုတ္တဲ႔ကပ္ပါးေကာင္
+169.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/190609.mp3|၁၉။ သံသရာတရားေတာ္
+170.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/200609.mp3|၂၀။ ဒုစရိုက္သာေရွာင္ၾကဥ္ပါ ထီးျဖဴေအာက္မွတရားေတာ္
+172.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/210609.mp3|၂၁။ သမၼာဒိဌိသာရွိေလပါ (၂)
+173.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/220609.mp3|၂၂။ မေနာကံသိတရားေတာ္
+174.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/230609.mp3|၂၃။ အဝိဇၨာ သခၤါရ ဝိၪာဏ္ နာမ္ရုပ္
+175.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/240609.mp3|၂၄။ မ်က္စိကျမင္ အဆင္းျမင္
+176.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/250609.mp3|၂၅။ လူမွာျဖစ္တဲ႔သံေယာဇဥ္
+177.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/260609.mp3|၂၆။ မေနာကံနဲ႔ဥပါဒါန္
+178.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/270609.mp3|၂၇။ ငါနဲ႔ပတ္ဝန္းက်င္
+179.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/280609.mp3|၂၈။ ပ႗ိစၥသမုပၸါ၏ဘုရားျမတ္
+180.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/290609.mp3|၂၉။ တရားသိတယ္ဆိုတာမဂၢင္ရွစ္ျဖာရွိလို႔ပါပဲ
+181.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/06-Jun%202009/300609.mp3|၃၀။ အစြန္းလြတ္ကုန္မ်က္စိျမင္တံုရူပါရံု
+182.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/010709.mp3|၁။ သမၼာဒိဌိတရားေတာ္ (၁)
+183.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/020709.mp3|၂။ ေယဓမၼာ ေဟတုပၸဘာဝါ
+184.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/030709.mp3|၃။ စကၥဳေလာကတရားေတာ္
+185.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/040709.mp3|၄။ ဣဒံနိေရာဓ သစၥံ
+186.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/050709.mp3|၅။ သမၼာဒိဌိတရားေတာ္ (၂)
+187.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/060709.mp3|၆။ 'ဝ႗္ေကာင္' နဲ႔ 'ဝ႗္'
+188.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/070709.mp3|၇။ 'ပရမတ္စု' 'ပညတ္စု' 'လူ၏အမႈ'
+189.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/080709.mp3|၈။ 'ပရမတ္စု' 'ပညတ္စု' 'လူ၏အမႈ' ဤသံုးခုကြဲေအာင္သတိျပဳ
+191.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/090709.mp3|၉။ လူ၏အမႈတရားေတာ္
+192.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/100709.mp3|၁၀။ ဝ႗္သံုးပါးမွာငါမပါ လူဟာတစ္ျခားစီ
+193.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/110709.mp3|၁၁။ ဘုရားရတနာ၊ တရားရတနာ
+194.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/120709.mp3|၁၂။ သမၼာဒိဌိတရားေတာ္ (၃)
+195.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/130709.mp3|၁၃။ ပုထုဇဥ္အျမင္
+196.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/140709.mp3|၁၄။ ဣမသိၼေယဝကေဠဝေရ
+197.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/150709.mp3|၁၅။ အဘိသခၤါရဝိၪာဏ္
+198.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/160709.mp3|၁၆။ အရိယသစၥာေရာက္
+199.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/170709.mp3|၁၇။ ကားႀကီးရပ္ရန္တရားေတာ္
+200.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/180709.mp3|၁၈။ ၿငိကပ္ျခင္းစြဲလန္းျခင္းမရွိေသာ
+201.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/190709.mp3|၁၉။ သမၼာဝါစာတရားေတာ္ (၁)
+202.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/200709.mp3|၂၀။ မဇၥ်ိမ ပ႗ိပ႗ာ
+203.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/210709.mp3|၂၁။ 'ဘုရား တရား' တရားေတာ္
+204.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/220709.mp3|၂၂။ ဝီတိကၠမတရားေတာ္
+205.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/230709.mp3|၂၃။ 'ကံ' သိတရားေတာ္
+206.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/240709.mp3|၂၄။ ဥပါဒါန္ ကံ ဇာတိ ဇရာ မရဏ
+207.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/250709.mp3|၂၅။ ျမင္တာ 'ငါ' လား၊ ၾကားတာ'ငါ' လား
+208.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/260709.mp3|၂၆။ အေျဖတင္အျမင္သိ
+209.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/270709.mp3|၂၇။ သမၼာဝါစာတရားေတာ္ (၂)
+210.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/280709.mp3|၂၈။ ခပ္သိမ္းေသာအျပစ္ေပ်ာက္ပါေစျခင္းအက်ိဳး
+211.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/290709.mp3|၂၉။ မနေသာေစပဒုေဌန
+212.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/300709.mp3|၃၀။ 'ငါ' လားေမးေသာ
+213.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/07-Jul%202009/310709.mp3|၃၁။ ပစၥဳပၸန္ကမၼဘဝ
+214.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/010809.mp3|၁။ ဒိေဌ ဒိဌမတၳံတရားေတာ္ (၁)
+215.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/020809.mp3|၂။ ေကာဓံဇေဟတရားေတာ္
+216.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/030809.mp3|၃။ အဝိဇၨာယေတြဝတရားေတာ္ (၁)
+217.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/040809.mp3|၄။ ပ႗ိစၥသမုပၸါဒ္ဆင္ျခင္လတ္ ကံေတြအကုန္ျပတ္
+218.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/050809.mp3|၅။ လိုလားတာနဲ႔မလုိလားတာ
+219.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/060809.mp3|၆။ ဥပါဒါနပစၥယာကမၼဘဝ
+220.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/070809.mp3|၇။ 'စိတ္' 'ေစတသိတ္' ကြဲေအာင္ႀကိတ္ တိဟိတ္မဂ္ေခၚေပ
+222.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/080809.mp3|၈။ အဝိဇၨာရာဂ၊ ဝိဇၨာဝိရာဂ
+223.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/090809.mp3|၉။ ကိဥၥာဝိေသာတရားေတာ္
+224.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/100809.mp3|၁၀။ အရိယသစၥာတရားေတာ္
+225.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/110809.mp3|၁၁။ ဒိေဌ ဒိဌမတၱေနာ စိတၱဇ
+226.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/120809.mp3|၁၂။ ေယအရိယာသစၥာနိ ဝိဘာဝယႏၱိ
+227.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/130809.mp3|၁၃။ သမၼာဒိဌိၪာဏ္အျမင္
+228.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/140809.mp3|၁၄။ စိတ္မဆိုးရင္နိဗၺာန္
+229.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/150809.mp3|၁၅။ ႀကိယာတရားေတာ္
+230.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/160809.mp3|၁၆။ ဥပါဒါနကၡႏၥာအေယာင္ေဆာင္လူ
+231.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/170809.mp3|၁၇။ ပါတ္ဝန္းက်င္ကိုအသိမွား၊ အမွတ္မွား၊ အယူမွား
+232.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/180809.mp3|၁၈။ သမၼာဒိဌိ သမၼာသကၤပၸတရားေတာ္
+233.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/190809.mp3|၁၉။ စကၥဳနာ သံဝေရာ သာဓု တရားေတာ္
+234.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/200809.mp3|၂၀။ မဇၥ်ိမ ပ႗ိပ႗ာ တရားေတာ္
+235.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/210809.mp3|၂၁။ ဒိေဌ ဒိဌ မတၳံ တရားေတာ္ (၂)
+236.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/220809.mp3|၂၂။ ဝိဇၨာ ဝိရာဂ တရားေတာ္
+237.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/230809.mp3|၂၃။ ပါတ္ဝန္းက်င္ကိုအသိမွားတာအဝိဇၨာ
+238.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/240809.mp3|၂၄။ ႏုကမၼတိ မဂၤလာ (ဝါ)တေပါစမဂၤလာ
+239.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/250809.mp3|၂၅။ အဝိဇၨာယေတြဝတရားေတာ္ (၂)
+240.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/260809.mp3|၂၆။ သစၥံ သေတၱာတရားေတာ္
+241.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/270809.mp3|၂၇။ ဝိဝိေစၥေကာေမတိတရားေတာ္
+242.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/280809.mp3|၂၈။ 'ကာမ' နဲ႔ 'ကာမဘဝ' တရားေတာ္
+243.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/290809.mp3|၂၉။ ဝိေဝက နိႆိ႗ံတရားေတာ္
+244.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/300809.mp3|၃၀။ ဥပါဒ္၏ေရွ႔တင္၏ေနာက္၌မရွိလံုးလံုးသုဥ္းတာ အခၤတ
+246.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/08-Aug%202009/310809.mp3|၃၁။ အာသဝကၥယတရားေတာ္
+247.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/010909.mp3|၁။ အဝိဇၨာသုတ္တရားေတာ္
+248.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/020909.mp3|၂။ သခၤတ၊ အသခၤတ တရားေတာ္
+249.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/030909.mp3|၃။ ဥပါဒါနကၡႏၶာ ဒုကၡသစၥာ
+250.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/040909.mp3|၄။ အမွီခိုကင္းေသာတရားေတာ္
+251.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/050909.mp3|၅။ သစၥာအနက္တစ္ဆယ္ေျခာက္ခ်က္
+252.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/060909.mp3|၆။ ေလာကီေလာကုတၱရာ
+253.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/070909.mp3|၇။ အရိယသစၥာ
+254.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/080909.mp3|၈။ အာသဝ ဝိပၸယုတၱရာ
+255.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/090909.mp3|၉။ 'ကာယ' ကို 'ရႈ' ၊ ရာဂကို 'မမႈ'
+256.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/100909.mp3|၁၀။ 'ဇာတိ' ဆုေသာေခ်ာက္ႀကီး
+257.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/110909.mp3|၁၁။ စကၡဳနာရူပံဒိသြာန ဘိဇၥ်တိ
+258.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/120909.mp3|၁၂။ ဝိဇၨာ ဝိမုတၱိတရားေတာ္ (၁)
+259.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/130909.mp3|၁၃။ 'မ်က္စိ' က 'ျမင္' ၊ 'အရိပ္ထင္' ၊ ရုပ္ 'ျမင္'
+260.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/140909.mp3|၁၄။ စိတ္ကိုမျပဳျပင္ေသာ
+261.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/150909.mp3|၁၅။ သခၤတရုပ္နာမ္ကိုအဟုတ္ၪာဏ္ျဖင္႔တင္စီးျခင္း
+262.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/160909.mp3|၁၆။ ဝိဇၨာဝိမုတၱတရားေတာ္ (၂)
+263.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/170909.mp3|၁၇။ 'သခၤတ' ကိုုျပဳျပင္လိုက္လို႔ 'သခၤါရ' ျဖစ္သြားတဲ႔အေၾကာင္း
+265.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/180909.mp3|၁၈။ အာရံုမွန္တာကိေလသာ၊ ဘယ္ခါ (အာရံု) မျပဳၿပီ
+267.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/190909.mp3|၁၉။ မ်က္စိနဲ႔ျမင္တာ စိတ္ထဲဘယ္လိုထားလဲ
+268.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/200909.mp3|၂၀။ ဝိပါက္ၾကမၼာငွင္
+269.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/210909.mp3|၂၁။ နားသို႔အစဥ္ေရာက္တဲ႔တရားေတာ္
+270.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/220909.mp3|၂၂။ 'စကၠဳ' နဲ႔ 'ေလာက' ခဲြပံု
+271.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/230909.mp3|၂၃။ ဝိယရုပ္သာတရုပ္ကြဲလွ်င္တဏွာခ်ဳပ္
+272.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/240909.mp3|၂၄။ 'ငါ' ဟုမယူ
+273.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/250909.mp3|၂၅။ 'ငါ' လား 'ငါဥစၥာလား'
+274.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/260909.mp3|၂၆။ အဝိဇၨာမာန – ယထာဘူတ
+275.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/270909.mp3|၂၇။ သူအို သူနာ သူေသ
+276.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/280909.mp3|၂၈။ ဗဟိဒၶာ စိေတၱ စိတၱာနပႆီ
+277.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/290909.mp3|၂၉။ 'မ်က္စိ' က 'ျမင္' စိတ္ဆိုးလွ်င္၊
+278.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/09-Sep%202009/300909.mp3|၃၀ ဤတြင္ 'အမနာပ' ျဖစ္သတည္း
+279.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/011009.mp3|၁။ 'ငါ' မဟုတ္တဲ႔တရားေတာ္
+280.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/021009.mp3|၂။ ဝိညာဏဌိတိ (၇)ပါး
+281.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/031009.mp3|၃။ သကတ္၊ ျဒပ္၊ လိင္၊ သခ်ၤာ၊ ကာရက
+282.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/041009.mp3|၄။ 'သတၱဝါ' မရွိ၊ 'ရာဂ' မရွိ
+283.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/051009.mp3|၅။ ပမတၱ ဗႏၶဳပါပိမ
+284.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/061009.mp3|၆။ ဝိဥာဏ္ႏွစ္ထပ္
+285.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/071009.mp3|၇။ ဝတၳဳပုေရဇာတ နိႆယ
+286.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/081009.mp3|၈။ ပရမတ္၊ သႏၱန္တူ၊ ေၾကာင္းက်ိဳးတူ
+287.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/091009.mp3|၉။ အပႆတံ ဗဇၥ်တိ မုေဠာ
+288.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/101009.mp3|၁၀။ သဗၺံနဥပါဒိယိႆာမိ
+289.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/111009.mp3|၁၁။ စကၡဳံနဥပါဒိယိႆာမိ (၁)
+290.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/121009.mp3|၁၂။ ရူပါရံုလွွ်င္အာရံုရွိေသာစိတ္၏ (ဘဂၤ) အပ်က္ကိုပႆတိရူ၏
+292.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/131009.mp3|၁၃။ နိမတၱ သာဒ တရားေတာ္
+293.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/141009.mp3|၁၄။ ပညတ္ ပရမတ္ တရားေတာ္
+294.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/151009.mp3|၁၅။ ဒိေဌ ဒိဌ မတၱံ
+295.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/161009.mp3|၁၆။ မိစၦာ ဓမၼာရံု
+296.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/171009.mp3|၁၇။ ဇာတိ ဇေမၼာေယဝသမေနာ
+297.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/181009.mp3|၁၈။ ေသာတာပတၱိမဂၢစိတၱံ
+298.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/191009.mp3|၁၉။ ဒိဌရုပ္တရားေတာ္
+299.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/201009.mp3|၂၀။ ပဌာန္းဝိပႆနာ
+300.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/211009.mp3|၂၁။ စကၥဳံနဥပါဒိယိသာမိ (၂)
+301.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/221009.mp3|၂၂။ သတိၱမုေခ်နကာရယံ
+302.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/231009.mp3|၂၃။ ဒိေဌဒိဌမတၱံ
+303.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/241009.mp3|၂၄။ ဥပဓိတရားေတာ္
+304.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/251009.mp3|၂၅။ ဖေႆာနေဟာတိ (၁)
+305.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/261009.mp3|၂၆။ ဖေႆာနေဟာတိ (၂)
+306.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/271009.mp3|၂၇။ ဝိညတ္ရုပ္တရားေတာ္
+307.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/281009.mp3|၂၈။ ဖေႆာနေဟာတိ (၃)
+308.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/291009.mp3|၂၉။ ေသာဧဝံပဇာနတိ
+309.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/301009.mp3|၃၀။ နိဗၺနသစိၦကိရိယာစ
+310.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/10-Oct%202009/311009.mp3|၃၁။ မနာပံ အ အနာပံတိုက္ပြဲ၊ အခုကႏြဲ
+311.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/011109.mp3|၁။ အနိစၥ သခၤတံပ႗ိစၥသမုပၸန
+312.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/021109.mp3|၂။ ပရမတ္ သႏၱာန္ အနက္မွန္ပစၥည္း ပစၥယုပၸန္
+313.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/031109.mp3|၃။ အာဒါရနဲ႔အာဒီတရားေတာ္
+314.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/041109.mp3|၄။ ဣမသိၡ ေယဝ ကေဌဝေရတရားေတာ္
+315.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/051109.mp3|၅။ ေဂဟႆိတဥေပကၡာန႔ဲ ေနကၡမၼႆိတဥေပကၡာ
+316.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/061109.mp3|၆။ လကၡဏူပ နိဇၥ်ံတရားေတာ္
+317.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/071109.mp3|၇။ ဝီတိကၠမ ကိေလသာအေၾကာင္း
+318.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/081109.mp3|၈။ နပ႑ိတာ တရားေတာ္
+319.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/091109.mp3|၉။ ဝါဂြမ္းႏွစ္ခုေကာက္၍ထု နာမူမရွိဥေပကၡာ
+320.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/101109.mp3|၁၀။ ဥပါဒါရုပ္နဲ႔အႏုပါဒါရုပ္
+321.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/111109.mp3|၁၁။ မ်က္စိနဲ႔တဏွာဥပါဒါန္မကူး
+322.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/121109.mp3|၁၂။ 'ပ႗ိစၥသမုပၸႏၷက ဇာတ' ျဖစ္တဲ႔
+323.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/131109.mp3|၁၃။ ဤကိုယ္ႀကီး၌သာလွ်င္
+324.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/141109.mp3|၁၄။ ရူပါနံေတြဝအနိစၥတာဝိဒိတြာ
+325.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/151109.mp3|၁၅။ ဗဟိဒၶဝိဥာဏ္၊ အဇၥ်တၱဝိဥာဏ္
+326.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/161109.mp3|၁၆။ ပကတူပနိႆယပစၥည္း
+327.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/171109.mp3|၁၇။ ဝိညာဏဌိတိတရားေတာ္
+328.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/181109.mp3|၁၈။ ပရမတၱဉာဏႆ အေတၳာေဂါစေရာ သဗၺညဳတဉာဏႆတရားေတာ္
+330.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/191109.mp3|၁၉။ ရူပါရံုလွ်င္အာရံုရွိေသာစိတ္၏ဘဂၤ-အပ်က္ကို ပႆတိ-ရႈ၏
+332.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/201109.mp3|၂၀။ ဒိဌိမရွိေသာဝိညာဏ္တရားေတာ္
+333.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/211109.mp3|၂၁။ ပထဝီသည္သံုးပါးမွီ ပထဝီအနိစၥ
+334.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/221109.mp3|၂၂။ ႏြားေလးနဲပက်ားမႀကီးတရားေတာ္
+335.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/231109.mp3|၂၃။ သုဂေတာ – ေကာင္းေသာစကားကိုလည္း ဆိုေတာ္မူတတ္ထေသာ
+337.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/241109.mp3|၂၄။ အဇာတ အဘူတ အကတ အသခၤတ
+338.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/251109.mp3|၂၅။ 'ဘုရား' ႏွင္႔ 'ဘုရားဂုဏ္ေတာ္'
+339.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/261109.mp3|၂၆။ ၿမိဳ႔လယ္ေခါင္ကတိုင္ႀကီးေလးတိုင္
+340.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/271109.mp3|၂၇။ စကၡဳဝိညာဏ နိႆိ႗ိ နဘဝိႆတိ-၁
+341.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/281109.mp3|၂၈။ စကၡဳဝိညာဏ နိႆိ႗ိ နဘဝိႆတိ-၂
+342.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/291109.mp3|၂၉။ စကၡဳဝိညာဏ္ျဖစ္ၿပီးလွ်င္ဉာဏ္ျမင္ ဘယ္သို႔ရွိသနည္း
+344.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/11-Nov%202009/301109.mp3|၃၀။ ဒိဌိရုပ္အဒိဌိရုပ္တရားေတာ္
+345.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/011209.mp3|၁။ ဦးေခါင္းျပတ္တရားေတာ္
+346.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/021209.mp3|၂။ ေခါင္း ေျခ လက္မရွိေသာ၊ ပေစၥကဗုဒါၶျဖစ္ေသာ
+347.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/031209.mp3|၃။ ပဝတၱ သႏၱတိ 'ျဖစ္စဥ္'
+348.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/041209.mp3|၄။ 'အတၱေတာ-ငါဟူ၍၊ ႏုပႆတိ-မရႈ'
+349.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/051209.mp3|၅။ ဒိဌိရုပ္ အဒိဌိရုပ္
+350.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/061209.mp3|၆။ အတၱ ပရိစၦာေဂါတရားေတာ္
+351.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/071209.mp3|၇။ ဝိစရဏပညာတရားေတာ္
+352.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/081209.mp3|၈။ ဥပါဒ္ဌီဘင္မရွိေသာ
+353.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/091209.mp3|၉။ မစြဲလမ္းတာျမတ္စြာဘုရားအနက္
+354.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/101209.mp3|၁၀။ စကၡဳနာရူပံ ပႆတိတရားေတာ္
+355.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/111209.mp3|၁၁။ ဥပၸဇၨိတြာ နိဇၨိဝ တရားေတာ္
+356.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/121209.mp3|၁၂။ မ်က္စိကျမင္ အဆင္းျမင္တရားေတာ္
+357.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/131209.mp3|၁၃။ နိႆတၱ နိဇၨိဝတရားေတာ္
+358.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/141209.mp3|၁၄။ သစၥာေလးပါးတရားေတာ္-၁
+359.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/151209.mp3|၁၅။ သစၥာေလးပါးတရားေတာ္-၂
+360.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/161209.mp3|၁၆။ အနိစၥေကာင္ဒုကၡေကာင္ လြတ္ေအာင္အေတာ္ရုန္း
+362.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/171209.mp3|၁၇။ ဆရာေတာ္ဘုရားႀကီးေမြးေန႔
+363.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/181209.mp3|၁၈။ ျမစ္ႀကီးဆိုတာစိတ္ႀကီးပါ
+364.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/191209.mp3|၁၉။ မနာပံ အမနာပံ မျဖစ္ရန္ အမွန္သတိျပဳ
+365.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/201209.mp3|၂၀။ ဤကိုယ္ေကာင္၌သာလွ်င္သစၥာေလးပါး
+366.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/211209.mp3|၂၁။ ဗဟိဒၶစိတ္ ကိုသိေသာတရားေတာ္
+367.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/221209.mp3|၂၂။ အဇၥ်တၱံ ဝါ စိတၱံ တရားေတာ္
+368.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/231209.mp3|၂၃။ လူရဲ႔ဗီဇ တရားေတာ္
+369.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/241209.mp3|၂၄။ ဗဟိဒၶစိတ္
+370.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/251209.mp3|၂၅။ ေရွ႔ေနာက္တရားကိုအတၱဟုမရႈေသာ
+371.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/261209.mp3|၂၆။ အာရံုကိုသိ မကပ္ၿငိ တရားေတာ္
+372.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/271209.mp3|၂၇။ ေဝဒနာပညတ္မျဖစ္ရင္ သညာပညတ္မျဖစ္ဘူး တရားေတာ္
+374.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/281209.mp3|၂၈။ ဓမၼာ နိႆတၱ နိဇၨီဝ သဘာဝါ
+375.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/291209.mp3|၂၉။ ေစတသိတ္ က နိႆတၱ နိဇၨီဝ
+376.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/301209.mp3|၃၀။ ေရွ႔ေနာက္ျမစ္ေရ တရားေတာ္
+377.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2009/12-Dec%202009/311209.mp3|၃၁။ တေပါစ -ဣေျႏၵတို႔ကို ၿခိဳးၿခံဳစြာက်င္႔ရျခင္း သည္လည္းေကာင္း
+379.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/010110.mp3|၁.၁.၁၀ အနိမိတၱ ပစၥဳပၸ႒ာနံ တရားေတာ္
+380.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/020110.mp3|၂.၁.၁၀ ပထ၀ီဓာတု အနိစၥေတာ္ ဒုကၡေတာ္ ဇာနေတာ ပႆေတာ အာသ၀ကၡယံ ၀ႏၵာမိ တရားေတာ္
+381.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/030110.mp3|၃.၁.၁၀ လုပ္ခ်င္တာဟာ အ၀ိဇၨာ လုပ္တာသခၤါရမွတ္
+382.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/040110.mp3|၄.၁.၁၀ ခႏၶာကို ငါ မကပ္နဲ႕ တရားေတာ္
+383.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/050110.mp3|၅.၁.၁၀ ဥဇုပၸဋိပေႏၷာ တရားေတာ္
+384.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/060110.mp3|၆.၁.၁၀ အာရံု အာရမၼဏိက တရားေတာ္
+385.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/070110.mp3|၇.၁.၁၀ ႒ာန ကာလ သဘာ၀ တရားေတာ္
+386.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/080110.mp3|၈.၁.၁၀ အာသ၀ကၡယံ ၀ဟံ ေဟာႏၱဳ တရားေတာ္
+387.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/090110.mp3|၉.၁.၁၀ အာသေ၀ါရွိရင္ အကုန္ရွိ အာသေ၀ါမရွိရင္ ေလာကီမရွိ မေနာ္ကံမရွိ တရားေတာ္
+388.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/120110.mp3|၁၂.၁.၁၀ အ၀ိဇၨာ အနိစၥ သခၤတံ ပဋိစၥသမုပၸႏၷံတရားောတ္
+389.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/130110.mp3|၁၃.၁.၁၀ ခ်ိန္ခြင္လွ်ာထြက္ ေမာလ်က္ေသ တရားေတာ္
+390.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/150110.mp3|၁၅.၁.၁၀ သခၤတ ဇာတ ဘူတ တရားောတ္
+391.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/160110.mp3|၁၆.၁.၁၀ ဒိဌိႏွင့္ယွဥ္ေသာစိတ္ ဓမၼာရံုတရားေတာ္
+392.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/170110.mp3|၁၇.၁.၁၀ မ်က္စိကျမင္ဘိ သမၼာဒိဌိ လြတ္၏ကိေလသာ
+393.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/180110.mp3|၁၈.၁.၁၀ ရုပ္ေပ်ာက္သြားတဲ့တရားေတာ္
+394.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/190110.mp3|၁၉.၁.၁၀ သမာဒိ႒ိ ၀ိမုတၱိ တရားေတာ္
+395.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/200110.mp3|၂၀.၁.၁၀ သတၱေလာကဆိုတာ စိတ္ထဲမွာ တရားေတာ္
+396.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/210210.mp3|၂၁.၁.၁၀ ပသာဒေပၚမွာမွီ ခပ္တည္တည္ ပ်က္သည္ ပဋိစၥမပုပၸႏၷံ တရားေတာ္
+397.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/220110.mp3|၂၃.၁.၁၀ ကံသံုးပါးမွာ ဒု မပါတရားေတာ္
+398.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/230110.mp3|၂၄.၁.၁၀ မွီ၀ဲအပ္တဲ့တရားႏွင့္ မမွီ၀ဲအပ္တဲ့တရား
+399.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/01%20Jan-2010/240110.mp3|၂၅-၁၀.၂.၁၀ စကၤာပူႏိုင္ငံသို႕ သာသနာျပဳခရီး
+400.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/110210.mp3|၁၁.၂.၁၀ စကၤာပူႏုိင္ငံတြင္ေဟာခဲ့ေသာတရားမ်ားကို အက်ဥ္းျပန္လည္ေဟာျပျခင္း
+401.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/130210.mp3|၁၃.၂.၁၀ ပီယရုပ္ သာတရုပ္ မဟာဘုတ္ကြဲလွ်င္ တဏွာခ်ဳပ္ တရားေတာ္
+402.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/160210.mp3|၁၆.၂.၁၀ နိဗၺာန္ကို သိေသာစိတ္ တရားေတာ္
+403.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/170210.mp3|၁၇.၂.၁၀ စကၡဳဒြါရီကစိတ္ ေလးဆယ့္ေလးပါးတရားေတာ္
+404.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/180210.mp3|၁၈.၂.၁၀ ဥပါဒါနကၡႏၵာႏွင့္ အႏုပါဒါနကၡႏၵာခြဲျခင္းတရားေတာ္
+405.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/190210.mp3|၁၉.၂.၁၀ မေၾကာက္တရားေတာ္
+406.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/200210.mp3|၂၀.၂.၁၀ (ဓမၼ) ဌိတိကိုးပါးတရားေတာ္
+407.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/210210.mp3|၂၁.၂.၁၀ အေယာင္ေဆာင္တရားေတာ္
+408.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/230210.mp3|၂၃.၃.၁၀ စကၡဳေလာကႏွင့္ သံသရာတရားေတာ္
+409.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/240210.mp3|၂၄.၂.၁၀ ေယာ ပဋိသမုပၸါဒံ ပႆတိ ေသာ မံ ပႆတိ
+410.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/250210.mp3|၂၅.၂.၁၀ ၀ိသုဒၵိ တရားေတာ္
+411.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/260210.mp3|၂၆.၂.၁၀ ၀ဋ္သံုးပါႏွင့္ ငါ ခြဲျခင္းတရားေတာ္
+412.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/270210.mp3|၂၇.၂.၁၀ မေနာသုစရိုက္ ပြားမ်ားလိုက္၊ ဆုိက္ဆိုက္နိဗၺာန္ေရာက္သတည္း တရားေတာ္
+413.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/02%20Feb-2010/280210.mp3|၂၈.၂.၁၀ ေျမၾကီးအတူ သည္းခံေတာ္မူႏုိင္ေသာ ကာဒိဂုဏ္ တရားေတာ္
+414.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/010310.mp3|၁.၂.၁၀ စုတိ ေယာ ေ၀ဒိ သတၱာနံတရားေတာ္
+415.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/020310.mp3|၂.၃.၁၀ ကိေလသာႏွင့္ ကိေလသာအာရံု တရားေတာ္
+416.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/030310.mp3|၃.၃.၁၀ သပၸါေဒါႏွင့္ အႏုဥပၸါေဒါတရားေတာ္
+417.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/040310.mp3|၄.၃.၁၀ ၀ဋ္သံုးပါးႏွင့္ အနတၱတရားေတာ္
+418.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/050310.mp3|၅.၃.၁၀ တဏွာ ဒိ႒ိ တို႕သည္ ကပ္အပ္ေသာကံသည္ အက်ိဳး၏အျဖစ္ျဖင့္ ယူအပ္ကုန္သည္ျဖစ္ တရားေတာ္
+419.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/060310.mp3|၆.၃.၁၀ ေလာကုတၱရာကုိးပါးအားေလ်ာ္ေသာ တရားေတာ္
+420.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/070310.mp3|၇.၃.၁၀ အနီေဃာ ယာတိ ျဗာဟၼေဏာ တရားေတာ္
+421.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/080310.mp3|၈.၃.၁၀ မနသာ ေစ ပဒုေ႒န ဘာသတိ၀ါ ကေရာတိ၀ါ
+422.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/090310.mp3|၉.၃.၁၀ ဥတၱမ ပုရိေသာ တရားေတာ္
+423.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/100310.mp3|၁၀.၃.၁၀ ငိုတာဘာသစၥာတံုး တရားေတာ္
+424.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/110310.mp3|၁၁.၃.၁၀ အစၥေယာ မံ တရားေတာ္
+425.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/120310.mp3|၁၂.၃.၁၀ ေက်ာက္ေတာင္ကိုေလျဖင့္ႏွဲ႕ေသာ္လည္း မနဲ႕ေသာတရား
+426.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/130310.mp3|၁၃.၃.၁၀ သုခ ျဖစ္စရာ ဖႆေၾကာင့္ သုခေ၀ဒနာခံစားသည္
+427.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/140310.mp3|၁၄.၃.၁၀ ေျခာက္ပါး၀ိဥာဏ္ (သို႕) ေလာကီတရားေတာ္
+428.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/160310.mp3|၁၆.၃.၁၀ ျမတ္စြာဘုရားေဟာေသာ ေလာကုတၱရာေရာက္တရားေတာ္
+429.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/170310.mp3|၁၇.၃.၁၀ (၃၂)လံုးပုတီးကံုး ေပ်ာက္ဆံုးယခုေခတ္တရားေတာ္
+430.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/180310.mp3|၁၈.၃.၁၀ အတၱေဘာ၌ ခယ၀ယျဖစ္ေစေသာ သေဘာ
+431.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/190310.mp3|၁၉.၃.၁၀ ပညာသိမွ တရားေတာ္
+432.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/200310.mp3|၂၀.၃.၁၀ ကိေလသာတို႕ကိုသတ္ေသာ တရားေတာ္
+433.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/210310.mp3|၂၀.၃.၁၀ ဥယ်ာဥ္မွဴး ႏွင့္ မိဖုရားတရားေတာ္
+435.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/240310.mp3|၂၄.၃.၁၀ အဗာကတ အရိပ္မိ တရားေတာ္
+436.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/250310.mp3|၂၅.၃.၁၀ ေဇာဇၨ်င္မက်င္ ကၠေျႏၵမေစာင့္ နိဗၺာန္မျမင္ ဤသံုးအင္ မျမင္ခ်မ္းသာကြက္တရားေတာ္
+437.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/260310.mp3|၂၆.၃.၁၀ လူ သတၱ၀ါ အေၾကာင္း တရားေတာ္
+438.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/270310.mp3|၂၇.၃.၁၀ မေနာကံ ကုိက ၀ဋ္သံုးပါးတရားေတာ္
+439.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/280310.mp3|၂၈.၃.၁၀ ဂတိနမိတ္ေပ်ာက္ေသာ တရားေတာ္
+440.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/290310.mp3|၂၉.၃.၁၀ မရွိကို အရွိလုပ္ေသာ ပဋိစၥသမုပၸႏၵတရားေတာ္
+441.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/300310.mp3|၃၀.၃.၁၀ ပဋိစၥသမုပၸါဒ္ အနတၱ တရားေတာ္
+442.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/03%20March-2010/310310.mp3|၃၁.၃.၁၀ စကၡဳနာ ရူပံ ဒိသြာ တရားေတာ္
+443.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/010410.mp3|၁.၄.၁၀ ၀ဋ္ႏွင့္ေဗာဇၨ်င္ ယွဥ္လိုက္လွ်င္ ေဗာဇၨ်င္ႏုိင္သည္မွတ္
+444.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/020410.mp3|၂.၄.၁၀ ကိေလသာဆိုတာ စိတၱဇ တရားေတာ္
+445.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/040410.mp3|၄.၄.၁၀ မဇၨ်ိမပဋိပဒါ အလယ္ေခါင္အက်င့္တရားေတာ္
+446.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/050410.mp3|၅.၄.၁၀ သဗၺေဒါသ ခပ္သိမ္းေသာအျပစ္တို႕ကိုေပ်ာက္ပါေစျခင္းအက်ိဳးငွာ တရားေတာ္
+447.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/060410.mp3|၆.၄.၁၀ အကတညဴ တရားေတာ္ (၁)
+448.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/070410.mp3|၇.၄.၁၀ စကားမေျပာခင္ လက္ကမလႈပ္ခင္ တရားေတာ္ (၁)
+449.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/080410.mp3|၈.၄.၁၀ စကားမေျပာခင္ လက္ကမလႈပ္ခင္ တရားေတာ္ (၂)
+450.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/090410.mp3|၉.၄.၁၀ မဇၨ်ိမပဋိပဒါ တထာ၀ေတန အဘိသမဗၺဳဒၶါ
+451.mp3|https://https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/100410.mp3|၁၀.၄.၁၀ အ၀ိဇၨာျဖစ္ေၾကာင္း အာသ၀ တရားေတာ္
+452.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/110410.mp3|၁၁.၄.၁၀ ဇရာ မရဏ မစၦာယ ၀ီဠိတာနမဘိဏွေသာ
+453.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/130410.mp3|၁၃.၄.၁၀ ခီဏံ ပုရာဏံ န၀နတၳိ သမၻ၀ံ တရားေတာ္
+454.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/140410.mp3|၁၄.၄.၁၀ (ေျခာက္)ပါးေသာကၠုေျႏၵ ေစာင့္လိုက္ေလ တရားေတာ္
+455.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/150410.mp3|၁၅.၄.၁၀ မ်က္စိကျမင္ေသာအခါ အ၀ိဇၨာတဏွာဥပါဒါန္ ကံေတြမလုပ္ သမၼာဒိဠိနဲ႕အုပ္ ငုတ္တုတ္ကိေလ ေသသတည္း တရားေတာ္
+456.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/160410.mp3|၁၆.၄.၁၀ ဇရာ မရဏ မစၦာယ တရားေတာ္
+457.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/170410.mp3|၁၇.၄.၁၀ အကတညဴ တရားေတာ္ (၂)
+458.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/180410.mp3|၁၈.၄.၁၀ ဇရာ မရဏ မစၦာယ ပီဠိတာန မဘိဏွေသာ (၂)
+459.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/190410.mp3|၁၉.၄.၁၀ ေအာက္စီဂ်င္ႏွင့္ ဟိုက္ျဒိဳဂ်င္သာ ေရာေလပါ ဤတြင္ေရျဖစ္သည္၊ ရုပ္ႏွင့္နာမ္သာေရာေလပါ ဤတြင္ လူျဖစ္သည္ တရားေတာ္
+460.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/200410.mp3|၂၀.၄.၁၀ 'ရူပါရံုသာ လူမျဖစ္ပါ သူဟာ၀ိမုတၱိ' တရားေတာ္
+461.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/04%20April-2010/300410.mp3|၃၀.၄.၁၀ 'အသႏၵိဠိ' မွလြတ္ေသာ တရားေတာ္
+462.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/020510.mp3|၂.၅.၁၀ အေ၀း အနီး အဇၨဳတၱ ဗဟိဒၶျဖစ္ရာ႒ာနေလးပါး
+463.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/030510.mp3|၃.၅.၁၀ လူေတြမဟုတ္ အူ အဆုတ္ တရားေတာ္
+464.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/040510.mp3|၄.၅.၁၀ စကၡဳေလာေက ၀ိယရူပံ သာတရူပံ တရားေတာ္
+465.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/050510.mp3|၅.၅.၁၀ အကုသိုလ္ အဟိတ္ သံုးဆယ္စိတ္၊ မွတ္စိမ့္ အေသာဘနျဖစ္သတည္း တရားေတာ္
+466.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/060510.mp3|၆.၅.၁၀ ၀ိပါက၀ဋ္ေၾကာင့္ ကိေလသာ၀ဋ္ျဖစ္ျခင္းတရား
+467.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/070510.mp3|၇.၅.၁၀ ဧတံ ေခါ သရဏံ ေခမံ တရားေတာ္
+468.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/080510.mp3|၈.၅.၁၀ အဇၨဳတၱ ဗဒိဒၶ ဒူရ အာသႏၵျဖစ္ရာအေၾကာင္း
+469.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/090510.mp3|၉.၅.၁၀ ရႊံ႕ႏြံအိုင္တြင္းမွထျခင္း တရားေတာ္
+470.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/100510.mp3|၁၀.၅.၁၀ ကာယကံ ၀စီကံ မေနာကံက ဒုကၡသစၥာ
+471.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/110510.mp3|၁၁.၅.၁၀ မျဖစ္ခ်င္တာေတြျဖစ္၍ေန လူေတြဒုကၡေရာက္သတည္း
+472.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/120510.mp3|၁၂.၅.၁၀ နိႆ တၱ နိဇီၨ၀ တရားေတာ္
+473.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/130510.mp3|၁၃.၅.၁၀ မာနကင္းေသာ တရားေတာ္
+474.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/140510.mp3|၁၄.၅.၁၀ ခယ ၀ယ တရားေတာ္
+475.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/150510.mp3|၁၅.၅.၁၀ ၀ဋ္သံုးပါး သတၱ၀ါ လကၡဏာ သစၥာေလးပါး
+476.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/160510.mp3|၁၆.၅.၁၀ နိဗၺာန္သို႕ညႊတ္ေသာတရားေတာ္
+477.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/180510.mp3|၁၈.၅.၁၀ စကားနဲ႕ေလ တို႕ႏွစ္ေတြ ကြဲေလတရားရ
+478.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/190510.mp3|၁၉.၅.၁၀ ပစၥတၱံ ေ၀ဒိတေဗၺာ ၀ိညဴဟီတိ တရားေတာ္
+479.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/200510.mp3|၂၀.၅.၁၀ အစြန္းလြတ္ျခင္း တရားေတာ္
+480.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/210510.mp3|၂၁.၅.၁၀ မိမိ သူတစ္ပါး မျပဳျငား ရႈျငား နိဗၺာန္ေရာက္
+481.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/220510.mp3|၂၂.၅.၁၀ 'က' ကျဖစ္ေသာ လကၡဏာ သစၥာတရားေတာ္
+482.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/230510.mp3|၂၃.၅.၁၀ မေဟာ္သဓာ တရားေတာ္
+483.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/250510.mp3|၂၅.၅.၁၀ မရိယသစၥာန ဒႆ နံ တရားေတာ္
+484.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/270510.mp3|၂၇.၅.၁၀ ၀မ္းထဲမွျဖစ္ေသာ တရားေတာ္
+485.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/280510.mp3|၂၈.၅.၁၀ ၀ဋ္သံုးပါး အနတၱ တရားေတာ္
+486.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/290510.mp3|၂၉.၅.၁၀ 'ရွ႕ေနာက္'ဆိုတာ 'ကာလဓမၼာရံု' တရားေတာ္
+487.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/300510.mp3|၃၀.၅.၁၀ သမၼာဒိ႒ိမ်က္လံုး တရားေတာ္
+488.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/05%20May-2010/310510.mp3|၃၁.၅.၁၀ ၇ူပဥၥ တံ အာရမၼနဥၨာတိ ရူပါရမၼဏံ တရားေတာ္
+489.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/010610.mp3|၁.၆.၁၀ ျမင္သိ ဆင္ျခင္သိ ထိႏွစ္သိ ကြဲ၏ခြဲ၍ေန (၁)
+490.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/020610.mp3|၂.၆.၁၀ မင္သိ ဆင္ျခင္သိ ထိႏွစ္သိ ကြဲ၏ခြဲ၍ေန (၂)
+491.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/030610.mp3|၃.၆.၁၀ အ၀ိဇၨာ ကမၼဠာန္း တရားေတာ္
+492.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/040610.mp3|၄.၆.၁၀ ကံသံုးပါး အနတၱ တရားေတာ္
+493.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/050610.mp3|၅.၆.၁၀ ဇီ၀ရုပ္ ကံရုပ္ စက္ရုပ္ တရားေတာ္
+494.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/070610.mp3|၇.၆.၁၀ သေမာဟစိတ္ ႏွင့္ ၀ီတေမာဟစိတ္ တရားေတာ္
+495.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/080610.mp3|၈.၆.၁၀ သစၥာသံုးပါး တရားေတာ္
+496.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/090610.mp3|၉.၆.၁၀ ၀ိေ၀တ နိႆ တံ တရားေတာ္
+497.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/110610.mp3|၁၁.၆.၁၀ သံုးခုသိမွ မဂ္ဥာဏ္ရ တရားေတာ္
+498.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/120610.mp3|၁၂.၆.၁၀ ဘုရားကိုသိလွ်င္ တရားကိုသိ၏ တရားေတာ္
+499.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/130610.mp3|၁၃.၆.၁၀ ေလာကဓံမွလြတ္ေျမာက္ရန္ 'ကံ၀ိပါက'ႏွင့္ၾကည့္
+500.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/160610.mp3|၁၆.၆.၁၀ မ်က္စိျမင္တာ အဆင္း၀ါလွတာေခ်ာတာမပါပ
+501.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/170610.mp3|၁၇.၆.၁၀ ျမင္ရင္ စိတ္ဆိုးတာ ဘယ္သူလဲ တရားေတာ္
+502.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/180610.mp3|၁၈.၆.၁၀ ၀ဋ္သံုးပါး သကၠာယ တရားေတာ္
+503.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/200610.mp3|၂၀.၆.၁၀ ပဋိစၥသမုပၸါဒ္ႏွင့္ဓမၼစၾကာ ပူးတြဲ တရားေတာ္
+504.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/210610.mp3|၂၁.၆.၁၀ သခၤါရႏွင့္ ကမၼဘ၀အေၾကာင္း တရားေတာ္
+505.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/220610.mp3|၂၂.၆.၁၀ သံသရာမွ သတၱ၀ါ တရားေတာ္
+506.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/230610.mp3|၂၃.၆.၁၀ တရားကိုသိလွ်င္ ဘုရားကိုသိတယ္ ဘုရားကိုသိလွ်င္ အရိယာျဖစ္တယ္
+507.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/240610.mp3|၂၄.၆.၁၀ ကာမဘ၀ ရူပဘ၀ အရူပဘ၀ တရားေတာ္
+508.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/250610.mp3|၂၅.၆.၁၀ 'မေနာကံ' ကဘယ္သူ႕အမႈလဲ တရားေတာ္
+509.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/260610.mp3|၂၆.၆.၁၀ ရူပါရံုကို လူလို႕စိတ္ထဲမထားနဲ႕ တရားေတာ္
+510.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/270610.mp3|၂၇.၆.၁၀ ဘုရားတရား တရားေတာ္
+511.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/280610.mp3|၂၈.၆.၁၀ ဥဏစကၡဳ တရားေတာ္
+512.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/290610.mp3|၂၉.၆.၁၀ နိပၸပဥၥ တထာ၀တာ တရားေတာ္
+513.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/06%20June-2010/300610.mp3|၃၀.၆.၁၀ မနသာ-စိတ္၌၊ ကတံ – ျပဳအပ္ေသာ ကမၼံ- အမႈ
+514.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/010710.mp3|၁.၇.၁၀ အသားႏွင့္အေၾကာသာဖယ္လိုက္ပါ အရိုးခ်ည္းသာက်န္သတည္း တရားေတာ္
+515.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/020710.mp3|၂.၇.၁၀ ၀တၳဳပုေရဇာတပစၥည္း၊ အာရမၼဏပုေရဇာတပစၥည္း
+516.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/030710.mp3|၃.၇.၁၀ မိန္းမေယာက္်ား ဥပါဒါန္၏ အစီးအပြားတရားေတာ္
+517.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/050710.mp3|၅.၇.၁၀ လမ္းဟူသမွ်ရွိသည္တြင္ မဂၢင္အေကာင္းဆံုး
+518.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/060710.mp3|၆.၇.၁၀ ညီညီညြတ္ညြတ္မွန္မွန္ကန္ကန္ ရႈျခင္းတရားေတာ္
+519.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/090710.mp3|၈.၇.၁၀ ဘုရားရွိတုန္းက ဓမၼစၾကာ တရားေတာ္
+520.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/110710.mp3|၁၁.၇.၁၀ ကာယကံ ၀စီကံ မေနာကံ ဘယ္ကံအရင္ျဖစ္သနည္း
+521.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/120710.mp3|၁၂.၇.၁၀ သမၼာဒိဌိ ေရွ႕သြားျပဳ တရားေတာ္
+522.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/150710.mp3|၁၅.၇.၁၀ မကဲ့ရဲ႕ အျပစ္မေျပာ ထိုသေဘာ အာသေ၀ါကုန္ေသာနည္းလမ္းတည္း တရားေတာ္
+523.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/200710.mp3|၁၆.၇.၁၀ မေကာင္းေသာစိတ္ရွိေသာပုဂိၢဳလ္ျဒပ္ကို ညႊန္ျပေသာ 'ဒုမနႆ ' သဒၵါ တရားေတာ္
+524.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/210710.mp3|၂၀.၇.၁၀ အကာလိက ကာလိက ႏွစ္၀ကြဲျပားသည့္ တရား
+525.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/220710.mp3|၂၁.၇.၁၀ ကိေလသာသတ္တာ မဂၢငါပါ တရားေတာ္
+526.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/230710.mp3|၂၂.၇.၁၀ စကၡဳေလာကုတၱရာ ပီယရုပ္ သာတရုပ္မပါ တရား
+527.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/240710.mp3|၂၄.၇.၁၀ ဥပါဒါန္ မလုပ္ေသာ တရားေတာ္
+528.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/260710.mp3|၂၆.၇.၁၀ မ်က္စိက ေလာကုတၱရာ တရားေတာ္
+529.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/270710.mp3|၂၇.၇.၁၀ ဥပါဒါန္ကို မသံုးဘူးတရားေတာ္
+530.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/280710.mp3|၂၈.၇.၁၀ ကိုယ္ေပါင္း စိတ္ခြာတရားေတာ္
+531.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/290710.mp3|၂၉.၇.၁၀ အာသေ၀ါတရား၏ သေဘာသဘာ၀တရားေတာ္
+532.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/300710.mp3|၃၀.၇.၁၀ အႏုသယကို အာသေ၀ါတရားကႏုိင္ျခင္းတရား
+533.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/07%20July-2010/310710.mp3|၃၁.၇.၁၀ နိပၺပဥၥ တထာဂတာ တရားေတာ္
+534.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/010810.mp3|၁.၈.၁၀ ၀မ္းေခါင္းထဲ တံုးေခါက္ေသာတရားေတာ္
+535.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/040810.mp3|၄.၈.၁၀ ဇီ၀ရုပ္ စက္ရုပ္ကြဲေအာင္လုပ္ တရားေတာ္
+536.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/060810.mp3|၆.၈.၁၀ အာရံုပညတ္ ထိုႏွစ္ရပ္ အ၀ိဇၨာျဖစ္ေၾကာင္းမွတ္
+537.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/070810.mp3|၇.၈.၁၀ စကၡဳသစၥာေလးပါး တရားေတာ္
+538.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/080810.mp3|၈.၈.၁၀ မ်က္စိေတြက ျမင္ၾကေသာ ဘာဥပါဒါန္ဟုေခၚသနည္း တရားေတာ္
+539.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/090810.mp3|၉.၈.၁၀ သံကုိသံဖ်က္ သံေခ်းတက္ တရားေတာ္
+540.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/210810.mp3|၂၁.၈.၁၀ ကံႏွင့္ကိေလသာ ကိုယ္ေပၚမွာျဖစ္တဲ့အေၾကာင္း
+541.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/230810.mp3|၂၃.၈.၁၀ ဥပါဒန္ ကံ ဇာတိ ဇရာ မရဏ တရားေတာ္
+542.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/240810.mp3|၂၄.၈.၁၀ ဒိ႒ိႏွင့္ေလာဘ ငါႏွင့္မိန္းမေယာက္်ားအေၾကာင္း
+543.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/260810.mp3|၂၆.၈.၁၀ လူေတြကို အႏွိပ္စက္ဆံုး တရားေတာ္
+544.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/270810.mp3|၂၇.၈.၁၀ ကာမစၦႏၵကို ကိေလသ၀ဋ္ဟုေခၚေသာတရား
+545.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/280810.mp3|၂၈.၈.၁၀ 'ရေဇာဟရဏံ' ဖုန္ကပ္ေသာတရားေတာ္
+546.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/290810.mp3|၂၉.၈.၁၀ သခၤါရအစုအေၾကာင္း တရားေတာ္
+547.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/08%20Aug-2010/300810.mp3|၃၀.၈.၁၀ ရွည္ရွည္ကိုသိ စိတ္ကိုသိ၊ သိ၏သခၤါရ တရား
+548.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/030910.mp3|၃.၉.၁၀ ဓါတ္ေျခာက္ပါး ကမၼ႒ာန္းတရားေတာ္
+549.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/050910.mp3|၅.၉.၁၀ နိမိတ္ကင္းေသာတရား
+550.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/070910.mp3|၇.၉.၁၀ ေလာကီဘယ္ဟာ ေလာကုတၱရာဘယ္ဟာတရား
+551.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/090910.mp3|၉.၉.၁၀ ကံအပ်က္အရွိကို ဥာဏ္မဂ္ႏွင့္သိ တရားေတာ္
+552.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/130910.mp3|၁၃.၉.၁၀ ၀ဋ္သံုးပါး လူမွလြတ္ဘိ ၀ိမုတၱိ တရားေတာ္
+553.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/140910.mp3|၁၄.၉.၁၀ ဂဟကာရ ဂေ၀သေႏၱာ တရားေတာ္
+554.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/190910.mp3|၁၉.၉.၁၀ ပဋိစၥသမုပၸါဒ္ တရားေတာ္
+555.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/200910.mp3|၂၀.၉.၁၀ အာရမၼဏ တရားေတာ္
+556.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/210910.mp3|၂၁.၉.၁၀ ပဋိစၥသမုပၸဒါန္ကအ၀ိဇၨာ ေမာဟ၊ ပ႒ာန္းေဟတုက ေမာဟ၊ ေမာဟႏွစ္ခုခြဲျခားျပဳ တရားေတာ္
+557.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/220910.mp3|၂၂.၉.၁၀ မေနာဒုစရိုက္ကိုပယ္ျခင္းသည္ မေနာေမာေနယ်
+558.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/230910.mp3|၂၃.၉.၁၀ ေမာေနယ် တရားေတာ္
+559.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/270910.mp3|၂၇.၉.၁၀ မဂၢင္ရွစ္ပါး္ႏွင့္ သစၥာေလးပါးသိေသာ တရားေတာ္
+560.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/280910.mp3|၂၈.၉.၁၀ 'ရူပါရံုမရွိ' သမၼာဒိ႒ိ တရားေတာ္
+561.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/09%20Sept-2010/300910.mp3|၃၀.၉.၁၀ သစၥာေလးခ်က္ကို အဘိေညေယ်ာျဖင့္ေကာက္ပံု
+562.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/011010.mp3|၁.၁၀.၁၀ စိတၱႆ မာဃာ တရားေတာ္
+563.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/061010.mp3|၆.၁၀.၁၀ မေနာသုစရိုက္မွာ ကံလည္းမပါ ဥပါဒါန္လညး္မရွိ သမၼာဒိ႒ိ လြတ္၏၀ဋ္တရား
+564.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/091010.mp3|၉.၁၀.၁၀ အာရမၼဏဃန သႏၱတိဃနတရားေတာ္
+565.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/111010.mp3|၁၁.၁၀၁၀ ဧကုပၸါဒ ဧကာလမၺဏ ဧက၀တၳဳက ဧကနိေရာဓျဖင့္ ဥပါဒါန္မေရာက္ပံုတရား
+566.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/131010.mp3|၁၃.၁၀.၁၀ မေနာကံႏွႈ့္ဥပါဒါန္အမွန္ခြဲျခား တရားရ
+567.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/161010.mp3|၁၆.၁၀.၁၀ ဒိ႒ိျဖစ္စရာအာရံု ေလာဘျဖစ္စရာအာရံုတရား
+568.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/181010.mp3|၁၈.၁၀.၁၀ သီလမဂၢင္ သႏၱာန္တြင္ရွိမရွိ သိေအာင္အားထုတ္ တရားအလုပ္
+569.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/191010.mp3|၁၉.၁၀.၁၀ ပဋိစၥသမုပၸါဒ္ အရေကာက္သာမွန္ေလပါသူ႕ထံ ဘုရားရွိသတည္း တရားေတာ္
+570.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/201010.mp3|၂၀.၁၀.၁၀ ပဋိစၥသမုပၸါဒ္ အေကာက္မွန္တရားေတာ္
+571.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/251010.mp3|၂၅.၁၀.၁၀ မသိအပ္ေသာ သိေလပါ မွတ္ပါမေနာကံျဖစ္
+572.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/261010.mp3|၂၆.၁၀.၁၀ ကမၼဘ၀ ကုသိုလ္အကုသလို္တရားေတာ္
+573.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/271010.mp3|၂၇.၁၀.၁၀ သမၼာဒိ႒ိမဟုတ္ရင္ ေလာကီ တရားေတာ္
+574.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/281010.mp3|၂၈.၁၀.၁၀ ၾကိဳးဆြဲသူႏွင့္ သစ္သားရုပ္ အဟုတ္ေၾကာင္းက်ိဳးတရားေတာ္
+575.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/291010.mp3|၂၉.၁၀.၁၀ ၾကိဳးဆြဲသူႏွင့္ သစ္သားရုပ္ အဟုတ္ေၾကာင္းက်ိဳးတရားေတာ္
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/10%20Oct-2010/311010.mp3|၃၁.၁၀ .၁၀ ၾကည့္ခ်င္ကခ်င္ ထိုႏွစ္ခ်င္ ခ်င္တာဘာေၾကာင့္ျဖစ္သနည္း တရားေတာ္
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/021110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/031110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/041110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/051110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/061110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/071110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/091110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/101110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/121110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/161110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/191110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/201110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/211110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/251110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/261110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/291110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/11%20N0v-2010/301110.mp3|ႏို၀င္ဘာ – ၂၀၁၀
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/011210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/041210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/071210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/081210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/091210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/101210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/111210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/121210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/131210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/141210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/151210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/171210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/181210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/191210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/201210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/211210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/221210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/231210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/241210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/251210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/261210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/271210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/291210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/301210.mp3|ဒီဇင္ဘာ 2010
+576.mp3|https://media.thitsarparamisociety.com/mp3/Bhaddanta%20Eindawbartha/2010/12-Dec-2010/311210.mp3|ဒီဇင္ဘာ 2010
