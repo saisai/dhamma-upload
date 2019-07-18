@@ -31,6 +31,36 @@ def get_results(file_in):
     return [f.strip('\n') for f in open(file_in) ]
     
 
+def breaker_in_order(list_result):
+
+    #tmp = []
+    
+    def get_line_breaker(line):
+        breaker = line.split('|')[0].strip() == 'breaker'
+        ext_desc = ""
+        if breaker == True:
+            ext_desc = line.split('|')[1]
+        return (breaker, ext_desc)
+        
+    def get_line_not_breaker(line):
+        breaker = line.split('|')[0].strip() != 'breaker'
+        ext_desc = ""
+        if breaker != False:
+            ext_desc = line
+        return ext_desc
+    
+    for line in list_result:
+        #print(get_line_breaker(line))
+        tmp = ""
+        
+        if get_line_breaker(line)[0] == True:
+            tmp = get_line_breaker(line)[1]
+            extra_desc = tmp
+        else:
+            #print('{}'.format(line))
+            #print('{}|{}'.format(line, extra_desc))
+            print('{}|{}'.format(get_line_not_breaker(line).split('|')[2], extra_desc))
+
 def change_order(list_result):
 
     tmp = []
