@@ -1,4 +1,8 @@
 001.mp3|https://media.thitsarparamisociety.com/mp3/KyautTaloneTawya-Sayadaw/DVD1/01%20%2810%29.mp3|၁။ အရိပ္တရားေတာ္
+001.mp3|https://media.thitsarparamisociety.com/mp3/KyautTaloneTawya-Sayadaw/DVD1/01%20(2).mp3|၁။ မ်က္ႏွာလုိက္ကာေအာက္တန္းက် တရားေတာ္
+001.mp3|https://media.thitsarparamisociety.com/mp3/KyautTaloneTawya-Sayadaw/DVD1/01%20(3).mp3|၁။ ညွိ တြယ္ မွဳ မ်ား သတိထား တရားေတာ္
+001.mp3|https://media.thitsarparamisociety.com/mp3/KyautTaloneTawya-Sayadaw/DVD1/01%20(4).mp3|ဉာဏ္ေရွ ႕ ထား က ဆုံးျဖတ္ပါ တရားေတာ္
+001.mp3|https://media.thitsarparamisociety.com/mp3/KyautTaloneTawya-Sayadaw/DVD1/01%20(5).mp3|ခႏၶာ ညြတ္ ကြင္း လြတ္ ကင္း ဖုိ႕ ရန္ တရားေတာ္
 002.mp3|https://media.thitsarparamisociety.com/mp3/KyautTaloneTawya-Sayadaw/DVD1/01%20%2810%29.mp3|၂။ ေရေပါက္ေရစက္ အႀကိမ္အႀကိမ္တက္ (၁၂.၁၂.၂၀၀၉)
 003.mp3|https://media.thitsarparamisociety.com/mp3/KyautTaloneTawya-Sayadaw/DVD1/01%20%2811%29.mp3|၃။ ထိန မိဒၶ တရားေတာ္(၁၃-၁၂-၂၀၀၉) (ေန႔လည္ပိုင္း )
 004.mp3|https://media.thitsarparamisociety.com/mp3/KyautTaloneTawya-Sayadaw/DVD1/01%20%2812%29.mp3|၄ ။ အေၾကာင္းေကာင္းပါေစ တရားေတာ္ (၁၃-၁၂-၂၀၀၉) (ညေနပိုင္း)
