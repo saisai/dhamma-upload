@@ -1,0 +1,879 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/3DAYSINGAPORE2016/1st7pm100916.mp3|ေသနည္းသံုးဖ်ာခြဲသိပါ (၁) (၁၀.၉.၁၆) ညခ်မ္းတရားေတာ္
+002.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/3DAYSINGAPORE2016/2ND7PM110916.mp3|ေသနည္းသံုးဖ်ာခြဲသိပါ (၂) (၁၁.၉.၁၆) ညခ်မ္းတရားေတာ္
+003.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/3DAYSINGAPORE2016/2nd4pm110916.mp3|ေဝသနာႏုပႆနာရွဳ ပြားနည္း (၁၁.၉.၁၆) ညေန ပိုင္း
+004.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/3DAYSINGAPORE2016/3rd7pm120916.mp3|ကံႀကီးထိုက္မွာေၾကာက္စရာ (၁၂.၉.၁၆) ညခ်မ္းတရားေတာ္
+005.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/3DAYSINGAPORE2016/3rd4pm120916.mp3|လကၡဏ ဉာဏ္ျမင္နိဗၺာန္ဝင္ (၁၂.၉.၁၆) ညေနပိုင္း
+006.MP3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/Thitsarparami/Alotepay.MP3|၀၁။ ရွစ္ပါး သီလေပး ႏွင့္ အလုပ္ေပးတရားေတာ္
+007.MP3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/Thitsarparami/Day-1(1).MP3|၀၂။ (၇.၀၈.၁၅) ေန႔လည္ခင္း ေဟာ ၾကားအပ္ေသာ ခႏၵာဉာဏ္ေရာက္ ဒိ႒ိေပ်ာက္ ပဋိစၥသမုပၸဒ္သင္တန္းတရားေတာ္
+008.MP3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/Thitsarparami/Day-1(2).MP3|၀၃။ (၇.၀၈.၂၀၁၅) ညေနခင္း ေဟာၾကားအပ္ေသာ ပုဂၢိဳလ္ ေလးမ်ိဳး က်င့္စဥ္ေလးျဖာတရားေတာ္
+009.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/Thitsarparami/Day-2-1.mp3|၀၄။ (၈.၀၈.၂၀၁၅) ေန႔လည္ခင္း ေဟာၾကားအပ္ေသာ ခႏၲာဉာဏ္ေရာက္ ဒိ႒ိေပ်ာက္ ပဋိစၥသမုပၸာဒ္သင္တန္းတရားေတာ္
+010.MP3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/Thitsarparami/Day-2(2).MP3|၀၅။ (၈.၀၈.၂၀၁၅) ညေနခင္း ေဟာၾကားအပ္ေသာ အေျခခံဝိပႆနာရႈပြားနည္းတရားေတာ္
+011.MP3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/Thitsarparami/Day-3-1.MP3|၀၆။ (၉.၀၈.၂၀၁၅) ေန႔လည္ခင္း ေဟာၾကားအပ္ေသာ ခႏၲာဉာဏ္ေရာက္ ဒိ႒ိေပ်ာက္ ပဋိစၥသမုပၸာဒ္သင္တန္းတရားေတာ္
+012.MP3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/Thitsarparami/Day-3-2.MP3|၀၇။ (၉.၀၈.၂၀၁၅) ညေနခင္း ေဟာၾကားအပ္ေသာ အေျခခံ ဝိပႆနာ ရႈပြားနည္း အလုပ္သင္တရားေတာ္
+013.MP3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/Thitsarparami/Day-4-1.MP3|၀၈။ (၁၀.၀၈.၂၀၁၅) ေန႔လည္ခင္း ေဟာၾကားအပ္ေသာ ခႏၲာဉာဏ္ေရာက္ ဒိ႒ိေပ်ာက္ ပဋိစၥသမုပၸာဒ္သင္တန္းတရားေတာ္
+014.MP3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/Thitsarparami/Day-4-2.MP3|၀၉။ (၁၀.၀၈.၂၀၁၅) ညေနခင္း ေဟာၾကားအပ္ေသာ ေလာကီမဂ္ ႏွင့္ ေလာကုတၱရာမဂ္ ထူးျခားပံု အလုပ္သင္တရားေတာ္
+015.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/501%20-%20Kayanupatanar.mp3|၀၀၁။ ကာယာႏုပႆနာ ရႈပြားနည္း အလုပ္ေပး
+016.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/502%20-%20Seiktarnupatanar.mp3|၀၀၂။ စိတၱာႏုပႆနာရႈပြားနည္း အလုပ္ေပး
+017.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/503%20-%20Waedananupatanar.mp3|၀၀၃။ ေဝဒနာႏုပႆနာရႈပြားနည္း အလုပ္ေပး
+018.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/504%20-%20APhone%285%29Thawe.mp3|၀၀၄။ အဖံုးငါးသြယ္ ဖယ္ရႈဖြယ္ အလုပ္ေပး
+019.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/505%20-%20Dhammarnupatanar.mp3|၀၀၅။ ဓမၼာႏုပႆနာရႈပြားနည္း အလုပ္ေပး
+020.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/506%20-%2021.08.2004.mp3|၀၀၆။ ၂၁-၀၈-၂၀၀၄ ကုသိုလ္စစ္မွ စိတ္ခ်ရ (၁)
+021.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/507%20-%2022.08.2004.mp3|၀၀၇။ ၂၂-၀၈-၂၀၀၄ ကုသိုလ္စစ္မွ စိတ္ခ်ရ (၂)
+022.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/508%20-%2023.08.2004.mp3|၀၀၈။ ၂၃-၀၈-၂၀၀၄ ျမဳပ္ေမ်ာ ေရွာင္ၾကဥ္ဆန္လမ္းယဥ္(၁)
+023.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/509%20-%2024.08.2004.mp3|၀၀၉။ ၂၄-၀၈-၂၀၀၄ ျမဳပ္ေမ်ာ ေရွာင္ၾကဥ္ဆန္လမ္းယဥ္(၂)
+024.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/510%20-%2025.08.2004.mp3|၀၁၀။ ၂၅-၀၈-၂၀၀၄ ပဋိစၥသမုပၸာဒ္ စက္ရဟတ္၊ ရဟတ္သံသရာ ဉာဏ္ ႏွင့္ ျဖတ္ (၁)
+025.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/511%20-%2026.08.2004.mp3|၀၁၁။ ၂၆-၀၈-၂၀၀၄ ပဋိစၥသမုပၸာဒ္ စက္ရဟတ္၊ ရဟတ္သံသရာ ဉာဏ္ ႏွင့္ ျဖတ္ (၂)
+026.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/512%20-%2027.08.2004.mp3|၀၁၂။ ၂၇-၀၈-၂၀၀၄ အစပ္သံုးသြယ္ ဉာဏ္ႏွင့္ ပယ္
+027.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/513%20-%2028.08.2004.mp3|၀၁၃။ ၂၈-၀၈-၂၀၀၄ ေ ၾကာက္မက္ ဖြယ္ရာ ဝဋ္သံသရာ
+028.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/514%20-%2029.08.2004.mp3|၀၁၄။ ၂၉-၀၈-၂၀၀၄ ေ ၾကာက္ဖြယ္ဝဋ္ေဘး ကင္းလြတ္ေရး
+029.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/515%20-%2030.08.2004.mp3|၀၁၅။ ၃၀-၀၈-၂၀၀၄ ေဇာ (၇) ႀကိမ္
+030.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/516%20-%2031.08.2004.mp3|၀၁၆။ ၃၁-၀၈-၂၀၀၄ ကိုယ့္ကိုယ္ခ်စ္လွ်င္ ကို ျပဳျပင္ (၁)
+031.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/517%20-%201.9.2004.mp3|၀၁၇။ ၀၁-၀၉-၂၀၀၄ ကိုယ့္ကိုယ္ခ်စ္လွ်င္ ကို ျပဳျပင္ (၂)
+032.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/518%20-%202.9.2004.mp3|၀၁၈။ ၀၂-၀၉-၂၀၀၄ ဒိ႒ိျပဳတ္မွ နိဗၺာန္ရ
+033.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/519%20-%203.9.2004.mp3|၀၁၉။ ၀၃-၀၉-၂၀၀၄ အစဥ္ မွန္လွ်င္ နိဗၺာန္ျမင္
+034.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/520%20-%204.9.2004.mp3|၀၂၀။ ပရိညာသံုးတန္ က်င့္နည္းမွန္ အလုပ္သင္
+035.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/521%20-%205.9.2004.mp3|၀၂၁။ ကိုယ္သာသနာ၌ စိတ္မနာပါေစႏွင့္ (၁)
+036.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/522%20-%206.9.2004.mp3|၀၂၂။ ကိုယ္သာသနာ၌ စိတ္မနာပါေစႏွင့္ (၂)
+037.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/523%20-%207.9.2004.mp3|၀၂၃။ အာသဝလက္မွ ရံုး
+038.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/524%20-%208.9.2004.mp3|၀၂၄။ ေၾကာင္းက်ိဳးသိျမင္ ဒိ႒ိစင္
+039.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/525%20-%209.9.2004.mp3|၀၂၅။ ေၾကာင္းက်ိဳးသိျမင္ ဒိ႒ိစင္
+040.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/526%20-%2010.9.2004.mp3|၀၂၆။ အာရံုၾကား မွ တရားရ
+041.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/527%20-%2011.9.2004.mp3|၀၂၇။ အဓိပတိေလးေထြ က်င့္တတ္ေစ
+042.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/528%20-%2012.9.2004.mp3|၀၂၈။ ဓမၼအစဥ္ လက္ငင္းဝင္
+043.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/529%20-%2013.9.2004.mp3|၀၂၉။ ပ ပဥၥအလိုလိုက္ သိပ္မိုက္တဲ့သား
+044.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/530%20-%2014.9.2004.mp3|၀၃၀။ ဂတိၿငိမ္းမွ နိဗၺာန္ရ (၁)
+045.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/531%20-%2015.9.2004.mp3|၀၃၁။ ဂတိၿငိမ္းမွ နိဗၺာန္ရ (၂)
+046.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/532%20-%2016.9.2004.mp3|၀၃၂။ ကံျဖတ္ဉာဏ္ဝင္ နိဗၺာန္ ျမင္
+047.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/533%20-%2017.9.2004.mp3|၀၃၃။ မိတ္ေကာင္းေတြ႕မွ နိဗၺာန္ရ
+048.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/534%20-%2018.9.2004.mp3|၀၃၄။ ပါရမီမွန္လွ်င္ နိဗၺာန္ဝင္
+049.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/535%20-%2019.9.2004.mp3|၀၃၅။ ကံေပၚဉာဏ္ဆင့္ ျပဳလုပ္သင့္ (၁)
+050.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/536%20-%2020.9.2004.mp3|၀၃၆။ ကံေပၚဉာဏ္ဆင့္ ျပဳလုပ္သင့္ (၂)
+051.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/537%20-%2021.9.2004.mp3|၀၃၇။ ေလးေထြညီမွ် နိဗၺာန္ရ
+052.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/538%20-%2022.9.2004.mp3|၀၃၈။ ဣေျႏၵညီမွ် နိဗၺာန္ရ
+053.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/539%20-%2023.9.2004.mp3|၀၃၉။ ဈာနမဂၢင္နိဗၺာန္ဝင္
+054.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/540%20-%2026.9.2004.mp3|၀၄၀။ ကုသိုလ္စစ္မွစိတ္ခ်ရ
+055.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/541%20-%2027.9.2004.mp3|၀၄၁။ ေလာကလြန္ေျမာက္ နိဗၺာန္ေရာက္
+056.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/542%20-%2028.9.2004.mp3|၀၄၂။ လႈိင္းဂယက္ႏွင့္ ေလွငယ္ရွင္
+057.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/543%20-%2029.9.2004.mp3|၀၄၃။ နိဗၺာန္ကိုသြား ဉာဏ္ရထား
+058.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/544%20-%2027.8.05.mp3|၀၄၄။ မိတ္ေကာင္းေက်းဇူး နိဗၺာန္ကူး
+059.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/545%20-%2028.8.05.mp3|၀၄၅။ သံဃာ့ဂုဏ္ရည္ ေရွ႕သို႔ခ်ီ
+060.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/546%20-%2029.8.05.mp3|၀၄၆။ မဂၢင္က်င့္ျမတ္ ကံေႂကြးျဖတ္ (၁)
+061.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/547%20-%2030.8.05.mp3|၀၄၇။ မဂၢင္က်င့္ျမတ္ ကံေႂကြးျဖတ္ (၂)
+062.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/548%20-%2031.8.05.mp3|၀၄၈။ ကိုယ့္ကိုခ်စ္လွ်င္ ကိုယ္ျပဳျပင္
+063.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/549%20-%201.9.05.mp3|၀၄၉။ ေဝဖန္စစ္ေဆး ဘာသာေရး (၁)
+064.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/550%20-%202.9.05.mp3|၀၅၀။ ေဝဖန္စစ္ေဆး ဘာသာေရး (၂)
+065.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/551%20-%203.9.05.mp3|၀၅၁။ သူေတာ္ေကာင္း လကၡဏာ
+066.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/552%20-%204.9.05.mp3|၀၅၂။ စကား ႏွစ္ခြန္း ဗုဒၶၫႊန္း
+067.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/553%20-%205.9.05.mp3|၀၅၃။ ေႂကြးေဟာင္း ေႂကြးသစ္ ဆပ္ဖို႔ျပင္
+068.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/554%20-%206.9.05.mp3|၀၅၄။ အျပစ္ကင္းမွ ခ်မ္းသာရ
+069.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/555%20-%207.9.05.mp3|၀၅၅။ သာသနာအတြင္း အလွဴ နိဗၺာန္ယူ
+070.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/556%20-%208.9.05.mp3|၀၅၆။ တရားသည္သာ အားကိုးရာ
+071.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/557%20-%209.9.05.mp3|၀၅၇။ တရားသည္သာ အားကိုးရာ (၂)
+072.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/558%20-%2010.9.05.mp3|၀၅၈။ ဥပသကာ ဂုဏ္ရည္
+073.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/559%20-%2011.9.05.mp3|၀၅၉။ မေကာင္းမႈေရွာင္ ေကာင္းမႈေဆာင္
+074.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/560%20-%2012.9.05.mp3|၀၆၀။ အခ်ိန္ရွိခိုက္ လံု႔လစိုက္
+075.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/561%20-%2013.9.05.mp3|၀၆၁။ ဣသာမေစၧ ေရွာင္ရွားေလ(၁)
+076.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/562%20-%2018.12.2009.mp3|၀၆၂။ မဂၢင္သည္သာ အားထားရာ
+077.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/563%20-%2019.12.2009%20%20N.mp3|၀၆၃။ ဗုဒၶရည္မွန္း မဂၢင္လမ္း
+078.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/564%20-%2016.9.05.mp3|၀၆၄။ ဣသာမေစၧ ေရွာင္ရွားေလ(၂)
+079.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/565%20-%2017.9.05.mp3|၀၆၅။ အာသဝလက္မွ ႐ုန္းထြက္ၾက
+080.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/566%20-%2020.1.2009%20%20N.mp3|၀၆၆။ ရပ္ျပစ္ရွစ္ေဘး ကင္းလြတ္ေရး
+081.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/567%20-%2019.9.05.mp3|၀၆၇။ စိတ္ကိုႏိုင္လွ်င္ နိဗၺာန္ဝင္
+082.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/568%20-%2020.9.05.mp3|၀၆၈။ ႀကိဳက္ရာေရြးခ်ယ္ လမ္းႏွစ္သြယ္
+083.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/569%20-%2021.9.05.mp3|၀၆၉။ ဆင္ေသ က်ီးမိုက္ (၁)
+084.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/570%20-%2022.9.05.mp3|၀၇၀။ ဆင္ေသ က်ီးမိုက္ (၂)
+085.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/571%20-%2024.9.05.mp3|၀၇၁။ သစၥာသံုးဆင့္ မဂ္ပန္းပြင့္(၁)
+086.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/572%20-%2025.9.05.mp3|၀၇၂။ သစၥာသံုးဆင့္ မဂ္ပန္းပြင့္(၂)
+087.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/573%20-%2026.9.05.mp3|၀၇၃။ ေလာကဓံၾကား မွာ တရားရွာ
+088.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/574%20-%2027.9.05.mp3|၀၇၄။ လႈိင္းဂယက္ ႏွင့္ ေလွငယ္ရွင္
+089.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/575%20-%2028.9.05.mp3|၀၇၅။ ဝိသုဒၶိ (၇) ပါး ရထား (၇) စင္း
+090.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/576%20-%2027.2.06.mp3|၀၇၆။ လွဴမွ်ေဝလွ်င္ ဉာဏ္ ႏွင့္ ယွဥ္
+091.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/577%20-%2028.2.06.mp3|၀၇၇။ ဗုဒၶမိန္႔ၾကား ေသနည္းတရား
+092.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/578%20-%201.3.06.mp3|၀၇၈။ ပါရမီမွန္လွ်င္ နိဗၺာန္ဝင္ (၁)
+093.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/579%20-%202.3.06.mp3|၀၇၉။ ပါရမီမွန္လွ်င္ နိဗၺာန္ဝင္ (၂)
+094.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/580%20-%203.3.06.mp3|၀၈၀။ ရဲရင့္ သူတို႔ ႏွလံုးသား
+095.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/581%20-%204.3.06.mp3|၀၈၁။ ရဲရင့္ေသာႏွလံုးသားပိုင္ရွင္
+096.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/582%20-%205.3.06.mp3|၀၈၂။ ဥပါသကာ ဂုဏ္ရည္ (၁)
+097.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/583%20-%20%206.3.06.mp3|၀၈၃။ ဥပါသကာ ဂုဏ္ရည္ (၂)
+098.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/584%20-%2019.3.06.mp3|၀၈၄။ ဗုဒၶဘာသာ (၅) မ်ိဳး ႏွင့္ သစၥာေလးပါး (၁) -(မင္းထက္ဦး ေဟာ)
+099.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/585%20-%2020.3.06.mp3|၀၈၅။ ဗုဒၶဘာသာ (၅) မ်ိဳး ႏွင့္ သစၥာေလးပါး (၂)
+100.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/586%20-%2021.3.06.mp3|၀၈၆။ ဗုဒၶဘာသာ (၅) မ်ိဳး ႏွင့္ သစၥာေလးပါး (၃)
+101.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/587%20-%2022.3.06.mp3|၀၈၇။ ဗုဒၶဘာသာ (၅) မ်ိဳး ႏွင့္ သစၥာေလးပါး (၄)
+102.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/588%20-%2023.3.06.mp3|၀၈၈။ ဗုဒၶဘာသာ (၅) မ်ိဳး ႏွင့္ သစၥာေလးပါး (၅)
+103.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/589%20-%2024.3.06.mp3|၀၈၉။ ဗုဒၶဘာသာ (၅) မ်ိဳး ႏွင့္ သစၥာေလးပါး (၆)
+104.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/590%20-%2025.3.06.mp3|၀၉၀။ ဗုဒၶဘာသာ (၅) မ်ိဳး ႏွင့္ သစၥာေလးပါး (၇)
+105.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/591%20-%203.6.2006%281%29.mp3|၀၉၁။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၁)
+106.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/592%20-%203.6.2006%282%29.mp3|၀၉၂။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၂)
+107.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/593%20-%203.6.2006%283%29.mp3|၀၉၃။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၃)
+108.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/594%20-%204.6.2006%284%29.mp3|၀၉၄။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၄)
+109.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/595%20-%204.6.2006%285%29.mp3|၀၉၅။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၅)
+110.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/596%20-%204.6.2006%286%29.mp3|၀၉၆။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၆)
+111.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/597%20-%205.6.2006%287%29.mp3|၀၉၇။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၇)
+112.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/598%20-%205.6.2006%288%29.mp3|၀၉၈။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၈)
+113.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/599%20-%205.6.2006%289%29.mp3|၀၉၉။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၉)
+114.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/600%20-%206.6.2006%2811%29.mp3|၁၀၀။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၁၀)
+115.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/601%20-%206.6.2006%2812%29.mp3|၁၀၁။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၁၁)
+116.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/602%20-%207.6.2006%2813%29.mp3|၁၀၂။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၁၂)
+117.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/603%20-%207.6.2006%2814%29.mp3|၁၀၃။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၁၃)
+118.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/604%20-%207.6.2006%2815%29.mp3|၁၀၄။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၁၄)
+119.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/605%20-%208.6.2006%2816%29.mp3|၁၀၅။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၁၅)
+120.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/606%20-%208.6.2006%2817%29.mp3|၁၀၆။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၁၆)
+121.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/607%20-%208.6.2006%2818%29.mp3|၁၀၇။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၁၇)
+122.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/608%20-%209.6.2006%2819%29.mp3|၁၀၈။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၁၈)
+123.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/609%20-%209.6.2006%2820%29.mp3|၁၀၉။ ဗုဒၶရည္မွန္း ျမတ္ပ႒ာန္း (၁၉)
+124.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/610%20-%2016.11.06.mp3|၁၁၀။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၁)
+125.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/611%20-%2017.11.06.mp3|၁၁၁။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၂)
+126.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/612%20-%2018.11.06.mp3|၁၁၂။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၃)
+127.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/613%20-%2019.11.06.mp3|၁၁၃။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၄)
+128.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/614%20-%2020.11.06.mp3|၁၁၄။ ၂၀-၁၁-၂၀၀၆ ပဋိစၥသမုပၸါဒ္သင္တန္း (၅)
+129.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/615%20-%2021.11.06.mp3|၁၁၅။ ၂၁-၁၁-၂၀၀၆ ပဋိစၥသမုပၸါဒ္သင္တန္း (၆)
+130.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/616%20-%2022.11.06.mp3|၁၁၆။ ၂၂-၁၁-၂၀၀၆ ပဋိစၥသမုပၸါဒ္သင္တန္း (၇)
+131.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/617%20-%2023.11.06.mp3|၁၁၇။ ၂၃-၁၁-၂၀၀၆ ပဋိစၥသမုပၸါဒ္သင္တန္း (၈)
+132.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/618%20-%2024.11.06.mp3|၁၁၈။ ၂၄-၁၁-၂၀၀၆ ပဋိစၥသမုပၸါဒ္သင္တန္း (၉)
+133.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/619%20-%2025.11.06.mp3|၁၁၉။ ၂၅-၁၁-၂၀၀၆ ေသာတာပန္တည္ေၾကာင္းနည္းလမ္းေကာင္း
+134.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/620%20-%2020.12.06.mp3|၁၂၀။ ၂၀-၁၂-၂၀၀၆ အေျခခံဝိပသာနာ႐ႈပြားနည္းအလုပ္သင္(၁)
+135.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/621%20-%2021.12.06.mp3|၁၂၁။ ၂၁-၁၂-၂၀၀၆ အေျခခံဝိပသာနာ႐ႈပြားနည္းအလုပ္သင္(၂)
+136.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/622%20-%2022.12.06.mp3|၁၂၂။ ၂၂-၁၂-၂၀၀၆ အေျခခံဝိပသာနာ႐ႈပြားနည္းအလုပ္သင္(၃)
+137.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/623%20-%2023.12.06.mp3|၁၂၃။ ၂၃-၁၂-၂၀၀၆ စိတၱာႏုပႆနာရႈပြားနည္း အလုပ္သင္ (၁)
+138.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/624%20-%2024.12.06.mp3|၁၂၄။ ၂၄-၁၂-၂၀၀၆ စိတၱာႏုပႆနာရႈပြားနည္း အလုပ္သင္ (၂)
+139.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/625%20-%2025.12.06.mp3|၁၂၅။ ၂၅-၁၂-၂၀၀၆ စိတၱာႏုပႆနာရႈပြားနည္း အလုပ္သင္ (၃)
+140.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/626%20-%2026.12.06.mp3|၁၂၆။ ၂၆-၁၂-၂၀၀၆ စိတၱာႏုပႆနာရႈပြားနည္း အလုပ္သင္ (၄)
+141.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/627%20-%2011.10.06.mp3|၁၂၇။ ၁၁-၁၀-၂၀၀၆ မဂၢင္သည္သာ အားကိုးရာ
+142.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/628%20-%2012.10.06.mp3|၁၂၈။ သံေယာဇဥ္စြန္႔မွ နိဗၺာန္ရ(၁)
+143.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/629%20-%2014.10.06.mp3|၁၂၉။ သံေယာဇဥ္စြန္႔မွ နိဗၺာန္ရ(၂)
+144.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/630%20-%2015.10.2006%20%20N.mp3|၁၃၀။ နိဗၺာန္ကိုသြား ဥာဏ္ရထား(၁)
+145.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/631%20-%2016.10.2006%20N.mp3|၁၃၁။ ၁၆-၁၀-၂၀၀၆ နိဗၺာန္ကိုသြား ဥာဏ္ရထား(၂)
+146.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/632%20-%2017.10.2006%20%20N.mp3|၁၃၂။ ၁၇-၁၀-၂၀၀၆ ကံႀကီးထိုက္မွာ ေၾကာက္စရာ
+147.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/633%20-%208.11.2006%20N.mp3|၁၃၃။ ၁၈-၁၁-၂၀၀၆ သာသနာမွာ အႏွစ္႐ွာ
+148.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/634%20-%2012.11.2006%20N.mp3|၁၃၄။ ၁၂-၁၁-၂၀၀၆ အႏၱရာယ္ငါးသြယ္ေ႐ွာင္႐ွားဖြယ္ (၁)
+149.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/635%20-%2013.11.2006%20N.mp3|၁၃၅။ ၁၃-၁၁-၂၀၀၆ အႏၱရာယ္ငါးသြယ္ေ႐ွာင္႐ွားဖြယ္ (၂)
+150.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/636%20-%2014.11.2006.mp3|၁၃၆။ ၁၄-၁၁-၂၀၀၆ ေသာတာပန္အဂၤါ (၇)ပါး တရားထီးတင္
+151.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/637%20-%2014.11.2006%20%20N.mp3|၁၃၇။ ၁၄-၁၁-၂၀၀၆ မဂၢင္က်င့္ျမတ္ ဝဋ္ေႂကြးျဖတ္
+152.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/638%20-%207.12.2006%20%20N.mp3|၁၃၈။ ၀၇-၁၂-၂၀၀၆ ဝိပၸတၱိေဘး ကင္းလြတ္ေရး(၁)
+153.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/639%20-%208.12.2006%20N.mp3|၁၃၉။ ၀၈-၁၂-၂၀၀၆ ဝိပၸတၱိေဘး ကင္းလြတ္ေရး(၂)
+154.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/640.mp3|၁၄၀။ ဝိသုဒၶိ(၇)ပါး ရထား(၇)စင္း
+155.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/641.mp3|၁၄၁။ ပရိညာသံုးတန္ က်င့္နည္းမွန္ (၁)
+156.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/642.mp3|၁၄၂။ ပရိညာသံုးတန္ က်င့္နည္းမွန္ (၂)
+157.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/643.mp3|၁၄၃။ ပရိညာသံုးတန္ က်င့္နည္းမွန္ (၃)
+158.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/644.mp3|၁၄၄။ ျပံဳးေသနည္းလွ ဤေလာက
+159.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/645.mp3|၁၄၅။ မိတ္ေကာင္းေက်းဇူးနိဗၺာန္ကူး
+160.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/646.mp3|၁၄၆။ ရပ္ျပစ္႐ွစ္ပါး
+161.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/647%20-%20Method%20%5B1%5D.mp3|၁၄၇။ သီလယူၿပီး တရားထိုင္အလုပ္ေပး(၁)
+162.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/648%20-%20%20Method%20%5B2%5D.mp3|၁၄၈။ သီလယူၿပီး တရားထိုင္အလုပ္ေပး(၂)
+163.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/649%20-%20Method%20%5B3%5D.mp3|၁၄၉။ သီလယူၿပီး တရားထိုင္အလုပ္ေပး(၃)
+164.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/650%20-%20Method%20%5B4%5D.mp3|၁၅၀။ သီလယူၿပီး တရားထိုင္အလုပ္ေပး(၄)
+165.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/651%20-%20Method%20%5B6%5D.mp3|၁၅၁။ သီလယူၿပီး တရားထိုင္အလုပ္ေပး(၅)
+166.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/652%20-%20%20Method%20%5B7%5D.mp3|၁၅၂။ သီလယူၿပီး တရားထိုင္အလုပ္ေပး(၆)
+167.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/653%20-%2017.2.07%20%20AM.mp3|၁၅၃။ ၁၇-၀၂-၂၀၀၇ ပဋိစၥသမုပၸါဒ္သင္တန္း
+168.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/654%20-%2018.2.07%20%20%20AM.mp3|၁၅၄။ ၁၈-၀၂-၂၀၀၇ ပဋိစၥသမုပၸါဒ္သင္တန္း
+169.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/655%20-%2019.2.07.mp3|၁၅၅။ ၁၉-၀၂-၂၀၀၇ ဒုကၡေျခာက္မ်ိဳး (၁)
+170.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/656%20-%20%2020.2.07.mp3|၁၅၆။ ဒုကၡေျခာက္မ်ိဳး (၂)
+171.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/657%20-%2022.2.07.mp3|၁၅၇။ နိဗၺာန္ကိုသြား ဥာဏ္ရထား(၁)
+172.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/658%20-%2023.2.07.mp3|၁၅၈။ နိဗၺာန္ကိုသြား ဥာဏ္ရထား(၂)
+173.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/659%20-%20%2017.2.07.mp3|၁၅၉။ ဂတိၿငိမ္းမွ နိဗၺာန္ရ(၁)
+174.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/660%20-%2018.2.07.mp3|၁၆၀။ ဂတိၿငိမ္းမွ နိဗၺာန္ရ(၂)
+175.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/661%20-%2019.2.07.mp3|၁၆၁။ ဘာဝနာျမင္ကြင္း ဥာဏ္အလင္း(၁)
+176.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/662%20-%2020.2.07.mp3|၁၆၂။ ဘာဝနာျမင္ကြင္း ဥာဏ္အလင္း(၂)
+177.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/663%20-%2021.2.07.mp3|၁၆၃။ ကိုယ့္က္ိုယ္ကိုခ်စ္လ်ွင္ ကိုယ္ျပဳျပင္
+178.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/664%20-%2022.2.07.mp3|၁၆၄။ မီးေၾကတြင္း(ေလာင္ျပင္)မွာ ပြင့္ေသာၾကာ(၁)
+179.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/665%20-%2023.2.07.mp3|၁၆၅။ မီးေလာင္ျပင္မွာ ပြင့္ေသာၾကာ(၂)
+180.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/666%20-%2017.2.07%20%20EV.mp3|၁၆၆။ အေျခခံဝိပႆနာ႐ႈပြားနည္းအလုပ္သင္(၁)
+181.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/667%20-%2018.2.07%20%20EV.mp3|၁၆၇။ အေျခခံဝိပႆနာ႐ႈပြားနည္းအလုပ္သင္(၂)
+182.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/668%20-%2019.2.07%20%20EV.mp3|၁၆၈။ အေျခခံဝိပႆနာ႐ႈပြားနည္းအလုပ္သင္(၃)
+183.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/669%20-%2020.2.07%20%20EV.mp3|၁၆၉။ အေျခခံဝိပႆနာ႐ႈပြားနည္းအလုပ္သင္(၄)
+184.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/670%20-%2021.2.07%20%20EV.mp3|၁၇၀။ အေျခခံဝိပႆနာ႐ႈပြားနည္းအလုပ္သင္(၅)
+185.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/671%20-%2012.4.07.mp3|၁၇၁။ ပရိညာသံုးတန္ က်င့္နည္းမွန္(၁)
+186.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/672%20-%2013.4.07.mp3|၁၇၂။ ပရိညာသံုးတန္ က်င့္နည္းမွန္(၂)
+187.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/673%20-%2014.4.07.mp3|၁၇၃။ ပရိညာသံုးတန္ က်င့္နည္းမွန္(၃)
+188.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/674%20-%2015.4.07.mp3|၁၇၄။ ပရိညာသံုးတန္ က်င့္နည္းမွန္(၄)
+189.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/675%20-%2016.4.07.mp3|၁၇၅။ စိတၱာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၁)
+190.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/676%20-%2017.4.07.mp3|၁၇၆။ စိတၱာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၂)
+191.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/677%20-%2018.4.07.mp3|၁၇၇။ စိတၱာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၃)
+192.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/678%20-%2019.4.07.mp3|၁၇၈။ စိတၱာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၄)
+193.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/679%20-%2020.4.07.mp3|၁၇၉။ စိတၱာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၅)
+194.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/680%20-%2026.4.07.mp3|၁၈၀။ ေဝဖန္စစ္ေဆးဘာသာေရး(၁)
+195.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/681%20-%2027.4.07.mp3|၁၈၁။ ေဝဖန္စစ္ေဆးဘာသာေရး(၂)
+196.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/682%20-%2028.4.07.mp3|၁၈၂။ ေဝဖန္စစ္ေဆးဘာသာေရး(၃)
+197.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/683%20-%2029.4.07.mp3|၁၈၃။ ေဝဖန္စစ္ေဆးဘာသာေရး(၄)
+198.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/684%20-%2030.4.07.mp3|၁၈၄။ ေဝဖန္စစ္ေဆးဘာသာေရး(၅)
+199.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/685%20-%201.5.07.mp3|၁၈၅။ ကံႀကီးထိုက္မွာ ေၾကာက္စရာ
+200.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/686%20-%202.5.07.mp3|၁၈၆။ သမၼပၸဓာန္ေလးေထြ က်င့္တတ္ေစ(၁)
+201.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/687%20-%203.5.07.mp3|၁၈၇။ သမၼပၸဓာန္ေလးေထြ က်င့္တတ္ေစ(၂)
+202.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/688%20-%204.5.07.mp3|၁၈၈။ ျပံဳးေသနည္းလွ ဤေလာက
+203.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/689%20-%205.5.07.mp3|၁၈၉။ အေနေဝးေပမဲ့ နီးပါတယ္
+204.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/690%20-%206.5.07.mp3|၁၉၀။ ကုသိုလ္စစ္မွ စိတ္ခ်ရ(၁)
+205.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/691%20-%207.5.07%5B1%5D.mp3|၁၉၁။ ကုသိုလ္စစ္မွ စိတ္ခ်ရ(၂)
+206.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/692%20-%20%208.5.07.mp3|၁၉၂။ ေဝဖန္ျပဳပါ ကံေလးျဖာ(၁)
+207.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/693%20-%209.5.07.mp3|၁၉၃။ ေဝဖန္ျပဳပါ ကံေလးျဖာ(၂)
+208.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/694%20-%2010.5.07.mp3|၁၉၄။ ေဝဖန္ျပဳပါ ကံေလးျဖာ(၃)
+209.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/695%20-%2011.5.07.mp3|၁၉၅။ ဥပါသကာဂုဏ္ရည္
+210.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/696%20-%2012.5.07.mp3|၁၉၆။ က်ိဳးေပးသန္လွ ေဇာဓမၼ
+211.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/697%20-%2024.6.2007%20%20%20MG1.mp3|၁၉၇။ ႀကီးပြားေၾကာင္းရာ မဂၤလာ(၁)
+212.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/698%20-%2024.6.2007%20%20MG2.mp3|၁၉၈။ ႀကီးပြားခ်မ္းသာ မဂၤလာ(၂)
+213.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/700%20-%2025.6.2007%20%20MG4.mp3|၂၀၀။ ႀကီးပြားေၾကာင္းရာ ျမတ္မဂၤလာ(၄)
+214.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/701%20-%2025.6.2007%20%20MG5.mp3|၂၀၁။ ကုသိုလ္ေကာင္းမႈ ျမန္ျမန္ျပဳ(၅)
+215.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/702%20-%2025.6.2007%20%20MG6.mp3|၂၀၂။ ကိုယ့္ကိုယ္ကိုသာ ေစာင့္ေ႐ွာက္ရာ(၆)
+216.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/703%20-%2026.6.2007%20%20MG7.mp3|၂၀၃။ ၾကားျမင္မ်ားမွ ခ်မ္းသာရ(၇)
+217.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/704%20-%2026.6.2007%20%20MG8.mp3|၂၀၄။ ေလးေထြသီလ ေစာင့္ထိန္းၾက(၈)
+218.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/705%20-%2026.6.2007%20%20MG9.mp3|၂၀၅။ ဗုဒၶမိန္႔ေႁခြ စကားႏွစ္ေထြ(၉)
+219.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/706%20-%2027.6.2007%20%20MG10.mp3|၂၀၆။ သူေတာ္ေကာင္းဓာတ္ေက်းဇူးဆပ္(၁၀)
+220.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/707%20-%2027.6.2007%20%20MG11.mp3|၂၀၇။ ေႂကြးေဟာင္းေႂကြးသစ္ ဆပ္ဖို႔သင့္(၁၁)
+221.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/708%20-%2027.6.2007%20%20MG12.mp3|၂၀၈။ ေႂကြးေဟာင္းေႂကြးသစ္ ဆပ္ဖို႔သင့္(၁၂)
+222.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/709%20-%2028.6.2007%20%20MG13.mp3|၂၀၉။ ဒါန႐ွစ္ျဖာ ခြဲသိပါ(၁၃)
+223.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/710%20-%2028.6.2007%20%20MG14.mp3|၂၁၀။ မဂၢင္က်င့္ျမတ္ ကံေႂကြးျဖတ္(၁၄)
+224.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/711%20-%2028.6.2007%20%20MG15.mp3|၂၁၁။ စရိယသံုးေထြ က်င့္တတ္ေစ(၁၅)
+225.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/712%20-%2029.6.2007%20%20MG16.mp3|၂၁၂။ သမၼပၸဓာန္ေလးေထြ က်င့္တတ္ေစ(၁၆)
+226.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/713%20-%2029.6.2007%20%20MG17.mp3|၂၁၃။ သမၼပၸဓာန္ေလးေထြ က်င့္တတ္ေစ(၁၇)
+227.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/714%20-%2029.6.2007%20%20MG18.mp3|၂၁၄။ ေမ့ေလ်ာ့ကင္းမွ ခ်မ္းသာရ(၁၈)
+228.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/715%20-%2030.6.2007%20%20MG19.mp3|၂၁၅။ ႏွလံုးသြင္းမွားလ်ွင္ မာနဝင္(၁၉)
+229.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/716%20-%2030.6.2007%20%20MG20.mp3|၂၁၆။ ပပဥၥအလိုလိုက္ သိပ္မိုက္တဲ့သား(၂၀)
+230.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/717%20-%2030.6.2007%20%20MG21.mp3|၂၁၇။ ေက်းဇူးကိုဆပ္ သားေမာင္ျမတ္(၂၁)
+231.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/718%20-%201.7.2007%20%20MG22.mp3|၂၁၈။ သည္းခံႏိုင္မွ နိဗၺာန္ရ(၂၂)
+232.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/719%20-%201.7.2007%20%20MG23.mp3|၂၁၉။ ဆံုးမလြယ္သူ နိဗၺာန္ယူ(၂၃)
+233.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/720%20-%201.7.2007%20%20MG24.mp3|၂၂၀။ ေက်းဇူးကိုဆပ္ သားေမာင္ျမတ္(၂၄)
+234.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/721%20-%202.7.2007%20%20MG25.mp3|၂၂၁။ အာရံုၾကားမွ တရားရ(၂၅)
+235.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/722%20-%202.7.2007%20%20MG26.mp3|၂၂၂။ အျမတ္ဆံုးက်င့္စဥ္ နိဗၺာန္ဝင္(၂၆)
+236.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/723%20-%202.7.2007%20%20MG27.mp3|၂၂၃။ ျပံဳးေသျဖစ္မွ စိတ္ခ်ရ(၂၇)
+237.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/724%20-%203.7.2007%20%20MG28.mp3|၂၂၄။ လိႈင္းဂယက္ႏွင့္ ေလွငယ္႐ွင္(၂၈)
+238.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/725%20-%203.7.2007%20%20MG29.mp3|၂၂၅။ လိႈင္းဂယက္ႏွင့္ ေလွငယ္႐ွင္(၂၉)
+239.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/726%20-%203.7.2007%20%20MG30.mp3|၂၂၆။ ေသာကကင္းေဝး မဂ္ေရေအး(၃၀)
+240.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/727%20-%204.7.07%20N.mp3|၂၂၇။ ျသဝါဒဓမၼေဒသနာ
+241.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/728%20-%205.7.07%20AM.mp3|၂၂၈။ ၀၅-၀၇-၂၀၀၇ ပဋိစၥသမုပၸါဒ္သင္တန္း
+242.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/729%20-%207.7.07%20%20AM.mp3|၂၂၉။ ၀၇-၀၇-၂၀၀၇ ပဋိစၥသမုပၸါဒ္သင္တန္း
+243.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/730%20-%208.7.07%20%20AM.mp3|၂၃၀။ ၀၈-၀၇-၂၀၀၇ ပဋိစၥသမုပၸါဒ္သင္တန္း
+244.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/731%20-%209.7.07%20AM.mp3|၂၃၁။ ၀၉-၀၇-၂၀၀၇ ပဋိစၥသမုပၸါဒ္သင္တန္း
+245.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/732%20-%2010.7.07%20AM.mp3|၂၃၂။ ၁၀-၀၇-၂၀၀၇ ပဋိစၥသမုပၸါဒ္သင္တန္း
+246.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/733%20-%2011.7.07%20AM.mp3|၂၃၃။ ၁၁-၀၇-၂၀၀၇ ပဋိစၥသမုပၸါဒ္သင္တန္း
+247.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/734%20-%2012.7.07%20AM.mp3|၂၃၄။ ၁၂-၀၇-၂၀၀၇ ပဋိစၥသမုပၸါဒ္သင္တန္း
+248.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/735%20-%2013.7.07%20AM.mp3|၂၃၅။ ၁၃-၀၇-၂၀၀၇ ပဋိစၥသမုပၸါဒ္သင္တန္း
+249.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/736%20-%2014.7.07%20AM.mp3|၂၃၆။ ပဋိစၥသမုပၸါဒ္သင္တန္း
+250.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/737%20-%205.7.07%20PM.mp3|၂၃၇။ ၀၅-၀၇-၂၀၀၇ ကာယာႏုပႆနာ႐ႈပြားနည္းအလုပ္သင္
+251.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/738%20-%206.7.07%20PM.mp3|၂၃၈။ ၀၆-၀၇-၂၀၀၇ ကာယာႏုပႆနာ႐ႈပြားနည္းအလုပ္သင္
+252.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/739%20-%207.7.07%20PM.mp3|၂၃၉။ ၀၇-၀၇-၂၀၀၇ ကာယာႏုပႆနာ႐ႈပြားနည္းအလုပ္သင္
+253.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/740%20-%208.7.07%20PM.mp3|၂၄၀။ ၀၈-၀၇-၂၀၀၇ ကာယာႏုပႆနာ႐ႈပြားနည္းအလုပ္သင္
+254.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/741%20-%209.7.07%20PM.mp3|၂၄၁။ ၀၉-၀၇-၂၀၀၇ ကာယာႏုပႆနာ႐ႈပြားနည္းအလုပ္သင္
+255.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/742%20-%2010.7.07%20%20PM.mp3|၂၄၂။ ၁၀-၀၇-၂၀၀၇ စိတၱာႏုပႆနာ႐ႈပြားနည္းအလုပ္သင္
+256.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/743%20-%2012.7.07%20PM.mp3|၂၄၃။ ၁၂-၀၇-၂၀၀၇ စိတၱာႏုပႆနာ႐ႈပြားနည္းအလုပ္သင္
+257.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/744%20-%2013.7.07%20PM.mp3|၂၄၄။ ၁၃-၀၇-၂၀၀၇ စိတၱာႏုပႆနာ႐ႈပြားနည္းအလုပ္သင္
+258.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/745%20-%2014.7.07%20PM.mp3|၂၄၅။ ၁၄-၀၇-၂၀၀၇ စိတၱာႏုပႆနာ႐ႈပြားနည္းအလုပ္သင္
+259.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/746%20-%208.7.07%20N%20%5B3%5D.mp3|၂၄၆။ ၀၈-၀၇-၂၀၀၇ ပဋိစၥသမုပၸါဒ္အ႐ႈခံအ႐ႈဥာဏ္အထူးသင္တန္း
+260.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/747%20-%209.7.07%20N%20%5B4%5D.mp3|၂၄၇။ ၀၉-၀၇-၂၀၀၇ ပဋိစၥသမုပၸါဒ္သင္တန္း
+261.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/748%20-%2010.7.07%20N%20%5B5%5D.mp3|၂၄၈။ ၁၀-၀၇-၂၀၀၇ အ႐ႈခံ အ႐ႈဥာဏ္ ႐ႈပြားနည္းသင္တန္း
+262.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/749%20-%2014.7.07%20N.mp3|၂၄၉။ ၁၄-၀၇-၂၀၀၇ က်ိဳးေပးသန္လွ ေဇာဓမၼ
+263.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/750%20-%2016.7.2007%20%201.mp3|၂၅၀။ ၁၆-၀၇-၂၀၀၇ ကံႀကီးထိုက္မွာေၾကာက္စရာ
+264.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/751%20-%2017.7.2007%202.mp3|၂၅၁။ အယူမွန္မွ နိဗၺာန္ရ
+265.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/752%20-%20%2018.7.2007%20%203.mp3|၂၅၂။ ဝိပါကေဘး ကင္းလြတ္ေရး
+266.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/753%20-%2019.7.2007%20%204.mp3|၂၅၃။ အႏၲရာယ္ ငါးသြယ္ ေရွာင္ရွားဖြယ္
+267.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/754%20-%2020.7.2007%20%205.mp3|၂၅၄။ ကုသိုလ္ေကာင္းမႈ ျမန္ျမန္ျပဳ
+268.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/755%20-%2021.7.2007%20%206.mp3|၂၅၅။ မီးေလာင္ျပင္မွာ ပြင့္ေသာၾကာ
+269.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/756%20-%2022.7.2007%20%207.mp3|၂၅၆။ က်ိဳးေပးသန္လွ ေဇာဓမၼ (၁)
+270.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/757%20-%2023.7.2007%20%208.mp3|၂၅၇။ က်ိဳးေပးသန္လွ ေဇာဓမၼ (၂)
+271.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/758%20-%2024.7.2007%20%209.mp3|၂၅၈။ ရဲရင့္သူတို႔၏ ႏွလံုးသား (၁)
+272.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/759%20-%2025.7.2007%20%2010.mp3|၂၅၉။ ရဲရင့္သူတို႔၏ ႏွလံုးသား (၂)
+273.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/760%20-%2018-10-2007Pm.mp3|၂၆၀။ ပညတ္ပယ္မွ နိဗၺာန္ရ အလုပ္သင္
+274.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/761%20-%2020-10-2007.mp3|၂၆၁။ သစၥာသံုးခိုင္ နိဗၺာန္တိုင္
+275.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/762%20-%203-11-2007%281%29.mp3|၂၆၂။ ဒုကၡလြန္ေျမာက္ နိဗၺာန္ေရာက္-ပဋိစၥသမုပၸာဒ္သင္တန္း (မိထၳီလာေဟာ)
+276.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/763%20-%204-11-2007.mp3|၂၆၃။ ဒုကၡလြန္ေျမာက္ နိဗၺာန္ေရာက္-ပဋိစၥသမုပၸာဒ္ သင္တန္း (၁)
+277.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/764%20-%205-11-2007.mp3|၂၆၄။ ဒုကၡလြန္ေျမာက္ နိဗၺာန္ေရာက္-ပဋိစၥသမုပၸာဒ္ သင္တန္း (၂)
+278.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/765%20-%206-11-2007.mp3|၂၆၅။ ဒုကၡလြန္ေျမာက္ နိဗၺာန္ေရာက္-ပဋိစၥသမုပၸာဒ္ သင္တန္း (၃)
+279.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/766%20-%207-11-2007.mp3|၂၆၆။ ပဋိစၥ သမုပၸာဒ္ သင္တန္း
+280.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/767%20-%208-11-2007.mp3|၂၆၇။ အစပ္သံုးသြယ္ ဉာဏ္ ႏွင့္ ပယ္-ပဋိစၥသမုပၸာဒ္ သင္တန္း
+281.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/768%20-%209-11-2007.mp3|၂၆၈။ ဝဋ္ေဘးလြန္ေျမာက္ နိဗၺာန္ေရာက္ -ပဋိစၥသမုပၸာဒ္ သင္တန္း
+282.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/769%20-%2010-11-2007.mp3|၂၆၉။ ကာလလြန္ေျမာက္ နိဗၺာန္ေရာက္-ပဋိစၥသမုပၸာဒ္ သင္တန္း
+283.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/770%20-%2011-11-2007.mp3|၂၇၀။ ပဋိစၥသမုပၸာဒ္ သင္တန္း
+284.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/771%20-%2012-11-2007.mp3|၂၇၁။ ပဋိစၥသမုပၸာဒ္ သင္တန္း
+285.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/772%20-%203.11.2007%20%201.mp3|၂၇၂။ ဗုဒၶဘာသာ ငါးမ်ိဳး ႏွင့္ သစၥာေလးပါး တရားေတာ္ (၁)
+286.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/773%20-%204.11.2007%20%202.mp3|၂၇၃။ ဗုဒၶဘာသာ ငါးမ်ိဳး ႏွင့္ သစၥာေလးပါး တရားေတာ္ (၂)
+287.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/774%20-%205.11.2007%20%203.mp3|၂၇၄။ ဗုဒၶဘာသာ ငါးမ်ိဳး ႏွင့္ သစၥာေလးပါး တရားေတာ္ (၃)
+288.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/775%20-%206.11.2007%20%204.mp3|၂၇၅။ ဗုဒၶဘာသာ ငါးမ်ိဳး ႏွင့္ သစၥာေလးပါး တရားေတာ္ (၄)
+289.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/776%20-%207.11.2007%20%205.mp3|၂၇၆။ ဗုဒၶဘာသာ ငါးမ်ိဳး ႏွင့္ သစၥာေလးပါး တရားေတာ္ (၅)
+290.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/777%20-%201.1.08%20MN.mp3|၂၇၇။ ဒုကၡသစၥာ အနက္ (၄) ခ်က္ မွ – ပီဠနေ႒ာ ခြဲ ျခားသိပါဉာဏ္ ႏွစ္ ျဖာ (၁)
+291.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/778%20-%201.1.2008%20EV.mp3|၂၇၈။ ဒုကၡသစၥာ အနက္ (၄) ခ်က္ မွ – ပီဠနေ႒ာ ခြဲ ျခားသိပါဉာဏ္ ႏွစ္ ျဖာ (၂)
+292.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/779%20-%201.1.08%20N.mp3|၂၇၉။ ဒုကၡသစၥာ အနက္ (၄) ခ်က္ မွ – ပီဠနေ႒ာ ခြဲ ျခားသိပါဉာဏ္ ႏွစ္ ျဖာ (၃)
+293.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/500/780%20-%202.1.08%20%20MN.mp3|၂၈၀။ ဒုကၡသစၥာ အနက္ (၄) ခ်က္ မွ – သခၤတေ႒ာ (၁)
+294.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/781%20-%202.1.2008%20EV.mp3|၂၈၁။ ဒုကၡသစၥာအနက္(၄)ခ်က္မွ-သခၤတေ႒ာ(၂)
+295.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/782%20-%20%202.1.08%20N.mp3|၂၈၂။ ဒုကၡသစၥာအနက္(၄)ခ်က္မွ-သႏၱာပေ႒ာ(၁)
+296.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/783%20-%203.1.08%20MN.mp3|၂၈၃။ ဒုကၡသစၥာအနက္(၄)ခ်က္မွ-သႏၱာပေ႒ာ(၂)
+297.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/784%20-%203.1.2008%20EV.mp3|၂၈၄။ ဒုကၡသစၥာအနက္(၄)ခ်က္မွ-ဝိပရိဏာမေ႒ာ
+298.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/785%20-%203.1.08%20N.mp3|၂၈၅။ သမုဒယသစၥာအနက္(၄)ခ်က္မွ-အာယူဟနေ႒ာ(၁)
+299.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/786%20-%204.1.2008%20%20EV.mp3|၂၈၆။ သမုဒယသစၥာအနက္(၄)ခ်က္မွ-နိဒါနေ႒ာ(၁)
+300.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/787%20-%204.1.08%20N.mp3|၂၈၇။ သမုဒယသစၥာအနက္(၄)ခ်က္မွ-နိဒါနေ႒ာ(၂)
+301.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/788%20-%205.1.08%20M.mp3|၂၈၈။ သမုဒယသစၥာအနက္(၄)ခ်က္မွ-သံေယာဂေ႒ာ
+302.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/789%20-%205.1.2008%20EV.mp3|၂၈၉။ သမုဒယသစၥာအနက္(၄)ခ်က္မွ-ပလိေဗာဓေ႒ာ(၁)
+303.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/790%20-%205.1.08%20N.mp3|၂၉၀။ သမုဒယသစၥာအနက္(၄)ခ်က္မွ-ပလိေဗာဓေ႒ာ(၂)
+304.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/791%20-%206.1.08%20MN.mp3|၂၉၁။ နိေရာဓသစၥာအနက္(၄)ခ်က္မွ-နိႆရနေ႒ာ(၁)
+305.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/792%20-%206.1.2008%20EV.mp3|၂၉၂။ နိေရာဓသစၥာအနက္(၄)ခ်က္မွ-နိသာရနေ႒ာ(၂)
+306.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/793%20-%206.1.08%20N.mp3|၂၉၃။ နိေရာဓသစၥာအနက္(၄)ခ်က္မွ-ဝိေဝကေ႒ာ(၁)
+307.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/794%20-%207.1.2008%20%20MN.mp3|၂၉၄။ နိေရာဓသစၥာအနက္(၄)ခ်က္မွ-ဝိေဝကေ႒ာ(၂)
+308.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/795%20-%207.1.2008-EV.mp3|၂၉၅။ နိေရာဓသစၥာအနက္(၄)ခ်က္မွ-အမတေ႒ာ
+309.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/796%20-%207.1.2008%20N.mp3|၂၉၆။ နိေရာဓသစၥာအနက္(၄)ခ်က္မွ-အသခၤတေ႒ာ
+310.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/797%20-%208.1.2008%20MN.mp3|၂၉၇။ မဂၢသစၥာအနက္(၄)ခ်က္မွ-နိယ်ာနေ႒ာ(၁)
+311.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/798%20-%208.1.2008%20EV.mp3|၂၉၈။ မဂၢသစၥာအနက္(၄)ခ်က္မွ-နိယ်ာနေ႒ာ(၂)
+312.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/799%20-%208.1.2008%20N.mp3|၂၉၉။ မဂၢသစၥာအနက္(၄)ခ်က္မွ-ေဟတြေ႒ာ(၁)
+313.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/800%20-%209.1.2008%20MN.mp3|၃၀၀။ မဂၢသစၥာအနက္(၄)ခ်က္မွ-ေဟတြေ႒ာ(၂)
+314.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/801%20-%209.1.2008%20EV.mp3|၃၀၁။ မဂၢသစၥာအနက္(၄)ခ်က္မွ-ေဟတြေ႒ာ(၃)
+315.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/802%20-%209.1.2008%20N.mp3|၃၀၂။ မဂၢသစၥာအနက္(၄)ခ်က္မွ-ဒႆနေ႒ာ(၁)
+316.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/803%20-%2010.1.2008%20MN.mp3|၃၀၃။ မဂၢသစၥာအနက္(၄)ခ်က္မွ-ဒႆနေ႒ာ(၂)
+317.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/804%20-%2010.1.2008%20EV.mp3|၃၀၄။ မဂၢသစၥာအနက္(၄)ခ်က္မွ-အဓိပေတယ်ေ႒ာ(၁)
+318.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/805%20-%2010.1.2008%20N.mp3|၃၀၅။ မဂၢသစၥာအနက္(၄)ခ်က္မွ-အဓိပေတယ်ေ႒ာ(၂)
+319.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/806%20-%208-4-2008.mp3|၃၀၆။ ပရမ္းပတာေဘး ကင္းလြတ္ေရး (ဖိုင္စစ္ရန္)
+320.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/807%20-%209-4-2008.mp3|၃၀၇။ အႏၱရာယ္ငါးသြယ္ေ႐ွာင္႐ွားဖြယ္(၁)
+321.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/808%20-%2010-4-2008.mp3|၃၀၈။ အႏၱရာယ္ငါးသြယ္ေ႐ွာင္႐ွားဖြယ္(၂)
+322.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/809%20-%2013-4-2008.mp3|၃၀၉။ ကံႀကီးထိုက္မွာ ေၾကာက္စရာ
+323.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/810%20-%2014-4-2008.mp3|၃၁၀။ အခ်ိန္႐ွိခိုက္ လံု႔လစိုက္(၂)
+324.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/811%20-%2015-4-2008.mp3|၃၁၁။ အျမတ္ဆံုးရတနာ ေတြ႔ေအာင္႐ွာ
+325.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/812-%20-%2016.5-2008%20%20EV%20AC-1.mp3|၃၁၂။ အေျခခံဝိပႆနာ႐ႈပြားနည္း အလုပ္သင္(၁)(ျသစေၾတးလ်ေဟာ)
+326.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/813%20-%2017.5.-2008%20EV%20AC-2.mp3|၃၁၃။ အေျခခံဝိပႆနာ႐ႈပြားနည္း အလုပ္သင္(၂)
+327.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/814%20-%2018.5.2008%20%20EV%20AC-3.mp3|၃၁၄။ အေျခခံဝိပႆနာ႐ႈပြားနည္း အလုပ္သင္(၃)
+328.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/815%20-%2019.5.2008%20%20EV%20AC-4.mp3|၃၁၅။ အေျခခံဝိပႆနာ႐ႈပြားနည္း အလုပ္သင္(၄)
+329.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/816%20-%2020.5.2008%20%20EV%20AC-5.mp3|၃၁၆။ အေျခခံဝိပႆနာ႐ႈပြားနည္း အလုပ္သင္(၅)
+330.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/817%20-%2021.5.2008%20%20EV%20AC-6.mp3|၃၁၇။ အေျခခံဝိပႆနာ႐ႈပြားနည္း အလုပ္သင္(၆)
+331.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/818%20-%2022.5.2008%20%20EV%20AC-7.mp3|၃၁၈။ အေျခခံဝိပႆနာ႐ႈပြားနည္း အလုပ္သင္(၇)
+332.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/819%20-%2022.5.2008%20%20N.mp3|၃၁၉။ ျပံဳးေသနည္းလွ ဤေလာက(၁)
+333.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/820%20-%2023.5.2008%20%20N-2.mp3|၃၂၀။ ျပံဳးေသနည္းလွ ဤေလာက(၂)
+334.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/821%20-%2024.5.2008%20%20N-3.mp3|၃၂၁။ ျပံဳးေသျဖစ္မွ စိတ္ခ်ရ
+335.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/822%20-%2024.5.2008%20%20EV.mp3|၃၂၂။ဝိသုဒၶိ(၇)ပါး ရထား(၇)စင္းဥပမာျပဝိပႆနာအလုပ္စဥ္(၁)
+336.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/823%20-%2025.5.2008%20%20EV.mp3|၃၂၃။ဝိသုဒၶိ(၇)ပါး ရထား(၇)စင္းဥပမာျပဝိပႆနာအလုပ္စဥ္(၂)
+337.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/824%20-%2025.5.2008%20PM.mp3|၃၂၄။ ဝိသုဒၶိ(၇)ပါး ရထား(၇)စင္းဥပမာျပဝိပႆနာအလုပ္စဥ္(၃)
+338.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/825%20-%2025.5.2008%20%20N.mp3|၃၂၅။ ေသာတာပန္တည္ေၾကာင္း နည္းလမ္းေကာင္း
+339.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/826%20-%2018.11.2008%20AM%201.mp3|၃၂၆။ ပဋိစၥသမုပၸါဒ္သင္တန္း(၁)
+340.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/827%20-%2019.11.2008%20AM%202.mp3|၃၂၇။ ပဋိစၥသမုပၸါဒ္သင္တန္း(၂)
+341.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/828%20-%2020.11.2008%20AM%203.mp3|၃၂၈။ ပဋိစၥသမုပၸါဒ္သင္တန္း(၃)
+342.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/829%20-21.11.2008%20AM%204.mp3|၃၂၉။ ပဋိစၥသမုပၸါဒ္သင္တန္း(၄)
+343.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/830%20-%2022.11.2008%20%20AN%205.mp3|၃၃၀။ ပဋိစၥသမုပၸါဒ္သင္တန္း(၅)
+344.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/831%20-%2023.11.2008%20%20AM%206.mp3|၃၃၁။ ပဋိစၥသမုပၸါဒ္သင္တန္း(၆)
+345.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/832%20-%2024.11.2008%20AM%207.mp3|၃၃၂။ ပဋိစၥသမုပၸါဒ္သင္တန္း(၇)
+346.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/833%20-%2025.11.2008%20AM%208.mp3|၃၃၃။ ပဋိစၥသမုပၸါဒ္သင္တန္း(၈)
+347.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/834%20-%2026.11.2008%20AM%209.mp3|၃၃၄။ ပဋိစၥသမုပၸါဒ္သင္တန္း(၉)
+348.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/835%20-%2027.11.2008%20AM%2010.mp3|၃၃၅။ ပဋိစၥသမုပၸါဒ္သင္တန္း(၁၀)
+349.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/836%20-%2018.11.2008%20EV.mp3|၃၃၆။ ကာယာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၁)
+350.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/837%20-%2019.11.2008%20EV.mp3|၃၃၇။ ကာယာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၂)
+351.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/838%20-%2020.11.2008%20EV.mp3|၃၃၈။ ကာယာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၃)
+352.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/839%20-%2021.11.2008%20EV.mp3|၃၃၉။ ကာယာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၄)
+353.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/840%20-%2022.11.2008%20EV.mp3|၃၄၀။ ကာယာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၅)
+354.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/841%20-%2023.11.2008%20EV.mp3|၃၄၁။ ကာယာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၆)
+355.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/842%20-%2024.11.2008%20EV.mp3|၃၄၂။ ကာယာႏုပႆနာ႐ႈပြားနည္း အလုပ္သင္(၇)
+356.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/843%20-%2025.11.2008%20EV.mp3|၃၄၃။ ဝိသုဒၶိ(၇)ပါး ရထား (၇)စင္း ဥပမာျပ ဝိပႆနာအလုပ္သင္
+357.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/844%20-%2026.11.2008%20EV.mp3|၃၄၄။ ဝိသုဒၶိ(၇)ပါး ရထား (၇)စင္း ဥပမာျပ ဝိပႆနာအလုပ္သင္(၂)
+358.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/845%20-%2027.11.2008%20EV.mp3|၃၄၅။ ေသာတာပန္အဂၤါ (၇)ပါး တရားထီးတင္ အရိယာစစ္တမ္း
+359.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/846%20-%2018.11.2008%20%201.mp3|၃၄၆။ ၁၈-၁၁-၂၀၀၈ သီလယူ တရားထိုင္ အလုပ္ေပး
+360.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/847%20-%2019.11.2008%202.mp3|၃၄၇။ ၁၉-၁၁-၂၀၀၈ သီလယူ တရားထိုင္ အလုပ္ေပး
+361.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/848%20-%2020.11.2008%203.mp3|၃၄၈။ ၂၀-၁၁-၂၀၀၈ သီလယူ တရားထိုင္ အလုပ္ေပး
+362.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/849%20-%2022.11.2008%204.mp3|၃၄၉။ ၂၂-၁၁-၂၀၀၈ သီလယူ တရားထိုင္ အလုပ္ေပး
+363.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/850%20-%2023.11.2008%205.mp3|၃၅၀။ ၂၃-၁၁-၂၀၀၈ သီလယူ တရားထိုင္ အလုပ္ေပး
+364.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/851%20-%2024.11.2008%20T-1.mp3|၃၅၁။ ၂၄-၁၁-၂၀၀၈ သီလယူ တရားထိုင္ အလုပ္ေပး
+365.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/852%20-%2025.11.2008%20T%202.mp3|၃၅၂။ ၂၅-၁၁-၂၀၀၈ သီလယူ တရားထိုင္ အလုပ္ေပး
+366.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/853%20-%2026-11-2008%20T-3.mp3|၃၅၃။ ၂၆-၁၁-၂၀၀၈ သီလယူ တရား ထိုင္ အလုပ္ေပး
+367.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/854%20-%2027-11-2008%20T%204.mp3|၃၅၄။ ၂၇-၁၁-၂၀၀၈ သီလယူ တရားထိုင္ အလုပ္ေပး
+368.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/855%20-%2028-11-2008%20T-5.mp3|၃၅၅။ ၂၈-၁၁-၂၀၀၈ သီလယူ တရားထိုင္ အလုပ္ေပး
+369.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/856%20-%2025.11.2008%20N.mp3|၃၅၆။ သမၼပၸဓာန္ ေလးေထြ က်င့္တတ္ေစ (၁)
+370.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/857%20-%2026.11.2008%20N.mp3|၃၅၇။ သမၼပၸဓာန္ ေလးေထြ က်င့္တတ္ေစ (၁)
+371.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/858%20-%2027.11.2008%20N.mp3|၃၅၈။ သမၼပၸဓာန္ ေလးေထြ က်င့္တတ္ေစ (၁)
+372.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/859%20-%2021.1.2009.mp3|၃၅၉။ အျပန္လမ္း (၁)
+373.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/860%20-%2022.1.2009.mp3|၃၆၀။ အျပန္လမ္း (၂)
+374.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/861%20-%2023.1.2009.mp3|၃၆၁။ ရပ္ျပစ္ရွစ္ေဘး ကင္းလြတ္ေရး
+375.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/862%20-%2026.1.2009%20N.mp3|၃၆၂။ နိဗၺာန္ ကန္႔ကြက္ေၾကာင္း သံုးခ်က္ (၁)
+376.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/863%20-%2027.1.2009%20%20N.mp3|၃၆၃။ နိဗၺာန္ ကန္႔ကြက္ေၾကာင္း သံုးခ်က္ (၂)
+377.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/864%20-%2028.1.2009%20%20N.mp3|၃၆၄။ နိဗၺာန္ ကန္႔ကြက္ေၾကာင္း သံုးခ်က္ (၃)
+378.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/865%20-%2029.1.2009%20%20N.mp3|၃၆၅။ နိဗၺာန္ ကန္႔ကြက္ေၾကာင္း သံုးခ်က္ (၄)
+379.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/866%20-%2030.1.2009%20%20N.mp3|၃၆၆။ နိဗၺာန္ ကန္႔ကြက္ေၾကာင္း သံုးခ်က္ (၅)
+380.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/867%20-%2022.2.2009%20%20MN.mp3|၃၆၇။ ၂၂-၀၂-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း တရား
+381.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/868%20-%2023.2.2009%20%20MN.mp3|၃၆၈။ ၂၃-၀၂-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း တရား
+382.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/869%20-%2026.2.2009%20%20MN.mp3|၃၆၉။ ၂၆-၀၂-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း တရား
+383.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/870%20-%2027.2.2009%20%20MN.mp3|၃၇၀။ ၂၇-၀၂-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း တရား
+384.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/871%20-%2028.2.2009%20MN.mp3|၃၇၁။ ၂၈-၀၂-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း တရား
+385.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/872%20-%201.3.2009%20%20MN.mp3|၃၇၂။ ၀၁-၀၃-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း တရား
+386.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/873%20-%202.3.2009%20%20MN.mp3|၃၇၃။ ၀၂-၀၃-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း တရား
+387.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/874%20-%203.3.2009%20%20MN.mp3|၃၇၄။ ၀၃-၀၃-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း တရား
+388.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/875%20-%2022.2.2009%20%20EV.mp3|၃၇၅။ ကာယာႏုပႆနာ ရႈပြားနည္းအလုပ္သင္ (၁)
+389.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/876%20-%2023.2.2009%20%20EV.mp3https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/876%20-%2023.2.2009%20%20EV.mp3|၃၇၆။ ကာယာႏုပႆနာ ရႈပြားနည္းအလုပ္သင္ (၂)
+390.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/877%20-%2024.2.2009%20%20EV.mp3|၃၇၇။ ကာယာႏုပႆနာ ရႈပြားနည္းအလုပ္သင္ (၃)
+391.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/878%20-%2025.2.2009%20%20EV.mp3|၃၇၈။ ကာယာႏုပႆနာ ရႈပြားနည္းအလုပ္သင္ (၄)
+392.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/879%20-%2026.2.2009%20%20EV.mp3|၃၇၉။ ကာယာႏုပႆနာ ရႈပြားနည္းအလုပ္သင္ (၅)
+393.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/880%20-%2027.2.2009%20%20EV.mp3|၃၈၀။ ကာယာႏုပႆနာ ရႈပြားနည္းအလုပ္သင္ (၆)
+394.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/881%20-%2028.2.2009%20%20EV.mp3|၃၈၁။ ကာယာႏုပႆနာ ရႈပြားနည္းအလုပ္သင္ (၇)
+395.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/882%20-%2029.2.2009%20%20EV.mp3|၃၈၂။ ကာယာႏုပႆနာ ရႈပြားနည္းအလုပ္သင္ (၈)
+396.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/883%20-%201.3.2009%20%20EV.mp3|၃၈၃။ မဂ္တု (၁၀) ပါး
+397.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/884%20-%2022.2.2009%20%20N.mp3|၃၈၄။ ပုဂၢိဳလ္ ေလး ျဖာ ခြဲ သိပါ (၁)
+398.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/885%20-%2023.2.2009%20%20N.mp3|၃၈၅။ ပုဂၢိဳလ္ ေလး ျဖာခြဲ သိပါ (၂)
+399.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/886%20-%2024.2.2009%20%20N.mp3|၃၈၆။ နိဗၺာန္ ကန္႔ကြက္ ေၾကာင္း သံုးခ်က္ (၁)
+400.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/887%20-%2025.2.2009%20%20N.mp3|၃၈၇။ နိဗၺာန္ ကန္႔ကြက္ ေၾကာင္း သံုးခ်က္ (၂)
+401.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/888%20-%2026.2.2009%20%20N.mp3|၃၈၈။ နိဗၺာန္ ကန္႔ကြက္ ေၾကာင္း သံုးခ်က္ (၃)
+402.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/889%20-%2027.2.2009%20%20N.mp3|၃၈၉။ နိဗၺာန္ ကန္႔ကြက္ ေၾကာင္း သံုးခ်က္ (၄)
+403.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/890%20-%2028.2.2009%20N.mp3|၃၉၀။ ဥပါသကာ ဂုက္ရည္ (၁)
+404.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/891%20-%201.3.2009%20N.mp3|၃၉၁။ ဥပါသကာ ဂုက္ရည္ (၂)
+405.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/892%20-%203.3.2009%20%20N.mp3|၃၉၂။ လွိဳင္းဂယက္ နဲ႔ ေလွ ငယ္ရွင္
+406.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/893%20-%2027.3.2009%20%20N.mp3|၃၉၃။ ေနေရးဆင္ျခင္ ေသေရးျပင္ (၁)
+407.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/894%20-%2028.3.2009%20%20N.mp3|၃၉၄။ ေနေရးဆင္ျခင္ ေသေရးျပင္ (၂)
+408.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/895%20-%208-4-2009(1).mp3|၃၉၅။ အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၁)
+409.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/896%20-%209-4-2009(2).mp3|၃၉၆။ အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၂)
+410.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/897%20-%2010-4-2009(3).mp3|၃၉၇။ အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၃)
+411.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/898%20-%2011-4-2009(4).mp3|၃၉၈။ အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၄)
+412.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/899%20-%2012-4-2009(5).mp3|၃၉၉။ အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၅)
+413.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/900%20-%2013-4-2009(6).mp3|၄၀၀။ အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၆)
+414.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/901%20-%2014-4-2009(7).mp3|၄၀၁။ အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၇)
+415.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/902%20-%2015-4-2009(8).mp3|၄၀၂။ အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၈)
+416.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/903%20-%2016-4-2009(9).mp3|၄၀၃။ အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၉)
+417.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/904%20-%209.5.2009%20EV%20%20AS.mp3|၄၀၄။ (ၾသစေတးလ် ေဟာ) အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၁)
+418.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/905%20-%2010.5.2009%20EV%20%20%20AS.mp3|၄၀၅။ (ၾသစေတးလ် ေဟာ) အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၂)
+419.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/906%20-%2011.5.2009%20EV.mp3|၄၀၆။ (ၾသစေတးလ် ေဟာ) အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၃)
+420.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/907%20-%2012.5.2009%20EV.mp3|၄၀၇။ (ၾသစေတးလ် ေဟာ) အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၄)
+421.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/908%20-%2013.5.2009%20EV.mp3|၄၀၈။ (ၾသစေတးလ် ေဟာ) အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၅)
+422.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/909%20-%2014.5.2009%20EV.mp3|၄၀၉။ (ၾသစေတးလ် ေဟာ) အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၆)
+423.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/910%20-%2015.5.2009%20EV.mp3|၄၁၀။ (ၾသစေတးလ် ေဟာ) အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၇)
+424.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/911%20-%2016.5.2009%20EV.mp3|၄၁၁။ (ၾသစေတးလ် ေဟာ) အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၈)
+425.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/912%20-%2017.5.2009%20EV.mp3|၄၁၂။ (ၾသစေတးလ် ေဟာ) အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၉)
+426.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/913%20-%2018.5.2009%20EV.mp3|၄၁၃။ (ၾသစေတးလ် ေဟာ) အေျခခံ ဝိပႆနာ ရႈပြား နည္း အလုပ္သင္ (၁၀)
+427.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/914%20-%2012_7_2009.mp3|၄၁၄။ သတိပ႒ာန္စံု ရႈမွတ္ပံု (၁)
+428.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/915%20-%2013_7_2009.mp3|၄၁၅။ သတိပ႒ာန္စံု ရႈမွတ္ပံု (၂)
+429.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/916%20-%2015-7-2009(1).mp3|၄၁၆။ ၁၅-၀၇-၂၀၀၉ ေလာကီမဂ္ ႏွင့္ ေလာကုတၱရာမဂ္ ထူးျခားပံု
+430.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/917%20-%2016-7-2009(2).mp3|၄၁၇။ ၁၆-၀၇-၂၀၀၉ ေလာကီမဂ္ ႏွင့္ ေလာကုတၱရာမဂ္ ထူးျခားပံု
+431.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/918%20-%2017-7-2009(3).mp3|၄၁၈။ ၁၇-၀၇-၂၀၀၉ ေလာကီမဂ္ ႏွင့္ ေလာကုတၱရာမဂ္ ထူးျခားပံု
+432.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/919%20-%2018-7-2009(4).mp3|၄၁၉။ ၁၈-၀၇-၂၀၀၉ ေလာကီမဂ္ ႏွင့္ ေလာကုတၱရာမဂ္ ထူးျခားပံု
+433.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/920%20-%2019-7-2009(5).mp3|၄၂၀။ ၁၉-၀၇-၂၀၀၉ ေလာကီမဂ္ ႏွင့္ ေလာကုတၱရာမဂ္ ထူးျခားပံု
+434.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/921%20-%2018-7-2009(1).mp3|၄၂၁။ ၁၈-၀၇-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း
+435.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/922%20-%2019-7-2009(2).mp3|၄၂၂။ ၁၉-၀၇-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း
+436.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/923%20-%2020-7-2009(3).mp3|၄၂၃။ ၂၀-၀၇-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း
+437.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/924%20-%2021-7-2009(4).mp3|၄၂၄။ ၂၁-၀၇-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း
+438.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/925%20-%2022-7-2009(5).mp3|၄၂၅။ ၂၂-၀၇-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း
+439.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/926%20-%2023-7-2009(6).mp3|၄၂၆။ ၂၃-၀၇-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း
+440.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/927%20-%2024-7-2009(7).mp3|၄၂၇။ ၂၄-၀၇-၂၀၀၉ ပဋိစၥသမုပၸာဒ္ သင္တန္း
+441.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/928%20-%2030.8.2009%20%20N.mp3|၄၂၈။ ႂကြက္ေလးမ်ိဳး ဥပမာျပ (၁)
+442.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/929%20-%203.9.2009%20%20N.mp3|၄၂၉။ ျကြက္ေလးမ်ိဳး ဥပမာျပ (၂)
+443.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/930%20-%204.9.2009%20%20N%20%20Zaw-7.mp3|၄၃၀။ ေဇာ (၇) ႀကိမ္ (၁)
+444.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/931%20-%205.9.2009%20%20N.mp3|၄၃၁။ ေဇာ (၇) ႀကိမ္ (၂)
+445.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/932%20-%206.9.2009%20%20N.mp3|၄၃၂။ ဝဋ္ေႂကြးလြန္ေျမာက္ နိဗၺာန္ ေရာက္
+446.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/933%20-%209.10.2009%20%20N.mp3|၄၃၃။ ျပံဳးေသျဖစ္မွ စိတ္ခ်ရ
+447.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/934%20-%2029.10.2009%20%20EV.mp3|၄၃၄။ ေလ်ာက္ေသာလမ္းေတြ ေျဖာင့္ပါေစ
+448.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/935%20-%2030.10.2009%20%20EV.mp3|၄၃၅။ ပရမဂ္ဉာဏ္ျမင္ နိဗၺာန္ဝင္ (၁)
+449.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/936%20-%2031.10.2009%20%20EV.mp3|၄၃၆။ ပရမဂ္ဉာဏ္ျမင္ နိဗၺာန္ဝင္ (၂)
+450.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/937%20-%201.11.2009%20%20EV.mp3|၄၃၇။ လကၡဏာ ျမင္မွ နိဗၺာန္ရ
+451.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/938%20-%202.11.2009%20%20EV.mp3|၄၃၈။ ေလာက္ကီမဂ္ ႏွင့္ ေလာကုတၱရာမဂ္ ထူး ျခားပံု (၁)
+452.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/939%20-%203.11.2009%20%20EV.mp3|၄၃၉။ ေလာက္ကီမဂ္ ႏွင့္ ေလာကုတၱရာမဂ္ ထူး ျခားပံု (၂)
+453.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/940%20-%207.11.2009%20%20MN.mp3|၄၄၀။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၁)
+454.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/941%20-%208.11.2009%20%20MN.mp3|၄၄၁။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၂)
+455.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/942%20-%209.11.2009%20%20MN.mp3|၄၄၂။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၃)
+456.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/943%20-%2010.11.2009%20%20MN.mp3|၄၄၃။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၄)
+457.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/944%20-%2011.11.2009%20%20MN.mp3|၄၄၄။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၅)
+458.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/945%20-%2012.11.2009%20%20MN.mp3|၄၄၅။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၆)
+459.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/946%20-%2013.11.2009%20%20MN.mp3|၄၄၆။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၇)
+460.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/947%20-%2014.11.2009%20%20MN.mp3|၄၄၇။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၈)
+461.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/948%20-%2015.11.2009%20%20MN.mp3|၄၄၈။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၉)
+462.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/949%20-%2016.11.2009%20%20MN.mp3|၄၄၉။ ပဋိစၥသမုပၸာဒ္ သင္တန္း (၁၀)
+463.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/950%20-%207.11.2009%20%20EV.mp3|၄၅၀။ ေလ်ာက္ေသာလမ္းေတြ ေျဖာင့္ပါေစ အလုပ္သင္
+464.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/951%20-%208.11.2009%20%20EV.mp3|၄၅၁။ ပညတ္ပယ္လွ်င္ အမွန္ျမင္ အလုပ္သင္
+465.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/952%20-%209.11.2009%20%20EV.mp3|၄၅၂။ ပရမတ္ဉာဏ္ျမင္ နိဗၺာန္ဝင္
+466.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/953%20-%2010.11.2009%20%20EV.mp3|၄၅၃။ လကၡဏာျမင္မွ နိဗၺာန္ရ (၁)
+467.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/954%20-%2011.11.2009%20%20EV.mp3|၄၅၄။ လကၡဏာျမင္မွ နိဗၺာန္ရ (၂)
+468.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/955%20-%2012.11.2009%20%20EV.mp3|၄၅၅။ ေလာက္ကီမဂ္ ႏွင့္ ေလာကုတၱရာမဂ္ ထူး ျခားပံု
+469.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/956%20-%2013.11.2009%20%20EV.mp3|၄၅၆။ ပုဂၢိဳလ္ (၄) မ်ိဳး
+470.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/957%20-%2014.11.2009%20%20EV.mp3|၄၅၇။ ေယာဂီေလးမ်ိဳး က်င့္စဥ္ေလးျဖာ အလုပ္သင္ (၁)
+471.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/958%20-%2015.11.2009%20%20EV.mp3|၄၅၈။ ေယာဂီေလးမ်ိဳး က်င့္စဥ္ေလးျဖာ အလုပ္သင္ (၂)
+472.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/959%20-%2016.11.2009%20%20EV.mp3|၄၅၉။ ဝိသုဒၶိ (၇) ပါး ရထား (၇) စင္း ဥပမာျပ
+473.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/960%20-%2012.11.2009%20%20N.mp3|၄၆၀။ ဗုဒၶမိန္႔ေႁခြ စကား ႏွစ္ေထြ (၁)
+474.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/961%20-%2013.11.2009%20%20N.mp3|၄၆၁။ ဗုဒၶမိန္႔ေႁခြ စကား ႏွစ္ေထြ (၂)
+475.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/962%20-%2014.11.2009%20%20N.mp3|၄၆၂။ ေဝဖန္ျပဳပါ ကံေလးျဖာ
+476.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/963%20-%2015.11.2009%20%20N.mp3|၄၆၃။ ခြဲျခားသိပါ ကံေလးျဖာ
+477.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/964%20-%2016.11.2009%20%20N.mp3|၄၆၄။ အျပန္လမ္း (၁)
+478.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/965%20-%2017.11.2009%20%20N.mp3|၄၆၅။ အျပန္လမ္း (၂)
+479.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/966%20-%2018.11.2009%20%20N.mp3|၄၆၆။ ကိုယ့္ကိုယ္ ကိုသာ ေစာင့္ေရွာက္ရာ
+480.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/967%20-%2019.11.09%20%20N.mp3|၄၆၇။ ေနေရးဆင္ျခင္ ေသေရးျပင္
+481.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/968%20-%2020.11.2009%20%20N.mp3|၄၆၈။ ဗုဒၶဘာသာ ႏွင့္ သရဏဂံု
+482.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/969%20-%2021.11.2009%20%20N.mp3|၄၆၉။ ေဝဖန္စစ္ေဆး ဘာသာေရး (၁)
+483.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/970%20-%2022.11.2009%20%20N.mp3|၄၇၀။ ေဝဖန္စစ္ေဆး ဘာသာေရး (၂)
+484.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/971%20-%2024.11.2009%20N%20(1).mp3|၄၇၁။ ဥပါသကာ ဂုဏ္ရည္ (၁)
+485.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/972%20-%2025.11.2009%20%20N%20(2).mp3|၄၇၂။ ဥပါသကာ ဂုဏ္ရည္ (၂)
+486.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/973%20-%2026.11.2009%20N%20(3).mp3|၄၇၃။ ဥပါသကာ ဂုဏ္ရည္ (၃)
+487.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/974%20-%2029.11.2009%20N.mp3|၄၇၄။ ကံႀကီးထိုက္မွာ ေၾကာက္စရာ
+488.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/975%20%20-%2011.12.2009%20N.mp3|၄၇၅။ သရဏဂံုအႏွစ္ ဗုဒၶဘာသာအစစ္ (၁)
+489.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/976%20-%2012.12.2009%20N.mp3|၄၇၆။ သရဏဂံုအႏွစ္ ဗုဒၶဘာသာအစစ္ (၂)
+490.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/977%20-%2013.12.2009%20N.mp3|၄၇၇။ စရိယသံုးေထြက်င့္တတ္ေစ
+491.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/978%20-%2014.12.2009%20N.mp3|၄၇၈။ ျမတ္ေသာအေမြ ယူတတ္ေစ
+492.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/979%20-%2015.12.2009%20N.mp3|၄၇၉။ သံသယကင္း ဉာဏ္ျမင္ရွင္း
+493.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/980%20-%2021.12.2009%20N%20(1).mp3|၄၈၀။ ခရီးသြား နဲ႔ ခရီးနား (၁)
+494.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/981%20-%2023.12.2009%20N%20(2).mp3|၄၈၁။ ခရီးသြား နဲ႔ ခရီးနား (၂)
+495.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/982%20-%2024.12.2009%20N%20(3).mp3|၄၈၂။ ခရီးသြား နဲ႔ ခရီးနား (၃)
+496.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/983%20-%2025.12.2009%20N%20(4).mp3|၄၈၃။ ခရီးသြား နဲ႔ ခရီးနား (၄)
+497.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/984%20-%2023.10.2009%20%20EV.mp3|၄၈၄။ စူဠမဟာ က်င့္ႏွစ္ျဖာ အလုပ္သင္ (၁)
+498.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/985%20-%2024.10.2009%20%20EV.mp3|၄၈၅။ စူဠမဟာ က်င့္ႏွစ္ျဖာ အလုပ္သင္ (၂)
+499.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/986%20-%2028.10.2009%20%20N.mp3|၄၈၆။ နတ္တို႔ မွာတမ္း (၁)
+500.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/987%20-%2029.10.2009%20%20N.mp3|၄၈၇။ နတ္တို႔ မွာတမ္း (၂)
+501.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/988%20-%2030.10%202009%20%20N.mp3|၄၈၈။ ရဲရင့္သူတိုု႔၏ ႏွလံုးသား
+502.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/989%20-%2031.10.2009%20%20N.mp3|၄၈၉။ ကံႀကီးထိုက္မွာ ေၾကာက္စရာ
+503.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/990%20-%201.11.2009%20%20N.mp3|၄၉၀။ မဂၢင္က်င့္ ျမတ္ ဝဋ္ေႂကြးျဖတ္ (၁)
+504.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/991%20-%202.11.2009%20%20N.mp3|၄၉၁။ မဂၢင္က်င့္ ျမတ္ ဝဋ္ေႂကြးျဖတ္ (၂)
+505.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/992%20-%203.11.2009%20%20N.mp3|၄၉၂။ ေဇာ (၇) ႀကိမ္
+506.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/993%20-%204.11.2009%20%20N.mp3|၄၉၃။ မီးေလာင္ျပင္မွာ ပြင့္ေသာၾကာ
+507.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/994%20-%203.12.2009.mp3|၄၉၄။ ေနေရးဆင္ျခင္ ေသေရး ျပင္ (၁)
+508.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/995%20-%204.12.2009.mp3|၄၉၅။ ေနေရးဆင္ျခင္ ေသေရး ျပင္ (၂)
+509.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/996%20-%205.12.2009.mp3|၄၉၆။ အျပန္လမ္း (၁)
+510.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/997%20-%206.12.2009.mp3|၄၉၇။ အျပန္လမ္း (၂)
+511.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/998%20-%207.12.2009.mp3|၄၉၈။ အျပန္လမ္း (၃)
+512.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/999%20-%208.12.2009.mp3|၄၉၉။ ကံႀကီးထိုက္မွာ ေၾကာက္စရာ
+513.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/500/1000%20-%2016.12.2009%20%20N.mp3|၅၀၀။ အေမွာင္ကိုခြင္း အလင္း ကိုေဆာင္
+514.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/No-48/01.mp3|၁။ စိတ္ကိုေစာင့္ေရွာက္ နိဗၺာန္ေရာက္ စိတၱာႏုပႆ နာ ရႈပြားနည္း (၅.၂.၂၀၁၅) ညေနပိုင္း
+515.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/No-48/02.mp3|၂။ စိတ္ကိုေစာင့္ေရွာက္ နိဗၺာန္ေရာက္ စိတၱာႏုပႆ နာ ရႈပြားနည္း (၆.၂.၂၀၁၅) ညေနပိုင္း
+516.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/No-48/03.mp3|၃။ စိတ္ကိုေစာင့္ေရွာက္ နိဗၺာန္ေရာက္ စိတၱာႏုပႆ နာ ရႈပြားနည္း (၇.၂.၂၀၁၅) ညေနပိုင္း
+517.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/No-48/04.mp3|၄။ စိတ္ကိုေစာင့္ေရွာက္ နိဗၺာန္ေရာက္ စိတၱာႏုပႆ နာ ရႈပြားနည္း (၈.၂.၂၀၁၅) ညေနပိုင္း
+518.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/No-48/05.mp3|၅။ အရွင္တိကၡ (ဓမၼရံသီ) ခႏၶာထဲမွာ တရားရွာ အေျခခံဝိပႆ နာ ရႈပြားနည္း (၉.၂.၂၀၁၅)
+519.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/No-48/06.mp3|၆။ အဖံုးငါးသြယ္ ဖတ္ရႈဖြယ္ (၁၁.၂.၂၀၁၅) ညေနပိုင္း
+520.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/No-48/07.mp3|၇။ အရွင္တိကၡ (ဓမၼရံသီ) ခႏၶာထဲမွာ တရားရွာ အေျခခံဝိပႆ နာ ရႈပြားနည္း (၁၂.၂.၂၀၁၅)
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/00-%206-11-2009%20N.mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/01_(7-11-09%20AM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/02_(8-11-09%20AM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/03_(9-11-09%20AM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/04_(10-11-09%20AM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/05_(11-11-09%20AM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/06_(12-11-09%20AM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/07_(13-11-09%20AM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/08_(14-11-09%20AM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/09_(15-11-09%20AM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/10_(16-11-09%20AM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/11_(7-11-09%20PM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/12_(8-11-09%20PM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/13_(9-11-09%20PM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/14_(10-11-09%20PM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/15_(11-11-09%20PM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/16_(12-11-09%20PM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/17_(13-11-09%20PM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/18_(14-11-09%20PM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/19_(15-11-09%20PM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/20_(16-11-09%20PM).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/21_(8-11-09%20N).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/22_(9-11-09%20N).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/23_(10-11-09%20N).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/24_(11-11-09%20N).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/25_(7-11-09%20M).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/26_(M1).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/27_(M2).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/28_(M3).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/29_(M4).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/30_(M5).mp3|အလုပ္ေပးတရားေတာ္ 
+538.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/31_(M6).mp3|အလုပ္ေပးတရားေတာ္ 
+547.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/26_%28M1%29.mp3|အလုပ္ေပးတရားေတာ္ (၁)
+548.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/27_%28M2%29.mp3|အလုပ္ေပးတရားေတာ္ (၂)
+549.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/28_%28M3%29.mp3|အလုပ္ေပးတရားေတာ္ (၃)
+550.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/29_%28M4%29.mp3|အလုပ္ေပးတရားေတာ္ (၄)
+551.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/30_%28M5%29.mp3|အလုပ္ေပးတရားေတာ္ (၅)
+552.mp3|https://media.thitsarparamisociety.com/mp3/2009%20Mogok%20Tayar%20Pwe%20Gyi/24%2006-16%20Nov%2009%20U%20ThuNanDa%20Dhama%20YanThi/31_%28M6%29.mp3|အလုပ္ေပးတရားေတာ္ (၆)
+553.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/05-Lasho%20Pahtan-1/3.3.2006%281%29.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+554.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/05-Lasho%20Pahtan-1/3.3.2006%282%29.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+555.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/05-Lasho%20Pahtan-1/3.3.2006%283%29.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+556.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/05-Lasho%20Pahtan-1/4.6.2006%284%29.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+557.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/05-Lasho%20Pahtan-1/4.6.2006%285%29.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+558.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/05-Lasho%20Pahtan-1/4.6.2006%286%29.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+559.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/05-Lasho%20Pahtan-1/5.6.2006%287%29.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+560.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/01-9-04/Dhamma8.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+561.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/05-Lasho%20Pahtan-1/5.6.2006%289%29.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+562.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/02-9-04/01%2031.8.2004.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+563.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/02-9-04/02%201.9.2004.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+564.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/02-9-04/03%202.9.2004.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+565.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/02-9-04/04%203.9.2004.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+566.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/02-9-04/05%204.9.2004.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+567.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/02-9-04/06%205.9.2004.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+568.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/02-9-04/07%206.9.2004.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+569.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/02-9-04/08%207.9.2004.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+570.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/02-9-04/09%208.9.2004.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+571.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/02-9-04/10%209.9.2004.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+572.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/03-9-04/01%208.9.2004.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+573.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/03-9-04/02%209.9.2004.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+574.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/03-9-04/03%2010.9.2004.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+575.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/03-9-04/04%2011.9.2004.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+576.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/03-9-04/05%2012.9.2004.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+577.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/03-9-04/06%2013.9.2004.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+578.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/03-9-04/07%2014.9.2004.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+579.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/03-9-04/08%2015.9.2004.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+580.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/03-9-04/09%2016.9.2004.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+581.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/03-9-04/10%2017.9.2004.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+582.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/10-7-07%20M/01%20%20%205.7.07%20AM.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+583.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/10-7-07%20M/03%20%20%207.7.07%20%20AM.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+584.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/10-7-07%20M/04%20%20%208.7.07%20%20AM.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+585.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/10-7-07%20M/05%20%20%209.7.07%20AM.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+586.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/10-7-07%20M/06%20%2010.7.07%20AM.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+587.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/10-7-07%20M/07%20%2011.7.07%20AM.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+588.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/10-7-07%20M/08%20%2012.7.07%20AM.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+589.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/10-7-07%20M/09%20%2013.7.07%20AM.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+590.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/10-7-07%20M/10%20%2014.7.07%20AM.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+591.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/11-7-07%20E/01%20%20%205.7.07%20PM.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+592.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/11-7-07%20E/02%20%20%206.7.07%20PM.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+593.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/11-7-07%20E/03%20%20%207.7.07%20PM.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+594.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/11-7-07%20E/04%20%20%208.7.07%20PM.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+595.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/11-7-07%20E/05%20%20%209.7.07%20PM.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+596.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/11-7-07%20E/06%20%2010.7.07%20%20PM.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+597.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/11-7-07%20E/08%20%2012.7.07%20PM.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+598.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/11-7-07%20E/09%20%2013.7.07%20PM.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+599.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/11-7-07%20E/10%20%2014.7.07%20PM.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+600.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/11-7-07%20E/11%20%20%2014.7.07%20N.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+601.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/12-2006%20Monywa%20NS/%281%29%2027.2.06.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+602.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/12-2006%20Monywa%20NS/%282%29%2028.2.06.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+603.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/12-2006%20Monywa%20NS/%283%29%201.3.06.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+604.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/12-2006%20Monywa%20NS/%284%29%202.3.06.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+605.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/12-2006%20Monywa%20NS/%285%29%203.3.06.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+606.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/12-2006%20Monywa%20NS/%286%294.3.06.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+607.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/12-2006%20Monywa%20NS/%287%29%205.3.06.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+608.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/12-2006%20Monywa%20NS/%288%29%206.3.06.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+609.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/13-2007%20Lasho/%2811%29%2027.6.2007.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+610.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/13-2007%20Lasho/%2812%29%2027.6.2007.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+611.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/13-2007%20Lasho/%2813%2928.6.2007.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+612.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/13-2007%20Lasho/%2814%29%2028.6.2007.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+613.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/13-2007%20Lasho/%2815%29%2028.6.2007.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+614.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/13-2007%20Lasho/%2816%29%2029.6.2007.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+615.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/13-2007%20Lasho/%2817%29%2029.6.2007.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+616.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/13-2007%20Lasho/%2818%29%2029.6.2007.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+617.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/13-2007%20Lasho/%2819%29%2030.6.2007.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+618.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/13-2007%20Lasho/%2820%29%2030.6.2007.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+619.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/14-2007%20MG%20DMYT/1N%2012.4.07.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+620.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/14-2007%20MG%20DMYT/2N%2013.4.07.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+621.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/14-2007%20MG%20DMYT/3N%2014.4.07.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+622.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/14-2007%20MG%20DMYT/4N%2015.4.07.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+623.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/14-2007%20MG%20DMYT/5N%2016.4.07.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+624.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/14-2007%20MG%20DMYT/6N%2017.4.07.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+625.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/14-2007%20MG%20DMYT/7N%2018.4.07.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+626.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/14-2007%20MG%20DMYT/8N%2019.4.07.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+627.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/14-2007%20MG%20DMYT/9N%2020.4.07.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+628.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%281%29%2017.2.07.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+629.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%282%2918.2.07.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+630.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%283%29%2019.2.07.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+631.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%284%29%2020.2.07.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+632.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%285%29%2022.2.07.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+633.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%286%29%2023.2.07.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+634.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%287%29%2017.2.07.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+635.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%288%29%2018.2.07.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+636.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%289%29%2019.2.07.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+637.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%2810%2920.2.07.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+638.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%2811%2922.2.07.mp3|၁၁။တရားေတာ္အမွတ္ (၁၁)
+639.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%2812%29%2017.2.07.mp3|၁၂။တရားေတာ္အမွတ္ (၁၂)
+640.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%2813%2918.2.07.mp3|၁၃။တရားေတာ္အမွတ္ (၁၃)
+641.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%2814%29%2019.2.07.mp3|၁၄။တရားေတာ္အမွတ္ (၁၄)
+642.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%2815%2920.2.07.mp3|၁၅။တရားေတာ္အမွတ္ (၁၅)
+643.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%2816%29%2021.2.07.mp3|၁၆။တရားေတာ္အမွတ္ (၁၆)
+644.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%2817%20%2922.2.07.mp3|၁၇။တရားေတာ္အမွတ္ (၁၇)
+645.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/15-2007%20Monwya/%7B18%7D%2023.2.07.mp3|၁၈။တရားေတာ္အမွတ္ (၁၈)
+646.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/16-2007%20Myitkyina/1%2026.4.07.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+647.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/16-2007%20Myitkyina/2%2027.4.07.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+648.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/16-2007%20Myitkyina/3%2028.4.07.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+649.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/16-2007%20Myitkyina/4%2029.4.07.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+650.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/16-2007%20Myitkyina/5%2030.4.07.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+651.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/16-2007%20Myitkyina/6%201.5.07.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+652.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/16-2007%20Myitkyina/7%202.5.07.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+653.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/16-2007%20Myitkyina/8%203.5.07.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+654.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/16-2007%20Myitkyina/9%204.5.07.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+655.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/16-2007%20Myitkyina/A%205.5.07.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+656.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/16-2007%20Myitkyina/B%205.5.07.mp3|၁၁။တရားေတာ္အမွတ္ (၁၁)
+657.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/17-2007%20Pharcant/1N%207.5.07.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+658.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/17-2007%20Pharcant/2N%208.5.07%5B1%5D.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+659.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/17-2007%20Pharcant/3N%209.5.07.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+660.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/17-2007%20Pharcant/4N%2010.5.07.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+661.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/17-2007%20Pharcant/5N%2011.5.07.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+662.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/17-2007%20Pharcant/6N%2012.5.07.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+663.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/17-2007%20Pharcant/7N%2013.5.07.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+664.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/01%2029.9.2004.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+665.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/02%2028.9.2004.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+666.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/03%2027.9.2004.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+667.|http:/https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/04%2026.9.2004.mp3/|၄။ တရားေတာ္အမွတ္ (၄)
+668.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/05%2023.9.2004.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+669.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/06%2022.9.2004.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+670.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/08%2020.9.2004.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+671.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/09%2019.9.2004.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+672.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/10%2018.9.2004.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+682.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/06-Lasho%20Pahtan-2/6.6.2006%2811%29.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+683.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/06-Lasho%20Pahtan-2/6.6.2006%2812%29.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+684.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/06-Lasho%20Pahtan-2/7.6.2006%2813%29.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+685.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/06-Lasho%20Pahtan-2/7.6.2006%2814%29.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+686.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/06-Lasho%20Pahtan-2/7.6.2006%2815%29.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+687.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/06-Lasho%20Pahtan-2/8.6.2006%2816%29.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+688.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/06-Lasho%20Pahtan-2/8.6.2006%2817%29.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+689.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/06-Lasho%20Pahtan-2/8.6.2006%2818%29.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+690.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/06-Lasho%20Pahtan-2/9.6.2006%2819%29.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+691.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/06-Lasho%20Pahtan-2/9.6.2006%2820%29.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+692.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/01%20%2808.9.04%29.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+693.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/02%20%2809.9.04%29.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+694.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/03%20%2810.9.04%29.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+695.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/04%20%2811.9.04%29.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+696.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/05%20%2812.9.04%29.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+697.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/06%20%2813.9.04%29.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+698.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/07%20%2814.9.04%29.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+699.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/08%20%2815.9.04%29.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+700.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/09%20%2816.9.04%29.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+701.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/10%20%2817.9.04%29.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+702.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/11%20%2818.9.04%29.mp3|၁၁။တရားေတာ္အမွတ္ (၁၁)
+703.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/12%20%2819.9.04%29.mp3|၁၂။တရားေတာ္အမွတ္ (၁၂)
+704.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/13%20%2820.9.04%29.mp3|၁၃။တရားေတာ္အမွတ္ (၁၃)
+705.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/14%20%2821.9.04%29.mp3|၁၄။တရားေတာ္အမွတ္ (၁၄)
+706.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/15%20%2822.9.04%29.mp3|၁၅။တရားေတာ္အမွတ္ (၁၅)
+707.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/16%20%2823.9.04%29.mp3|၁၆။တရားေတာ္အမွတ္ (၁၆)
+708.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/17%20%2826.9.04%29.mp3|၁၇။တရားေတာ္အမွတ္ (၁၇)
+709.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/18%20%2827.9.04%29.mp3|၁၈။တရားေတာ္အမွတ္ (၁၈)
+710.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/19%20%2828.9.04%29.mp3|၁၉။တရားေတာ္အမွတ္ (၁၉)
+711.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/22-Slt-1/20%20%2829.9.04%29.mp3|၂၀။တရားေတာ္အမွတ္ (၂၀)
+712.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/20061116.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+713.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/20061117.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+714.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/20061118.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+715.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/20061119.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+716.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/20061120.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+717.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/20061121.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+718.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/20061122.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+719.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/20061123.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+720.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/20061124.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+721.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/20061125.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+722.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/MateKaungKyayZu.mp3|၁၁။တရားေတာ္အမွတ္ (၁၁)
+723.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/PaRainNyar3Tan_A.mp3|၁၂။တရားေတာ္အမွတ္ (၁၂)
+724.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/PaRainNyar3Tan_C.mp3|၁၃။တရားေတာ္အမွတ္ (၁၃)
+725.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/PaRiNyarThoneTan.mp3|၁၄။တရားေတာ္အမွတ္ (၁၄)
+726.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/PyoneThay.mp3|၁၅။တရားေတာ္အမွတ္ (၁၅)
+727.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/ThawTarPanTiKyaung.mp3|၁၆။တရားေတာ္အမွတ္ (၁၆)
+728.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/ViThodeDi7Par.mp3|၁၇။တရားေတာ္အမွတ္ (၁၇)
+729.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/23-Slt-2/YatPyit8Par.mp3|၁၈။တရားေတာ္အမွတ္ (၁၈)
+730.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/24-BUD%205/DIV00000.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+731.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/24-BUD%205/DIV00001.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+732.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/24-BUD%205/DIV00002.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+733.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/24-BUD%205/DIV00003.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+734.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/24-BUD%205/DIV00004.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+735.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/24-BUD%205/DIV00005.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+736.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/24-BUD%205/DIV00006.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+737.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/25-Karyarnupasana/DIV00000.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+738.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/25-Karyarnupasana/DIV00001.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+739.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/25-Karyarnupasana/DIV00002.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+740.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/25-Karyarnupasana/DIV00003.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+741.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/26-Satetarnupasana/DIV00000.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+742.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/26-Satetarnupasana/DIV00001.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+743.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/26-Satetarnupasana/DIV00002.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+744.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/26-Satetarnupasana/DIV00003.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+745.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2801%29U%20THU%20NANDA%2827.8.05%29.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+746.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2802%29U%20THU%20NANDA%2828.8.05%29.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+747.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2803%29U%20THU%20NANDA%2829.8.05%29.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+748.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2804%29U%20THU%20NANDA%2830.8.05%29.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+749.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2805%29U%20THU%20NANDA%2831.8.05%29.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+750.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2806%29U%20THU%20NANDA%281.9.05%29.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+751.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2807%29U%20THU%20NANDA%282.9.05%29.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+752.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2808%29U%20THU%20NANDA%283.9.05%29.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+753.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2809%29U%20THU%20NANDA%284.9.05%29.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+754.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2810%29U%20THU%20NANDA%285.9.05%29.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+755.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2811%29U%20THU%20NANDA%286.9.05%29.mp3|၁၁။တရားေတာ္အမွတ္ (၁၁)
+756.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2812%29U%20THU%20NANDA%287.9.05%29.mp3|၁၂။တရားေတာ္အမွတ္ (၁၂)
+757.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2813%29U%20THU%20NANDA%288.9.05%29.mp3|၁၃။တရားေတာ္အမွတ္ (၁၃)
+758.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2814%29U%20THU%20NANDA%289.9.05%29.mp3|၁၄။တရားေတာ္အမွတ္ (၁၄)
+759.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2815%29U%20THU%20NANDA%2810.9.05%29.mp3|၁၅။တရားေတာ္အမွတ္ (၁၅)
+760.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2816%29U%20THU%20NANDA%2811.9.05%29.mp3|၁၆။တရားေတာ္အမွတ္ (၁၆)
+761.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2817%29U%20THU%20NANDA%2812.9.05%29.mp3|၁၇။တရားေတာ္အမွတ္ (၁၇)
+762.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2818%29U%20THU%20NANDA%2813.9.05%29.mp3|၁၈။တရားေတာ္အမွတ္ (၁၈)
+763.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2819%29U%20THU%20NANDA%2814.9.05%29.mp3|၁၉။တရားေတာ္အမွတ္ (၁၉)
+764.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2820%29U%20THU%20NANDA%2815.9.05%29.mp3|၂၀။တရားေတာ္အမွတ္ (၂၀)
+765.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2821%29U%20THU%20NANDA%2816.9.05%29.mp3|၂၁။တရားေတာ္အမွတ္ (၂၁)
+766.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2822%29UTHU%20NANDA%2817.9.05%29.mp3|၂၂။တရားေတာ္အမွတ္ (၂၂)
+767.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2823%29U%20THU%20NANDA%2818.9.05%29.mp3|၂၃။တရားေတာ္အမွတ္ (၂၃)
+768.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2824%29U%20THU%20NANDA%2819.9.05%29.mp3|၂၄။တရားေတာ္အမွတ္ (၂၄)
+769.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2825%29U%20THU%20NANDA%28%2020.9.05%29.mp3|၂၅။တရားေတာ္အမွတ္ (၂၅)
+770.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2826%29U%20THU%20NANDA%2821.9.05%29.mp3|၂၆။တရားေတာ္အမွတ္ (၂၆)
+771.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2827%29U%20THU%20NANDA%2822.9.05%29.mp3|၂၇။တရားေတာ္အမွတ္ (၂၇)
+772.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2828%29U%20THU%20NANDA%2824.9.05%29.mp3|၂၈။တရားေတာ္အမွတ္ (၂၈)
+773.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2829%29U%20THU%20NANDA%2825.9.05%29.mp3|၂၉။တရားေတာ္အမွတ္ (၂၉)
+774.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2830%29U%20THU%20NANDA%2826.9.05%29.mp3|၃၀။တရားေတာ္အမွတ္ (၃၀)
+775.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2831%29U%20THU%20NANDA%2827.9.05%29.mp3|၃၁။တရားေတာ္အမွတ္ (၃၁)
+776.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/27-MGL-05/%2832%29U%20THU%20NANDA%2828.9.05%29.mp3|၃၂။တရားေတာ္အမွတ္ (၃၂)
+777.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/07-BUD%20Pahtan/6.6.2006%2811%29.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+778.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/07-BUD%20Pahtan/6.6.2006%2812%29.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+779.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/07-BUD%20Pahtan/7.6.2006%2813%29.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+780.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/07-BUD%20Pahtan/7.6.2006%2814%29.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+781.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/07-BUD%20Pahtan/7.6.2006%2815%29.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+782.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/07-BUD%20Pahtan/8.6.2006%2816%29.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+783.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/07-BUD%20Pahtan/8.6.2006%2817%29.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+784.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/07-BUD%20Pahtan/8.6.2006%2818%29.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+785.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/07-BUD%20Pahtan/9.6.2006%2819%29.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+786.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/07-BUD%20Pahtan/9.6.2006%2820%29.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+787.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/08-2006/001-10%20Day%20course%20day%20%281%29.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+788.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/08-2006/002-10%20Day%20course%20day%20%282%29.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+789.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/08-2006/003-10%20Day%20course%20day%20%283%29.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+790.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/08-2006/004-10%20Day%20course%20day%20%284%29.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+791.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/08-2006/005-10%20Day%20course%20day%20%285%29.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+792.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/08-2006/006-10%20Day%20course%20day%20%286%29.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+793.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/08-2006/007-10%20Day%20course%20day%20%287%29.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+794.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/08-2006/008-10%20Day%20course%20day%20%288%29.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+795.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/08-2006/009-10%20Day%20course%20day%20%289%29.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+796.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/08-2006/010-10%20Day%20course%20day%20%2810%29.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+797.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/01%20%20%20%204.7.07%20N.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+798.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/02%20%20%20%205.7.07%20N%20%5B1%5D.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+799.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/03%20%20%20%207.7.07%20N%20%5B2%5D.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+800.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/04%20%20%20%208.7.07%20N%20%5B3%5D.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+801.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/05%20%20%20%209.7.07%20N%20%5B4%5D.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+802.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/06%20%20%2010.7.07%20N%20%5B5%5D.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+803.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/07%20%20%20%20Method%20%5B1%5D.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+804.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/08%20%20%20%20Method%20%5B2%5D.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+805.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/09%20%20%20%20Method%20%5B3%5D.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+806.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/10%20%20%20Method%20%5B4%5D.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+807.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/12%20%20%20Method%20%5B6%5D.mp3|၁၁။တရားေတာ္အမွတ္ (၁၁)
+808.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/09-7-07%20A/13%20%20%20Method%20%5B7%5D.mp3|၁၂။တရားေတာ္အမွတ္ (၁၂)
+809.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG1.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+810.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG2.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+811.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG3.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+812.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG4.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+813.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG5.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+814.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG6.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+815.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG7.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+816.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG8.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+817.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG9.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+818.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG10.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+819.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG11.mp3|၁၁။တရားေတာ္အမွတ္ (၁၁)
+820.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG12.mp3|၁၂။တရားေတာ္အမွတ္ (၁၂)
+821.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG13.mp3|၁၃။တရားေတာ္အမွတ္ (၁၃)
+822.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG14.mp3|၁၄။တရားေတာ္အမွတ္ (၁၄)
+823.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG15.mp3|၁၅။တရားေတာ္အမွတ္ (၁၅)
+824.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG16.mp3|၁၆။တရားေတာ္အမွတ္ (၁၆)
+825.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG17.mp3|၁၇။တရားေတာ္အမွတ္ (၁၇)
+826.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG18.mp3|၁၈။တရားေတာ္အမွတ္ (၁၈)
+827.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG19.mp3|၁၉။တရားေတာ္အမွတ္ (၁၉)
+828.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG20.mp3|၂၀။တရားေတာ္အမွတ္ (၂၀)
+829.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG21.mp3|၂၁။တရားေတာ္အမွတ္ (၂၁)
+830.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG22.mp3|၂၂။တရားေတာ္အမွတ္ (၂၂)
+831.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG23.mp3|၂၃။တရားေတာ္အမွတ္ (၂၃)
+832.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG24.mp3|၂၄။တရားေတာ္အမွတ္ (၂၄)
+833.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG25.mp3|၂၅။တရားေတာ္အမွတ္ (၂၅)
+834.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG26.mp3|၂၆။တရားေတာ္အမွတ္ (၂၆)
+835.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG27.mp3|၂၇။တရားေတာ္အမွတ္ (၂၇)
+836.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG28.mp3|၂၈။တရားေတာ္အမွတ္ (၂၈)
+837.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG29.mp3|၂၉။တရားေတာ္အမွတ္ (၂၉)
+838.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/20-Mingalar-1%2807%29/MG30.mp3|၃၀။တရားေတာ္အမွတ္ (၃၀)
+839.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/01%20%2808.9.04%29.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+840.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/02%20%2809.9.04%29.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+841.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/03%20%2810.9.04%29.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+842.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/04%20%2811.9.04%29.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+843.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/05%20%2812.9.04%29.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+844.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/06%20%2813.9.04%29.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+845.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/07%20%2814.9.04%29.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+846.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/08%20%2815.9.04%29.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+847.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/09%20%2816.9.04%29.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+848.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/10%20%2817.9.04%29.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+849.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/11%20%2818.9.04%29.mp3|၁၁။တရားေတာ္အမွတ္ (၁၁)
+850.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/12%20%2819.9.04%29.mp3|၁၂။တရားေတာ္အမွတ္ (၁၂)
+851.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/13%20%2820.9.04%29.mp3|၁၃။တရားေတာ္အမွတ္ (၁၃)
+852.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/14%20%2821.9.04%29.mp3|၁၄။တရားေတာ္အမွတ္ (၁၄)
+853.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/15%20%2822.9.04%29.mp3|၁၅။တရားေတာ္အမွတ္ (၁၅)
+854.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/16%20%2823.9.04%29.mp3|၁၆။တရားေတာ္အမွတ္ (၁၆)
+855.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/17%20%2826.9.04%29.mp3|၁၇။တရားေတာ္အမွတ္ (၁၇)
+856.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/18%20%2827.9.04%29.mp3|၁၈။တရားေတာ္အမွတ္ (၁၈)
+857.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/19%20%2828.9.04%29.mp3|၁၉။တရားေတာ္အမွတ္ (၁၉)
+858.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/21-PaHtan/20%20%2829.9.04%29.mp3|၂၀။တရားေတာ္အမွတ္ (၂၀)
+859.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/18-2007%20POL/16.7.2007%20%201.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+860.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/18-2007%20POL/17.7.2007%202.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+861.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/18-2007%20POL/18.7.2007%20%203.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+862.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/18-2007%20POL/19.7.2007%20%204.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+863.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/18-2007%20POL/20.7.2007%20%205.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+864.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/18-2007%20POL/21.7.2007%20%206.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+865.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/18-2007%20POL/22.7.2007%20%207.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+866.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20(Mogok)/18-2007%20POL/23.7.2007%20%208.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+867.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/18-2007%20POL/24.7.2007%20%209.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+868.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/18-2007%20POL/25.7.2007%20%2010.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+869.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/01%20UThuNanDa%201.1.08%20M.mp3|၁။ တရားေတာ္အမွတ္ (၁)
+870.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/01%20UThuNanDa%201.1.08%20N.mp3|၂။ တရားေတာ္အမွတ္ (၂)
+871.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/02%20UThuNanDa%202.1.08%20M.mp3|၃။ တရားေတာ္အမွတ္ (၃)
+872.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/02%20UThuNanDa%202.1.08%20N.mp3|၄။ တရားေတာ္အမွတ္ (၄)
+873.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/03%20UThuNanDa%203.1.08%20M.mp3|၅။ တရားေတာ္အမွတ္ (၅)
+874.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/03%20UThuNanDa%203.1.08%20N.mp3|၆။ တရားေတာ္အမွတ္ (၆)
+875.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/04%20UThuNanDa%204.1.08%20N.mp3|၇။ တရားေတာ္အမွတ္ (၇)
+876.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/05%20UThuNanDa%205.1.08%20M.mp3|၈။ တရားေတာ္အမွတ္ (၈)
+877.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/05%20UThuNanDa%205.1.08%20N.mp3|၉။ တရားေတာ္အမွတ္ (၉)
+878.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/06%20UThuNanDa%206.1.08%20M.mp3|၁၀။တရားေတာ္အမွတ္ (၁၀)
+879.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/06%20UThuNanDa%206.1.08%20N.mp3|၁၁။တရားေတာ္အမွတ္ (၁၁)
+880.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/08%20UThuNanDa%208.1.08%20M.mp3|၁၂။တရားေတာ္အမွတ္ (၁၂)
+881.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/10%20UThuNanDa%2010.1.08%20M.mp3|၁၃။တရားေတာ္အမွတ္ (၁၃)
+882.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/19-1-08%20Monywa/10%20UThuNanDa%2010.1.08%20N.mp3|၁၄။တရားေတာ္အမွတ္ (၁၄)
