@@ -457,7 +457,7 @@ def get_json_fb(file_in_1, file_in_2, file_out, playlist, description_title, sou
        
             dict_title = {
                           "playlist" : playlist,
-                         "title": "{}".format(title),
+                         "title": "{}".format(title.strip()),
                           "description": "{}\n{} {}".format(description_title, description.split('|')[2], source), 
                            "id": "{}".format(description.split('|')[0].split('.')[0])
                         }       

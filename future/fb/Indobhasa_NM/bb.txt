@@ -1,0 +1,171 @@
+/e/dhamma-upload/future/fb/Indobhasa_NM/
+msys
+E:\dhamma-upload\future\fb\Indobhasa_NM\
+youtube-upload --title="က်က္စရာမလိုတဲ့  အာဂုံမဲ့သဒၵါ ရဲ႕ ဝုတၱိေရးနည္း" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+က်က္စရာမလိုတဲ့  အာဂုံမဲ့သဒၵါ ရဲ႕ ဝုတၱိေရးနည္း 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=001.mp4
+youtube-upload --title="ဝုတၱိေရးနည္း  နာမ္..တတိယပိုင္း သီးခံနားေထာင္ၿပီး ေလ့လာေတာ္မူၾကပါရန္။ အားလုံးရႊင္လန္းခ်မ္းေျမ႕ၾကပါေစ" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ဝုတၱိေရးနည္း  နာမ္..တတိယပိုင္း သီးခံနားေထာင္ၿပီး ေလ့လာေတာ္မူၾကပါရန္။ အားလုံးရႊင္လန္းခ်မ္းေျမ႕ၾကပါေစ။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=002.mp4
+youtube-upload --title="ဝုတၱိေရးနည္း  နာမ္..တတိယပိုင္း သီးခံနားေထာင္ၿပီး ေလ့လာေတာ္မူၾကပါရန္။ အားလုံးရႊင္လန္းခ်မ္းေျမ႕ၾကပါေစ" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ဝုတၱိေရးနည္း  နာမ္..တတိယပိုင္း သီးခံနားေထာင္ၿပီး ေလ့လာေတာ္မူၾကပါရန္။ အားလုံးရႊင္လန္းခ်မ္းေျမ႕ၾကပါေစ။ 30-4-19 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=003.mp4
+youtube-upload --title="ျပယုဂ္ထုတ္နည္းပါဘုရား။ ၾကည့္ရႈေဝဖန္သုံးသပ္၍ ေထာက္ျပၿပီး" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ျပယုဂ္ထုတ္နည္းပါဘုရား။ ၾကည့္ရႈေဝဖန္သုံးသပ္၍ ေထာက္ျပၿပီး 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=004.mp4
+youtube-upload --title="ေမးခြန္းေတြ ေမးဖို႔ ေတာင္းဆိုပါသည္ဘုရား" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ေမးခြန္းေတြ ေမးဖို႔ ေတာင္းဆိုပါသည္ဘုရား။ အေတြးသစ္ အျမင္သစ္ေတြကို ႀကိဳဆိုေပးတဲ့အတြက္ ဝမ္းေျမာက္ေၾကာင္းပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=005.mp4
+youtube-upload --title="အဆက္ပါဘုရား" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+အဆက္ပါဘုရား 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=006.mp4
+youtube-upload --title="နာမ္ စတုတၳပိုင္ ဝုတၱိ" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+နာမ္ စတုတၳပိုင္ ဝုတၱိ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=007.mp4
+youtube-upload --title="အဆက္ နာမ္ စတု" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+အဆက္ နာမ္ စတု 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=008.mp4
+youtube-upload --title="အာဂုံမဲ့သဒၵါ " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+အာဂုံမဲ့သဒၵါ  
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=009.mp4
+youtube-upload --title="အာရျပဳေသာ သုတ္မ်ား၌ ျပယုဂ္ထုတ္ပုံ" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+အာရျပဳေသာ သုတ္မ်ား၌ ျပယုဂ္ထုတ္ပုံ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=010.mp4
+youtube-upload --title="ျမတ္ဗုဒၶအား ေသာက္ေတာ္ေရကပ္ရန္ႏွင့္ အမ်ားသုံးေဆာင္ရန္" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ျမတ္ဗုဒၶအား ေသာက္ေတာ္ေရကပ္ရန္ႏွင့္ အမ်ားသုံးေဆာင္ရန္  အာဂုံမဲ့သဒၵါသင္တန္းသားမ်ားႏွင့္ ေက်ာင္းသားမ်ား အသီးသီး မနက္ေစာေစာ  ထြန္သစ္စေနမင္းႀကီးအတူ လန္းဆန္းတက္ႂကြစြာ ေရခပ္ေရသယ္လာၾကပုံ။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=011.mp4
+youtube-upload --title="အာဂုံမဲ့သဒၵါ " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+အာဂုံမဲ့သဒၵါ  
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=012.mp4
+youtube-upload --title="အာဂုံမဲ့သဒၵါ " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+အာဂုံမဲ့သဒၵါ  
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=013.mp4
+youtube-upload --title="အာဂုံမဲ့သဒၵါ " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+အာဂုံမဲ့သဒၵါ  
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=014.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၂ )  ၁၃၈၁ ကဆုန္လဆန္း ၈ ရက္. ၁၁ -၅-၁၉" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၂ )  ၁၃၈၁ ကဆုန္လဆန္း ၈ ရက္. ၁၁ -၅-၁၉ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=015.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၃ )  ၁၃၈၁ ကဆုန္လဆန္း ၉  ရက္. ၁၂ -၅-၁၉" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၃ )  ၁၃၈၁ ကဆုန္လဆန္း ၉  ရက္. ၁၂ -၅-၁၉ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=016.mp4
+youtube-upload --title="သုတ္နက္ ေပးနည္း ၄" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ေပးနည္း ၄ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=017.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၅ )  ၁၃၈၁ ကဆုန္လဆန္း ၁၂ ရက္. ၁၅-၅-၁၉" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၅ )  ၁၃၈၁ ကဆုန္လဆန္း ၁၂ ရက္. ၁၅-၅-၁၉ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=018.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၆ )  ၁၃၈၁ ကဆုန္လဆန္း ၁၃ ရက္. ၁၆-၅-၁၉ ရွယ္ေပး..." --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၆ )  ၁၃၈၁ ကဆုန္လဆန္း ၁၃ ရက္. ၁၆-၅-၁၉ ရွယ္ေပး... 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=019.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၇)  ၁၃၈၁ ကဆုန္လဆုတ္ ၁ ရက္. ၁၉-၅-၁၉ ရွယ္ေပး..." --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၇)  ၁၃၈၁ ကဆုန္လဆုတ္ ၁ ရက္. ၁၉-၅-၁၉ ရွယ္ေပး... 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=020.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၈)  ၁၃၈၁ ကဆုန္လဆုတ္ ၁ ရက္. ၁၉-၅-၁၉ ရွယ္ေပး..." --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၈)  ၁၃၈၁ ကဆုန္လဆုတ္ ၁ ရက္. ၁၉-၅-၁၉ ရွယ္ေပး... 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=021.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၉ )  ၁၃၈၁ ကဆုန္လဆုတ္ ၁ ရက္. ၁၉-၅-၁၉ ရွယ္ေပး..." --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၉ )  ၁၃၈၁ ကဆုန္လဆုတ္ ၁ ရက္. ၁၉-၅-၁၉ ရွယ္ေပး... 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=022.mp4
+youtube-upload --title="ရွင္းျပတာရွည္တယ္လို႔ေတာ့ သေဘာမထားၾကပါနဲ႔ဘုရား သုတ္နက္ ပို႔ခ်ခ်က္ ( ၁၃)" --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ရွင္းျပတာရွည္တယ္လို႔ေတာ့ သေဘာမထားၾကပါနဲ႔ဘုရား သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၃)  ၁၃၈၁ ကဆုန္လဆုတ္ ၈ ရက္. ၂၆ -၅-၁၉ ရွယ္ေပး... 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=023.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၄)  " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၄)  ၁၃၈၁ ကဆုန္လဆုတ္ ၈ ရက္. ၂၆ -၅-၁၉ လြယ္ကုန္ပါၿပီဗ်ာ၊၊၊၊ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခ်မ္းျဖစ္ပါေစ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=024.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၅)  " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၅)  ၁၃၈၁ ကဆုန္လဆုတ္ ၉ ရက္. ၂၇ -၅-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခ်မ္းျဖစ္ပါေစ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=025.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၆ ) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၆ )  ၁၃၈၁ ကဆုန္လဆုတ္ ၉ ရက္. ၂၇ -၅-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခ်မ္းျဖစ္ပါေစ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=026.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၇)  " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၇)  ၁၃၈၁ ကဆုန္လဆုတ္ ၉ ရက္. ၂၇ -၅-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခ်မ္းျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=027.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၈)  " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၈)  ၁၃၈၁ ကဆုန္လဆုတ္ ၉ရက္. ၂၈ -၅- ၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခ်မ္းျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=028.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၂၀ ) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၂၀ )  ၁၃၈၁ ကဆုန္လဆုတ္ ၉ရက္. ၂၈ -၅- ၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခ်မ္းျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=029.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၉)  " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၁၉)  ၁၃၈၁ ကဆုန္လဆုတ္ ၉ရက္. ၂၈ -၅- ၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခ်မ္းျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=030.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၂၁ ) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၂၁ )  ၁၃၈၁ ကဆုန္လဆုတ္ ၁၁ ရက္. ၂၉ -၅- ၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခ်မ္းျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=031.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၂၂)  " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၂၂)  ၁၃၈၁ ကဆုန္လဆုတ္ ၁၁ ရက္. ၂၉ -၅- ၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခ်မ္းျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=032.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ( ၂၃)  " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ( ၂၃)  ၁၃၈၁ ကဆုန္လဆုတ္ ၁၁ ရက္. ၂၉ -၅- ၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခ်မ္းျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=033.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္      ဒုတိယပိုင္( အႏွစ္ခ်ဳပ္)  " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္      ဒုတိယပိုင္( အႏွစ္ခ်ဳပ္)  ၁၃၈၁ ကဆုန္လဆုတ္ ၁၂ရက္. ၃၀-၅- ၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာေန႔ခင္းသမယျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=034.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္     (၁) တတိယပိုင္း   " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္     (၁) တတိယပိုင္း   ၁၃၈၁ ကဆုန္လဆုတ္ ၁၃ရက္. ၃၁ -၅- ၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာေန႔ခင္းသမယျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=035.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္     (၂) တတိယပိုင္း   " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္     (၂) တတိယပိုင္း   ၁၃၈၁ ကဆုန္လဆုတ္ ၁၄ ရက္. ၁-၆-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခင္းသမယျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=036.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္     (၄) တတိယပိုင္း   " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္     (၄) တတိယပိုင္း   ၁၃၈၁ ကဆုန္လဆုတ္ ၁၅  ရက္ (လကြယ္). ၂-၆-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခင္းသမယျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=037.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္     (၃) တတိယပိုင္း   " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္     (၃) တတိယပိုင္း   ၁၃၈၁ ကဆုန္လဆုတ္ ၁၅  ရက္ (လကြယ္). ၂-၆-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အာလုံးေကာင္းေသာညခင္းသမယျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 09683985979 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=038.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္     (၅) တတိယပိုင္း   " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္     (၅) တတိယပိုင္း   ၁၃၈၁ နယုန္လဆန္း(၁) ရက္ . ၃-၆-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အားလုံးေကာင္းေသာညခင္းသမယျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 09683985979 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=039.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္     (၆) တတိယပိုင္း   " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္     (၆) တတိယပိုင္း   ၁၃၈၁ နယုန္လဆန္း(၂) ရက္ . ၄-၆-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အားလုံးေကာင္းေသာညခင္းသမယျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 09683985979 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=040.mp4
+youtube-upload --title="အာဂုံမဲ့သဒၵါ " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+အာဂုံမဲ့သဒၵါ  
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=041.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္     (၇) တတိယပိုင္း   " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္     (၇) တတိယပိုင္း   ၁၃၈၁ နယုန္လဆန္း(၃) ရက္ . ၅-၆-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အားလုံးေကာင္းေသာညခင္းသမယျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 09683985979 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=042.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္     (၈) တတိယပိုင္း   " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္     (၈) တတိယပိုင္း   ၁၃၈၁ နယုန္လဆန္း(၅) ရက္ . ၇-၆-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အားလုံးေကာင္းေသာညေနခင္းသမယျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 09683985979 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=043.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္     (၉) တတိယပိုင္း   " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္     (၉) တတိယပိုင္း   ၁၃၈၁ နယုန္လဆန္း(၆) ရက္ . ၈-၆-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အားလုံးေကာင္းေသာမနက္ခင္းသမယျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 09683985979 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=044.mp4
+youtube-upload --title="သုတ္နက္ ပို႔ခ်ခ်က္     (၁၀) တတိယပိုင္း  " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+သုတ္နက္ ပို႔ခ်ခ်က္     (၁၀) တတိယပိုင္း   ၁၃၈၁ နယုန္လဆန္း(၈) ရက္ . ၁၀-၆-၁၉ မရွင္းရင္လဲေမးေတာ္မူၾကပါဘုရား။ အားလုံးေကာင္းေသာညခင္းသမယျဖစ္ပါေစ။ ရွယ္လဲရွယ္ေတာ္မူၾကပါဘုရား။ အာဂုံမလိုတဲ့ အာဂုံမဲ့သဒၵါ 09683985979 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=045.mp4
+youtube-upload --title="စတုတၳပိုင္း (၂) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+စတုတၳပိုင္း (၂) ၁၃၈၁ခုႏွစ္ နယုန္လျပည့္ေက်ာ္၇ရက္ ၂၄-၆-၁၉ ညေန ၄ နာရီ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=046.mp4
+youtube-upload --title="စတုတၳပိုင္း (၃) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+စတုတၳပိုင္း (၃) ၁၃၈၁ခုႏွစ္ နယုန္လျပည့္ေက်ာ္၇ရက္ ၂၄-၆-၁၉ ညေန ၄ -၄၇ နာရီ ရွယ္မရရင္ page ထဲမွာဝင္ရွယ္ၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=047.mp4
+youtube-upload --title="စတုတၳပိုင္း (၁) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+စတုတၳပိုင္း (၁) ၁၃၈၁ခုႏွစ္ နယုန္လျပည့္ေက်ာ္၇ရက္ ၂၄-၆-၁၉ မနက္  ၁၀ နာရီ  Page မွာဝင္ၿပီးရွယ္ၾကပါဘုရား ဂ႐ုမွာရွယ္မရရင္ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=048.mp4
+youtube-upload --title="ပဥၥမပိုင္း (၁) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ပဥၥမပိုင္း (၁) ၁၃၈၁ခုႏွစ္ နယုန္လျပည့္ေက်ာ္၈ရက္ ၂၅-၆-၁၉ မနက္  ၈-၄၃ နာရီ  Page မွာဝင္ၿပီးရွယ္ၾကပါဘုရား။ (ဂ႐ုမွာရွယ္မရရင္) 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=049.mp4
+youtube-upload --title="ပဥၥမပိုင္း (၂) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ပဥၥမပိုင္း (၂) ၁၃၈၁ခုႏွစ္ နယုန္လျပည့္ေက်ာ္၈ရက္ ၂၅-၆-၁၉ မနက္  ၈-၅၇ နာရီ  Page မွာဝင္ၿပီးရွယ္ၾကပါဘုရား။ (ဂ႐ုမွာရွယ္မရရင္) အပ္ိုင္း (၁)ကို  အာဂုံမဲ့သဒၵါ page မွာ ဝင္ၾကည့္ၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=050.mp4
+youtube-upload --title="ပဥၥမပိုင္း (၃) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ပဥၥမပိုင္း (၃) ၁၃၈၁ခုႏွစ္ နယုန္လျပည့္ေက်ာ္ (၉ ) ရက္ ၂၆-၆-၁၉ ညေန  ၃:၅၀ နာရီ  Page မွာဝင္ၿပီးရွယ္ၾကပါဘုရား။ (ဂ႐ုမွာရွယ္မရရင္) အပ္ိုင္း (၁)ကို  အာဂုံမဲ့သဒၵါ page မွာ ဝင္ၾကည့္ၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=051.mp4
+youtube-upload --title="ပဥၥမပိုင္း (၄) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ပဥၥမပိုင္း (၄) ၁၃၈၁ခုႏွစ္ နယုန္လျပည့္ေက်ာ္ (၉ ) ရက္ ၂၆-၆-၁၉ ညေန  ၄:၁၉ နာရီ  Page မွာဝင္ၿပီးရွယ္ၾကပါဘုရား။ (ဂ႐ုမွာရွယ္မရရင္) အပ္ိုင္း (၁)ကို  အာဂုံမဲ့သဒၵါ page မွာ ဝင္ၾကည့္ၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=052.mp4
+youtube-upload --title="ပဥၥမပိုင္း (၅) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ပဥၥမပိုင္း (၅) ***အဓိပၸါယ္ယူပုံယူနည္းပါသည္*** ၁၃၈၁ခုႏွစ္ နယုန္လျပည့္ေက်ာ္ (၁၀ ) ရက္ ၂၇-၆-၁၉ ညေန  ၄:၃၅ နာရီ  Page မွာဝင္ၿပီးရွယ္ၾကပါဘုရား။ (ဂ႐ုမွာရွယ္မရရင္) အပ္ိုင္း (၁)ကို  အာဂုံမဲ့သဒၵါ page မွာ ဝင္ၾကည့္ၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=053.mp4
+youtube-upload --title="ပဥၥမပိုင္း (၆) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+ပဥၥမပိုင္း (၆) ၁၃၈၁ခုႏွစ္ နယုန္လျပည့္ေက်ာ္ (၁၁ ) ရက္ ၂၈-၆-၁၉ ညေန  ၂:၃၅ နာရီ  Page မွာဝင္ၿပီးရွယ္ၾကပါဘုရား။ (ဂ႐ုမွာရွယ္မရရင္) အပ္ိုင္း (၁)ကို  အာဂုံမဲ့သဒၵါ page မွာ ဝင္ၾကည့္ၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=054.mp4
+youtube-upload --title="စတုတၳပိုင္း (၄) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+စတုတၳပိုင္း (၄) ၁၃၈၁ခုႏွစ္ ဝါဆိုလဆန္း(၁၂) ရက္(13-7-19) ည-၈:၃၈ ရွယ္မရရင္ page ထဲမွာဝင္ရွယ္ၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=055.mp4
+youtube-upload --title="တတိယ ပိုင္း  ၏ က်န္သုတ္မ်ား (၁) " --description="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား
+တတိယ ပိုင္း  ၏ က်န္သုတ္မ်ား (၁) ၁၃၈၁ခုႏွစ္ ဝါဆိုလဆန္း(၁၄) ရက္(15-7-19) ညေန 5:31 ရွယ္မရရင္ page ထဲမွာဝင္ရွယ္ၾကပါဘုရား။ 
+source from https://www.facebook.com/pg/Indobhasa.NM/videos/" --playlist="အာဂုံမဲ့ သဒၵါ page မွာ videos မ်ား" file=056.mp4

@@ -670,7 +670,7 @@
 670.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/01%2029.9.2004.mp3|၆၇၀။ တရားေတာ္အမွတ္ (၁)
 671.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/02%2028.9.2004.mp3|၆၇၁။ တရားေတာ္အမွတ္ (၂)
 672.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/03%2027.9.2004.mp3|၆၇၂။ တရားေတာ္အမွတ္ (၃)
-673.|http:/https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/04%2026.9.2004.mp3/|၆၇၃။ တရားေတာ္အမွတ္ (၄)
+673.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/04%2026.9.2004.mp3|၆၇၃။ တရားေတာ္အမွတ္ (၄)
 674.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/05%2023.9.2004.mp3|၆၇၄။ တရားေတာ္အမွတ္ (၅)
 675.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/06%2022.9.2004.mp3|၆၇၅။ တရားေတာ္အမွတ္ (၆)
 676.mp3|https://media.thitsarparamisociety.com/mp3/U%20Thu%20Nan%20Da%20%20%28Mogok%29/04-9-04/08%2020.9.2004.mp3|၆၇၆။ တရားေတာ္အမွတ္ (၈)
