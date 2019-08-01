@@ -23,8 +23,10 @@ function myStopFunction() {
 }
 '''
 #rearrange_urls('raw_url.txt', 'links.txt')
-#get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver.exe')
-get_fb_duration('links.txt', 'results.txt', 'finished.txt', 'geckodriver.exe')
+
+#get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver')
+#get_fb_duration('links.txt', 'duration.txt', 'finished.txt', '../geckodriver')
+get_fb_duration('redo.txt', 'duration_edited.txt', 'finished_edited.txt', '../geckodriver')
 #download_fb('du.txt', 1)
 #copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote)
 
@@ -40,13 +42,11 @@ copy_to_remote('AshinTayzaniya-YamakaAhLinYaung-for-Pahtamagyigrade.pdf',
                 )
 '''  
 def get_json():
-	playlist = 'မဟာမင္းထင္ေက်ာင္းတိုက္ ဓမၼဒီပေက်ာင္းဆရာေတာ္ page မွာ videos မ်ား'
-	description_title = 'မဟာမင္းထင္ေက်ာင္းတိုက္ ဓမၼဒီပေက်ာင္းဆရာေတာ္ page မွာ videos မ်ား'
-	source='\nsource from https://www.facebook.com/pg/www.upyinnyarnanda/videos/'
-	get_json_fb('edit_title.txt', 'edit_result.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+	playlist = 'Bokyaung page မွာ videos မ်ား'
+	description_title = 'Bokyaung page မွာ videos မ်ား'
+	source='\nsource from https://www.facebook.com/pg/bokyaung/videos/'
+	get_json_fb('titles.txt', 'results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
-    
-#get_json()    
 #get_splited_lines('links.txt', 30)
 
 #download_fb('links.txt', 3)
