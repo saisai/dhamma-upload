@@ -1,0 +1,22 @@
+ffmpeg -i 100.mp4 -ss 00:00:00 -t 0:06:00  -c copy 100_out_1.mp4
+ffmpeg -i 264.mp4 -ss 00:05:59 -c copy 264_out.mp4
+
+
+
+
+
+ Sound recording
+24:46 - 25:20
+
+    Kobalt (AWAL Digital Limited)
+    On behalf of: Real Music
+
+	
+
+    Monetized by copyright owner
+    
+ffmpeg -i 505.mp4 -ss 00:01:00  -c copy 505_out_1.mp4  
+
+ffmpeg -i 505.mp4 -ss 00:00:00 -t 00:24:40  -c copy 505_out_1.mp4     
+ffmpeg -i 505.mp4 -ss 00:01:00 -t 00:24:40  -c copy 505_out_1.mp4     
+

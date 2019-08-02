@@ -93,13 +93,13 @@ class Converter(Thread):
                 #command = 'youtube-dl|-c|-o|{}{}.%(ext)s|{}'.format(self.output_path,format_count, line.split('|')[1])
                 #command = 'youtube-dl|-c|-o|"{}{}.%(ext)s"|{}'.format(self.output_path, format_count, line)                
                 
+                '''
                 video_id  = line_url.rsplit('/')[-2]
                 replace_url = 'https://mbasic.facebook.com/story.php?story_fbid={}&id=1879565108798871&_rdr'.format(video_id)
-                
-                
                 command = 'fbdown|{}|--output|{}{}.mp4'.format(replace_url,self.output_path, format_count)
-
-                #command = 'fbdown|{}|--output|{}{}.mp4'.format(line_url,self.output_path, format_count)
+                '''
+                
+                command = 'fbdown|{}|--output|{}{}.mp4'.format(line_url,self.output_path, format_count)
 
                 print(command.split('|'))
 

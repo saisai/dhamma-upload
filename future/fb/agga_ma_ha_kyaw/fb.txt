@@ -1,0 +1,16 @@
+https://www.facebook.com/pg/%E1%80%A1%E1%82%90%E1%80%BD%E1%80%84%E1%80%B9%E1%80%9E%E1%80%92%E1%81%B6%E1%80%99%E1%81%BC%E1%80%9E%E1%80%AD%E1%80%9B%E1%80%AE%E1%80%98%E1%80%AD%E1%80%9D%E1%80%B6%E1%80%9E-%E1%80%A1%E1%80%82%E1%81%A2%E1%80%99%E1%80%9F%E1%80%AC%E1%80%A1%E1%80%B1%E1%80%80%E1%80%BA%E1%80%AC%E1%80%B9-%E1%80%93%E1%80%99%E1%81%BC%E1%80%AC%E1%80%85%E1%80%9B%E1%80%AD%E1%80%9A%E1%80%85%E1%80%AC%E1%80%9D%E1%80%AB-536517523346879/posts/?ref=page_internal
+
+
+536517523346879/videos
+
+# find duplicate
+list(dict.fromkeys(Counter(du.split('\n'))))
+
+
+https://unix.stackexchange.com/questions/52534/how-to-print-only-the-duplicate-values-from-a-text-file
+
+uniq -d file.txt
+
+https://askubuntu.com/questions/434545/identify-duplicate-lines-in-a-file-without-deleting-them
+
+https://www.w3schools.com/python/python_howto_remove_duplicates.asp

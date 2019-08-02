@@ -85,7 +85,8 @@ class Converter(Thread):
                 print(mp3file)
                 try:
 
-                    f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-2], soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text() ))
+                    #f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-2], soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text() ))
+                    f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-1], soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text() ))
                     f.write('\n')
                     f.flush()
                 except AttributeError as err:
