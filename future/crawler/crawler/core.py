@@ -442,11 +442,11 @@ def get_json_fb(file_in_1, file_in_2, file_out, playlist, description_title, sou
             print(len("{}\n{} {}".format(description_title, description.split('|')[2], source)))
             print("{}\n{}\n{} {}".format(description.split('|')[0].split('.')[0],description_title, description.split('|')[2], source))
         
-        if len(title) > 100:
+        if len(title.strip()) > 100:
             dict_title = {
                          "playlist" : playlist,
                          "title": "{}".format(title),
-                          "description": "{}\n{}{}".format(description_title, description, source), 
+                          "description": "{}\n{}{}".format(description_title, description.split('|')[2], source), 
                            "id": "{}".format( description.split('|')[0].split('.')[0] )
                         }       
 
@@ -457,7 +457,7 @@ def get_json_fb(file_in_1, file_in_2, file_out, playlist, description_title, sou
        
             dict_title = {
                           "playlist" : playlist,
-                         "title": "{}".format(title.strip()),
+                         "title": "{}".format(title.split('|')[2].strip()),
                           "description": "{}\n{} {}".format(description_title, description.split('|')[2], source), 
                            "id": "{}".format(description.split('|')[0].split('.')[0])
                         }       
