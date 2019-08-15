@@ -31,7 +31,7 @@
 031.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/3/Sadhammramsi-EiDaYaeHtetKhong008-29-3-1991.mp3|၃၁။ ဣေႁႏၵထက္ေၾကာင္း တရားေတာ္ ( ၂၉-၃-၁၉၉၁)
 032.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/3/Sadhammramsi-EiDaYaeHtetKhong009-30-3-1991.mp3|၃၂။ ဣေႁႏၵထက္ေၾကာင္း တရားေတာ္ ( ၃၀-၃-၁၉၉၁)
 033.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/3/Sadhammramsi-EiDaYaeHtetKhong010-31-3-1991.mp3|၃၃။ ဣေႁႏၵထက္ေၾကာင္း တရားေတာ္ ( ၃၁-၃-၁၉၉၁)
-034.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/001-Saddhammaramsi-Paritta-11+Dhamma.mp3|၃၄။ ပရိတိ္ႀကီး(၁၁)သုတ္၊ ဓမၼစႀကၤာ၊ အနတၱလကၡဏသုတ္
+034.mp3|http://dhammadownload.com/MP3Library/Saddhammaramsi/myanmar/dvd-01/001-Saddhammaramsi-Paritta-11+Dhamma.mp3|၃၄။ ပရိတိ္ႀကီး(၁၁)သုတ္၊ ဓမၼစႀကၤာ၊ အနတၱလကၡဏသုတ္
 035.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/002-Saddhammaramsi-Pahtan&Paritta.mp3|၃၅။ ပဌာန္းႏွင့္ ပရိတ္ တရားေတာ္မ်ား
 036.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/003-Saddhammaramsi-Aloatpay.mp3|၃၆။ အလုပ္ေပးတရားေတာ္
 037.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/004-Saddhammaramsi-Shinkissaryana.mp3|၃၇။ အရွင္ကစၥာယန၏ ၾသဝါဒ(၄)ခ်က္
@@ -48,20 +48,20 @@
 048.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/015-Saddhammaramsi-Haytu-Pyitsi.mp3|၄၈။ ေဟတုပစၥည္း
 049.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/016-Saddhammaramsi-Aranmana-Pyitsii.mp3|၄၉။ အာရမၼဏပစၥည္း
 050.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/017-Saddhammaramsi-Adipadi-Pyitsii.mp3|၅၀။ အဓိပတိ ပစၥည္း
-051.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/018-Saddhammaramsi-Anantara-+%5b5%5dThamanantara.mp3|၅၁။ အနႏ ၱရပစၥည္း+သမနရပစၥည္း
-052.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/019-Saddhammaramsi-Thahazata+%5b7%5dAnyamanya.mp3|၅၂။ သဟဇာတ ပစၥည္း+ အညမည ပစၥည္း
+051.mp3|http://dhammadownload.com/MP3Library/Saddhammaramsi/myanmar/dvd-01/018-Saddhammaramsi-Anantara-+[5]Thamanantara.mp3|၅၁။ အနႏ ၱရပစၥည္း+သမနရပစၥည္း
+052.mp3|http://dhammadownload.com/MP3Library/Saddhammaramsi/myanmar/dvd-01/019-Saddhammaramsi-Thahazata+[7]Anyamanya.mp3|၅၂။ သဟဇာတ ပစၥည္း+ အညမည ပစၥည္း
 053.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/020-Saddhammaramsi-Neikthaya.mp3|၅၃။ နိသရ ပစၥည္း
 054.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/021-Saddhammaramsi-Upaneikthaya.mp3|၅၄။ ဥပနိသရ ပစၥည္း
 055.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/022-Saddhammaramsi-Purayzata-Pyitsii.mp3|၅၅။ ပုေရဇာတ ပစၥည္း
-056.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/023-Saddhammaramsi-Pitsazata+%5b12%5dArthaywana.mp3|၅၆။ ပစာၦဇာတ ပစၥည္း+ အာေသဝန ပစၥည္း
-057.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/024-Saddhammaramsi-Kamma+%5b14%5dWipaka.mp3|၅၇။ ကမၼ ပစၥည္း+ ဝိပါက ပစၥည္း
+056.mp3|http://dhammadownload.com/MP3Library/Saddhammaramsi/myanmar/dvd-01/023-Saddhammaramsi-Pitsazata+[12]Arthaywana.mp3|၅၆။ ပစာၦဇာတ ပစၥည္း+ အာေသဝန ပစၥည္း
+057.mp3|http://dhammadownload.com/MP3Library/Saddhammaramsi/myanmar/dvd-01/024-Saddhammaramsi-Kamma+[14]Wipaka.mp3|၅၇။ ကမၼ ပစၥည္း+ ဝိပါက ပစၥည္း
 058.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/025-Saddhammaramsi-Aharra.mp3|၅၈။ အာဟာရ ပစၥည္း
 059.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/026-Saddhammaramsi-Eindariya.mp3|၅၉။ ဣႃႏၵိယ ပစၥည္း
 060.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/027-Saddhammaramsi-Zana.mp3|၆၀။ စ်ာန ပစၥည္း
 061.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/028-Saddhammaramsi-Magga-.mp3|၆၁။ မဂၢ ပစၥည္း
-062.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/029-Saddhammaramsi-Thanpayoketa+%5b20%5dWipayoketa.mp3|၆၂။ သပၸယုတၱ ပစၥည္း+ ဝိပၸယုတၱပစၥည္း
-063.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/030-Saddhammaramsi-Athti+%5b24+%5dAwigata-%5b1%5d.mp3|၆၃။ အတၳိ ပစၥည္း+ အဝိဂတ ပစၥည္း(၁)
-064.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/031-Saddhammaramsi-Athti+%5b24%5d+Awigata-%5b2%5d.mp3|၆၄။ အတၳိ ပစၥည္း+ အဝိဂတ ပစၥည္း(၂)
+062.mp3|http://dhammadownload.com/MP3Library/Saddhammaramsi/myanmar/dvd-01/029-Saddhammaramsi-Thanpayoketa+[20]Wipayoketa.mp3|၆၂။ သပၸယုတၱ ပစၥည္း+ ဝိပၸယုတၱပစၥည္း
+063.mp3|http://dhammadownload.com/MP3Library/Saddhammaramsi/myanmar/dvd-01/030-Saddhammaramsi-Athti+[24+]Awigata-[1].mp3|၆၃။ အတၳိ ပစၥည္း+ အဝိဂတ ပစၥည္း(၁)
+064.mp3|http://dhammadownload.com/MP3Library/Saddhammaramsi/myanmar/dvd-01/031-Saddhammaramsi-Athti+[24]+Awigata-[2].mp3|၆၄။ အတၳိ ပစၥည္း+ အဝိဂတ ပစၥည္း(၂)
 065.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/032-Saddhammaramsi-Ya,Khe-Chin-4-Par.mp3|၆၅။ ရခဲျခင္း တရား(၄)ပါး
 066.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/033-Saddhammaramsi-Lay_Myoe_Ta_Maya.mp3|၆၆။ ေလးမ်ိဳးတားမရ
 067.mp3|https://media.thitsarparamisociety.com/mp3/Saddhammaramsi-SayaDaw/128/034-Saddhammaramsi-Haw-&-Kyint.mp3|၆၇။ ေဟာမႈ က်င့္မႈ ႏွစ္ခုျပည္႕မွ တရားရ
