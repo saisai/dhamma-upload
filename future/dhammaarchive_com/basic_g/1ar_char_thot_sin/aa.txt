@@ -1,0 +1,8 @@
+total 32005
+-rw-r--r-- 1 JCY None        0 Aug  5 14:27 aa.txt
+drwxr-xr-x 1 JCY None        0 Aug  5 14:22 images
+-rw-r--r-- 1 JCY None      363 Aug  5 14:00 readme.txt
+-rw-r--r-- 1 JCY None 10747298 Feb  5  2018 အာခ်ာတ္စတုတၳက႑.mp3
+-rw-r--r-- 1 JCY None  6466217 Feb  5  2018 အာခ်ာတ္တတိယ႑.mp3
+-rw-r--r-- 1 JCY None  7405533 Feb  5  2018 အာခ်ာတ္ဒုတိယက႑.mp3
+-rw-r--r-- 1 JCY None  8146096 Feb  5  2018 အာခ်ာတ္ပထမက႑.mp3

@@ -1,0 +1,54 @@
+ffmpeg -i 100.mp4 -ss 00:00:00 -t 0:06:00  -c copy 100_out_1.mp4
+ffmpeg -i 264.mp4 -ss 00:05:59 -c copy 264_out.mp4
+
+ffmpeg -i 264.mp4 -ss 00:00:00 -t 01:01:07  -c copy 264_out_1.mp4
+
+ Than Bode Dey
+Music composition
+3:42 - 6:21
+
+ffmpeg -i 001.mp4 -ss 00:06:30 -c copy 001_out.mp4
+
+
+ TU T'EN VAS
+Music composition
+47:55 - 49:07
+
+    LatinAutor
+    ADDAF
+    União Brasileira de Compositores
+
+	
+
+    Monetized by copyright owner
+
+	
+
+    File a dispute
+
+    ICH HAB NOCH SAND IN DEN SCHUH'N AUS
+    Music composition
+    46:22 - 47:53 
+
+    BUMA CS
+    KODA_CS
+
+	
+
+    Monetized by copyright owner
+
+	
+
+    File a dispute
+
+    CHI CHI DI DENG
+    Music composition
+    42:57 - 44:41 
+
+    UMPG Publishing
+
+	
+
+    Monetized by copyright owner
+    
+ffmpeg -i 002.mp4 -ss 00:00:00 -t 00:42:00  -c copy 002_out_1.mp4    

@@ -1,0 +1,42 @@
+/e/dhamma-upload/future/dhammaarchive_com/basic_g/
+msys
+E:\dhamma-upload\future\dhammaarchive_com\basic_g\
+youtube-upload --title="အာခ်ာတ္ပထမက႑" --description="အေျချပဳမူလတန္း
+အာခ်ာတ္ပထမက႑ 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=001.mp4
+youtube-upload --title="အာခ်ာတ္ဒုတိယက႑" --description="အေျချပဳမူလတန္း
+အာခ်ာတ္ဒုတိယက႑ 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=002.mp4
+youtube-upload --title="အာခ်ာတ္တတိယ႑" --description="အေျချပဳမူလတန္း
+အာခ်ာတ္တတိယ႑ 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=003.mp4
+youtube-upload --title="အာခ်ာတ္စတုတၳက႑" --description="အေျချပဳမူလတန္း
+အာခ်ာတ္စတုတၳက႑ 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=004.mp4
+youtube-upload --title="နာမ္ပိုင္းအနက္ေပး(၁)" --description="အေျချပဳမူလတန္း
+နာမ္ပိုင္းအနက္ေပး(၁) 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=005.mp4
+youtube-upload --title="နာမ္ပိုင္းအနက္ေပး(၂)" --description="အေျချပဳမူလတန္း
+နာမ္ပိုင္းအနက္ေပး(၂) 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=006.mp4
+youtube-upload --title="နာမ္ပိုင္းအနက္ေပး(၃)" --description="အေျချပဳမူလတန္း
+နာမ္ပိုင္းအနက္ေပး(၃) 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=007.mp4
+youtube-upload --title="နာမ္ပိုင္းအနက္ေပး(၄)" --description="အေျချပဳမူလတန္း
+နာမ္ပိုင္းအနက္ေပး(၄) 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=008.mp4
+youtube-upload --title="နာမ္ပိုင္းအနက္ေပး(၅)" --description="အေျချပဳမူလတန္း
+နာမ္ပိုင္းအနက္ေပး(၅) 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=009.mp4
+youtube-upload --title="သႏၶိကစၥည္းသုတ္စဥ္အနက္" --description="အေျချပဳမူလတန္း
+သႏၶိကစၥည္းသုတ္စဥ္အနက္ 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=010.mp4
+youtube-upload --title="သႏၶိႏွင့္နာမ္ပိုင္းအသံဖိုင္" --description="အေျချပဳမူလတန္း
+သႏၶိႏွင့္နာမ္ပိုင္းအသံဖိုင္ 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=011.mp4
+youtube-upload --title="ကာရက၊ သမာသႏွင့္ တဒၶိတ" --description="အေျချပဳမူလတန္း
+ကာရက၊ သမာသႏွင့္ တဒၶိတ 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=012.mp4
+youtube-upload --title="အာခ်ာတ၊ ကိဗၺိဓာနႏွင့္ ဥဏာဒိ" --description="အေျချပဳမူလတန္း
+အာခ်ာတ၊ ကိဗၺိဓာနႏွင့္ ဥဏာဒိ 
+source from http://www.dhammaarchive.com/basic_g/" --playlist="အေျချပဳမူလတန္း" file=013.mp4
