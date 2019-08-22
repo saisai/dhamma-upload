@@ -25,8 +25,8 @@ function myStopFunction() {
 #rearrange_urls('raw_url.txt', 'links.txt')
 
 #get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver')
-get_fb_duration('links.txt', 'duration.txt', 'finished.txt', '../geckodriver')
-#get_fb_duration('redo.txt', 'duration_edited.txt', 'finished_edited.txt', '../geckodriver')
+#get_fb_duration('links.txt', 'duration.txt', 'finished.txt', '../geckodriver')
+get_fb_duration('redo.txt', 'duration_edited.txt', 'finished_edited.txt', '../geckodriver')
 #download_fb('du.txt', 1)
 #copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote)
 

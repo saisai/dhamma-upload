@@ -263,7 +263,7 @@ def get_json_option(file_in_1, file_in_2, file_out, playlist, description_title,
         #print(title)
         if len(title.split('|')[2]) > 100:
             dict_title = {
-                         "playlist" : playlist,
+                         "playlist" : playlist.strip(),
                          "title": "{}".format(title.split('|')[2]),
                           "description": "{}\n{}{}".format(description_title, description, source), 
                            "id": "{}".format( title.split('|')[0].split('.')[0] )
@@ -274,7 +274,7 @@ def get_json_option(file_in_1, file_in_2, file_out, playlist, description_title,
             results.append(dict_title)
         else:
             dict_title = {
-                          "playlist" : playlist,
+                          "playlist" : playlist.strip(),
                          "title": "{}".format(title.split('|')[2]),
                           "description": "{}\n{} {}".format(description_title, description.split('|')[2], source), 
                            "id": "{}".format(title.split('|')[0].split('.')[0])
@@ -335,7 +335,7 @@ def get_json_files_in_same(file_in_1, file_in_2, file_out, playlist, description
         #print(title)
         if len(title.split('|')[2]) > 100:
             dict_title = {
-                         "playlist" : playlist,
+                         "playlist" : playlist.strip(),
                          "title": "{}".format(title.split('|')[2]),
                           "description": "{}\n{}{}".format(description_title, description.split('|')[2], source), 
                            "id": "{}".format( title.split('|')[0].split('.')[0] )
@@ -346,7 +346,7 @@ def get_json_files_in_same(file_in_1, file_in_2, file_out, playlist, description
             results.append(dict_title)
         else:
             dict_title = {
-                          "playlist" : playlist,
+                          "playlist" : playlist.strip(),
                          "title": "{}".format(title.split('|')[2]),
                           "description": "{}\n{} {}".format(description_title, description.split('|')[2], source), 
                            "id": "{}".format(title.split('|')[0].split('.')[0])
@@ -387,7 +387,7 @@ def get_json_title(file_in_1, file_in_2, file_out, playlist, description_title, 
         #print(title)
         if len(title) > 100:
             dict_title = {
-                         "playlist" : playlist,
+                         "playlist" : playlist.strip(),
                          "title": "{}".format(title),
                           "description": "{}\n{}{}".format(description_title, description, source), 
                            "id": "{}".format( title.split('|')[0].split('.')[0] )
@@ -398,7 +398,7 @@ def get_json_title(file_in_1, file_in_2, file_out, playlist, description_title, 
             results.append(dict_title)
         else:
             dict_title = {
-                          "playlist" : playlist,
+                          "playlist" : playlist.strip(),
                          "title": "{}".format(title.split('|')[2]),
                           "description": "{}\n{} {}".format(description_title, description.split('|')[2], source), 
                            "id": "{}".format(title.split('|')[0].split('.')[0])
@@ -444,7 +444,7 @@ def get_json_fb(file_in_1, file_in_2, file_out, playlist, description_title, sou
         
         if len(title.strip()) > 100:
             dict_title = {
-                         "playlist" : playlist,
+                         "playlist" : playlist.strip(),
                          "title": "{}".format(title),
                           "description": "{}\n{}{}".format(description_title, description.split('|')[2], source), 
                            "id": "{}".format( description.split('|')[0].split('.')[0] )
@@ -456,7 +456,7 @@ def get_json_fb(file_in_1, file_in_2, file_out, playlist, description_title, sou
         else:
        
             dict_title = {
-                          "playlist" : playlist,
+                          "playlist" : playlist.strip(),
                          "title": "{}".format(title.split('|')[2].strip()),
                           "description": "{}\n{} {}".format(description_title, description.split('|')[2], source), 
                            "id": "{}".format(description.split('|')[0].split('.')[0])
