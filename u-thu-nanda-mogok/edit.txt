@@ -1,0 +1,10 @@
+ffmpeg -i 264.mp4 -ss 00:00:00 -t 01:01:07  -c copy 264_out_1.mp4
+
+
+ffmpeg -i 514.mp4 -ss 00:06:42 -c copy 514_out.mp4
+ffmpeg -i 515.mp4 -ss 00:06:42 -c copy 515_out.mp4
+ffmpeg -i 516.mp4 -ss 00:06:42 -c copy 516_out.mp4
+ffmpeg -i 517.mp4 -ss 00:06:42 -c copy 517_out.mp4
+ffmpeg -i 518.mp4 -ss 00:06:38 -c copy 518_out.mp4
+ffmpeg -i 519.mp4 -ss 00:06:42 -c copy 519_out.mp4
+ffmpeg -i 520.mp4 -ss 00:06:36 -c copy 520_out.mp4

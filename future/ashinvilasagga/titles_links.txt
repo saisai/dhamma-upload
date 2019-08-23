@@ -1,0 +1,397 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/44.mp3|၁။ (၃၁)ဘံု ဘယ္သူဖန္ဆင္းလဲ (၁)
+002.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/45.mp3|၂။ (၃၁)ဘံု ဘယ္သူဖန္ဆင္းလဲ (၂)
+003.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/46.mp3|၃။ (၃၁)ဘံု ဘယ္သူဖန္ဆင္းလဲ (၃)
+004.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/47.mp3|၄။ (၃၁)ဘံု ဘယ္သူဖန္ဆင္းလဲ (၄)
+005.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/48.mp3|၅။ (၃၁)ဘံု ဘယ္သူဖန္ဆင္းလဲ (၅)
+006.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/14.mp3|၆။ ကံသံုးပါးကို ျပဳျပင္ျခင္း (၁)
+007.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/15.mp3|၇။ ကံသံုးပါးကို ျပဳျပင္ျခင္း (၂)
+008.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/16.mp3|၈။ ကံသံုးပါးကို ျပဳျပင္ျခင္း (၃)
+009.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/17.mp3|၉။ ကံသံုးပါးကို ျပဳျပင္ျခင္း (၄)
+010.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/18.mp3|၁၀။ ကံသံုးပါးကို ျပဳျပင္ျခင္း (၅)
+011.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/19.mp3|၁၁။ ကံသံုးပါးကို ျပဳျပင္ျခင္း (၆)
+012.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/20.mp3|၁၂။ ကံသံုးပါးကို ျပဳျပင္ျခင္း (၇)
+013.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/98.mp3|၁၃။ ကာယာႏုပႆနာ (၁)
+014.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/99.mp3|၁၄။ ကာယာႏုပႆနာ (၂)
+015.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/100.mp3|၁၅။ ကာယာႏုပႆနာ (၃)
+016.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/101.mp3|၁၆။ ကာယာႏုပႆနာ (၄)
+017.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/102.mp3|၁၇။ ကာယာႏုပႆနာ (၅)
+018.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/4.mp3|၁၈။ ခ်မ္းေျမ႕သာယာေသာဘဝျဖင့္ ေနထိုင္ျခင္း အပိုင္း (၁)
+019.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/5.mp3|၁၉။ ခ်မ္းေျမ႕သာယာေသာဘဝျဖင့္ ေနထိုင္ျခင္း အပိုင္း (၂)
+020.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/6.mp3|၂၀။ ခ်မ္းေျမ႕သာယာေသာဘဝျဖင့္ ေနထိုင္ျခင္း အပိုင္း (၃)
+021.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/7.mp3|၂၁။ ခ်မ္းေျမ႕သာယာေသာဘဝျဖင့္ ေနထိုင္ျခင္း အပိုင္း (၄)
+022.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/8.mp3|၂၂။ ခ်မ္းေျမ႕သာယာေသာဘဝျဖင့္ ေနထိုင္ျခင္း အပိုင္း (၅)
+023.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/9.mp3|၂၃။ ခ်မ္းေျမ႕သာယာေသာဘဝျဖင့္ ေနထိုင္ျခင္း အပိုင္း (၆)
+024.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/78.mp3|၂၄။ စိတၱာႏုပႆနာ (၁)
+025.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/79.mp3|၂၅။ စိတၱာႏုပႆနာ (၂)
+026.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/80.mp3|၂၆။ စိတၱာႏုပႆနာ (၃)
+027.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/81.mp3|၂၇။ စိတၱာႏုပႆနာ (၄)
+028.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/82.mp3|၂၈။ စိတၱာႏုပႆနာ (၅)
+029.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/83.mp3|၂၉။ စိတၱာႏုပႆနာ (၆)
+030.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/84.mp3|၃၀။ စိတၱာႏုပႆနာ (၇)
+031.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/85.mp3|၃၁။ စိတၱာႏုပႆနာ (၈)
+032.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/86.mp3|၃၂။ စိတၱာႏုပႆနာ (၉)
+033.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/87.mp3|၃၃။ စိတၱာႏုပႆနာ (၁၀)
+034.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/203.mp3|၃၄။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၁)
+035.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/204.mp3|၃၅။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၂)
+036.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/205.mp3|၃၆။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၃)
+037.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/206.mp3|၃၇။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၄)
+038.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/207.mp3|၃၈။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၅)
+039.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/208.mp3|၃၉။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၆)
+040.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/209.mp3|၄၀။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၇)
+041.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/210.mp3|၄၁။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၈)
+042.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/211.mp3|၄၂။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၉)
+043.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/212.mp3|၄၃။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၁၀)
+044.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/213.mp3|၄၄။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၁၁)
+045.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/214.mp3|၄၅။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၁၂)
+046.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/215.mp3|၄၆။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၁၃)
+047.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/216.mp3|၄၇။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၁၄)
+048.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/217.mp3|၄၈။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၁၅)
+049.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/218.mp3|၄၉။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၁၆)
+050.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/219.mp3|၅၀။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၁၇)
+051.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/220.mp3|၅၁။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၁၈)
+052.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/221.mp3|၅၂။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၁၉)
+053.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/222.mp3|၅၃။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၂၀)
+054.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/223.mp3|၅၄။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၂၁)
+055.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/224.mp3|၅၅။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၂၂)
+056.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/225.mp3|၅၆။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၂၃)
+057.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/226.mp3|၅၇။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၂၄)
+058.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/227.mp3|၅၈။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၂၅)
+059.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/228.mp3|၅၉။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၂၆)
+060.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/229.mp3|၆၀။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၂၇)
+061.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/230.mp3|၆၁။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၂၈)
+062.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/231.mp3|၆၂။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၂၉)
+063.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/232.mp3|၆၃။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၃၀)
+064.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/233.mp3|၆၄။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၃၁)
+065.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/234.mp3|၆၅။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၃၂)
+066.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/235.mp3|၆၆။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၃၃)
+067.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/236.mp3|၆၇။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၃၄)
+068.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/237.mp3|၆၈။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၃၅)
+069.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/238.mp3|၆၉။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၃၆)
+070.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/239.mp3|၇၀။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၃၇)
+071.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/240.mp3|၇၁။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၃၈)
+072.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/241.mp3|၇၂။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၃၉)
+073.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/242.mp3|၇၃။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၄၀)
+074.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/243.mp3|၇၄။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၄၁)
+075.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/244.mp3|၇၅။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၄၂)
+076.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/245.mp3|၇၆။ ရႈ႕ကြက္အတြင္းမွာ တရားရွာ (၄၃)
+077.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/174.mp3|၇၇။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၁)
+078.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/175.mp3|၇၈။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၂)
+079.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/176.mp3|၇၉။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၃)
+080.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/177.mp3|၈၀။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၄)
+081.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/178.mp3|၈၁။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၅)
+082.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/179.mp3|၈၂။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၆)
+083.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/180.mp3|၈၃။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၇)
+084.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/181.mp3|၈၄။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၈)
+085.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/182.mp3|၈၅။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၉)
+086.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/183.mp3|၈၆။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၁၀)
+087.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/184.mp3|၈၇။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၁၁)
+088.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/185.mp3|၈၈။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၁၂)
+089.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/186.mp3|၈၉။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၁၃)
+090.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/187.mp3|၉၀။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၁၄)
+091.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/188.mp3|၉၁။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၁၅)
+092.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/189.mp3|၉၂။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၁၆)
+093.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/190.mp3|၉၃။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၁၇)
+094.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/191.mp3|၉၄။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၁၈)
+095.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/192.mp3|၉၅။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၁၉)
+096.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/193.mp3|၉၆။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၂၀)
+097.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/194.mp3|၉၇။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၂၁)
+098.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/195.mp3|၉၈။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၂၂)
+099.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/196.mp3|၉၉။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၂၃)
+100.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/197.mp3|၁၀၀။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၂၄)
+101.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/198.mp3|၁၀၁။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၂၅)
+102.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/199.mp3|၁၀၂။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၂၆)
+103.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/200.mp3|၁၀၃။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၂၇)
+104.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/201.mp3|၁၀၄။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၂၈)
+105.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/202.mp3|၁၀၅။ ပစၥဳပၸန္အာရံုျဖင့္ အလုပ္လုပ္ပံု (၂၉)
+106.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/68.mp3|၁၀၆။ ဝိပႆနာ ပညာ (၁)
+107.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/69.mp3|၁၀၇။ ဝိပႆနာ ပညာ (၂)
+108.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/70.mp3|၁၀၈။ ဝိပႆနာ ပညာ (၃)
+109.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/71.mp3|၁၀၉။ ဝိပႆနာ ပညာ (၄)
+110.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/72.mp3|၁၁၀။ ဝိပႆနာ ပညာ (၅)
+111.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/73.mp3|၁၁၁။ ဝိပႆနာ ပညာ (၆)
+112.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/74.mp3|၁၁၂။ ဝိပႆနာ ပညာ (၇)
+113.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/75.mp3|၁၁၃။ ဝိပႆနာ ပညာ (၈)
+114.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/76.mp3|၁၁၄။ ဝိပႆနာ ပညာ (၉)
+115.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/77.mp3|၁၁၅။ ဝိပႆနာ ပညာ (၁၀)
+116.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/88.mp3|၁၁၆။ ေဝဒနာႏုပႆနာ (၁)
+117.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/89.mp3|၁၁၇။ ေဝဒနာႏုပႆနာ (၂)
+118.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/90.mp3|၁၁၈။ ေဝဒနာႏုပႆနာ (၃)
+119.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/91.mp3|၁၁၉။ ေဝဒနာႏုပႆနာ (၄)
+120.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/92.mp3|၁၂၀။ ေဝဒနာႏုပႆနာ (၅)
+121.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/93.mp3|၁၂၁။ ေဝဒနာႏုပႆနာ (၆)
+122.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/94.mp3|၁၂၂။ ေဝဒနာႏုပႆနာ (၇)
+123.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/95.mp3|၁၂၃။ ေဝဒနာႏုပႆနာ (၈)
+124.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/96.mp3|၁၂၄။ ေဝဒနာႏုပႆနာ (၉)
+125.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/97.mp3|၁၂၅။ ေဝဒနာႏုပႆနာ (၁၀)
+126.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/01.mp3|၁၂၆။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၁)
+127.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/02.mp3|၁၂၇။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၂)
+128.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/03.mp3|၁၂၈။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၃)
+129.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/04.mp3|၁၂၉။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၄)
+130.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/05.mp3|၁၃၀။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၅)
+131.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/06.mp3|၁၃၁။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၆)
+132.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/07.mp3|၁၃၂။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၇)
+133.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/08.mp3|၁၃၃။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၈)
+134.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/09.mp3|၁၃၄။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၈)
+135.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/10.mp3|၁၃၅။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၁၀)
+136.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/11.mp3|၁၃၆။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္းအပိုင္း (၁၁)
+137.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/12.mp3|၁၃၇။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္းအပိုင္း (၁၂)
+138.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/13.mp3|၁၃၈။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၁၃)
+139.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/14.mp3|၁၃၉။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၁၄)
+140.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/15.mp3|၁၄၀။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္းအပိုင္း (၁၅)
+141.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/16.mp3|၁၄၁။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္းအပိုင္း (၁၆)
+142.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/17.mp3|၁၄၂။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္းအပိုင္း (၁၇)
+143.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/18.mp3|၁၄၃။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္းအပိုင္း (၁၈)
+144.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/19.mp3|၁၄၄။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၁၉)
+145.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/20.mp3|၁၄၅။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္းအပိုင္း (၂၀)
+146.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/211.mp3|၁၄၆။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၂၁)
+147.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/22.mp3|၁၄၇။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၂၂)
+148.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/23.mp3|၁၄၈။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၂၃)
+149.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/24.mp3|၁၄၉။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၂၄)
+150.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/25.mp3|၁၅၀။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၂၅)
+151.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/26.mp3|၁၅၁။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၂၆)
+152.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/27.mp3|၁၅၂။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၂၇)
+153.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/28.mp3|၁၅၃။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၂၈)
+154.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/29.mp3|၁၅၄။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၂၉)
+155.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/Kanmyint-30days/30.mp3|၁၅၅။ ဝိပႆနာျဖင့္ ပ႒ာန္းျမတ္ေဒသနာေတာ္ကို ပူေဇာ္ျခင္း အပိုင္း (၃၀)
+156.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/123.mp3|၁၅၆။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၁)
+157.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/124.mp3|၁၅၇။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၂)
+158.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/125.mp3|၁၅၈။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါအပိုင္း (၃)
+159.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/126.mp3|၁၅၉။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါအပိုင္း (၄)
+160.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/127.mp3|၁၆၀။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါအပိုင္း (၅)
+161.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/128.mp3|၁၆၁။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါအပိုင္း (၆)
+162.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/129.mp3|၁၆၂။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၇)
+163.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/130.mp3|၁၆၃။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၈)
+164.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/131.mp3|၁၆၄။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၉)
+165.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/132.mp3|၁၆၅။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါအပိုင္း (၁၀)
+166.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/133.mp3|၁၆၆။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၁၁)
+167.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/134.mp3|၁၆၇။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၁၂)
+168.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/135.mp3|၁၆၈။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၁၃)
+169.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/136.mp3|၁၆၉။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၁၄)
+170.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/137.mp3|၁၇၀။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၁၅)
+171.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/138.mp3|၁၇၁။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၁၆)
+172.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/139.mp3|၁၇၂။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၁၇)
+173.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/140.mp3|၁၇၃။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၁၈)
+174.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/141.mp3|၁၇၄။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၁၉)
+175.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/142.mp3|၁၇၅။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၂၀)
+176.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/143.mp3|၁၇၆။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၂၁)
+177.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/144.mp3|၁၇၇။ သတိ၊ ပညာ၊ ဝိပႆနာ ရႈ႕ကြက္အတြင္းမွာ ရွာၾကည့္ပါ အပိုင္း (၂၂)
+178.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/262.mp3|၁၇၈။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၁)
+179.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/263.mp3|၁၇၉။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၂)
+180.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/264.mp3|၁၈၀။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၃)
+181.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/265.mp3|၁၈၁။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၄)
+182.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/266.mp3|၁၈၂။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၅)
+183.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/267.mp3|၁၈၃။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၆)
+184.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/268.mp3|၁၈၄။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၇)
+185.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/269.mp3|၁၈၅။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၈)
+186.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/270.mp3|၁၈၆။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၉)
+187.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/271.mp3|၁၈၇။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၁၀)
+188.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/272.mp3|၁၈၈။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၁၁)
+189.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/273.mp3|၁၈၉။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၁၂)
+190.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/274.mp3|၁၉၀။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၁၃)
+191.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/275.mp3|၁၉၁။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၁၄)
+192.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/276.mp3|၁၉၂။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၁၅)
+193.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/277.mp3|၁၉၃။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၁၆)
+194.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/278.mp3|၁၉၄။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၁၇)
+195.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/279.mp3|၁၉၅။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၁၈)
+196.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/280.mp3|၁၉၆။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၁၉)
+197.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/281.mp3|၁၉၇။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၂၀)
+198.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/282.mp3|၁၉၈။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၂၁)
+199.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/283.mp3|၁၉၉။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၂၂)
+200.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/284.mp3|၂၀၀။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၂၃)
+201.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/285.mp3|၂၀၁။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၂၄)
+202.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/286.mp3|၂၀၂။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၂၅)
+203.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/287.mp3|၂၀၃။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၂၆)
+204.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/288.mp3|၂၀၄။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၂၇)
+205.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/289.mp3|၂၀၅။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၂၈)
+206.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/290.mp3|၂၀၆။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၂၉)
+207.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/291.mp3|၂၀၇။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၃၀)
+208.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/292.mp3|၂၀၈။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၃၁)
+209.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/293.mp3|၂၀၉။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၃၂)
+210.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/294.mp3|၂၁၀။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၃၃)
+211.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/295.mp3|၂၁၁။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၃၄)
+212.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/296.mp3|၂၁၂။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၃၅)
+213.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/297.mp3|၂၁၃။ သတိသည္ ေယာဂီတို႔၏ အသက္ (၃၆)
+214.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/58.mp3|၂၁၄။ အလုပ္ေပးတရား (၁)
+215.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/59.mp3|၂၁၅။ အလုပ္ေပးတရား (၂)
+216.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/60.mp3|၂၁၆။ အလုပ္ေပးတရား (၃)
+217.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/61.mp3|၂၁၇။ အလုပ္ေပးတရား (၄)
+218.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/62.mp3|၂၁၈။ အလုပ္ေပးတရား (၅)
+219.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/63.mp3|၂၁၉။ အလုပ္ေပးတရား (၆)
+220.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/64.mp3|၂၂၀။ အလုပ္ေပးတရား (၇)
+221.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/65.mp3|၂၂၁။ အလုပ္ေပးတရား (၈)
+222.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/66.mp3|၂၂၂။ အလုပ္ေပးတရား (၉)
+223.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/67.mp3|၂၂၃။ အလုပ္ေပးတရား (၁၀)
+224.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/106.mp3|၂၂၄။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၁)
+225.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/107.mp3|၂၂၅။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၂)
+226.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/108.mp3|၂၂၆။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၃)
+227.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/109.mp3|၂၂၇။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၄)
+228.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/110.mp3|၂၂၈။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၅)
+229.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/111.mp3|၂၂၉။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၆)
+230.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/112.mp3|၂၃၀။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၇)
+231.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/113.mp3|၂၃၁။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၈)
+232.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/114.mp3|၂၃၂။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၉)
+233.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/115.mp3|၂၃၃။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၁၀)
+234.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/116.mp3|၂၃၄။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၁၁)
+235.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/117.mp3|၂၃၅။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၁၂)
+236.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/118.mp3|၂၃၆။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၁၃)
+237.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/119.mp3|၂၃၇။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၁၄)
+238.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/120.mp3|၂၃၈။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၁၅)
+239.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/121.mp3|၂၃၉။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၁၆)
+240.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/122.mp3|၂၄၀။ အာရံုသတၱိ၊ ဝီရိယတို႔ အလုပ္လုပ္ပံုမ်ား အပိုင္း (၁၇)
+241.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/145.mp3|၂၄၁။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၁)
+242.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/146.mp3|၂၄၂။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၂)
+243.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/147.mp3|၂၄၃။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၃)
+244.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/148.mp3|၂၄၄။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၄)
+245.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/149.mp3|၂၄၅။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၅)
+246.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/150.mp3|၂၄၆။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၆)
+247.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/151.mp3|၂၄၇။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၇)
+248.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/152.mp3|၂၄၈။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၈)
+249.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/153.mp3|၂၄၉။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၉)
+250.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/154.mp3|၂၅၀။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၁၀)
+251.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/155.mp3|၂၅၁။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၁၁)
+252.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/156.mp3|၂၅၂။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၁၂)
+253.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/157.mp3|၂၅၃။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၁၃)
+254.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/158.mp3|၂၅၄။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၁၄)
+255.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/159.mp3|၂၅၅။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၁၅)
+256.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/160.mp3|၂၅၆။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၁၆)
+257.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/161.mp3|၂၅၇။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၁၇)
+258.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/162.mp3|၂၅၈။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၁၈)
+259.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/163.mp3|၂၅၉။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၁၉)
+260.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/164.mp3|၂၆၀။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၂၀)
+261.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/165.mp3|၂၆၁။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၂၁)
+262.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/166.mp3|၂၆၂။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၂၂)
+263.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/167.mp3|၂၆၃။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၂၃)
+264.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/168.mp3|၂၆၄။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၂၄)
+265.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/169.mp3|၂၆၅။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၂၅)
+266.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/170.mp3|၂၆၆။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၂၆)
+267.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/171.mp3|၂၆၇။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၂၇)
+268.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/172.mp3|၂၆၈။ အာရံုႏွင့္ စိတ္ကို ရႈ႕ကြက္ျဖင့္ ေဝဖန္ျခင္း အပိုင္း (၂၈)
+269.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/246.mp3|၂၆၉။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၁)
+270.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/247.mp3|၂၇၀။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၂)
+271.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/248.mp3|၂၇၁။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၃)
+272.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/249.mp3|၂၇၂။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၄)
+273.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/250.mp3|၂၇၃။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၅)
+274.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/251.mp3|၂၇၄။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၆)
+275.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/252.mp3|၂၇၅။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၇)
+276.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/253.mp3|၂၇၆။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၈)
+277.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/254.mp3|၂၇၇။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၉)
+278.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/255.mp3|၂၇၈။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၁၀)
+279.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/256.mp3|၂၇၉။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၁၁)
+280.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/257.mp3|၂၈၀။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၁၂)
+281.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/258.mp3|၂၈၁။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၁၃)
+282.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/259.mp3|၂၈၂။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၁၄)
+283.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/260.mp3|၂၈၃။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၁၅)
+284.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/261.mp3|၂၈၄။ အမ်ိဳးအစားေကာင္းေသာ သတိ (၁၆)
+285.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/342.mp3|၂၈၅။ ကိုယ္အားထုတ္ရတဲ့အလုပ္တရားကို ဘယ္လိုနားထည္ထားရမလဲ
+286.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/346.mp3|၂၈၆။ ကိုယ္ေစာင့္တရားေလးပါး
+287.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-15.mp3|၂၈၇။ က်န္းက်န္းမာမာ ရႊင္ရႊင္လန္းလန္း
+288.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/43.mp3|၂၈၈။ ၾကည္လင္ေသာစိတ္ထား
+289.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/13.mp3|၂၈၉။ ေက်နပ္စရာေကာင္းေသာဘဝ
+290.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-18.mp3|၂၉၀။ ခ်စ္ခ်စ္ခင္ခင္ ေလးေလးစားစား
+291.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-17.mp3|၂၉၁။ ခ်မ္းခ်မ္းသာသာ ခ်စ္ခ်စ္ခင္ခင္
+292.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-12.mp3|၂၉၂။ ခႏၶာ၏သံသရာစက္လည္ပံု
+293.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/343.mp3|၂၉၃။ ခႏၶာကိုနာက်င္ကိုက္ခဲမႈ႕ေဝဒနာေတြကို ဘယ္လိုလရႈမွတ္ရမလဲ
+294.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/30.mp3|၂၉၄။ ၿငိမ့္ၿငိမ္ၿငိမ္း (၁)
+295.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/31.mp3|၂၉၅။ ၿငိမ့္ၿငိမ္ၿငိမ္း (၂)
+296.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-20.mp3|၂၉၆။ ျငိမ္း
+297.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-1.mp3|၂၉၇။ စကားေကာင္းေကာင္းေျပာ
+298.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-21.mp3|၂၉၈။ စကားေကာင္းေျပာပါ
+299.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/314.mp3|၂၉၉။ စခန္းပိတ္ၾသဝါဒ
+300.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/320.mp3|၃၀၀။ စႀကၤန္ကမၼ႒ာန္း (၁)
+301.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/321.mp3|၃၀၁။ စႀကၤန္ကမၼ႒ာန္း (၂)
+302.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/322.mp3|၃၀၂။ စႀကၤန္ကမၼ႒ာန္း (၃)
+303.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/26.mp3|၃၀၃။ စြန္႔ရဲသတၱိ
+304.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/28.mp3|၃၀၄။ စိတ္ကိုဆံုးမ ခ်မ္းသာရ
+305.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/21.mp3|၃၀၅။ စိတ္ခ်မ္းသာခ်င္လိုက္တာ
+306.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/41.mp3|၃၀၆။ စိတ္ဆင္းရဲမႈ႕ကို ဘယ္လိုပယ္ေဖ်ာက္မလဲ
+307.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/317.mp3|၃၀၇။ စိတ္ပ်ံ႕လြင့္ျခင္းကို ဘယ္လိုရႈမွတ္ရမလဲ (၁)
+308.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/318.mp3|၃၀၈။ စိတ္ပ်ံ႕လြင့္ျခင္းကို ဘယ္လိုရႈမွတ္ရမလဲ (၂)
+309.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-10.mp3|၃၀၉။ စိတ္အေၾကာင္းမသိလို႔အာင္
+310.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/10.mp3|၃၁၀။ စိတ္ေမာပန္းျခင္းကို ကာကြယ္ကုသနည္း (၁)
+311.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/11.mp3|၃၁၁။ စိတ္ေမာပန္းျခင္းကို ကာကြယ္ကုသနည္း (၂)
+312.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/12.mp3|၃၁၂။ စိတ္ေမာပန္းျခင္းကို ကာကြယ္ကုသနည္း (၃)
+313.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-11.mp3|၃၁၃။ စိတ္ေရာဂါကုရေအာင္
+314.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/303.mp3|၃၁၄။ ဆင္းရဲအမွန္ဥာဏ္သိျဖစ္လာမည္
+315.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/310.mp3|၃၁၅။ တစ္မွတ္ရဲ႕ တန္ဖုိး
+316.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/33.mp3|၃၁၆။ တရားဘာေၾကာင့္ အားထုတ္ရပါသလဲ
+317.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/328.mp3|၃၁၇။ တရားရွာ ခႏၶာမွာ
+318.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/338.mp3|၃၁၈။ တရားရႈ႕မွတ္ျခင္းႏွင့္ဆိုင္ေသာ အေၾကာင္းအရာမ်ား
+319.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/347.mp3|၃၁၉။ တရားရႈမွတ္သည့္အခါ သိသင့္သိထိုက္ဖြယ္ရာမ်ား
+320.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-2.mp3|၃၂၀။ တရားအလုပ္ဆိုတာ သမၼာဒိ႒ိအလုပ္
+321.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-7.mp3|၃၂၁။ တရားအားထုတ္တယ္ဆိုတာ
+322.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/339.mp3|၃၂၂။ တရားအားထုတ္တယ္ဆိုတာ မိမိစိတ္ကို အဆင့္ျမွင့္တင္ေပးတဲ့ အလုပ္လုပ္ကို လုပ္ေနတာပါ
+323.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/337.mp3|၃၂၃။ တရားအားထုတ္ျခင္းႏွင့္ပတ္သက္၍ ေယာဂီမ်ားလိုက္နာက်င့္သံုးဖြယ္ရာ
+324.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/340.mp3|၃၂၄။ တရားအားထုတ္ရာတြင္ ေတြ႕ႀကံဳရတက္သည့္ အခက္အခဲမ်ားႏွင့္ သေဘာသဘာဝမ်ား
+325.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/345.mp3|၃၂၅။ တရားအားထုတ္သည့္အခါ လိုက္နာက်င့္သံုးဖြယ္ရာမ်ား
+326.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/27.mp3|၃၂၆။ ဒါန၏အက်ဳိးေက်းဇူးႀကီးမားပံု
+327.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/29.mp3|၃၂၇။ ဒါနနဲ႔ ဝိပႆနာ
+328.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-6.mp3|၃၂၈။ ဒုကၡမကုန္ေသာသုခ
+329.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/304.mp3|၃၂၉။ ေပၚဆဲခႏၶာရႈ႕ကြက္တစ္စံုသည္ လက္က်န္မရွိ
+330.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/298.mp3|၃၃၀။ ဖြင့္ပြဲ ၾသဝါဒ
+331.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/25.mp3|၃၃၁။ ဗုဒၶဘာသာသည္ အက်င့္တရားျဖင့္ တည္ေဆာက္သည္
+332.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/36.mp3|၃၃၂။ ဗုဒၶဝါဒဟူသည္
+333.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/326.mp3|၃၃၃။ ဘာျဖစ္လို႔ ေျပာင္းေရႊ႕ခ်င္ၾကတာလဲ
+334.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/336.mp3|၃၃၄။ ဘာေၾကာင့္ မၿငိမ္းခ်မ္းတာလဲ
+335.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-3.mp3|၃၃၅။ ဘုံဘ၀ေစာ္မနံေစနဲ႔
+336.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/22.mp3|၃၃၆။ ဘုရားပြင့္တဲ့ ႏွလံုးသား
+337.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-13.mp3|၃၃၇။ မဇ်ၥိမခရီးသည္
+338.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/350.mp3|၃၃၈။ မျပတ္မလပ္ရႈမွတ္ပါ
+339.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/335.mp3|၃၃၉။ မိမိအိမ္မွာ ဆက္အားထုတ္ရမည့္တရား
+340.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/42.mp3|၃၄၀။ မေကာင္းျမင္စိတ္
+341.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-5.mp3|၃၄၁။ မေနာမွာဆက္၊မေနာမွာျဖတ္၊ မေနာမွာျပတ္
+342.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/38.mp3|၃၄၂။ ေမြးေန႔ကုသိုလ္
+343.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-22.mp3|၃၄၃။ ေမြးေန႔ရတယ္ဆိုတာ
+344.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/1.mp3|၃၄၄။ ျမတ္ဗုဒၶသင္ေပးေသာပညာျဖင့္ စိတ္ဖိစည္းမႈ႕ကို ေလ်ာ့ခ်ျခင္း (၁)
+345.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/2.mp3|၃၄၅။ ျမတ္ဗုဒၶသင္ေပးေသာပညာျဖင့္ စိတ္ဖိစည္းမႈ႕ကို ေလ်ာ့ခ်ျခင္း (၂)
+346.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/3.mp3|၃၄၆။ ျမတ္ဗုဒၶသင္ေပးေသာပညာျဖင့္ စိတ္ဖိစည္းမႈ႕ကို ေလ်ာ့ခ်ျခင္း (၃)
+347.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/311.mp3|၃၄၇။ ရႈကြက္သည္ သဘာဝအတိုင္းရွိပါေစ
+348.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/313.mp3|၃၄၈။ ရႈစိတ္အဓိက (အမွတ္သိ ကိုယ္တိုင္သိလာမယ္)
+349.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-16.mp3|၃၄၉။ ရႊင္ရႊင္လန္းလန္း ခ်မ္းခ်မ္းသာသာ
+350.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-9.mp3|၃၅၀။ ႐ႈစိတ္သည္လူမဟုတ္
+351.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-19.mp3|၃၅၁။ ေလးေလးစားစား တည္တည္ျငိမ္ျငိမ္
+352.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/299.mp3|၃၅၂။ လိုက္နာက်င့္သံုးစရာမ်ား
+353.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-8.mp3|၃၅၃။ လူမဟုတ္ေသာရုပ္
+354.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/39.mp3|၃၅၄။ ဝတၳဳဒါနနဲ႔ ေစတနာဒါန
+355.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/330.mp3|၃၅၅။ ဝိပႆနာ အတုအေၾကာင္း
+356.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/349.mp3|၃၅၆။ ဝိပႆနာဆိုတာ ပစၥဳပၸန္
+357.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/341.mp3|၃၅၇။ ဝိပႆနာရႈ႕ပြားရာတြင္ အဓိကသိထားရမည့္ အေျခခံသေဘာတရားမ်ား
+358.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/55.mp3|၃၅၈။ ဝိပႆနာရႈ႕ရမည့္ ခႏၶာ (၁)
+359.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/56.mp3|၃၅၉။ ဝိပႆနာရႈ႕ရမည့္ ခႏၶာ (၂)
+360.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/57.mp3|၃၆၀။ ဝိပႆနာရႈ႕ရမည့္ ခႏၶာ (၃)
+361.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/327.mp3|၃၆၁။ ဝိပႆနာရႈတာ ပစၥဳပၸန္
+362.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/308.mp3|၃၆၂။ ဝိပႆနာအက်ိဳး
+363.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-23.mp3|၃၆၃။ ၀ိပႆနာဆိုတာ
+364.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/344.mp3|၃၆၄။ ေဝဒနာရႈမွတ္နည္း
+365.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/332.mp3|၃၆၅။ ေဝနာရႈ႕မွတ္ပံု (၁)
+366.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/333.mp3|၃၆၆။ ေဝနာရႈ႕မွတ္ပံု (၂)
+367.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/103.mp3|၃၆၇။ သံခိေတၱန ပဥၥဳပါဒါနကၡႏၶာ ဒုကၡ (၁)
+368.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/104.mp3|၃၆၈။ သံခိေတၱန ပဥၥဳပါဒါနကၡႏၶာ ဒုကၡ (၂)
+369.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/105.mp3|၃၆၉။ သံခိေတၱန ပဥၥဳပါဒါနကၡႏၶာ ဒုကၡ (၃)
+370.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-4.mp3|၃၇၀။ သခၤါရပစၥယာ၀ိညာက
+371.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/315.mp3|၃၇၁။ သတိ၏ လုပ္ငန္း (၁)
+372.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/316.mp3|၃၇၂။ သတိ၏ လုပ္ငန္း (၂)
+373.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/348.mp3|၃၇၃။ သတိတရားေတာ္
+374.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/301.mp3|၃၇၄။ သတိျဖစ္ေအာင္လုပ္
+375.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/307.mp3|၃၇၅။ သတိသဘာဝနဲ႔လုပ္ငန္း
+376.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/312.mp3|၃၇၆။ သဘာဝသက္သက္ ပရမတ္ဒုကၡ
+377.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/24.mp3|၃၇၇။ သရဏဂံုႏွင့္ ငါးပါးသီလ အေၾကာင္းအက်ိဳးျပ
+378.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/35.mp3|၃၇၈။ သာဓုသုတၱံ
+379.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/32.mp3|၃၇၉။ သာသနာေတာ္၏ ေက်းဇူး
+380.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/302.mp3|၃၈၀။ သိေအာင္လုပ္ရမည့္လုပ္ငန္း
+381.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/37.mp3|၃၈၁။ သုဘာတိတာဝါစာ
+382.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/34.mp3|၃၈၂။ သူေတာ္ေကာင္းႏွင့္ ေပါင္းသင္းရက်ိဳး
+383.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/331.mp3|၃၈၃။ ေဟာစဥ္ရယ္ ျဖစ္စဥ္ရယ္ က်င့္စဥ္ရယ္
+384.mp3|https://media.thitsarparamisociety.com/mp3/AshinVilasgga/DVD1/AshinVilaSagga-Dhammatalk-14.mp3|၃၈၄။ အက်င့္မွန္မွအျမင္မွန္
+385.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/351.mp3|၃၈၅။ အစြဲမပါေအာင္ရႈမွတ္ပါ
+386.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/23.mp3|၃၈၆။ အမွားျပင္ပါ
+387.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/40.mp3|၃၈၇။ အာနာပါနနဲ႔ သတိပ႒ာန္
+388.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/309.mp3|၃၈၈။ အာရံဳအစြဲရႈမွတ္တက္ဖို႔လို
+389.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/319.mp3|၃၈၉။ အာရံုကို လြတ္လပ္ခြင့္ေပးလိုက္ပါ
+390.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/305.mp3|၃၉၀။ အာရံုရဲ႕သေဘာမွန္ကို ႏွလံုးသြင္းမွန္ဖို႔လို
+391.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/300.mp3|၃၉၁။ အာရံုအစြဲ မရွိေစနဲ႔
+392.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/323.mp3|၃၉၂။ အာရံုေပါင္းစံုျဖင့္ ေနတက္ေအာင္ ေလ့က်င့္ျခင္း (၁)
+393.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/324.mp3|၃၉၃။ အာရံုေပါင္းစံုျဖင့္ ေနတက္ေအာင္ ေလ့က်င့္ျခင္း (၂)
+394.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/325.mp3|၃၉၄။ အာရံုႏွင့္ စိတ္ကုိ စ်ာန္အဂၤါငါးပါးျဖင့္ ေလ့က်င့္ျခင္း
+395.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/306.mp3|၃၉၅။ အေတြးသဘာဝနဲ႔ရႈ႕မွတ္ပံု
+396.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/329.mp3|၃၉၆။ အေရြ႕၏ စြမ္းအင္ (၁)
+397.mp3|https://media.thitsarparamisociety.com/mp3/2018/AshinVilasgga/351/334.mp3|၃၉၇။ အေရြ႕၏ စြမ္းအင္ (၂)

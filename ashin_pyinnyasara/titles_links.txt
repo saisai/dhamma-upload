@@ -1,0 +1,59 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/1.mp3|၁။ခေရာင္းလမ္းမွာ ပြင့္ေသာပန္းမ်ား
+002.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/2.mp3|၂။အခ်စ္ဆံုးေပးတဲ့ အမုန္းလက္ဆာင္
+003.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/3.mp3|၃။ဘယ္ရင္ခြင္မွာ ခိုဝင္မွာလဲ
+004.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/4.mp3|၄။ျပန္သာျပန္ပါ ေရႊဟသၤာရယ္
+005.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/5.mp3|၅။သစၥာယွက္ဖံုးတဲ့ ေမတၱာမ်က္လံုးမ်ား
+006.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/6.mp3|၆။အငိုမ်က္လံုး အၿပံဳးမ်က္ႏွာ
+007.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/7.mp3|၇။ရင္မွာစြဲလန္း ေတာ္ဝင္ပန္း
+008.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/8.mp3|၈။ဘဝနိဂံုး ဘယ္လိုဆံုးမလဲ
+009.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/9.mp3|၉။ႏွလံုးသားကို အလွဆင္ပါ
+010.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/10.mp3|၁၀။ဆံၿမိတ္မေျပ ပန္းမေၾကြ
+011.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/11.mp3|၁၁။သာသနာျပဳသူ နည္းေကာင္းယူ
+012.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/12.mp3|၁၂။မပၸမာဒကမ္းေျခမွာ အပန္းေျဖပါ
+013.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/13.mp3|၁၃။မ်က္ရည္မိုးနဲ႔ ေဝးပါေစ
+014.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/14.mp3|၁၄။ဝဋ္ေၾကြးကံၾကမၼာ ေၾကာက္စရာ
+015.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/15.mp3|၁၅။မူလႏွစ္ျဖစ္ ရွင္းနည္းသင္တန္း
+016.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/16.mp3|၁၆။ဝိပါတ္ကံၾကမၼာခံရရွာ ဝဋ္သံုးပါးရွင္းနည္း
+017.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/17.mp3|၁၇။အေမွာင္တိုက္မွာ ေလာင္းၿမိဳက္ေသာ မီးတရားေတာ္
+018.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/18.mp3|၁၈။တိမ္လႊာဖုံးေသာ မ်က္လံုးမ်ား
+019.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/19.mp3|၁၉။အေနလဲတက္၊ အေသလဲျမတ္
+020.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/20.mp3|၂၀။တိမ္လႊာဖံုးေသာ မ်က္လံုးမ်ား (ဇမၼဴသီရိဗိမာန္)
+021.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/21.mp3|၂၁။အရိေမေတၱယ် မဟာဗုဒၶဝင္ ဘုရားသမိုင္း (ပ)
+022.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/22.mp3|၂၂။အရိေမေတၱယ် မဟာဗုဒၶဝင္ ဘုရားသမိုင္း (ဒု)
+023.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/23.mp3|၂၃။အရိေမေတၱယ် မဟာဗုဒၶဝင္ ဘုရားသမိုင္း (တ)
+024.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/24.mp3|၂၄။အရိေမေတၱယ် မဟာဗုဒၶဝင္ ဘုရားသမိုင္း (စ)
+025.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/25.mp3|၂၅။ဂႏၲဝင္ေျမာက္ေသာ သူရဲေကာင္း
+026.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/26.mp3|၂၆။ကမၻာတည္ပံု ပ်က္ပံု
+027.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/27.mp3|၂၇။ျပန္သာျပန္ပါ ေရႊဟသၤာရယ္
+028.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/28.mp3|၂၈။ကပ္ႀကီးသံုးပါး (ပ)
+029.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/29.mp3|၂၉။ကပ္ႀကီးသံုးပါး (ဒု)
+030.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/30.mp3|၃၀။လာျခင္းေကာင္း၍ ျပန္ျခင္းခ်မ္းေျမ့ပါေစ
+031.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/31.mp3|၃၁။ပရဟိတရဲ႕ အက်ိဳးတရား
+032.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/32.mp3|၃၂။ဘဝတေကြ႕ ခဏေတြ႕
+033.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/1/33.mp3|၃၃။သံသရာဘယ္ေတာ့ဆံုးမွာလဲ
+034.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX050.mp3|၃၄။ခႏၶာႏွစ္မ်ိဳးရွင္းတန္း
+035.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX051.mp3|၃၅။အဓိပတိသံုးပါးႏွင့္ျမင္လွ်င္ နိဗၺာန္ျမင္ပံု
+036.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX052.mp3|၃၆။ဝိဇၨာ၊ စရဏ ျပည့္စံုမွ
+037.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX053.mp3|၃၇။ဝိေဝကသံဳးပါး၊ တဏွာႏွင့္ရန္ျဖစ္ရဲမွ
+038.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX054.mp3|၃၈။ေဝဒနာရႈ႕ပံု ရႈ႕နည္း
+039.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX055.mp3|၃၉။မဂ္ႏွစ္မ်ိဳးခြဲ
+040.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX056.mp3|၄၀။ေယာဂီမ်ားခ်ဳပ္ပံု မတူညီပံု
+041.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX057.mp3|၄၁။သံဳညတ သဘာဝျမင္မွ
+042.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX058.mp3|၄၂။သတိပ႒ာန္မွ ဘာဝနာကူးပါ
+043.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX059.mp3|၄၃။သခၤါရေလာက
+044.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX060.mp3|၄၄။ေပါက္ပင္ဥပမာ
+045.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX061.mp3|၄၅။ဝဂၢလိရဟန္း
+046.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX062.mp3|၄၆။နိဗၺာနသစၦိကရဏပဥွာ
+047.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX063.mp3|၄၇။စံနိဗၺာန္အေၾကာင္း
+048.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX064.mp3|၄၈။စိတၱာႏုပႆနာ သတိပ႒ာန္
+049.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX065.mp3|၄၉။ေဝဒနာႏုပႆနာ သတိပ႒ာန္
+050.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX066.mp3|၅၀။ေဝဒနာ (၇)ခု ျမင္ေအာင္ရႈ႕
+051.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX067.mp3|၅၁။မွန္ေထာင္မွန္မွ တရားရ
+052.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX068.mp3|၅၂။အဖံုး(၂)ခ်ပ္လွပ္မွ နိဗၺာန္ရ
+053.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX069.mp3|၅၃။ဒုကၡသံုးမ်ဳိးတရားေတာ္
+054.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX070.mp3|၅၄။ဝိသုဒၶိတရား (၇)ပါး
+055.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/alotepay/TMAUX071.mp3|၅၅။နီဝရဏပယ္သတ္ ဝိေဝကသံုးပါး
+056.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/zinnkyan-shout-nee/TMAUX009.mp3|၅၆။စၾကၤန္ေလွ်ာက္နည္းႏွင့္ ေဘာဇနေဆာင္ၾကြနည္း
+057.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/zinnkyan-shout-nee/TMAUX010.mp3|၅၇။ေဘာဇနေဆာင္ၾကြနည္း (၁)
+058.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/zinnkyan-shout-nee/TMAUX011.mp3|၅၈။ေဘာဇနေဆာင္ၾကြနည္း (၂)
+059.mp3|https://media.thitsarparamisociety.com/mp3/2019/thitsar-gone-thin-sayardaw/zinnkyan-shout-nee/TMAUX012.mp3|၅၉။ေဘာဇနေဆာင္ၾကြနည္း (၃)
