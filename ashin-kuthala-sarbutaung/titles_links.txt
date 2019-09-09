@@ -1,0 +1,35 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/sa%20bu%20tg.mp3|၁။ ဒဏ္ရာမဲ့ ႏွလံုးသား တရားေတာ္
+002.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/1.mp3|၂။ ပဲ့တင္သံ (၂၅.၁၂.၂၀၁၃) ေတာင္ဥကၠလာ
+003.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/2.mp3|၃။ ေမေမ တရားေတာ္ (၂၉.၁၂.၂၀၁၃) လိႈင္
+004.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/3.mp3|၄။ ေမေမ ဥယ်ာဥ္မွဴၚ (၁၀.၁၂.၂၀၁၄) လမ္း-၉၀
+005.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/021%20%28%2020-9-2013%20You%29.mp3|၅။ ခႏၶာဥာဏ္ေရာက္ ဒိဌိျဖဳတ္ အလုပ္ေပး တရား
+006.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/022%20%28%2022-9-2013%20%20night%20%29.mp3|၆။ စိတၱာႏုပႆနာ တရားေတာ္
+007.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/023%20%28%2023-9-2013%20Soon%20%29.mp3|၇။ အေမ့ေက်းဇူး အထူးေပးဆပ္တဲ့ ကုသိုလ္
+008.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/024%20%28%2023-9-2013%20Evening%20%29.mp3|၈။ ခႏၶာဥာဏ္ေရာက္ ဒိဌိျဖဳတ္ အလုပ္ေပး တရား
+009.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/025%20%28%2024-9-2013%20noon%20Kan%20Kaung%20%29.mp3|၉။ ကိုျမင့္ႏိုင္၏ (၄၉)ႏွစ္ျပည့္ ေမြးေန႔ပြဲ အလွဴ
+010.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/026%20%28%2024-9-2013%20Evening%20%29.mp3|၁၀။ အလုပ္ေပးတရား
+011.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/027%20%28%2025-9-2013%20Soon%20%29.mp3|၁၁။ (၂၅.၉.၂၀၁၃)ေန႔ တရားစခန္း နံနက္ခင္း တရားေတာ္ (အေဖ့ က်းဇူး)
+012.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/028%20%28%2025-9-2013%20EVENING%29.mp3|၁၂။ (၂၅.၉.၂၀၁၃)ေန႔ တရားစခန္း ညေနခင္း အလုပ္ေပးတရား
+013.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/029%2026-9-2013%20Morning.mp3|၁၃။ (၂၆.၉.၂၀၁၃)ေန႔ တရားစခန္း နံနက္ခင္း တရားေတာ္
+014.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/030%2026-9-2013%20Soon%20Ray%20Set%20Cha.mp3|၁၄။ (၂၆.၉.၂၀၁၃)ေန႔ ေရစက္ခ် အလွဴေတာ္
+015.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/031%2026-9-2013%20evening.mp3|၁၅။ (၂၆.၉.၂၀၁၃)ေန႔ ခႏၶာဥာဏ္ေရာက္ ဒိဌိျဖဳတ္ အလုပ္ေပးတရားေတာ္
+016.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/032%2027-9-2013%20Morning.mp3|၁၆။ (၂၇.၉.၂၀၁၃)ေန႔ ပဋိစၥသမုပၸါဒ္ သင္တန္းတရားေတာ္
+017.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/033%2027-9-2013%20Noon.mp3|၁၇။ (၂၇.၉.၂၀၁၃)ေန႔ ေရစက္ခ် အလွဴေတာ္
+018.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/034%2027-9-2013%20Evening.mp3|၁၈။ (၂၇.၉.၂၀၁၃)ေန႔ ညေနခင္း ခႏၶာဥာဏ္ေရာက္ ဒိဌိျဖဳတ္ အလုပ္ေပး တရား
+019.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/035%2028-9-2013%20Morning.mp3|၁၉။ (၂၈.၉.၂၀၁၃) ပဋိစၥသမုပၸါဒ္ သင္တန္းတရားေတာ္
+020.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/036%2028-9-2013%20Noon%20Theik%20Khar.mp3|၂၀။ (၂၈.၉.၂၀၁၃)ေန႔ အႏုေမာဒနာ တရားေတာ္
+021.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/037%2028-9-2013%20EVENING.mp3|၂၁။ (၂၉.၉.၂၀၁၃) ပဋိစၥသမုပၸါဒ္ သင္တန္းတရားေတာ္
+022.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/038%2029-9-2013%20MORNING.mp3|၂၂။ (၂၉.၉.၂၀၁၃)ေန႔ နံနက္ခင္း ပဋိစၥသမုပၸါဒ္ အေၾကာင္း အက်ဳိး တရားေတာ္
+023.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD1/040%2029-9-2013%20evening.mp3|၂၃။ (၂၉.၉.၂၀၁၃)ေန႔ ခႏၶာဥာဏ္ေရာက္ ဒိဌိျဖဳတ္ အလုပ္ေပးတရားေတာ္
+024.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%201.mp3|၂၄။ မုဒိတာ ႏွလံုးသားတရားေတာ္
+025.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%2013.mp3|၂၅။ မိသားစု တရားေတာ္
+026.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%202.mp3|၂၆။ ဒဏ္ရာမဲ့ႏွလံုးသား တရားေတာ္ (ပ)
+027.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%203.mp3|၂၇။ ဒဏ္ရာမဲ့ႏွလံုးသား တရားေတာ္ (ဒု)
+028.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%204.mp3|၂၈။ ဒဏ္ရာမဲ့ႏွလံုးသား တရားေတာ္ (တ)
+029.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%205.mp3|၂၉။ ဒဏ္ရာမဲ့ႏွလံုးသား တရားေတာ္ (စ)
+030.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%207.mp3|၃၀။ မ်က္ရည္မက်ခင္ သိေစခ်င္ တရားေတာ္ (ပ)
+031.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%208.mp3|၃၁။ မ်က္ရည္မက်ခင္ သိေစခ်င္ တရားေတာ္ (ဒု)
+032.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%209.mp3|၃၂။ မ်က္ရည္မက်ခင္ သိေစခ်င္ တရားေတာ္ (တ)
+033.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%2010.mp3|၃၃။ မ်က္ရည္မက်ခင္ သိေစခ်င္ တရားေတာ္ (စ)
+034.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%2012.mp3|၃၄။ မိေကာင္းဖခင္ေက်းဇူးရွင္ တရားေတာ္
+035.mp3|https://media.thitsarparamisociety.com/mp3/SarBuTaung%20Sayardaw%20%20Ashin%20Ku%20Thala/DVD2/htaung%20Title%2011.mp3|၃၅။ ေလာကပိုင္ရွင္ ျမတ္မိခင္ တရားေတာ္

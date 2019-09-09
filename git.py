@@ -26,31 +26,9 @@ for f in bb.split('\n'):
         
         
         
-#print(type(result.split()))
-
-#command = "$ for f in $(git status -s | cut -d '?' -f 3); do if; done"
-#command = "git status -s | cut -d '?' -f 3"
-#command = "git|status|-s|test|cut|-d|\"?\"|-f|3"
-#command = "git|status|-s"
-
-#modified_result = command.split('|')
-#print(modified_result)
-#modified_result[3]= '|'
-#print(' '.join(modified_result))
-#aa =' '.join(modified_result)
-#print(aa)
-#result = subprocess.run(modified_result)
-#process = subprocess.Popen(['ls', '-a'], stdout=subprocess.PIPE)
-#process = subprocess.Popen(aa, stdout=subprocess.PIPE)
-#out, err = process.communicate()
-#print(out)
-
-#print(result.encode('utf-8'))
-
-
-'''
-from subprocess import Popen, PIPE
-output = Popen(command,stdout=PIPE)
-response = output.communicate()
-print response
-'''
+# https://shapeshed.com/unix-cut/
+# https://gitguide.readthedocs.io/en/latest/gitguide/
+# https://itnext.io/become-a-git-pro-in-just-one-blog-a-thorough-guide-to-git-architecture-and-command-line-interface-93fbe9bdb395
+# https://gist.github.com/mzabriskie/6631607
+# https://coderwall.com/p/grmruq/git-status-on-all-repos-in-folder
+# http://queirozf.com/entries/python-3-subprocess-examples

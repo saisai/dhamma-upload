@@ -1,0 +1,42 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/sayardaw-u-wi-lar-tha/1.mp3|၁။ ဗ်ိဳင္းနားမဂၤလာ တရားေတာ္
+002.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/sayardaw-u-wi-lar-tha/2.mp3|၂။ သံကြင္းစြပ္ တရားေတာ္
+003.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/sayardaw-u-wi-lar-tha/3.mp3|၃။ သခၤါရ တရားေတာ္
+004.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/sayardaw-u-wi-lar-tha/4.mp3|၄။ ထမင္းခ်ိဳး တရားေတာ္
+005.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/sayardaw-u-wi-lar-tha/5.mp3|၅။ မဟာပရိနိဗၺာန္စံခန္း (ကိႏၷရာဇာတ္) တရားေတာ္
+006.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/sayardaw-u-wi-lar-tha/6.mp3|၆။ သုဘပုဏၰား တရားေတာ္
+007.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/sayardaw-u-wi-lar-tha/7.mp3|၇။ အရွင္ဗာကုလမေထရ္ (၁)
+008.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/sayardaw-u-wi-lar-tha/8.mp3|၈။ အရွင္ဗာကုလမေထရ္ (၂)
+009.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/sayardaw-u-wi-lar-tha/9.mp3|၉။ အကိတၱိရေသ့ဇာတ္ တရားေတာ္ (အနီးစခန္း)
+010.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/sayardaw-u-wi-lar-tha/10.mp3|၁၀။ နိဗၺာန္ တရားေတာ္
+011.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/anee-skhan-sayardaw/01.mp3|၁။ ေကာသလအိပ္မက္ တရားေတာ္ (၁)
+012.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/anee-skhan-sayardaw/02.mp3|၂။ ေကာသလအိပ္မက္ တရားေတာ္ (၂)
+013.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/anee-skhan-sayardaw/03.mp3|၃။ ေကာသလအိပ္မက္ တရားေတာ္ (၃)
+014.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/anee-skhan-sayardaw/04.mp3|၄။ ေကာသလအိပ္မက္ တရားေတာ္ (၄)
+015.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/anee-skhan-sayardaw/05.mp3|၅။ ေကာသလအိပ္မက္ တရားေတာ္ (၅)
+016.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/anee-skhan-sayardaw/06.mp3|၆။ ေကာသလအိပ္မက္ တရားေတာ္ (၆)
+017.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/anee-skhan-sayardaw/07.mp3|၇။ ေခတ္ႀကိဳတရားေတာ္ (၁)
+018.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/anee-skhan-sayardaw/08.mp3|၈။ ေခတ္ႀကိဳတရားေတာ္ (၂)
+019.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/anee-skhan-sayardaw/09.mp3|၉။ ကပ္သံုးပါး တရားေတာ္ (၁)
+020.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/anee-skhan-sayardaw/10.mp3|၁၀။ ကပ္သံုးပါး တရားေတာ္ (၂)
+021.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/1.mp3|၁။ စာသင္သားေလးတိႆ တရားေတာ္ (၁)
+022.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/2.mp3|၂။ စာသင္သားေလးတိႆ တရားေတာ္ (၂)
+023.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/3.mp3|၃။ ေမာင္ရွင္စ်ာန္ကစားကန္းမနဲ႔ျငား တရားေတာ္ (၁)
+024.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/4.mp3|၄။ ေမာင္ရွင္စ်ာန္ကစားကန္းမနဲ႔ျငား တရားေတာ္ (၂)
+025.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/5.mp3|၅။ ေမာင္ရွစ်ာန္ကစားကန္းမနဲ႔ျငား တရားေတာ္
+026.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/6.mp3|၆။ မာလုက်ပုတၱ တရားေတာ္ (၁)
+027.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/7.mp3|၇။ မာလုက်ပုတၱ တရားေတာ္ (၂)
+028.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/8.mp3|၈။ ဒုလႅဘဒႆန (ရတနာအေၾကာင္း)တရားေတာ္ (၁)
+029.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/9.mp3|၉။ ဒုလႅဘဒႆန (ရတနာအေၾကာင္း)တရားေတာ္ (၂)
+030.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/10.mp3|၁၀။ ေျမြရန္သူ တရားေတာ္
+031.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/11.mp3|၁၁။ ဓာရဏပရိတ္ ပါဠိ-အနက္ တရားေတာ္
+032.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/12.mp3|၁၂။ ဒါန (အလွဴ) အဓိပၸါယ္ တရားေတာ္
+033.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/13.mp3|၁၃။ ဓမၼဒါန (တရားအလွဴ) တရားေတာ္
+034.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/14.mp3|၁၄။ ၾသဝါဒပါတိေမာက္ တရားေတာ္ (၁)
+035.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/15.mp3|၁၅။ ၾသဝါဒပါတိေမာက္ တရားေတာ္ (၂)
+036.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/16.mp3|၁၆။ ၾသဝါဒ (၁၃၅၄)ႏွစ္ပတ္လည္တရားေတာ္
+037.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/htee-saung-sayardaw/17.mp3|၁၇။ ဓာရဏပရိတ္ တရားေတာ္
+038.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/ashin-gar-ya-war/01.mp3|၁။ ပါရာယတသုတၱန္ တရားေတာ္ (၁)
+039.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/ashin-gar-ya-war/02.mp3|၂။ ပါရာယတသုတၱန္ တရားေတာ္ (၂)
+040.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/ashin-gar-ya-war/03.mp3|၃။ ပါရာယတသုတၱန္ တရားေတာ္ (၃)
+041.mp3|https://media.thitsarparamisociety.com/mp3/2018/sayardaw-gyi-myar/ashin-gar-ya-war/04.mp3|၄။ ပါရာယတသုတၱန္ တရားေတာ္ (၄)
+042.mp3|https://media.thitsarparamisociety.com/mp3/2018/ASHIN-AWEDRHTATHI/24-09-18.mp3|ဂရုဓမၼအခါေတာ္ေန ့တရားေတာ္
