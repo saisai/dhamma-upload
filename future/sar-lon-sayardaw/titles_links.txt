@@ -1,0 +1,45 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/2017/2-3-2017.mp3|၁။မလြဲေစနဲ႔ မမြဲေစနဲ႔ (၂.၃.၃၀၁၇)
+002.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/2017/1-3-2017.mp3|၂။အျမတ္စားလူသား နိဗၺာန္သြား (၁.၃.၂၀၁၇)
+003.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/001.mp3|၃။ ယူတက္မွ ဘဝလွ
+004.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/002.mp3|၄။ အသိတစ္ခ်က္ဝင္ နိဗၺာန္ဝင္ (၁)
+005.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/003.mp3|၅။ အသိတစ္ခ်က္ဝင္ နိဗၺာန္ဝင္ (၂)
+006.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/004.mp3|၆။ လူ႔ျပည္ေရာက္စဥ္ မရံႈးေစခ်င္
+007.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/005.mp3|၇။ အေကာင္းဆံုးလမ္းႏွင့္ အဆိုးဆံုးလမ္း
+008.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/006.mp3|၈။ အရိပ္ပမာ ကိုယ္ျပဳရာ
+009.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/007mp3.mp3|၉။ သစၥာတရားႏွစ္စရာ
+010.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/008.mp3|၁၀။ ဝန္တိုစိတ္ထား အပါယ္လား
+011.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/009mp3.mp3|၁၁။ လမင္းကြယ္မွ လေရာင္ကိုရ
+012.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/010mp3.mp3|၁၂။ ဒုကၡလြတ္ခ်င္ စိတ္ကိုျပင္
+013.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/011mp3.mp3|၁၃။ အရံႈးလမ္းႏွင့္ အၿပံဳးလမ္း
+014.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/012mp3.mp3|၁၄။ အလွနိဂံုး ဘဝနိဂံုး
+015.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/013mp3.mp3|၁၅။ ငါဘယ္လိုလူလဲ ငါဘာလုပ္သင့္လဲ
+016.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/014.mp3|၁၆။ အရိပ္ပမာ ကိုယ္ျပဳရာ
+017.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/015.mp3|၁၇။ အတိုတရား နိဗၺာန္သြား
+018.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/016mp3.mp3|၁၈။ ျပင္တက္လွ်င္လွနိဗၺာန္ရ
+019.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/017.mp3|၁၉။ အရွိႏွင့္အသိ
+020.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/018%20THUTAW%20KAUNG.mp3|၂၀။ သူေတာ္ေကာင္းအၾကည့္
+021.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/019%20mp3.mp3|၂၁။ ရွိခိုးဝန္ခ် နိဗၺာန္ရ
+022.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/020%20Childrenmp3.mp3|၂၂။ ကေလးတရားပြဲ
+023.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/021.mp3|၂၃။ ဆလံုလူမ်ဳိးမ်ား ဗုဒၶဘာသာခံယူျခင္း
+024.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/022.mp3|၂၄။ အရွိတရားႏွင့္ မရွိတရား
+025.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/023.mp3|၂၅။ နိဗၺာန္မ်ဳိးေစ့
+026.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/024mp3.mp3|၂၆။ ဝန္ထမ္းတရား
+027.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/025.mp3|၂၇။ ၾကည့္တက္လွ်င္တရားပြားတတ္လွ်င္ဘာဝနာ
+028.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/026mp3.mp3|၂၈။ အကာကိုျပစ္၍ အႏွစ္ကိုရွာ
+029.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/027mp3.mp3|၂၉။ ကေလးတရားပြဲ
+030.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/028.mp3|၃၀။ တရားခံဘယ္သူလဲ
+031.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/029mp3.mp3|၃၁။ တရားအားမထုတ္တဲ့အခ်ိန္ဘာလုပ္မလဲ (၁)
+032.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/030mp3.mp3|၃၂။ တရားအားမထုတ္တဲ့အခ်ိန္ဘာလုပ္မလဲ (၂)
+033.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/031mp3.mp3|၃၃။ လက္ညိွိဳးထိုး ေမးေငါ့
+034.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/032.mp3|၃၄။ အေမ့စကား နိဗၺာန္သြား
+035.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/033mp3.mp3|၃၅။ အမွားကိုျပင္ နိဗၺာန္ျမင္
+036.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/034.mp3|၃၆။ ျဖည့္မွ သင့္မည္ ပါရမီ (၁)
+037.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/035mp3.mp3|၃၇။ ျဖည့္မွ သင့္မည္ ပါရမီ (၂)
+038.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/036.mp3|၃၈။ အလွဆင္၍ ဘဝျပင္
+039.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/037mp3.mp3|၃၉။ စြန္႔ႀကဲေပးကမ္း နိဗၺာန္လမ္း
+040.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/038mp3.mp3|၄၀။ ဗုဒၶ ၏ဂုဏ္ နိဗၺာန္လံႈ
+041.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/039mp3.mp3|၄၁။ ခံႏိုင္ရည္ထား ျမတ္တရား
+042.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/040mp3.mp3|၄၂။ ရေလ လိုေလ မျပည့္ေလ
+043.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/041.mp3|၄၃။ ဆုေတာင္း ဆုယူ ျမတ္နိဗၺဴ
+044.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/042mp3.mp3|၄၄။ အေမွာင္မွ အလင္းသို႔ (၁)
+045.mp3|https://media.thitsarparamisociety.com/mp3/Sar%20Lon%20Sayardaw/043mp3.mp3|၄၅။ အေမွာင္မွ အလင္းသို႔ (၂)

@@ -1,0 +1,26 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-1.mp3|၁။ မိဘေမတၱာ သားလိမၼာ တရားေတာ္
+002.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-2.mp3|၂။ ဘဲေက်ာင္းသမား တရားေတာ္
+003.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-3.mp3|၃။ ပဌာန္းေဒသနာေတာ္
+004.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-4.mp3|၄။ ပရိတ္ႀကီး (၁၁) သုတ္
+005.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-5.mp3|၅။ အေပ်ာ္ဆုံးေန႕(၁)
+006.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-6.mp3|၆။ အေပ်ာ္ဆုံးေန႕(၂)
+007.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-7.mp3|၇။ ဘယ္အေမြ အျမတ္ဆုံးလဲ (၁)
+008.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-8.mp3|၈။ ဘယ္အေမြ အျမတ္ဆုံးလဲ (၂)
+009.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-10.mp3|၁၀။ အခ်စ္ဆုံးမို႕ မမုန္းေစခ်င္ (၂)
+010.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-11.mp3|၁၁။ အေမမ်ားအတြက္ တရားတပုဒ္ (၁)
+011.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-12.mp3|၁၂။ အေမမ်ားအတြက္ တရားတပုဒ္ (၂)
+012.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-13.mp3|၁၃။ ခ်စ္ေၾကာင္းသက္ေသ မွာတမ္းေႁခြ (၁)
+013.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-14.mp3|၁၄။ ခ်စ္ေၾကာင္းသက္ေသ မွာတမ္းေႁခြ (၂)
+014.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-15.mp3|၁၅။ ခ်စ္ေၾကာင္းသက္ေသ မွာတမ္းေႁခြ (၃)
+015.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-16.mp3|၁၆။ ကုသိုလ္အလုပ္ ေနာက္မဆုတ္နဲ႕(၁)
+016.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-17.mp3|၁၇။ ကုသိုလ္အလုပ္ ေနာက္မဆုတ္နဲ႕(၂)
+017.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-18.mp3|၁၈။ ကမာၻေက်ာ္ လူလိမ္ႀကီးမ်ား (၁)
+018.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-19.mp3|၁၉။ ကမာၻေက်ာ္ လူလိမ္ႀကီးမ်ား (၂)
+019.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-20.mp3|၂၀။ ဤမွန္ကန္ေသာသစၥာ စကားေၾကာင့္ (၁)
+020.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-21.mp3|၂၁။ ဤမွန္ကန္ေသာသစၥာ စကားေၾကာင့္ (၂)
+021.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-22.mp3|၂၂။ ပန္းပန္မွ လွမယ္ (၁)
+022.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-23.mp3|၂၃။ ပန္းပန္မွ လွမယ္ (၂)
+023.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-24.mp3|၂၄။ ဒုကၡကို မုန္းၾကပါ (၁)
+024.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-25.mp3|၂၅။ ဒုကၡကို မုန္းၾကပါ (၂)
+025.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-26.mp3|၂၆။ အသက္ေပး၍ ကိုးကြယ္သူ (၁)
+026.mp3|https://media.thitsarparamisociety.com/mp3/AshinThuzata/DVD1/AshinThuzata-DhammaTalk-27.mp3|၂၇။ အသက္ေပး၍ ကိုးကြယ္သူ (၂)
