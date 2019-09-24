@@ -86,12 +86,14 @@ class Converter(Thread):
                 try:
 
                     #f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-2], soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text() ))
-                    f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-1], soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text() ))
+                    #f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-1], soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text() ))
+                    f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file, soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text() ))
                     f.write('\n')
                     f.flush()
                 except AttributeError as err:
                     #f.write('{')
-                    f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-2], 'NoneType'))
+                    #f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-2], 'NoneType'))
+                    f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file, 'NoneType'))
                     f.write('\n')
                     f.flush()        
                     # AttributeError: 'NoneType' object has no attribute 'get_text'
@@ -149,7 +151,7 @@ parser.add_argument('-i', '--ifile')
 parser.add_argument('-f', '--flist')
 
 #def main(argv):
-def get_fb_title(file_in, file_out, finished, driver):
+def get_fb_title(file_in, file_out, finished, driver, thread=1):
 
     file_in = running_from_path + file_in
     file_out = running_from_path + file_out
@@ -160,7 +162,8 @@ def get_fb_title(file_in, file_out, finished, driver):
     newmp3s = [f.strip('\n').replace('"', '') for f in open(file_in, 'r')]
     #print(newmp3s)
     #convert_manager = ConvertManager(file_out, finished, driver, reversed(newmp3s), 1)
-    convert_manager = ConvertManager(file_out, finished, driver, newmp3s, 1)
+    convert_manager = ConvertManager(file_out, finished, driver, newmp3s, thread)
+    #convert_manager = ConvertManager(file_out, finished, driver, newmp3s, 1)
     convert_manager.begin_convert()
 
 

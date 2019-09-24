@@ -1,0 +1,48 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/Parita-by-Mahar-Myaing-Tawya-Thae-Phyu-Sayadaw-gyi.mp3|၁။ ပရိတ္တရားေတာ္
+002.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/Meditation-by-Mahar-Myaing-Tawya-Thae-Phyu-Sayadaw-gyi.mp3|၂။ အလုပ္ေပးတရားေတာ္
+003.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/myittar-meditation-by-Mahar-Myaing-Tawya-Thae-Phyu-Sayadaw-gyi.mp3|၃။ ေမတၱာကမၼ႒ာန္း
+004.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170708_001.mp3|၄။၀ါဆိုလျပည့္အႏုေမာဒနာတရား
+005.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170708_002-alotepaytayar.mp3|၅။ပထမေန႔ – အလုပ္ေပးတရားေတာ္
+006.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170709_001-alotepaytayar.mp3|၆။ဒုတိယေန႔ – အလုပ္ေပးတရာေးတာ္
+007.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170710_001-alotepaytayar.mp3|၇။တတိယေန႔ – အလုပ္ေပးတရားေတာ္ (၁)
+008.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170710_002-alotepaytayar.mp3|၈။တတိယေန႔ – အလုပ္ေပးတရားေတာ္ (၂)
+009.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170710_006-dhamma-daythanar.mp3|၉။တတိယေန႔ – ဓမၼေဒသနာ
+010.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170711_002-alotepaytayar.mp3|၁၀။စတုတၳေန႔ – အလုပ္ေပးတရားေတာ္
+011.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170711_005-dhamma-daythanar.mp3|၁၁။စတုတၳေန႔ – ဓမၼေဒသနာ
+012.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170712_003-alotepaytayar.mp3|၁၂။ပဥၥမေန႔ – အလုပ္ေပးတရားေတာ္
+013.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170712_005-dhamma-daythanar.mp3|၁၃။ပဥၥမေန႔ – ဓမၼေဒသနာ
+014.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170714_006-dhamma-daytharnar.mp3|၁၄။ဆ႒မေန႔ – ဓမၼေဒသနာ
+015.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170715_002-myittar-meidtation.mp3|၁၅။သတၱမေန႔ – ေမတၱာကမၼ႒ာန္း
+016.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2017-Jul-SG/170715_005-dhamma-daythanar-and-myittar.mp3|၁၆။သတၱမေန႔ – ဓမၼေဒသနာ ႏွင့္ ေမတၱာကမၼ႒ာန္း
+017.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/11-07-2015.mp3|၁၇။ ပထမေန႔ ၾသ၀ါဒတရားေတာ္
+018.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/11-07-2017-7PM.mp3|၁၈။ ဓမၼေဒသနာ (ပထမေန႔ – ည ၇း၀၀နာရီ)
+019.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/12-07-2015-4-30AM.mp3|၁၉။ ပရိတ္တရားေတာ္ႏွင့္သံေ၀ဂတရားေတာ္ (ဒုတိယေန႔ – နံနက္ ၄း၃၀နာရီ)
+020.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/12-07-2015-alotepaytayar.mp3|၂၀။ အလုပ္ေပးတရားေတာ္ (ဒုတိယေန႔)
+021.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/12-07-2015-7PM.mp3|၂၁။ ဓမၼေဒသနာ (ဒုတိယေန႔ – ည ၇း၀၀နာရီ)
+022.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/13-07-2017-4-30AM.mp3|၂၂။ ပရိတ္တရားေတာ္ႏွင့္သံေ၀ဂတရားေတာ္ (တတိယေန႔ – နံနက္ ၄း၃၀နာရီ)
+023.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/13-07-2015-alotepaytayar.mp3|၂၃။ အလုပ္ေပးတရားေတာ္ (တတိယေန႔)
+024.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/13-07-2017-7PM.mp3|၂၄။ ဓမၼေဒသနာ (တတိယေန႔ – ည ၇း၀၀နာရီ)
+025.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/14-07-2015-4-30AM.mp3|၂၅။ ပရိတ္တရားေတာ္ႏွင့္သံေ၀ဂတရားေတာ္ (စတုတၳေန႔ – နံနက္ ၄း၃၀နာရီ)
+026.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/14-07-2015-alotepaytayar.mp3|၂၆။ အလုပ္ေပးတရားေတာ္ (စတုတၳေန႔)
+027.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/14-07-2017-7PM.mp3|၂၇။ ဓမၼေဒသနာ (စတုတၳေန႔ – ည ၇း၀၀နာရီ)
+028.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/15-07-2015-4-30AM.mp3|၂၈။ ပရိတ္တရားေတာ္ႏွင့္သံေ၀ဂတရားေတာ္ (ပဥၥမေန႔ – နံနက္ ၄း၃၀နာရီ)
+029.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/15-07-2015-alotepaytayar.mp3|၂၉။ အလုပ္ေပးတရားေတာ္ (ပဥၥမေန႔)
+030.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/15-07-2015-7PM.mp3|၃၀။ ဓမၼေဒသနာ (ပဥၥမေန႔ – ည ၇း၀၀နာရီ)
+031.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/16-07-2015-4-30AM.mp3|၃၁။ ပရိတ္တရားေတာ္ႏွင့္သံေ၀ဂတရားေတာ္ (ဆ႒မေန႔ – နံနက္ ၄း၃၀နာရီ)
+032.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/16-07-2015-alotepaytayar.mp3|၃၂။ အလုပ္ေပးတရားေတာ္ (ဆ႒မေန႔)
+033.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/16-07-2017-7PM.mp3|၃၃။ ဓမၼေဒသနာ (ဆ႒မေန႔ – ည ၇း၀၀နာရီ)
+034.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/17-07-2015-4-30AM.mp3|၃၄။ ပရိတ္တရားေတာ္ႏွင့္သံေ၀ဂတရားေတာ္ (သတၱမေန႔ – နံနက္ ၄း၃၀နာရီ)
+035.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/17-07-2015-alotepaytayar.mp3|၃၅။ အလုပ္ေပးတရားေတာ္ (သတၱမေန႔)
+036.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/17-07-2015-7PM.mp3|၃၆။ ဓမၼေဒသနာ (သတၱမေန႔ – ည ၇း၀၀နာရီ)
+037.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/18-07-2015-4-30AM.mp3|၃၇။ ပရိတ္တရားေတာ္ႏွင့္သံေ၀ဂတရားေတာ္ (အ႒မေန႔ – နံနက္ ၄း၃၀နာရီ)
+038.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/18-07-2017-alotepaytayar1.mp3|၃၈။ အလုပ္ေပးတရားေတာ္ – ၁ (အ႒မေန႔)
+039.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/18-07-2017-alotepaytayar2.mp3|၃၉။ အလုပ္ေပးတရားေတာ္ – ၂ (အ႒မေန႔)
+040.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/18-07-2015-7PM.mp3|၄၀။ ဓမၼေဒသနာ (အ႒မေန႔ – ည ၇း၀၀နာရီ)
+041.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/19-07-2015-4-30AM.mp3|၄၁။ ပရိတ္တရားေတာ္ႏွင့္ေမတၱာကမၼ႒ာန္း (န၀မေန႔ – နံနက္ ၄း၃၀နာရီ)
+042.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-July-SG/19-07-2015-7PM.mp3|၄၂။ ဆရာေကာင္းရဲ႕တပည့္၊ တပည့္ေကာင္းရဲ႕ဆရာတရားေတာ္ (န၀မေန႔ – ည ၇း၀၀နာရီ)
+043.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-Jan-SG/001-03-01-2015.mp3|၄၃။ အာနာပါနရူ႔မွတ္နည္းအလုပ္ေပးတရားေတာ္(၁) – ပထမေန႔
+044.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-Jan-SG/001-04-01-2015.mp3|၄၄။ အာနာပါနရူ႔မွတ္နည္းအလုပ္ေပးတရားေတာ္(၂) – ပထမေန႔
+045.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-Jan-SG/002-03-01-2015.mp3|၄၅။ ဥာဏ္ပညာျဖင္႔ေနထုိင္ျခင္း တရားေတာ္ – ပထမေန႔
+046.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-Jan-SG/002-04-01-2015.mp3|၄၆။ မနက္ပုိင္းရွစ္ပါးသီလေပးနွင္အလုပ္ေပးတရားေတာ္ – ဒုတိယေန႔
+047.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-Jan-SG/003-03-01-2015.mp3|၄၇။ ေန႔လည္ပုိင္း အလုပ္ေပးတရားေတာ္ – ဒုတိယေန႔
+048.mp3|https://media.thitsarparamisociety.com/mp3/ThaePyu-MaharMyaingTawya-Sayadaw/2015-Jan-SG/003-04-01-2015.mp3|၄၈။ ညေနပိုင္း အလုပ္ေပးတရားေတာ္ – ဒုတိယေန႔

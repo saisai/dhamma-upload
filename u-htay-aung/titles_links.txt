@@ -1,0 +1,505 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0001.mp3|၁။ ဓာတ္ႀကီး(၄)ပါး (၁)
+002.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0002.mp3|၂။ ဓာတ္ႀကီး(၄)ပါး (၂)
+003.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0003.mp3|၃။ ဝဋ္(၃)ပါး
+004.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0004.mp3|၄။ ဘဝ
+005.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0005.mp3|၅။ ဥပါဒါန္
+006.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0006.mp3|၆။ ဥပါဒါနကၡႏၶာ
+007.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0007.mp3|၇။ အတၱ
+008.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0008.mp3|၈။ အႏုသယကိေလသာ
+009.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0009.mp3|၉။ ကမၼသတၱိ
+010.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0010.mp3|၁၀။ သမုတိသစၥာ၊ ပရမတၱသစၥာ
+011.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0011.mp3|၁၁။ ဒုကၡသစၥာ
+012.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0012.mp3|၁၂။ အဒုကၡမသု
+013.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0013.mp3|၁၃။ သစၥာေလးပါး(၁)
+014.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0014.mp3|၁၄။ သစၥာေလးပါး(၂)
+015.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0015.mp3|၁၅။ သစၥာေလးပါး(၃)
+016.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0016.mp3|၁၆။ သမၼာဒိ႒ိ
+017.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0017.mp3|၁၇။ အေမး/အေျဖ
+018.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0018.mp3|၁၈။ ဓာတ္ႀကီး (၄)ပါး
+019.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0019.mp3|၁၉။ အရိယာပုတ္ေလးပါး
+020.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0020.mp3|၂၀။ ရူပကၡႏၶာ
+021.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0021.mp3|၂၁။ ႆသဒဒိ႒ိ
+022.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0022.mp3|၂၂။ သမၸဇဥ္ညတရား
+023.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0023.mp3|၂၃။ အဟာရ
+024.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0024.mp3|၂၄။ ရတနာသံုးပါး
+025.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0025.mp3|၂၅။ ဘဝအစ
+026.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0026.mp3|၂၆။ ဓာတ္ေလးပါး
+027.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0027.mp3|၂၇။ အဝိဇၨာႏွင့္ သခၤါရ
+028.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0028.mp3|၂၈။ နာမ္ခႏၶာဖြံ႕ၿဖိဳးပံု
+029.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0029.mp3|၂၉။ နာမ္ခႏၶာဖြံ႕ၿဖိဳးပံု
+030.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0030.mp3|၃၀။ ဥပါဒါန္ႏွင့္ငါ
+031.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0031.mp3|၃၁။ ခ်မ္းသာျခင္း၊ ဆင္းရဲျခင္း
+032.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0032.mp3|၃၂။ ပဥၥာရံုႏွင့္ မေနာဝိဥာဏ္
+033.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0033.mp3|၃၃။ ပဋိစၥသမုပၸါဒ္
+034.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0034.mp3|၃၄။ မေနာဝိဥာဏ္
+035.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0035.mp3|၃၅။ ဝဋ္(၃)ပါးႏွင့္ အႏုသယ
+036.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0036.mp3|၃၆။ အႏုသယႏွင့္ ဥပါဒါန္
+037.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0037.mp3|၃၇။ အဝိဇၨာ + သခၤါရ
+038.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0038.mp3|၃၈။ ဘဝ၏ နည္းပညာ
+039.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0039.mp3|၃၉။ အတၱမွ အနတၱသို႔
+040.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0040.mp3|၄၀။ ခႏၶာ (၅)ပါး
+041.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0041.mp3|၄၁။ ဒုကၡသစၥာ
+042.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0042.mp3|၄၂။ သမုဒယသစၥာ
+043.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0043.mp3|၄၃။ နိေယာဓသစၥာ
+044.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0044.mp3|၄၄။ မဂၢသစၥာ
+045.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0045.mp3|၄၅။ တရားအားထုတ္ပံု
+046.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0046.mp3|၄၆။ သင္တန္းဆင္းတရား
+047.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0047.mp3|၄၇။ ဗုဒၶသိပၸံ
+048.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0048.mp3|၄၈။ ဘဝရုပ္ပိုင္း
+049.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0049.mp3|၄၉။ ပသာဒရုပ္မ်ား
+050.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0050.mp3|၅၀။ ဒုကၡသစၥာ
+051.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0051.mp3|၅၁။ သမုဒယသစၥာ
+052.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0052.mp3|၅၂။ ဥပဒါနကၡႏၶာ
+053.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0053.mp3|၅၃။ အႏုသယဓာတ္
+054.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0054.mp3|၅၄။ ကမၼဝါဒ
+055.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0055.mp3|၅၅။ သမၼာသမၺဳဒ
+056.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0056.mp3|၅၆။ ကမၼဝါဒ
+057.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0057.mp3|၅၇။ ဗုဒၶပြင့္ခ်ိန္
+058.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0058.mp3|၅၈။ သီလမဂၢင္
+059.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0059.mp3|၅၉။ သခၤါရေလာက
+060.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0060.mp3|၆၀။ မေနာဝိဥာဏ္
+061.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0061.mp3|၆၁။ အႏုသယႏွင့္ ဥပါဒါန္
+062.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0062.mp3|၆၂။ ဝဋ္သံုးပါး
+063.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0063.mp3|၆၃။ သဘာဝဓမၼပညာ
+064.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0064.mp3|၆၄။ ဓာတ္(၄)ပါး
+065.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0065.mp3|၆၅။ ဒုကၡ(၄)ပါး
+066.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0066.mp3|၆၆။ အၾကည္ရုပ္မ်ား
+067.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0067.mp3|၆၇။ ဝိပႆနာ
+068.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0068.mp3|၆၈။ ဝဋ္မ်ားလည္ပံု
+069.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0069.mp3|၆၉။ ပဋိစၥသမုပၸါဒ္
+070.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0070.mp3|၇၀။ အႏုသယ
+071.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0071.mp3|၇၁။ ဗုဒၶသိပၸံ
+072.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0072.mp3|၇၂။ ေဒါသႏွင့္ ေဟတု
+073.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0073.mp3|၇၃။ ေစတနာကံ
+074.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0074.mp3|၇၄။ အတၱ
+075.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0075.mp3|၇၅။ ေသာတာပန္
+076.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0076.mp3|၇၆။ ကာယႏုပႆနာ
+077.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0077.mp3|၇၇။ သီလမဂၢင္
+078.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0078.mp3|၇၈။ သမာဓိမဂၢင္
+079.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0079.mp3|၇၉။ သမထဘဝနာ
+080.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0080.mp3|၈၀။ ဗုဒၶပြင့္ခ်ိန္
+081.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0081.mp3|၈၁။ ေလာကဝိဒူ
+082.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0082.mp3|၈၂။ ဗုဒၶေဒသနာ
+083.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0083.mp3|၈၃။ ဥပါဒနကၡႏၶာ
+084.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0084.mp3|၈၄။ ေစတနာ
+085.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0085.mp3|၈၅။ ေဟတု
+086.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0086.mp3|၈၆။ ပပဥၥတရား
+087.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0087.mp3|၈၇။ အႏုသယ
+088.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0088.mp3|၈၈။ အႏုသယႏွင့္ ဥပါဒါန္
+089.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0089.mp3|၈၉။ စတ္ႏွင့္ ပညာ
+090.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0090.mp3|၉၀။ ဝိပါကႏွင့္ ကိေလသာ
+091.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0091.mp3|၉၁။ အတၱေလးဆင့္
+092.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0092.mp3|၉၂။ ကမၼမ်ား
+093.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0093.mp3|၉၃။ ဒုကၡသစၥာ
+094.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0094.mp3|၉၄။ ေဝဒနာႏွင့္ ငါ
+095.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0095.mp3|၉၅။ ေဝဒနာႏုပႆနာ
+096.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0096.mp3|၉၆။ ေဝဒနာႏုပႆနာ
+097.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0097.mp3|၉၇။ ကမၼသတၱိ
+098.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0098.mp3|၉၈။ ဟန္လုပ္တဲ့ဘဝ
+099.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0099.mp3|၉၉။ ရွင္ျခင္းေသျခင္း
+100.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0100.mp3|၁၀၀။ မဂၢင္ရွစ္ပါး
+101.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0101.mp3|၁၀၁။ ေသာတာပန္
+102.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0102.mp3|၁၀၂။ စိတ္ႏွင့္ ဒုကၡ
+103.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0103.mp3|၁၀၃။ သဘာဝဓမၼ
+104.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0104.mp3|၁၀၄။ နာမ္ခႏၶာေလးပါး
+105.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0105.mp3|၁၀၅။ ဥပါဒါနကၡႏၶာ
+106.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0106.mp3|၁၀၆။ ေဝဒနာ
+107.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0107.mp3|၁၀၇။ အတၱ၊ အတၱနိယ
+108.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0108.mp3|၁၀၈။ အတၱဒိ႒ိ
+109.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0109.mp3|၁၀၉။ အႏုသယ
+110.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0110.mp3|၁၁၀။ ဘဝစက္
+111.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0111.mp3|၁၁၁။ ပဋိစၥသမုပၸါဒ္
+112.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0112.mp3|၁၁၂။ ကံစြမ္းအား
+113.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0113.mp3|၁၁၃။ ဗုဒၶမပြင့္မီဓာတ္
+114.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0114.mp3|၁၁၄။ ပု၊ တိ၊ အာ
+115.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0115.mp3|၁၁၅။ ၾသကာသေလာက (၁)
+116.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0116.mp3|၁၁၆။ ၾသကာသေလာက (၂)
+117.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0117.mp3|၁၁၇။ စကၡဳဝိညာဥ္
+118.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0118.mp3|၁၁၈။ ကာမဝစရဘံု (၁)
+119.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0119.mp3|၁၁၉။ ဟိတ္(၃)ပါး
+120.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0120.mp3|၁၂၀။ ကာမဝစရဘံု (၂)
+121.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0121.mp3|၁၂၁။ ဝဋ္သံုးပါး
+122.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0122.mp3|၁၂၂။ ရူပကၡႏၶပဋိေစၦဒပညာ
+123.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0123.mp3|၁၂၃။ နာမကၡႏၶပရိေစၦဒပညာ
+124.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0124.mp3|၁၂၄။ ဗုဒၶမပြင့္မီေခတ္
+125.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0125.mp3|၁၂၅။ ဗုဒၶဥာဏ္ေတာ္
+126.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0126.mp3|၁၂၆။ လူ႔သဘာဝ
+127.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0127.mp3|၁၂၇။ ကံစြမ္းအား
+128.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0128.mp3|၁၂၈။ ပဋိသႏၱိ
+129.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0129.mp3|၁၂၉။ နာမ္ခႏၶာ
+130.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0130.mp3|၁၃၀။ ဥပါဒါနကၡႏၶာ
+131.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0131.mp3|၁၃၁။ ဝိပႆနာ
+132.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0132.mp3|၁၃၂။ မဂၢင္ရွစ္ပါး
+133.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0133.mp3|၁၃၃။ ေစတနာ
+134.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0134.mp3|၁၃၄။ ေဟာတု
+135.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0135.mp3|၁၃၅။ ဝဋ္သံုးပါး (၁)
+136.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0136.mp3|၁၃၆။ ဝဋ္သံုးပါး (၂)
+137.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0137.mp3|၁၃၇။ ပညာတ္သိ
+138.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0138.mp3|၁၃၈။ ပသာဒရုပ္မ်ား
+139.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0139.mp3|၁၃၉။ ကမၼမ်ား
+140.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0140.mp3|၁၄၀။ စိတ္လႈပ္ရွားျခင္း
+141.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0141.mp3|၁၄၁။ ဝိဘဇၨနည္း
+142.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0142.mp3|၁၄၂။ ရွင္ျခင္း ၊ ေသျခင္း
+143.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0143.mp3|၁၄၃။ ဆရာဘုရား
+144.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0144.mp3|၁၄၄။ သံေဝဂတရား
+145.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0145.mp3|၁၄၅။ ဓမၼသဘာဝ
+146.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0146.mp3|၁၄၆။ အာရံုဝတၳဳ
+147.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0147.mp3|၁၄၇။ ဥပါဒါနကၡႏၶာ
+148.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0148.mp3|၁၄၈။ အစြဲ
+149.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0149.mp3|၁၄၉။ အႏုႆယ
+150.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0150.mp3|၁၅၀။ အတၱေလးဆင့္
+151.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0151.mp3|၁၅၁။ အဓိသီလ
+152.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0152.mp3|၁၅၂။ ဘဝအစ
+153.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0153.mp3|၁၅၃။ ျမင္ျခင္း
+154.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0154.mp3|၁၅၄။ စကၡဳသဘာဝ
+155.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0155.mp3|၁၅၅။ ဝိပႆနာ
+156.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0156.mp3|၁၅၆။ ဘဝေနနည္း
+157.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0157.mp3|၁၅၇။ ေစတနာ
+158.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0158.mp3|၁၅၈။ သံသရာေဘး
+159.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0159.mp3|၁၅၉။ ကံမ်ား
+160.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0160.mp3|၁၆၀။ ေယဓမၼာ
+161.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0161.mp3|၁၆၁။ မီး (၁၁)ပါး
+162.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0162.mp3|၁၆၂။ ဘဝအျမင္
+163.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0163.mp3|၁၆၃။ သံသရာဒုကၡ
+164.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0164.mp3|၁၆၄။ ေလ့က်င့္ခန္း
+165.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0165.mp3|၁၆၅။ ဆရာဘုရား
+166.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0166.mp3|၁၆၆။ ေလာက(၃)ပါး
+167.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0167.mp3|၁၆၇။ သစၥာ(၂)ပါး
+168.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0168.mp3|၁၆၈။ ဝိပႆနာပညာ
+169.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0169.mp3|၁၆၉။ နိယာမ(၅)ပါး
+170.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0170.mp3|၁၇၀။ နာမ္ခႏၶာဖြဲ႕စည္းပံု
+171.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0171.mp3|၁၇၁။ ဥပါဒါနကၡႏၶာ
+172.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0172.mp3|၁၇၂။ ငါျဖစ္ေပၚပံု
+173.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0173.mp3|၁၇၃။ အတၱပယ္ပါ
+174.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0174.mp3|၁၇၄။ ကမၼဝိပါက
+175.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0175.mp3|၁၇၅။ ဝိပါကဝဋ္
+176.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0176.mp3|၁၇၆။ ဝဋ္သံုးပါး
+177.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0177.mp3|၁၇၇။ ေဟတု
+178.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0178.mp3|၁၇၈။ ကံမ်ား
+179.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0179.mp3|၁၇၉။ နိဗၺာန္
+180.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0180.mp3|၁၈၀။ ပဋိေႏၶ
+181.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0181.mp3|၁၈၁။ ဒိ႒ိေလွ်ာ့နည္း
+182.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0182.mp3|၁၈၂။ သစၥာေလးပါး
+183.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0183.mp3|၁၈၃။ ေဝဒနာႏုပႆနာ
+184.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0184.mp3|၁၈၄။ စိတၱာႏုပႆနာ
+185.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0185.mp3|၁၈၅။ ဓမၼာႏုပႆနာ
+186.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0186.mp3|၁၈၆။ ၾကားျခင္းကိစၥ
+187.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0187.mp3|၁၈၇။ ျမင္ကိစၥ
+188.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0188.mp3|၁၈၈။ ေဝဒနာ
+189.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0189.mp3|၁၈၉။ သစၥဥာဏ္
+190.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0190.mp3|၁၉၀။ ျမင္သဘာဝ
+191.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0191.mp3|၁၉၁။ သခၤါရ
+192.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0192.mp3|၁၉၂။ ၾသကာသေလာက
+193.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0193.mp3|၁၉၃။ သခၤါရေလာက
+194.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0194.mp3|၁၉၄။ ဒုကၡ(၃)မ်ိဳး
+195.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0195.mp3|၁၉၅။ ဝိပ႐ိနာမဒုကၡ
+196.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0196.mp3|၁၉၆။ ဒိ႒ိဆိုတာ
+197.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0197.mp3|၁၉၇။ အတၱ
+198.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0198.mp3|၁၉၈။ ဘဝ၏အစ
+199.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0199.mp3|၁၉၉။ ဘဝတည္ေဆာက္ပံု
+200.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0200.mp3|၂၀၀။ ဥပါဒါန္
+201.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0201.mp3|၂၀၁။ ကံစြမ္းအား
+202.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0202.mp3|၂၀၂။ ကမၼသတၱိ (၁)
+203.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0203.mp3|၂၀၃။ ကမၼသတၱိ (၂)
+204.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0204.mp3|၂၀၄။ ကမၼသတၱိ (၃)
+205.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0205.mp3|၂၀၅။ ဥာဏ္ဝီရိယ
+206.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0206.mp3|၂၀၆။ ျမင္သဘာဝ
+207.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0207.mp3|၂၀၇။ အျမင္လမ္းစဥ္
+208.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0208.mp3|၂၀၈။ ရုပ္ဓမၼသဘာဝ
+209.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0209.mp3|၂၀၉။ ရူပခႏၶာပဋိေစၧဒ
+210.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0210.mp3|၂၁၀။ ဝင္ေလထြက္ေလ
+211.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0211.mp3|၂၁၁။ ေသြးေလဓာတု
+212.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0212.mp3|၂၁၂။ ဓာတ္ႀကီး(၄)ပါး
+213.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0213.mp3|၂၁၃။ ဓာတ္ုလုပ္ငန္း
+214.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0214.mp3|၂၁၄။ အနိစၥဒုကၡအနတၱ
+215.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0215.mp3|၂၁၅။ အၾကည္ရုပ္မ်ား
+216.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0216.mp3|၂၁၆။ ေဝဒနာႏုပႆနာ
+217.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0217.mp3|၂၁၇။ အတြင္းအျပင္စိတ္
+218.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0218.mp3|၂၁၈။ ဝဋ္သံုးပါး
+219.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0219.mp3|၂၁၉။ အရွိႏွင့္ အျဖစ္
+220.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0220.mp3|၂၂၀။ ငါမဟုတ္တဲ့ငါ
+221.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0221.mp3|၂၂၁။ ငါမပိုင္တဲ့ငါ
+222.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0222.mp3|၂၂၂။ ၾသဃသံသရာ
+223.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0223.mp3|၂၂၃။ သီလမဂၢင္
+224.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0224.mp3|၂၂၄။ သမၸဇဥ္တရား
+225.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0225.mp3|၂၂၅။ အႏုပႆနာ
+226.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0226.mp3|၂၂၆။ အႏုပႆနာ
+227.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0227.mp3|၂၂၇။ ဝိပႆနာပညာ
+228.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0228.mp3|၂၂၈။ ကံစြမ္းအား
+229.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0229.mp3|၂၂၉။ ရုပ္နာမ္စြားအား
+230.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0230.mp3|၂၃၀။ ကမၼမ်ား
+231.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0231.mp3|၂၃၁။ ေစတနာစြမ္းအား
+232.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0232.mp3|၂၃၂။ ကမၼမ်ား
+233.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0233.mp3|၂၃၃။ ဓမၼနိယာမ
+234.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0234.mp3|၂၃၄။ အေျခခံဂိုဏ္း(၃)ပါး
+235.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0235.mp3|၂၃၅။ စကၠဝါ
+236.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0236.mp3|၂၃၆။ ျမင္ကိစၥ
+237.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0237.mp3|၂၃၇။ ဝဋ္(၃)ပါး
+238.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0238.mp3|၂၃၈။ ငါျဖစ္ေပၚလာပံု
+239.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0239.mp3|၂၃၉။ ဥပါဒါနကၡႏၶာ
+240.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0240.mp3|၂၄၀။ အတၱဒိ႒ိ
+241.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0241.mp3|၂၄၁။ ငါခ်စ္သူဖ်က္နည္း
+242.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0242.mp3|၂၄၂။ အစြဲခံဘဝ
+243.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0243.mp3|၂၄၃။ ရုပ္နာမ္ကံစြမ္းအား
+244.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0244.mp3|၂၄၄။ ေဟတုပစၥယ
+245.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0245.mp3|၂၄၅။ အစြဲဖယ္ပါ
+246.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0246.mp3|၂၄၆။ သေဗၺသခၤါရ
+247.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0247.mp3|၂၄၇။ ေလာကတၳစရိယ
+248.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0248.mp3|၂၄၈။ ကံစြမ္းအား
+249.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0249.mp3|၂၄၉။ ကံစြမ္းအားႏွင့္ သတၱဝါ
+250.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0250.mp3|၂၅၀။ ပဋိသေႏၶ
+251.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0251.mp3|၂၅၁။ နာမ္ရုပ္အလြန္
+252.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0252.mp3|၂၅၂။ အစြဲႏွင့္ အႀကိဳက္
+253.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0253.mp3|၂၅၃။ ေဒသနာ (၁)
+254.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0254.mp3|၂၅၄။ ေဒသနာ (၂)
+255.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0255.mp3|၂၅၅။ ေဒသနာ (၃)
+256.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0256.mp3|၂၅၆။ ေဒသနာ (၄)
+257.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0257.mp3|၂၅၇။ ျမင္ကိစၥ ၾကားကိစၥ
+258.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0258.mp3|၂၅၈။ ခႏၶာ (၅)ပါး
+259.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0259.mp3|၂၅၉။ အလုပ္ခႏၶာ (၅)ပါး
+260.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0260.mp3|၂၆၀။ အစြဲခႏၶာ (၅)ပါး
+261.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0261.mp3|၂၆၁။ အတၱဒိ႒ိဥပါဒါန္
+262.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0262.mp3|၂၆၂။ အတၱဒိ႒ာရိကအတၱ
+263.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0263.mp3|၂၆၃။ သေဗၺသခၤါရ
+264.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0264.mp3|၂၆၄။ သေဗၺဓမၼာအနတၱာ
+265.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0265.mp3|၂၆၅။ ဓမၼသဘာဝကို ေလ့လာနည္း
+266.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0266.mp3|၂၆၆။ ျမင္ကိစၥ၊ ၾကားကိစၥ၊ ရုပ္နာမ္ကိစၥ
+267.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0267.mp3|၂၆၇။ ငါအစြဲျဖစ္ေပၚလာပံု
+268.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0268.mp3|၂၆၈။ ငါအစြဲႏွင့္ အကုသိုလ္
+269.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0269.mp3|၂၆၉။ ပဋိသႏၶိစိတ္ႏွင့္ ဘဝင္စိတ္
+270.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0270.mp3|၂၇၀။ သညခႏၶာႏွင့္ ပုဂၢိဳလ္
+271.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0271.mp3|၂၇၁။ မရပ္မနားရွင္ေရးလုပ္ေနရေသာ ဒုကၡ
+272.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0272.mp3|၂၇၂။ မၿမဲျခင္းႏွင့္ ရွင္ေရးဒုကၡ
+273.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0273.mp3|၂၇၃။ ရုပ္ခႏၶာ၏ အာဟာရ
+274.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0274.mp3|၂၇၄။ ဝိပရိနာမဒုကၡ
+275.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0275.mp3|၂၇၅။ သံေဝဂဥာဏ္ထက္သန္မႈ႕
+276.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0276.mp3|၂၇၆။ ေစတနာသည္ ကံအား
+277.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0277.mp3|၂၇၇။ ကံစြမ္းအား၏နယ္
+278.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0278.mp3|၂၇၈။ ကံစြမ္းအားႏွင့္ ပဋိသေႏၶတည္ျခင္း
+279.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0279.mp3|၂၇၉။ ခႏၶာငါးပါးႏွင့္ ကံစြမ္းအား
+280.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0280.mp3|၂၈၀။ ကမၼႏွင့္ ဝိပါက
+281.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0281.mp3|၂၈၁။ ကမၼနိယာမ
+282.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0282.mp3|၂၈၂။ ဂရုကံ
+283.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0283.mp3|၂၈၃။ သဘာဝပညာ
+284.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0284.mp3|၂၈၄။ သဒမၼသန
+285.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0285.mp3|၂၈၅။ သေဗၺသခၤါရာအနိစၥ
+286.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0286.mp3|၂၈၆။ ကာယသခၤါရ
+287.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0287.mp3|၂၈၇။ သစၥဂိုဏ္း
+288.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0288.mp3|၂၈၈။ ရုပ္နာမ္သခၤါရ
+289.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0289.mp3|၂၈၉။ ေဝဒနကၡႏၶာ
+290.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0290.mp3|၂၉၀။ အာရံုႏွင့္ ပသာဒ
+291.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0291.mp3|၂၉၁။ စိတၱႏုပႆနာ
+292.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0292.mp3|၂၉၂။ ေစတနာသခၤါရ
+293.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0293.mp3|၂၉၃။ ဓမၼႏုပႆနာ
+294.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0294.mp3|၂၉၄။ နိဗၺိဒဥာဏ္
+295.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0295.mp3|၂၉၅။ အရိယာသစၥာ
+296.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0296.mp3|၂၉၆။ အတၱဒိ႒ိဥပါဒါန္
+297.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0297.mp3|၂၉၇။ အတၱဒိ႒ိျဖဳတ္နည္း
+298.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0298.mp3|၂၉၈။ သမၼာဒိ႒ိအျမင္
+299.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0299.mp3|၂၉၉။ မွတ္စု
+300.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0300.mp3|၃၀၀။ မွတ္စု
+301.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0301.mp3|၃၀၁။ မွတ္စု
+302.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0302.mp3|၃၀၂။ တရားထိုင္
+303.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0303.mp3|၃၀၃။ ရူပကၡႏၶပရိေစၧဒ
+304.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0304.mp3|၃၀၄။ ဓာတုဝတၳာန
+305.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0305.mp3|၃၀၅။ ဝါေယာဓာတုဝဝတၱာန
+306.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0306.mp3|၃၀၆။ ေတေဇာဓာတုဝဝတၳာန
+307.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0307.mp3|၃၀၇။ နာမဓာတုဝဝတၳန
+308.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0308.mp3|၃၀၈။ ပဥၥကၡႏၶာ
+309.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0309.mp3|၃၀၉။ ခႏၶ(၅)ပါးႏွင့္အလုပ္
+310.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0310.mp3|၃၁၀။ ဥပါဒါန္(၅)ပါး
+311.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0311.mp3|၃၁၁။ ဝဋ္(၃)ပါးလည္ပံု
+312.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0312.mp3|၃၁၂။ ကမၼႏွင့္ ကမၼသတၱိ
+313.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0313.mp3|၃၁၃။ ဘဝႏွင့္ သံသရာ
+314.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0314.mp3|၃၁၄။ ကမၼႆကတာသမၼာဒိ႒ိ
+315.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0315.mp3|၃၁၅။ သံသရာဝဋ္ဒုကၡ
+316.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0316.mp3|၃၁၆။ ဥပါဒနပစၥယာဘေဝါ
+317.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0317.mp3|၃၁၇။ ဘဝပစၥယာဇာတိ
+318.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0318.mp3|၃၁၈။ ပဋိသႏၲိႏွင့္ ဇာတိ
+319.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0319.mp3|၃၁၉။ ဝဋ္(၃)ပါးႏွင့္ သမုဒယသစၥာ
+320.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0320.mp3|၃၂၀။ ဝိပါကဝဋ္ႏွင့္ နည္းပညာ
+321.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0321.mp3|၃၂၁။ ပဋိစၥသမုပၸါဒ္နည္းပညာ
+322.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0322.mp3|၃၂၂။ သံသရာႏွင့္ ကံစြမ္းအား
+323.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0323.mp3|၃၂၃။ ေထာက္တည္ရာ စြဲကိုင္ရာ ဦးတည္ရာ
+324.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0324.mp3|၃၂၄။ ေမွာ္ဘီ
+325.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0325.mp3|၃၂၅။ သံသရာဝဋ္ဒုကၡ
+326.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0326.mp3|၃၂၆။ သတၱဝါဒဥပါဒါန္
+327.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0327.mp3|၃၂၇။ အတၱႏွင့္ အတၱနိယ
+328.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0328.mp3|၃၂၈။ ကမၼသတၱိ
+329.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0329.mp3|၃၂၉။ ကမၼႏွင့္ ဝိပါက
+330.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0330.mp3|၃၃၀။ ဝိပါကဝဋ္
+331.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0331.mp3|၃၃၁။ ဝိပါကေဝဒနာ
+332.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0332.mp3|၃၃၂။ ဝိပါကအဗ်ာကတ
+333.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0333.mp3|၃၃၃။ ဝိပါဋ္ခႏၶာ (၅)ပါး
+334.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0334.mp3|၃၃၄။ ကံစိတ္ဥတုအာဟာရ
+335.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0335.mp3|၃၃၅။ ဝဋ္(၃)ပါး
+336.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0336.mp3|၃၃၆။ ခႏၶာ(၅)ပါးႏွင့္ ဥပါဒနကၡႏၶာ(၅)ပါး
+337.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0337.mp3|၃၃၇။ ကမၼႏွင့္ ဝိပါက
+338.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0338.mp3|၃၃၈။ အတၱဒိ႒ိဥပါဒါန္
+339.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0339.mp3|၃၃၉။ ကံစြမ္းအား
+340.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0340.mp3|၃၄၀။ ကမၼသတၱိႏွင့္ ပဋိသေႏၶ
+341.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0341.mp3|၃၄၁။ ဟိတ္(၆)ပါး
+342.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0342.mp3|၃၄၂။ ကမၼႆကတာသမၼာဒိ႒ိ
+343.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0343.mp3|၃၄၃။ သမထဘာဝနာႏွင့္ ဂရုကမၼ
+344.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0344.mp3|၃၄၄။ ဝိပႆနာဘာဝနာႏွင့္ ရရုကမၼ
+345.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0345.mp3|၃၄၅။ ရုပ္နာမ္ခႏၶာ
+346.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0346.mp3|၃၄၆။ ဓာတုဝဝဋ္ဌာနပညာ
+347.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0347.mp3|၃၄၇။ ကမၼႆကတာသမၼာဒိ႒ိ
+348.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0348.mp3|၃၄၈။ ကမၼနိယာမ
+349.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0349.mp3|၃၄၉။ ပဋိသေႏၶကိစၥ
+350.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0350.mp3|၃၅၀။ စိတ္၏အရွိန္
+351.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0351.mp3|၃၅၁။ အႏုသယဓာတ္ခံ
+352.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0352.mp3|၃၅၂။ ဝဋ္(၃)ပါးလည္၍ ကံ(၃)ပါးျဖစ္ျခင္း
+353.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0353.mp3|၃၅၃။ အတၱဒိ႒ိဥပါဒါန္
+354.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0354.mp3|၃၅၄။ ပပဥၥတရား(၃)ပါး
+355.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0355.mp3|၃၅၅။ ဘဝအဆက္ဆက္သံသရာ
+356.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0356.mp3|၃၅၆။ ဘဝတန္ဖိုးတြက္ရန္နည္းပညာ
+357.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0357.mp3|၃၅၇။ ခႏၶာ(၅)ပါး၊ ရုပ္နာမ္(၂)ပါး
+358.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0358.mp3|၃၅၈။ ဥပါဒါနကၡႏၶာ (၅)ပါး
+359.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0359.mp3|၃၅၉။ သံသရာဝဋ္ဒုကၡ
+360.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0360.mp3|၃၆၀။ သမုတိသစၥာႏွင့္ ပရမတၳသစၥာ
+361.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0361.mp3|၃၆၁။ ပပဥၥတရား (၃)ပါး
+362.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0362.mp3|၃၆၂။ ဘဝတန္ဖိုးတြက္နည္း
+363.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0363.mp3|၃၆၃။ ရုပ္ခႏၶာ(၅)ပါး
+364.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0364.mp3|၃၆၄။ မဂၢ(၈)ပါး
+365.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0365.mp3|၃၆၅။ ရူပကၡႏၶာဓမၼသဘာဝ
+366.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0366.mp3|၃၆၆။ သတၱေလာက
+367.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0367.mp3|၃၆၇။ အနႏၲစၾကာဝဠာ အနႏၲကပ္ကမၻာ
+368.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0368.mp3|၃၆၈။ ရုပ္ နာမ္ ကံ
+369.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0369.mp3|၃၆၉။ ေစတနာႏွင့္ ကံစြမ္းအား
+370.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0370.mp3|၃၇၀။ ထူးေသာဘဝ လူ႔ဘဝ
+371.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0371.mp3|၃၇၁။ ဝဋ္သံုးပါး သံသရာ
+372.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0372.mp3|၃၇၂။ အႏုသယကိေလသာ
+373.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0373.mp3|၃၇၃။ ေစတနာအား ကံအား
+374.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0374.mp3|၃၇၄။ ေဇာေစတနာႏွင့္ အက်ိဳးဝိပါက
+375.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0375.mp3|၃၇၅။ အတၱႏွင့္ အတၱနိယ
+376.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0376.mp3|၃၇၆။ ပပဥၥတရားသံုးပါး
+377.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0377.mp3|၃၇၇။ ခႏၶာ(၅)ပါးႏွင့္ ဥပါဒါနကၡႏၶာငါးပါး
+378.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0378.mp3|၃၇၈။ သမၼာဒိ႒ိ
+379.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0379.mp3|၃၇၉။ ကာယိကာေဝဒနာ
+380.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0380.mp3|၃၈၀။ နာမရူပပရိေစၧဒပညာ
+381.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0381.mp3|၃၈၁။ ဒိ႒ိျဖဳတ္ျခင္း နည္းပညာ
+382.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0382.mp3|၃၈၂။ အာရုအာရမၼဏိက
+383.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0383.mp3|၃၈၃။ သမၼာဒိ႒ိဝိဇၨာဥာဏ္
+384.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0384.mp3|၃၈၄။ ေဒသနာမယပညာႏွင့္ ဘဝခရီး
+385.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0385.mp3|၃၈၅။ တရားေဆြးေႏြးျခင္း
+386.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0386.mp3|၃၈၆။ ဘဝအဓိပၸာယ္
+387.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0387.mp3|၃၈၇။ ဓမၼသဘာဝပညာ
+388.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0388.mp3|၃၈၈။ ရုပ္ခႏၶာႏွင့္ ကလာပ
+389.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0389.mp3|၃၈၉။ ၇ူပခႏၶာ၏ ခႏၶာဝန္
+390.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0390.mp3|၃၉၀။ ရုပ္ဓာတ္ နာမ္ဓာတ္ႏွင့္ စြမ္းအား
+391.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0391.mp3|၃၉၁။ ခႏၶာ (၅)ပါး
+392.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0392.mp3|၃၉၂။ ခႏၶာ (၅)ပါးႏွင့္ ဥပါဒနကၡႏၶာ (၅)ပါး
+393.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0393.mp3|၃၉၃။ ဘဝတန္ဖိုးတြက္နည္း
+394.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0394.mp3|၃၉၄။ ဥပါဒါန္ႏွင့္ဘဝစက္
+395.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0395.mp3|၃၉၅။ ဝဋ္(၃)ပါးႏွင့္ ကမၼဘဝ
+396.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0396.mp3|၃၉၆။ ဘဝအဓိပၸါယ္
+397.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0397.mp3|၃၉၇။ ဒိ႒ိႏွင့္ ဥပါဒါန္
+398.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0398.mp3|၃၉၈။ ကမၼဝဋ္ႏွင့္ ဘဝ
+399.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0399.mp3|၃၉၉။ ဝဋ္(၃)ပါးႏွင့္ ဘဝစက္
+400.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0400.mp3|၄၀၀။ အႏုသယဓာတ္ခံႏွင့္ အကုသိုလ္ျဖစ္ပံု
+401.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0401.mp3|၄၀၁။ ဒုကၡသစၥာႏွင့္ သမုဒယသစၥာ
+402.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0402.mp3|၄၀၂။ အဘိသခၤါရေစတနာႏွင့္ ကမၼသတၱိ
+403.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0403.mp3|၄၀၃။ အာဟာရႏွင့္ ဇီဝိတကလပ္
+404.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0404.mp3|၄၀၄။ ဝိညာဏေဝဒနာ
+405.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0405.mp3|၄၀၅။ သမၼဝါစာမဂၢင္
+406.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0406.mp3|၄၀၆။ တရားေဆြးေႏြးခန္း
+407.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0407.mp3|၄၀၇။ ဘဝအဓိပၸါယ္
+408.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0408.mp3|၄၀၈။ မဟာဘူတာ (၄)ပါး
+409.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0409.mp3|၄၀၉။ ရုပ္စြမ္းအား နာမ္စြမ္းအားႏွင့္ဘဝ
+410.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0410.mp3|၄၁၀။ ကာယႏုပႆနာႏွင့္ ေဝဒနာႏုပႆနာ
+411.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0411.mp3|၄၁၁။ ဝိဥာဏ္ႏွင့္ ေဝဒနာ
+412.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0412.mp3|၄၁၂။ ကာယိကေဝဒနာ (၃)ပါး
+413.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0413.mp3|၄၁၃။ ဝိပါကေဝဒနာႏွင့္ ကမၼေဝဒနာ
+414.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0414.mp3|၄၁၄။ ဝဋ္ (၃)ပါးႏွင့္ ဘဝစက္
+415.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0415.mp3|၄၁၅။ ဝဋ္ (၃)ပါးႏွင့္ ကမၼသတၱိ
+416.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0416.mp3|၄၁၆။ ေစတနာသခၤါရႏွင့္ ကမၼသတၱိ
+417.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0417.mp3|၄၁၇။ အစြဲခႏၶာ (၅)ပါး
+418.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0418.mp3|၄၁၈။ ပပဥၥတရား (၃)ပါး
+419.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0419.mp3|၄၁၉။ ဓမၼေဒသနာႏွင့္ သံသရဝဋ္
+420.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0420.mp3|၄၂၀။ အႏုသယကိေလသာ
+421.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0421.mp3|၄၂၁။ အကုသိုလ္အမာဏ
+422.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0422.mp3|၄၂၂။ အပုဘိသခၤါရ
+423.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0423.mp3|၄၂၃။ ကမၼႆကတာသမၼာဒိ႒ိ
+424.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0424.mp3|၄၂၄။ စုတိပဋိသႏၶိ
+425.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0425.mp3|၄၂၅။ သမၼာဒိ႒ိအယူ
+426.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0426.mp3|၄၂၆။ ဗုဒၶသာဝကႏွင့္ ကလ်ာဏပုထုဇဥ္
+427.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0427.mp3|၄၂၇။ေသာတဝိညာဏဓာတု
+428.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0428.mp3|၄၂၈။ ရုပ္ဓာတ္နာမ္ဓာတ္ႏွင့္ဘဝ
+429.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0429.mp3|၄၂၉။ ဝိညာဏကၡႏၶာႏွင့္ ေဝဒနကၡႏၶာ
+430.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0430.mp3|၄၃၀။ ခႏၶာငါးပါး
+431.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0431.mp3|၄၃၁။ ခႏၶာငါးပါးႏွင့္ ေဝဒနကၡႏၶငါးပါး
+432.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0432.mp3|၄၃၂။ ဘဝပစၥယာဇာတိ
+433.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0433.mp3|၄၃၃။ ကမၼဝဋ္ႏွင့္ ဝိပါကဝဋ္
+434.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0434.mp3|၄၃၄။ ဘဝ
+435.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0435.mp3|၄၃၅။ ဝိညာဏစြမ္းအား
+436.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0436.mp3|၄၃၆။ ရုပ္နာမ္သခၤါရႏွင့္ ဘဝစက္
+437.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0437.mp3|၄၃၇။ ေဝဒနကၡႏၶာႏွင့္ ရူပကၡႏၶာ
+438.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0438.mp3|၄၃၈။ အက်ိဳးေဝဒနာႏွင့္ ေၾကာင္းေဝဒနာ
+439.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0439.mp3|၄၃၉။ ဝိပကဝဋ္ႏွင့္ ကိေလသာဝဋ္လည္ပံု
+440.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0440.mp3|၄၄၀။ ေစတနာႏွင့္ ကာမာႏုသယ
+441.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0441.mp3|၄၄၁။ ကာမုပါဒါန္ႏွင့္ ကာမာႏုသယ
+442.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0442.mp3|၄၄၂။ အႏုသယဓာတ္ (၇)ပါး
+443.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0443.mp3|၄၄၃။ အျမင္မွန္ အေတြးမွန္
+444.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0444.mp3|၄၄၄။ သမထဘာဝနာ
+445.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0445.mp3|၄၄၅။ အာသဝကၡယအဘိဥာဏ္
+446.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0446.mp3|၄၄၆။ သမၸဒါတရား
+447.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0447.mp3|၄၄၇။ ဂုဏ္ေတာ္၏ အဓိပၸါယ္
+448.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0448.mp3|၄၄၈။ ကာယိကဒုကၡေစတသိကဒုကၡကို ဝိပႆနာဥာဏ္ျဖင့္ ပိုင္းျခားသိ၍ ပူေဇာ္ျခင္း
+449.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0449.mp3|၄၄၉။ ဒုကၡသစၥ(၄)ပါးကို ပညာဥာဏ္ႏွင့္ ဆင္ျခင္ျခင္း
+450.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0450.mp3|၄၅၀။ သမုဒယသစၥာကို ႏွလံုးသြင္းဆင္ျခင္ျခင္း
+451.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0451.mp3|၄၅၁။ ဘဝတဏွာကို ဆင္ျခင္၍ ပူေဇာ္ျခင္း
+452.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0452.mp3|၄၅၂။ နိေရာဓသၥာရရွိရန္ က်င့္ႀကံအားထုတ္၍ ပူေဇာ္ျခင္း
+453.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0453.mp3|၄၅၃။ အတၱဒိ႒ိႏွင့္ ဝိစိကိစၧာမွ လြတ္ကင္း၍ ဓမၼသဘာဝကို ေလ့လာပူေဇာ္ျခင္း
+454.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0454.mp3|၄၅၄။ ဒုကၡသသစၥာအားပိုင္းျခားသိျမင္၍ ဘုရားရွင္အားပူေဇာ္ျခင္း
+455.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0455.mp3|၄၅၅။ နာမ္ခႏၶာမွျဖစ္ေသာ ေစတသိက ေဝဒနာ(၃)ပါးကို ဆင္ျခင္၍ ပူေဇာ္ျခင္း
+456.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0456.mp3|၄၅၆။ သညကၡႏၶာကို ေလ့လာပိုင္းျခား၍ ပူေဇာ္ျခင္း
+457.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0457.mp3|၄၅၇။ သခၤါရဒုကၡကို ပိုင္းျခားေဝဖန္၍ ပူေဇာ္ျခင္း
+458.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0458.mp3|၄၅၈။ ဝိညာနကၡႏၶာကို ေလ့လာသံုးသပ္ႏွလံုးသြင္း၍ ပူေဇာ္ျခင္း
+459.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0459.mp3|၄၅၉။ အာယတန (၁၂)ပါးကို ပိုင္းျခားေလ့လာ၍ ပူေဇာ္ျခင္း
+460.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0460.mp3|၄၆၀။ ဓာတ္(၁၈)ပါးကို ဆင္ျခင္ႏွလံုးသြင္း၍ ပူေဇာ္ျခင္း
+461.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0461.mp3|၄၆၁။ ပဋိစႆမုပၸါဒ္ အႏွစ္သာရကို ဆင္ျခင္၍ ပူေဇာ္ကန္ေတာ့ျခင္း
+462.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0462.mp3|၄၆၂။ ပယ္ရမည့္ သမုဒယသစၥာကို သံုးသပ္ဆင္ျခင္၍ ပူေဇာ္ကန္ေတာ့ျခင္း
+463.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0463.mp3|၄၆၃။ နာမရူပပရိေစၧဒဥာဏ္ျဖင့္ အတၱဒိ႒ိသကၠာယဒိ႒ိ ပယ္၍ ပူေဇာ္ျခင္း
+464.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0464.mp3|၄၆၄။ မဂ္တရား(၄)ပါးကို ဆင္ျခင္သံုးသပ္က်င့္ႀကံအားထုတ္၍ ပူေဇာ္ျခင္း
+465.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0465.mp3|၄၆၅။ နိဗၺာန္ကိုမ်က္ေမွာက္ျပဳၿပီး ပူေဇာ္နည္း (၃)နည္းကို ႏွလံုးသြင္း ပူေဇာ္ျခင္း
+466.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0466.mp3|၄၆၆။ မဟာသရဏဂုဏ္ေတာ္ႀကီး ရြတ္ဖတ္ပူေဇာ္ျခင္း
+467.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0467.mp3|၄၆၇။ အာနာပါန တရားေတာ္ (၁)
+468.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0468.mp3|၄၆၈။ အာနာပါန တရားေတာ္ (၂)
+469.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0469.mp3|၄၆၉။ အာနာပါန တရားေတာ္ (၃)
+470.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0470.mp3|၄၇၀။ အာနာပါန တရားေတာ္ (၄)
+471.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0471.mp3|၄၇၁။ အာနာပါန တရားေတာ္ (၅)
+472.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0472.mp3|၄၇၂။ အာနာပါန တရားေတာ္ (၆)
+473.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0473.mp3|၄၇၃။ အာနာပါန တရားေတာ္ (၇)
+474.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0474.mp3|၄၇၄။ အာနာပါန တရားေတာ္ (၈)
+475.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0475.mp3|၄၇၅။ အာနာပါန တရားေတာ္ (၉)
+476.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0476.mp3|၄၇၆။ အာနာပါန တရားေတာ္ (၁၀)
+477.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0477.mp3|၄၇၇။ အာနာပါန တရားေတာ္ (၁၁)
+478.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0478.mp3|၄၇၈။ အာနာပါန တရားေတာ္ (၁၂)
+479.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0479.mp3|၄၇၉။ အာနာပါန တရားေတာ္ (၁၃)
+480.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0480.mp3|၄၈၀။ အာနာပါန တရားေတာ္ (၁၄)
+481.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0481.mp3|၄၈၁။ အာနာပါန တရားေတာ္ (၁၅)
+482.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0482.mp3|၄၈၂။ အာနာပါန တရားေတာ္ (၁၆)
+483.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0483.mp3|၄၈၃။ အာနာပါန တရားေတာ္ (၁၇)
+484.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0484.mp3|၄၈၄။ အာနာပါန တရားေတာ္ (၁၈)
+485.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0485.mp3|၄၈၅။ အာနာပါန တရားေတာ္ (၁၉)
+486.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0486.mp3|၄၈၆။ အာနာပါန တရားေတာ္ (၂၀)
+487.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0487.mp3|၄၈၇။ အာနာပါန တရားေတာ္ (၂၁)
+488.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0488.mp3|၄၈၈။ အာနာပါန တရားေတာ္ (၂၂)
+489.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0489.mp3|၄၈၉။ အာနာပါန တရားေတာ္ (၂၃)
+490.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0490.mp3|၄၉၀။ အာနာပါန တရားေတာ္ (၂၄)
+491.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0491.mp3|၄၉၁။ အာနာပါန တရားေတာ္ (၂၅)
+492.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0492.mp3|၄၉၂။ အာနာပါန တရားေတာ္ (၂၆)
+493.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0493.mp3|၄၉၃။ အာနာပါန တရားေတာ္ (၂၇)
+494.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0494.mp3|၄၉၄။ အာနာပါန တရားေတာ္ (၂၈)
+495.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0495.mp3|၄၉၅။ အာနာပါန တရားေတာ္ (၂၉)
+496.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0496.mp3|၄၉၆။ အာနာပါန တရားေတာ္ (၃၀)
+497.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0497.mp3|၄၉၇။ အာနာပါန တရားေတာ္ (၃၁)
+498.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0498.mp3|၄၉၈။ အာနာပါန တရားေတာ္ (၃၂)
+499.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0499.mp3|၄၉၉။ အာနာပါန တရားေတာ္ (၃၃)
+500.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0500.mp3|၅၀၀။ အာနာပါန တရားေတာ္ (၃၄)
+501.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0501.mp3|၅၀၁။ အာနာပါန တရားေတာ္ (၃၅)
+502.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0502.mp3|၅၀၂။ အာနာပါန တရားေတာ္ (၃၆)
+503.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0503.mp3|၅၀၃။ အာနာပါန တရားေတာ္ (၃၇)
+504.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0504.mp3|၅၀၄။ အာနာပါန တရားေတာ္ (၃၈)
+505.mp3|https://media.thitsarparamisociety.com/mp3/u-htay-aung/0505.mp3|၅၀၅။ အာနာပါန တရားေတာ္ (၃၉)

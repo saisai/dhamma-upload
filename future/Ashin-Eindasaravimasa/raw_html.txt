@@ -1,0 +1,1075 @@
+<font face="Zawgyi-One">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-70zUvF4huN4OU"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-70zUvF4huN4OU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- Start dhammadownload menu top and side bar -->
+
+<div style="position: absolute; width: 100px; height: 100px; z-index: 1; left: 7px; top: 4px;" id="layer21">
+    <img src="images/Top-button-wt.gif" width="680" height="132" border="0">
+</div>
+
+<div style="position: absolute; width: 506px; height: 63px; z-index: 2; left: 52px; top: 31px;" id="layer22" align="center">
+    <font color="#800080">
+	<span style="font-family: Times New Roman;">
+	<font style="font-size: 32pt;">Ashin Eindasara Vimasa</font></span> </font>
+</div>
+
+<div style="position: absolute; width: 100px; height: 100px; z-index: 20; left: 596px; top: 4px;" id="layer23">
+    <img src="images/Ashin-Eindasaravimasa.gif" border="0"></div>
+
+
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 143px;" id="layer1">
+       <a href="index.htm" target="_parent">
+       <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+    <p></p>
+</a></div><a href="index.htm" target="_parent">
+
+</a><div style="position: absolute; width: 157px; height: 37px; z-index: 1; left: 22px; top: 154px;" id="layer2" align="center"><a href="index.htm" target="_parent">
+    <font size="4">
+      </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="index.htm">Home Page</a>
+   </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 2; left: 8px; top: 201px" id="layer3">
+    <a href="AbhidhammaInEnglish.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0">
+</a></div><a href="AbhidhammaInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 3; left: 19px; top: 208px;" id="layer4" align="center"><a href="AbhidhammaInEnglish.htm" target="_parent">
+    <font size="4">
+       </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInEnglish.htm">Abhidhamma in English</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; height: 58px; z-index: 4; left: 8px; top: 270px; width: 186px" id="layer5">
+    <a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0">
+</a></div><a href="AbhidhammaInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 32px; z-index: 5; left: 20px; top: 276px;" id="layer6" align="center"><a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInMyanmar.htm">Abhidhamma in Myanmar</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 6; left: 8px; top: 339px;" id="layer7">
+    <a href="AudioInEnglish.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="AudioInEnglish.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 34px; z-index: 7; left: 20px; top: 350px;" id="layer8" align="center"><a href="AudioInEnglish.htm" target="_parent">
+     <font size="4">
+         </font></a><font size="4"><a target="_parent" href="AudioInEnglish.htm">Audio in English</a>
+     </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 8; left: 8px; top: 398px;" id="layer9">
+    <a href="AudioInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="AudioInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 9; left: 19px; top: 408px;" id="layer10" align="center"><a href="AudioInMyanmar.htm" target="_parent">
+      <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AudioInMyanmar.htm">Audio in Myanmar</a>
+      </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 10; left: 8px; top: 457px" id="layer11">
+    <a href="VideoInEnglish.htm" target="_parent">
+      <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="VideoInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 156px; height: 30px; z-index: 11; left: 23px; top: 469px;" id="layer12" align="center"><a href="VideoInEnglish.htm" target="_parent">
+     <font size="4">
+        </font></a><font size="4"><a target="_parent" href="VideoInEnglish.htm">Video in English</a>
+     </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 12; left: 8px; top: 516px" id="layer13">
+    <a href="VideoInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="VideoInMyanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 161px; height: 33px; z-index: 13; left: 18px; top: 527px;" id="layer14" align="center"><a href="VideoInMyanmar.htm" target="_parent">
+     <font size="4"></font></a><font size="4"><a href="VideoInMyanmar.htm">Video in Myanmar </a></font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 14; left: 8px; top: 575px" id="layer15">
+    <a href="eBook-English.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="eBook-English.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 31px; z-index: 15; left: 19px; top: 587px;" id="layer16" align="center"><a href="eBook-English.htm" target="_parent">
+    <font size="4">
+    </font>
+    <font size="4">
+    </font></a><font size="4"><a href="eBook-English.htm">eBook in English</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 16; left: 8px; top: 634px" id="layer17">
+     <a href="eBook-Myanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="eBook-Myanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 154px; height: 32px; z-index: 17; left: 22px; top: 646px;" id="layer18" align="center"><a href="eBook-Myanmar.htm" target="_parent"><font size="4">
+	</font><font size="4">
+	</font></a><font size="4"><a href="eBook-Myanmar.htm">eBook in Myanmar</a></font></div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 18; left: 8px; top: 693px" id="layer19">
+    <a href="dhammadownload-news.htm" target="_parent">
+    <img style="top: 660px; height: 54px;" src="images/Side-button-wt.gif" width="182" border="0">
+</a></div><a href="dhammadownload-news.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 158px; height: 36px; z-index: 19; left: 22px; top: 705px;" id="layer20" align="center"><a href="dhammadownload-news.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="dhammadownload-news.htm">NEWS
+	သတင္း႑</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 993px" id="layer37">
+    <p style="margin-top: 3px; height: 54px;">
+    <a target="_parent" href="Contribute-to-dhammadownload.htm">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 933px" id="layer35"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="Suggestion-cbox.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 872px;" id="layer33"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><p style="margin-top: 3px; height: 54px;"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a target="_parent" href="contact.htm">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 811px" id="layer31"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="usefullinks.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="usefullinks.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 750px" id="layer27"><a href="usefullinks.htm" target="_parent"> </a><a href="live.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="live.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 1010px;" id="layer38" align="center"><a href="live.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="Contribute-to-dhammadownload.htm">လႈဒါန္းရန္</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 946px;" id="layer36" align="center">
+    <font size="4"><a href="Suggestion-cbox.htm">အႀကံျပဳခ်က္မ်ား</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 886px;" id="layer34" align="center">
+    <font size="4"><a href="contact.htm">Contact Us</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 825px;" id="layer32" align="center">
+    <font size="4"><a href="usefullinks.htm">Useful Link</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 762px;" id="layer28" align="center">
+    <font size="4"><a href="live.htm">LIVE Webcast</a></font></div>
+
+
+
+<div style="position: absolute; width: 192px; height: 450px; z-index: 23; left: 9px; top: 1147px; background-color:#F3F3F3" id="layer30">
+<font size="6">iPhone, iPAD </font><font size="2">ကိုအသံုးျပဳသူမ်ားသည္ 
+	Mp3 မ်ားကို တိုက္ရိုက္ နာယူႏိုင္ပါသည္။ ဗီဒီယိုတရားေတာ္မ်ား အတြက္ App Store တြင္
+	<font color="#FF0000">Oplayer Lite</font> (သို႕မဟုတ္) yxplayer2 Lite 
+	ကို Free Download အသုံးျပဳၿပီး ၾကည္႕ရႈႏိုင္ပါသည္။
+</font>
+	<p><font size="2">
+	တျခား Mobile Phone မ်ားအတြက္ Opera Browser ကို အသုံးျပဳႏိုင္ပါသည္။</font></p><p>
+<font size="2">Android version 2.1တြင္ ျမန္မာလို မျမင္ရပါ။  Android  version 2.2 ႏွင့္ ဒီထက္ျမင့္ေသာ Android Version မ်ားပါရွိေသာ Mobile, Tablet မ်ားကို အသုံးျပဳက ျမန္မာလို ျမင္ရ ႏိုင္ပါသည္။</font></p></div>
+
+
+
+<div style="position: absolute; width: 171px; height: 64px; z-index: 23; left: 9px; top: 1074px; " id="layer39">
+<a href="https://www.facebook.com/groups/dhammadownload/?ref=br_rs#">
+<img src="images/facebook-logo.gif" width="159" height="59" border="0"></a></div>
+<!-- end dhammadownload menu top and side bar -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<div style="position: absolute; width: 852px; height: 1832px; z-index: 21; left: 219px; top: 156px" id="layer24" font="" face="Zawgyi-One">
+<p style="margin-top: 0; margin-bottom: 0">
+<font size="6" face="Franklin Gothic Medium">Ashin Eindasara Vimasa</font></p>
+<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+          <p style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+          <font size="6" face="Zawgyi-One">အရွင္ဣႏၵာစာရာဘိဝံသ</font></p>
+<p style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+          <font size="4" face="Zawgyi-One">ေဟာႀကားေတာ္မူေသာတရားေတာ္မ်ား</font></p>
+			<p style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+          &nbsp;</p>
+			<p style="text-align: left; text-kashida-space: 50%; margin-top: 0; margin-bottom: 0">
+          &nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<b><font size="5">Dhamma Talk Audio</font></b></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/001-UEindasara-Naysin.mp3">
+၁။ ေန႕စဥ္အလုပ္ကို လုပ္မွာလား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/002-UEindasara-Sitepyoye-ko.mp3">
+၂။&nbsp; စိုကပ်ိဳးေရးကိုရပ္ခ်င္လို႕</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/003-UEindasara-Akar-ahnit.mp3">
+၃။&nbsp; အကာနဲ႕ အႏွစ္ခြဲစီစစ္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/004-UEindasara-Hnalonethar-tayar.mp3">
+၄။&nbsp; ႏွလုံးသားတရားတည္ထားပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/005-UEindasara-Ate-thawle.mp3">
+၅။&nbsp; အိပ္ေသာ္လည္းႏႈး၊ ႏိႈးေသာ္လည္းအိပ္ေနတယ္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/006-UEindasara-Settwe-lehma.mp3">
+၆။&nbsp; စက္ေတြလည္မွႀကီးပြားၾက</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/007-UEindasara-Ahla-po-myint-pan-thone.mp3">
+၇။&nbsp; အလွပိုျမင့္ ပန္းသုံးပြင့္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/008-UEindasara-Thaytattet.mp3">
+၈။&nbsp; ေသတတ္တဲ့နည္းနဲ႕ ေသသြားတယ္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/009-UEindasara-Kaungmyat.mp3">
+၉။&nbsp; ေကာင္းျမတ္ဘဝ ယူတတ္မွ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/010-UEindasara-buddha-yin.mp3">
+၁၀။&nbsp; ဗုဒၶရင္ႏွစ္သားသမီးစစ္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/011-UEindasara-Thaymin-mamyin.mp3">
+၁၁။&nbsp; ေသမင္းမျမင္တဲ့သူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/012-UEindasara-Yogi-pyit.mp3">
+၁၂။&nbsp; ေယာဂီပစ္မွတ္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/013-UEindasara-Tayarkohma.mp3">
+၁၃။ တရားကိုမွ ျမတ္ႏိုးသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/014-UEindasara-Mettar-swanarr.mp3">
+၁၄။&nbsp; ေမတၱာစြမ္းအား ေန႕စဥ္ပြား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/015-UEindasara-Yakhe-tayar10.mp3">
+၁၅။&nbsp; ရခဲတရား ဤဆယ္ပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/016-UEindasara-Noutka-kyolay.mp3">
+၁၆။&nbsp; ေနာက္ကႀကိဳးကေလးျဖဳတ္ထားပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/017-UEindasara-Apaya-makyout7.mp3">
+၁၇။ အပါယ္မေၾကာက္ ခုႏွစ္ေယာက္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/018-UEindasara-Thi-kyint-somhma.mp3">
+၁၈။&nbsp; သိက်င့္စုံမွ ခ်ီးမြမ္ၾက</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/019-UEindasara-Nat-tamanmyar.mp3">
+၁၉။&nbsp; နတ္တမန္မ်ား တိုက္တြန္းထား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/020-UEindasara-Amyar-chanthar.mp3">
+၂၀။&nbsp; အမ်ားခ်မ္းသာ သပၸဳရိသာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/021-UEindasara-Akyway-kinnhma.mp3">
+၂၁။&nbsp; အေႂကြးကင္းမွ ခ်မ္းသာရ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/022-UEindasara-Myintyar-kyan.mp3">
+၂၂။&nbsp; ျမင့္ရာႀကံ၍ သင့္ရာမွန္ေရြးပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/023-UEindasara-Meebay-shaung.mp3">
+၂၃။&nbsp; မီးေဘးကိုေရွာင္ မေလာင္ခင္တား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/024-UEindasara-Myinnkaung-arzarny.mp3">
+၂၄။&nbsp; ျမင္းေကာင္းအာဇာနည္နည္းေကာင္းမွီ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/025-UEindasara-Myatno1.mp3">
+၂၅။&nbsp; ျမတ္ႏိုးဖြယ္ရာ ဝိပႆနာအက်ိဳးပါ(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/026-UEindasara-Myatno2.mp3">
+၂၆။&nbsp; ျမတ္ႏိုးဖြယ္ရာ ဝိပႆနာအက်ိဳးပါ(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/027-UEindasara-Hnalonethar.mp3">
+၂၇။&nbsp; ႏွလုံးသားမွာ ဘုရားတည္ပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/027-UEindasara-Hnalonethar.mp3">
+၂၈။&nbsp; ေသမင္းကိုမေၾကာက္ေသာသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/029-UEindasara-Ahlapan.mp3">
+၂၉။&nbsp; အလွပန္းတို႕လန္းရာေျမ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/030-UEindasara-Thittone1.mp3">
+၃၀။&nbsp; သစ္တုံးပမာ သမၼာဒိ႒ိပါ(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/031-UEindasara-Thittone2.mp3">
+၃၁။&nbsp; သစ္တုံးပမာ သမၼာဒိ႒ိပါ(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/032-UEindasara-Pwegyi.mp3">
+၃၂။&nbsp; ပြဲႀကီးသဘင္ႏြဲဝင္လိုလွ်င္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/033-UEindasara-Oga1.mp3">
+၃၃။&nbsp; ၾသဃေရလ်င္ကူးဖို႕ျပင္(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/034-UEindasara-Oga2.mp3">
+၃၄။&nbsp; ၾသဃေရလ်င္ကူးဖို႕ျပင္(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/035-UEindasara-Tharthanarsipin.mp3">
+၃၅။ သာသနာစည္ပင္ျပန္႕ပြားလိုပါလွ်င္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/036-UEindasara-Thaddharshiga.mp3">
+၃၆။&nbsp; သဒၶါရွိက လိုျပည္႕ဝ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/037-UEindasara-Paye-Hma-Bay-01.mp3">
+၃၇။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/038-UEindasara-Paye-Hma-Bay-02.mp3">
+၃၈။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/039-UEindasara-Paye-Hma-Bay-03.mp3">
+၃၉။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/040-UEindasara-Paye-Hma-Bay-04.mp3">
+၄၀။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၄)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/041-UEindasara-Paye-Hma-Bay-05.mp3">
+၄၁။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၅)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/042-UEindasara-Paye-Hma-Bay-06.mp3">
+၄၂။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၆)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/043-UEindasara-Paye-Hma-Bay-07.mp3">
+၄၃။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၇)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/044-UEindasara-Paye-Hma-Bat-08.mp3">
+၄၄။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၈)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/045-UEindasara-Paye-Hma-Bay-09.mp3">
+၄၅။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၉)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/046-UEindasara-Paye-Hma-Bay-10.mp3">
+၄၆။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၁၀)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/047-UEindasara-Paye-Hma-Bay-11.mp3">
+၄၇။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၁၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/048-UEindasara-Paye-Hma-Bay-12.mp3">
+၄၈။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၁၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/049-UEindasara-Paye-Hma-Bay-13.mp3">
+၄၉။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၁၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/050-UEindasara-Paye-Hma-Bay-14.mp3">
+၅၀။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၁၄)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/051-UEindasara-Paye-Hma-Bay-15.mp3">
+၅၁။&nbsp; ေျပးမွေဘးကလြတ္ေျမာက္မည္(၁၅)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/052-UEindasara-Eain-Drai-Nyi-01.mp3">
+၅၂။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/053-UEindasara-Eain-Drai-Nyi-02.mp3">
+၅၃။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/054-UEindasara-Eain-Drai-Nyi-03.mp3">
+၅၄။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/055-UEindasara-Eain-Drai-Nyi-04.mp3">
+၅၅။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၄)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/056-UEindasara-Eain-Drai-Nyi-05.mp3">
+၅၆။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၅)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/057-UEindasara-Eain-Drai-Nyi-06.mp3">
+၅၇။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၆)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/058-UEindasara-Eain-Drai-Nyi-07.mp3">
+၅၈။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၇)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/059-UEindasara-Eain-Drai-Nyi-08.mp3">
+၅၉။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၈)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/060-UEindasara-Eain-Drai-Nyi-09.mp3">
+၆၀။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၉)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/061-UEindasara-Eain-Drai-Nyi-10.mp3">
+၆၁။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၁၀)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/062-UEindasara-Eain-Drai-Nyi-11.mp3">
+၆၂။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၁၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/063-UEindasara-Eain-Drai-Nyi-12.mp3">
+၆၃။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၁၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/064-UEindasara-Eain-Drai-Nyi-13.mp3">
+၆၄။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၁၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/065-UEindasara-EainDrai-nyi-14.mp3">
+၆၅။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၁၄)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/066-UEindasara-Eain-Drai-Nyi-15.mp3">
+၆၆။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၁၅)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/067-UEindasara-Eain-Drai-Nyi-16.mp3">
+၆၇။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၁၆)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/068-UEindasara-Eain-Drai-Nyi-17.mp3">
+၆၈။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၁၇)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/069-UEindasara-Eain-Drai-Nyi-18.mp3">
+၆၉။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၁၈)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/070-UEindasara-Eain-Drai-Nyi-19.mp3">
+၇၀။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၁၉)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/071-UEindasara-Eain-Drai-Nyi-20.mp3">
+၇၁။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၂၀)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/072-UEindasara-Eain-Drai-Nyi021.mp3">
+၇၂။&nbsp; ဣေႁႏၷညီမွ နိဗၺာန္ရ(၂၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/073-UEindasara-Wihara-wuthtu-DHK.mp3">
+၇၃။&nbsp; ဝိဟာရဝတၳဳ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/074-UEindasara-Wihara-dhana-DHK.mp3">
+၇၄။&nbsp; ဝိဟာရဒါန</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/075-UEindasara-Wizaryana.mp3">
+၇၅။&nbsp; ဝိဇာယန - ၁၃၆၈ခု</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/076-UEindasara-Akaung4myo-swanarrtoe-DHK.mp3">
+၇၆။&nbsp; အေကာင္း(၄)မ်ိဳး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/077-UEindasara-Sait-Lute-Myout-01.mp3">
+၇၇။&nbsp; စိတ္လြတ္ေျမာက္ေရးအျမန္ေတြး(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/078-UEindasara-Sait-Lute-Myout-02.mp3">
+၇၈။&nbsp; စိတ္လြတ္ေျမာက္ေရးအျမန္ေတြး(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/079-UEindasara-Sait-Lute-Myout-03.mp3">
+၇၉။&nbsp; စိတ္လြတ္ေျမာက္ေရးအျမန္ေတြး(၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/080-UEindasara-Sait-Lute-Myout-04.mp3">
+၈၀။&nbsp; စိတ္လြတ္ေျမာက္ေရးအျမန္ေတြး(၄)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/081-UEindasara-Thar-Tha-Nar-01.mp3">
+၈၁။&nbsp; သာႆနာ့အေမြခံ (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/082-UEindasara-Thar-Tha-Nar-02.mp3">
+၈၂။&nbsp; သာႆနာ့အေမြခံ (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/083-UEindasara-Thone-Khone-01.mp3">
+၈၃။ သုံးခြန္းေသာစကား (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/084-UEindasara-Thone-Khone-02.mp3">
+၈၄။ သုံးခြန္းေသာစကား (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/085-UEindasara-Thu-Ko-01.mp3">
+၈၅။&nbsp; သူ႕ကိုေတြ႕ေအာင္ရွာမယ္(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/086-UEindasara-Thu-Ko-02.mp3">
+၈၆။&nbsp; သူ႕ကိုေတြ႕ေအာင္ရွာမယ္(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/087-UEindasara-Mee-Nyein-01.mp3">
+၈၇။&nbsp; မီးၿငိမ္းေအာင္ျငႇိမ္းေအာင္သပ္ပါ (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/088-UEindasara-Mee-Nyein-02.mp3">
+၈၈။&nbsp; မီးၿငိမ္းေအာင္ျငႇိမ္းေအာင္သပ္ပါ (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/089-UEindasara-Myet-Hmout-01.mp3">
+၈၉။&nbsp; မ်က္ေမွာက္ကာလႏွစ္ဘဝ(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/090-UEindasara-Myet-Hmout-02.mp3">
+၉၀။&nbsp; မ်က္ေမွာက္ကာလႏွစ္ဘဝ(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/091-UEindasara-Hma-Ta-Par-01.mp3">
+၉၁။&nbsp; မွတပါးအျခားမရွိ(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/092-UEindasara-Hma-Ta-Par-02.mp3">
+၉၂။&nbsp; မွတပါးအျခားမရွိ(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/093-UEindasara-Nat-Thar.mp3">
+၉၃။&nbsp; နတ္သားေမးရာေလးပုစာၦ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/095-UEindasara-Hatti-Pa-Da.mp3">
+၉၅။&nbsp; ဟတၱပေဒသနာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/096-UEindasara-Thati-Pahtarna.mp3">
+၉၆။&nbsp; သတိပဌာန ဘာဝနာခြဲျခားသိပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/097-UEindasara-Wai-Pat-Thar-Nar.mp3">
+၉၇။&nbsp; ဝိပႆနာအက်ိဳးခ်မ္းသာတိုး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/098-UEindasara-Thone-Phyar-Pae.mp3">
+၉၈။&nbsp; သုံးျဖာပယ္မွ ခ်မ္းသာရ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/099-UEindasara-Thadder-Swan-In.mp3">
+၉၉။&nbsp; သဒၶါစြမ္းအင္ နိဗၺာန္ျမင္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/100-UEindasara-Won-Htan-Ba-Wa-01.mp3">
+၁၀၀။&nbsp; ဝန္ထမ္းဘဝနဲ႕ေနဦးမွာလား(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/101-UEindasara-Won-Htan-Ba-Wa-02.mp3">
+၁၀၁။&nbsp; ဝန္ထမ္းဘဝနဲ႕ေနဦးမွာလား(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/102-UEindasara-zayyon-ko-thwarr.mp3">
+၁၀၂။&nbsp; ေစ်းရုံကိုသြား ေဆးကိုစား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/103-UEindasara-ova-110408.mp3">
+၁၀၃။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/104-UEindasara-ova-130408.mp3">
+၁၀၄။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/105-UEindasara-ova-150408.mp3">
+၁၀၅။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/106-UEindasara-ova-170408.mp3">
+၁၀၆။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/107-UEindasara-ova-190408.mp3">
+၁၀၇။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/108-UEindasara-ova.mp3">
+၁၀၈။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/109-UEindasara-ova.mp3">
+၁၀၉။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/110-UEindasara-ova.mp3">
+၁၁၀။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/111-UEindasara-ova.mp3">
+၁၁၁။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/112-UEindasara-ova.mp3">
+၁၁၂။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/113-UEindasara-ova.mp3">
+၁၁၃။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/114-UEindasara-Ova.mp3">
+၁၁၄။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/115-UEindasara-Ova.mp3">
+၁၁၅။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/116-UEindasara-Ova.mp3">
+၁၁၆။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/117-UEindasara-Ova.mp3">
+၁၁၇။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/118-UEindasara-Ova.mp3">
+၁၁၈။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/119-UEindasara-Ova.mp3">
+၁၁၉။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/120-UEindasara-Kaung-Hmu.mp3">
+၁၂၀။&nbsp; အာရုဏ္ဦး ၾသဝါဒကထာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/121-UEindasara-Myatthawamwe1.mp3">
+၁၂၁။&nbsp; ျမတ္ေသာအေမြ(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/122-UEindasara-Myatthawamwe2.mp3">
+၁၂၂။&nbsp; ျမတ္ေသာအေမြ(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/123-UEindasara-Myatthawamwe3.mp3">
+၁၂၃။&nbsp; ျမတ္ေသာအေမြ(၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/124-UEindasara-Myatthawamwe4.mp3">
+၁၂၄။&nbsp; ျမတ္ေသာအေမြ(၄)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/125-UEindasara-Myatthawamwe5.mp3">
+၁၂၅။&nbsp; ျမတ္ေသာအေမြ(၅)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/126-UEindasara-Myatthawamwe6.mp3">
+၁၂၆။&nbsp; ျမတ္ေသာအေမြ(၆)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/127-UEindasara-sae-par-pyeson-01.mp3">
+၁၂၇။&nbsp; ဆယ္ပါးျပည္႕စုံ(၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/128-UEindasara-sae-par-pyeson-02.mp3">
+၁၂၈။&nbsp; ဆယ္ပါးျပည္႕စုံ(၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/129-UEindasara-sae-par-pyeson-03.mp3">
+၁၂၉။&nbsp; ဆယ္ပါးျပည္႕စုံ(၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/130-UEindasara-sae-par-pyeson-04.mp3">
+၁၃၀။&nbsp; ဆယ္ပါးျပည္႕စုံ(၄)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/131-UEindasara-bathu-mapyu.mp3">
+၁၃၁။&nbsp; ဘယ္သူမျပဳ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/132-UEindasara-chanthar4.mp3">
+၁၃၂။&nbsp; ခ်မ္းသာေလးပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/133-UEindasara-Htane-sount-yahmar-takhu-par.mp3">
+၁၃၃။&nbsp; ထိမ္းေဆာင္ရမွာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/134-UEindasaraKo-paing-pyissy.mp3">
+၁၃၄။&nbsp; ကိုယ္ပိန္ပေစ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/135-UEindasara-kyaung-anumodanar.mp3">
+၁၃၅။&nbsp; ေက်ာင္းအႏုေမာဒနာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/136-UEindasara-lon-chon-ye.mp3">
+၁၃၆။&nbsp; လုံၿခဳံေရး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/137-UEindasara-sttk-dhammayon.mp3">
+၁၃၇။&nbsp; စိတ္ဓမၼာရုံ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/138-UEindasara-tupa-manaing.mp3">
+၁၃၈။&nbsp; တုပမႏိုင္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/139-UEindasara-yekyaoo.mp3">
+၁၃၉။&nbsp; ေရက်ဥပမာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/140-UEindasara-zanee-maunghnan.mp3">
+၁၄၀။&nbsp; ဇနိးေမာင္ႏွံ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/141-UEindasara-ova-nga-atwat.mp3">
+၁၄၁။&nbsp; ငါ့အတြက္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/142-Eindasara-anumodanar01.mp3">
+၁၄၂။&nbsp; အႏုေမာဒနာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/143-UEindasara-chanthar4.mp3">
+၁၄၃။&nbsp; ခ်မ္းသာေလးပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/144-UEindasara-ova-050708-hnawa-nan-yoat.mp3">
+၁၄၄။&nbsp; အိုဗြီေအ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/145-UEindasara-ova-110408.mp3">
+၁၄၅။&nbsp; အိုဗြီေအ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/146-UEindasara-ova-130408.mp3">
+၁၄၆။&nbsp; အိုဗြီေအ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/147-UEindasara-ova-150408.mp3">
+၁၄၇။&nbsp; အိုဗြီေအ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/148-UEindasara-ova-170408.mp3">
+၁၄၈။&nbsp; အိုဗြီေအ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/149-UEindasara-ova-190408.mp3">
+၁၄၉။&nbsp; အိုဗြီေအ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/150-UEindasara-ova-210608.mp3">
+၁၅၀။&nbsp; အိုဗြီေအ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/151-UEindasara-pamarda6.mp3">
+၁၅၁။ ပမာဓတရား(၆)ပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/152-UEindasara-thati-yogi.mp3">
+၁၅၂။&nbsp; သတိေရာဂီ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/153-UEindasara-THUHER-EMYETSONE-LU.mp3">
+၁၅၃။&nbsp; သူဟာအျမတ္ဆုံးလူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/154-UEindasara-yothay-shu.mp3">
+၁၅၄။&nbsp; ရိုရိုေသေသရႈ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/155-UEindasara-ma--hmat-pae-ca.mp3">
+၁၅၅။&nbsp; မရႈမွတ္လွ်င္ တပတ္ပတ္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/156-UEindasara-thone-pae-ta-yar.mp3">
+၁၅၆။&nbsp; ဤသုံးပါးတရားသာသနာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/157-UEindasara-htu-tae-tha-te.mp3">
+၁၅၇။&nbsp; ထူးတဲ့သတိမျပတ္ရွိ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/158-UEindasara-kaung-kyo-wae.mp3">
+၁၅၈။&nbsp; ေကာင္းက်ိဳးေဝျဖာသူကသာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/159-UEindasara-a-kyaung-ea-sut.mp3">
+၁၅၉။&nbsp; အေၾကာင္းတစပ္ရႈမွတ္ႏိုင္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/160-UEindasara-yout-nun-sin-chin.mp3">
+၁၆၀။&nbsp; ရုပ္နာမ္ဆင္ျခင္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/161-UEindasara-ki-lay-sis-hma.mp3">
+၁၆၁။&nbsp; ကိေလသာစစ္မွ ေအာင္မွသာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/162-UEindasara-ore-ga-lay-phyr.mp3">
+၁၆၂။&nbsp; ၾသကေလးျဖာသံသရာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/163-UEindasara-paw-khite-shu.mp3">
+၁၆၃။&nbsp; ေပၚခိုက္ရႈမွတ္ပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/164-UEindasara-pone-nya-pyie.mp3">
+၁၆၄။&nbsp; ပုညျပည္႕လွ်င္ လြန္ေျမာက္မည္</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/165-UEindasara-kyan-mar-yae.mp3">
+၁၆၅။&nbsp; က်န္းမာေရးကို ဂရုစိုက္ပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/166-UEindasara--thuga-taphan.mp3">
+၁၆၆။&nbsp; သူကတဖန္ ကိုယ္ကိုျပန္တာဝန္ယူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/167-UEindasara-thee-khan-hma.mp3">
+၁၆၇။&nbsp; သီးခံမွအက်ိဳးရ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font face="Zawgyi-One">
+<a title="To download to your hard disc, please right click and choose &quot;save target as&quot;." href="http://dhammadownload.com/MP3Library/Ashin-Eindasaravimasa/168-UEindasara-thay-ya-hmar.mp3">
+၁၆၈။&nbsp; ေသရမွာကိုမေၾကာက္လို</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+	<p>&nbsp;</p><p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+	<p>&nbsp;</p></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</font>
+
+
+
+<font face="Zawgyi-One">
+
+
+
+
+
+
+</font>

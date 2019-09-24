@@ -1,0 +1,64 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/16.mp3|၁။ကထိန္အလွဴေတာ္တရား
+002.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/35.mp3|၂။ကိုရင္သံကိစၥ
+003.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/38.mp3|၃။ကိုရင္သာႏု
+004.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/37.mp3|၄။ကိုရင္သုခ
+005.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/39.mp3|၅။ကိုရင္ဥတၱရ
+006.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/36.mp3|၆။ကိုရင္ေသာပါက
+007.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/25.mp3|၇။ေကာင္းေသာယွဥ္ၿပိဳင္ျခင္း
+008.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/40.mp3|၈။စာသိမွ ဥာဏ္သိသို႔
+009.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/23.mp3|၉။စိတ္ကိုႏိုင္မွ တရားရ
+010.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/46.mp3|၁၀။ဓမၼစၾကာ အပိုင္း (၁)
+011.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/47.mp3|၁၁။ဓမၼစၾကာ အပိုင္း (၂)
+012.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/48.mp3|၁၂။ဓမၼစၾကာ အပိုင္း (၃)
+013.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/30.mp3|၁၃။ဓမၼဒီပ
+014.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/19.mp3|၁၄။နည္းလမ္းငါးသြယ္
+015.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/2.mp3|၁၅။နတ္သားအေမး ဘုရားအေျဖ
+016.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/20.mp3|၁၆။နိဗၺာန္ဆိုတာ ဘယ္မွာလဲ
+017.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/56.mp3|၁၇။ပဋိစၥသမုပၸါဒ္ တရားေတာ္ (၁)
+018.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/57.mp3|၁၈။ပဋိစၥသမုပၸါဒ္ တရားေတာ္ (၂)
+019.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/58.mp3|၁၉။ပဋိစၥသမုပၸါဒ္ တရားေတာ္ (၃)
+020.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/59.mp3|၂၀။ပဋိစၥသမုပၸါဒ္ တရားေတာ္ (၄)
+021.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/60.mp3|၂၁။ပဋိစၥသမုပၸါဒ္ တရားေတာ္ (၅)
+022.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/12.mp3|၂၂။ပုကၠဳသာတၱိမင္းႀကီး
+023.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/21.mp3|၂၃။ျဖစ္ပ်က္ဒုကၡသခၤါရ
+024.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/49.mp3|၂၄။ေဗာဇ်င္သုတ္ အပိုင္း (၁)
+025.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/50.mp3|၂၅။ေဗာဇ်င္သုတ္ အပိုင္း (၂)
+026.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/51.mp3|၂၆။ေဗာဇ်င္သုတ္ အပိုင္း (၃)
+027.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/52.mp3|၂၇။ေဗာဇ်င္သုတ္ အပိုင္း (၄)
+028.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/53.mp3|၂၈။ေဗာဇ်င္သုတ္ အပိုင္း (၅)
+029.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/54.mp3|၂၉။ေဗာဇ်င္သုတ္ အပိုင္း (၆)
+030.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/55.mp3|၃၀။ေဗာဇ်င္သုတ္ အပိုင္း (၇)
+031.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/11.mp3|၃၁။ဘဝအရည္အေသြး
+032.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/10.mp3|၃၂။မွီခိုရာ
+033.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/31.mp3|၃၃။မဟာကပၸိနမေထရ္
+034.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/8.mp3|၃၄။မိေထြးေတာ္ ေဂါတမီ
+035.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/14.mp3|၃၅။ျမတ္ဗုဒၶႏွင့္ အရွင္ဥတၱိယ
+036.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/41.mp3|၃၆။ရာဟုလာ
+037.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/9.mp3|၃၇။လမ္းမွန္ညႊန္ျပ ျမတ္ဗုဒၶ
+038.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/42.mp3|၃၈။လြန္ကဲေသာတရား
+039.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/3.mp3|၃၉။လိႈင္းပုတ္ေသာ္လည္း ေလွမျမဳပ္ေစႏွင့္
+040.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/4.mp3|၄၀။ေလးျဖာတရား လက္ကိုင္ထား
+041.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/7.mp3|၄၁။ေလာကဓံနဲ႔ ဘာဝနာ
+042.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/43.mp3|၄၂။ဝိပါတ္ေတာ္ (၁၂)ပါး အပိုင္း(၁)
+043.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/44.mp3|၄၃။ဝိပါတ္ေတာ္ (၁၂)ပါး အပိုင္း(၂)
+044.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/45.mp3|၄၄။ဝိပါတ္ေတာ္ (၁၂)ပါး အပိုင္း(၃)
+045.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/18.mp3|၄၅။ဝိပႆနာအႏွစ္ခ်ဳပ္
+046.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/22.mp3|၄၆။ေဝဒနာဘယ္လိုရွာမလဲ
+047.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/6.mp3|၄၇။သစၥာေလးပါး
+048.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/5.mp3|၄၈။သစ္တုံးပမာ သတၱဝါ
+049.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/61.mp3|၄၉။သတိပ႒ာန္ေလးပါးတရားေတာ္ (၁)
+050.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/62.mp3|၅၀။သတိပ႒ာန္ေလးပါးတရားေတာ္ (၂)
+051.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/63.mp3|၅၁။သတိပ႒ာန္ေလးပါးတရားေတာ္ (၃)
+052.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/64.mp3|၅၂။သတိပ႒ာန္ေလးပါးတရားေတာ္ (၄)
+053.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/17.mp3|၅၃။သမာဓိျဖစ္ေၾကာင္း
+054.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/1.mp3|၅၄။သူေတာ္ေကာင္းဥစၥာခုႏွစ္ျဖာ
+055.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/13.mp3|၅၅။အကိတၱိရေသ့ဆုေတာင္း
+056.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/15.mp3|၅၆။အမၼပါလီ
+057.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/33.mp3|၅၇။အရွင္ဇာတိယမေထရ္
+058.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/34.mp3|၅၈။အရွင္နႏၵက၏ ဝိပႆနာအႏွစ္ခ်ဳပ္
+059.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/26.mp3|၅၉။အရွင္မဟာကႆပ
+060.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/24.mp3|၆၀။အရွင္ရ႒ပါလ
+061.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/27.mp3|၆၁။အရွင္အာနႏၵာ
+062.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/28.mp3|၆၂။အရွင္အႏုရုဒၶာ
+063.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/32.mp3|၆၃။အရွင္ဥတၱိယမေထရ္
+064.mp3|https://media.thitsarparamisociety.com/mp3/2019/sitagu_ashin_dayweindar/1-64/29.mp3|၆၄။အရွင္ေဇာတိက

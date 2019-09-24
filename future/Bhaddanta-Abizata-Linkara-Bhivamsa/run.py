@@ -39,18 +39,18 @@ from crawler import (get_html_mp4, check_duplicate,
 
 #check_duplicate('raw_titles_links.txt') #titles_links.txt
 #update_raw_titles_links('raw_titles_links.txt', 'titles_links.txt', 1)
-convert_myanmar_number_option('raw_titles_links.txt', 'titles_links.txt', 1)
+#convert_myanmar_number_option('raw_titles_links.txt', 'titles_links.txt', 1)
 
-#add_extra_description(get_results('raw_titles_links_desc.txt'))
+
 #breaker_in_order(get_results('titles_links_desc.txt'))
 
 #convert_myanmar_number('titles_links.txt', 'description.txt') # titles_links.txt description.txt
 
 def get_json_new():    
     
-    playlist = 'အရွင္ ကုသလေဇာတိ ( ဆလံု ) ဂ်လန္း က်ြန္းဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား'
-    description_title = 'အရွင္ ကုသလေဇာတိ ( ဆလံု ) ဂ်လန္း က်ြန္းဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား'
-    source='\nsource from https://www.thitsarparamisociety.com/' 
+    playlist = '​စစ္​ကိုင္​းတိပိဋကဆရာ​ေတာ္ အသွ်င္အဘိဇာတာဘိဝံသ ေဟာေတာ္မူေသာ တရားေတာ္မ်ား'
+    description_title = 'ဓမၼာစရိယ (၁၀)ဘြဲ႕၊ ပါဠိပါရဂူ (၃)ဘြဲ႕၊ ဝိဒူ(၅)ဘြဲ႕၊ မဟာဝိဒူ(၅)ဘြဲ႕ႏွင့္ အျခားအစိုးရ တိပိဋကဆုိင္ရာ ဘြဲ႕မ်ား အပါအဝင္ ဘြဲ႕တံဆိပ္ေပါင္း (၄၇)ဘြဲ႕ရ မုံရြာၿမိဳ႕ သဒၶမၼေဇာတက သုေဗာဓါရုံေက်ာင္းတိုက္၊ ဒြါဒသမ တိပိဋက ဓရ ဓမၼဘ႑ာဂါရိက အသွ်င္အဘိဇာတာဘိဝံသ စစ္ကိုင္းဆရာေတာ္ ေဟာေတာ္မူေသာ တရားေတာ္မ်ား'
+    source='\nsource from http://www.dhammadownload.com' 
     get_json_files_in_same('titles_links.txt', 'titles_links.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
     #get_json('titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
@@ -58,7 +58,7 @@ def get_json_new():
 
 
 #get_json_new()
-#thread_upload_test_title('raw_json_title.txt')
+thread_upload_test_title('raw_json_title.txt')
 
 
 

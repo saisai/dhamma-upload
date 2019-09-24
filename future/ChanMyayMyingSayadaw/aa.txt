@@ -1,0 +1,222 @@
+/e/dhamma-upload/future/ChanMyayMyingSayadaw/
+msys
+E:\dhamma-upload\future\ChanMyayMyingSayadaw\
+youtube-upload --title="၁။ သတိပ႒ာန္ရႈျခင္း၏ အက်ိဳး" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၁။ သတိပ႒ာန္ရႈျခင္း၏ အက်ိဳး 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=001.mp4
+youtube-upload --title="၂။ ေဝဒနာႏုပႆနာ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၂။ ေဝဒနာႏုပႆနာ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=002.mp4
+youtube-upload --title="၃။ စိတၱာႏုပႆနာ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၃။ စိတၱာႏုပႆနာ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=003.mp4
+youtube-upload --title="၄။ ဓမၼာႏုပႆနာ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၄။ ဓမၼာႏုပႆနာ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=004.mp4
+youtube-upload --title="၅။ ႐ုပ္နာမ္ျမင္လွ်င္ ဒိဌိစင္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၅။ ႐ုပ္နာမ္ျမင္လွ်င္ ဒိဌိစင္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=005.mp4
+youtube-upload --title="၆။ သင္ဘယ္လိုေသမလဲ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၆။ သင္ဘယ္လိုေသမလဲ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=006.mp4
+youtube-upload --title="၇။ ေျခတလွမ္း ကုေဋတစ္သန္း" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၇။ ေျခတလွမ္း ကုေဋတစ္သန္း 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=007.mp4
+youtube-upload --title="၈။ သတိယွဥ္မွ တရားျမင္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၈။ သတိယွဥ္မွ တရားျမင္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=008.mp4
+youtube-upload --title="၉။ ေမတၱာတရား (၁)-(၃)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၉။ ေမတၱာတရား (၁)-(၃) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=009.mp4
+youtube-upload --title="၁၀။ ေမတၱာတရား (၂)-(၃)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၁၀။ ေမတၱာတရား (၂)-(၃) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=010.mp4
+youtube-upload --title="၁၁။ ေမတၱာတရား (၃)-(၃)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၁၁။ ေမတၱာတရား (၃)-(၃) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=011.mp4
+youtube-upload --title="၁၂။ ဗိုလ္ငါးပါး" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၁၂။ ဗိုလ္ငါးပါး 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=012.mp4
+youtube-upload --title="၁၃။ အားကိုးမွန္မွ ခ်မ္းသာရ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၁၃။ အားကိုးမွန္မွ ခ်မ္းသာရ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=013.mp4
+youtube-upload --title="၁၄။ ရလိုမႈႏွင့္ ရလိုျခင္း (၁)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၁၄။ ရလိုမႈႏွင့္ ရလိုျခင္း (၁) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=014.mp4
+youtube-upload --title="၁၅။ ရလိုမႈႏွင့္ ရလိုျခင္း (၂)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၁၅။ ရလိုမႈႏွင့္ ရလိုျခင္း (၂) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=015.mp4
+youtube-upload --title="၁၆။ ဘာဝနာလမ္းၫႊန္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၁၆။ ဘာဝနာလမ္းၫႊန္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=016.mp4
+youtube-upload --title="၁၇။ ဘဝ ဘာေၾကာင့္ျဖစ္သလဲ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၁၇။ ဘဝ ဘာေၾကာင့္ျဖစ္သလဲ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=017.mp4
+youtube-upload --title="၁၈။ ဘဝဟူသည္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၁၈။ ဘဝဟူသည္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=018.mp4
+youtube-upload --title="၁၉။ ဘဝလြတ္ေျမာက္ေၾကာင္းတရား (၁)-(၃)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၁၉။ ဘဝလြတ္ေျမာက္ေၾကာင္းတရား (၁)-(၃) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=019.mp4
+youtube-upload --title="၂၀။ ဘဝလြတ္ေျမာက္ေၾကာင္းတရား (၂)-(၃)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၂၀။ ဘဝလြတ္ေျမာက္ေၾကာင္းတရား (၂)-(၃) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=020.mp4
+youtube-upload --title="၂၁။ ဘဝလြတ္ေျမာက္ေၾကာင္းတရား (၃)-(၃)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၂၁။ ဘဝလြတ္ေျမာက္ေၾကာင္းတရား (၃)-(၃) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=021.mp4
+youtube-upload --title="၂၂။ ဘာရည္ရြယ္ခ်က္နဲ႔ ရႈမွတ္ရမလဲ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၂၂။ ဘာရည္ရြယ္ခ်က္နဲ႔ ရႈမွတ္ရမလဲ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=022.mp4
+youtube-upload --title="၂၃။ ဓာတ္ေျခာက္ပါးတရားေတာ္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၂၃။ ဓာတ္ေျခာက္ပါးတရားေတာ္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=023.mp4
+youtube-upload --title="၂၄။ ေသာကတရားေတာ္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၂၄။ ေသာကတရားေတာ္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=024.mp4
+youtube-upload --title="၂၅။ ဒါနတရားေတာ္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၂၅။ ဒါနတရားေတာ္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=025.mp4
+youtube-upload --title="၂၆။ အလႊာေလးပါးတရားေတာ္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၂၆။ အလႊာေလးပါးတရားေတာ္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=026.mp4
+youtube-upload --title="၂၇။ ဒါနလမ္းၫႊန္တရားေတာ္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၂၇။ ဒါနလမ္းၫႊန္တရားေတာ္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=027.mp4
+youtube-upload --title="၂၈။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၁)-(၆)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၂၈။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၁)-(၆) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=028.mp4
+youtube-upload --title="၂၉။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၂)-(၆)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၂၉။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၂)-(၆) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=029.mp4
+youtube-upload --title="၃၀။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၃)-(၆)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၃၀။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၃)-(၆) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=030.mp4
+youtube-upload --title="၃၁။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၄)-(၆)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၃၁။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၄)-(၆) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=031.mp4
+youtube-upload --title="၃၂။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၅)-(၆)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၃၂။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၅)-(၆) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=032.mp4
+youtube-upload --title="၃၃။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၆)-(၆)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၃၃။ ဒါ႐ုကၡေႏၶာပမသုတၱန္ (၆)-(၆) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=033.mp4
+youtube-upload --title="၃၄။ ကုသိုလ္ျပဳျခင္း၏ ရည္ရြယ္ခ်က္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၃၄။ ကုသိုလ္ျပဳျခင္း၏ ရည္ရြယ္ခ်က္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=034.mp4
+youtube-upload --title="၃၅။ တရားသံုးပါးတရားေတာ္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၃၅။ တရားသံုးပါးတရားေတာ္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=035.mp4
+youtube-upload --title="၃၆။ ခႏၶာ၏သဘာဝတရားတို႔ကိုရွာၾကံျခင္း" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၃၆။ ခႏၶာ၏သဘာဝတရားတို႔ကိုရွာၾကံျခင္း 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=036.mp4
+youtube-upload --title="၃၇။ ကံႏွင့္ကံ၏ အက်ိဳးတရား" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၃၇။ ကံႏွင့္ကံ၏ အက်ိဳးတရား 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=037.mp4
+youtube-upload --title="၃၈။ ကုသိုလ္ျပဳမွ ခ်မ္းသာရ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၃၈။ ကုသိုလ္ျပဳမွ ခ်မ္းသာရ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=038.mp4
+youtube-upload --title="၃၉။ ဘဝထဲမွာအႏွစ္ရွာ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၃၉။ ဘဝထဲမွာအႏွစ္ရွာ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=039.mp4
+youtube-upload --title="၄၀။ ငါဘယ္လိုေသရပါ့မလဲတရားေတာ္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၄၀။ ငါဘယ္လိုေသရပါ့မလဲတရားေတာ္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=040.mp4
+youtube-upload --title="၄၁။ ဉာဏ္စင္ဆယ့္ေျခာက္ပါးတရားေတာ္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၄၁။ ဉာဏ္စင္ဆယ့္ေျခာက္ပါးတရားေတာ္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=041.mp4
+youtube-upload --title="၄၂။ ပုဂၢိဳလ္ေလးပါးတရားေတာ္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၄၂။ ပုဂၢိဳလ္ေလးပါးတရားေတာ္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=042.mp4
+youtube-upload --title="၄၃။ သမၼနဓမၼတရားေတာ္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၄၃။ သမၼနဓမၼတရားေတာ္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=043.mp4
+youtube-upload --title="၄၄။ ေသနည္းလမ္းၫႊန္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၄၄။ ေသနည္းလမ္းၫႊန္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=044.mp4
+youtube-upload --title="၄၅။ သီလအေျခခံျမတ္နိဗၺာန္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၄၅။ သီလအေျခခံျမတ္နိဗၺာန္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=045.mp4
+youtube-upload --title="၄၆။ သည္းခံႏိုင္မွ နိဗၺာန္ရ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၄၆။ သည္းခံႏိုင္မွ နိဗၺာန္ရ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=046.mp4
+youtube-upload --title="၄၇။ ဝိပႆနာရႈျခင္း၏ရည္ရြယ္ခ်က္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၄၇။ ဝိပႆနာရႈျခင္း၏ရည္ရြယ္ခ်က္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=047.mp4
+youtube-upload --title="၄၈။ အသိျမင္မွန္မွခ်မ္းသာရ (၁)-(၈)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၄၈။ အသိျမင္မွန္မွခ်မ္းသာရ (၁)-(၈) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=048.mp4
+youtube-upload --title="၄၉။ အသိျမင္မွန္မွခ်မ္းသာရ (၂)-(၈)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၄၉။ အသိျမင္မွန္မွခ်မ္းသာရ (၂)-(၈) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=049.mp4
+youtube-upload --title="၅၀။ အသိျမင္မွန္မွခ်မ္းသာရ (၃)-(၈)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၅၀။ အသိျမင္မွန္မွခ်မ္းသာရ (၃)-(၈) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=050.mp4
+youtube-upload --title="၅၁။ အသိျမင္မွန္မွခ်မ္းသာရ (၄)-(၈)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၅၁။ အသိျမင္မွန္မွခ်မ္းသာရ (၄)-(၈) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=051.mp4
+youtube-upload --title="၅၂။ အသိျမင္မွန္မွခ်မ္းသာရ (၅)-(၈)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၅၂။ အသိျမင္မွန္မွခ်မ္းသာရ (၅)-(၈) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=052.mp4
+youtube-upload --title="၅၃။ အသိျမင္မွန္မွခ်မ္းသာရ (၆)-(၈)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၅၃။ အသိျမင္မွန္မွခ်မ္းသာရ (၆)-(၈) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=053.mp4
+youtube-upload --title="၅၄။ အသိျမင္မွန္မွခ်မ္းသာရ (၇)-(၈)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၅၄။ အသိျမင္မွန္မွခ်မ္းသာရ (၇)-(၈) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=054.mp4
+youtube-upload --title="၅၅။ အသိျမင္မွန္မွခ်မ္းသာရ (၈)-(၈)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၅၅။ အသိျမင္မွန္မွခ်မ္းသာရ (၈)-(၈) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=055.mp4
+youtube-upload --title="၅၆။ ဓမၼဂုဏ္ရည္" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၅၆။ ဓမၼဂုဏ္ရည္ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=056.mp4
+youtube-upload --title="၅၇။ မဂၢင္ပြားမွ နိဗၺာန္ရ (၁)-(၂)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၅၇။ မဂၢင္ပြားမွ နိဗၺာန္ရ (၁)-(၂) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=057.mp4
+youtube-upload --title="၅၈။ မဂၢင္ပြားမွ နိဗၺာန္ရ (၂)-(၂)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၅၈။ မဂၢင္ပြားမွ နိဗၺာန္ရ (၂)-(၂) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=058.mp4
+youtube-upload --title="၅၉။ ႐ုပ္နဲ႔နာမ္ (၁)-(၂)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၅၉။ ႐ုပ္နဲ႔နာမ္ (၁)-(၂) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=059.mp4
+youtube-upload --title="၆၀။ ႐ုပ္နဲ႔နာမ္ (၂)-(၂)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၆၀။ ႐ုပ္နဲ႔နာမ္ (၂)-(၂) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=060.mp4
+youtube-upload --title="၆၁။ ဓမၼစၾကၤာ (၁)-(၁၀)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၆၁။ ဓမၼစၾကၤာ (၁)-(၁၀) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=061.mp4
+youtube-upload --title="၆၂။ ဓမၼစၾကၤာ (၂)-(၁၀)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၆၂။ ဓမၼစၾကၤာ (၂)-(၁၀) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=062.mp4
+youtube-upload --title="၆၃။ ဓမၼစၾကၤာ (၃)-(၁၀)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၆၃။ ဓမၼစၾကၤာ (၃)-(၁၀) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=063.mp4
+youtube-upload --title="၆၄။ ဓမၼစၾကၤာ (၄)-(၁၀)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၆၄။ ဓမၼစၾကၤာ (၄)-(၁၀) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=064.mp4
+youtube-upload --title="၆၅။ ဓမၼစၾကၤာ (၅)-(၁၀)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၆၅။ ဓမၼစၾကၤာ (၅)-(၁၀) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=065.mp4
+youtube-upload --title="၆၆။ ဓမၼစၾကၤာ (၆)-(၁၀)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၆၆။ ဓမၼစၾကၤာ (၆)-(၁၀) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=066.mp4
+youtube-upload --title="၆၇။ ဓမၼစၾကၤာ (၇)-(၁၀)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၆၇။ ဓမၼစၾကၤာ (၇)-(၁၀) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=067.mp4
+youtube-upload --title="၆၈။ ဓမၼစၾကၤာ (၈)-(၁၀)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၆၈။ ဓမၼစၾကၤာ (၈)-(၁၀) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=068.mp4
+youtube-upload --title="၆၉။ ဓမၼစၾကၤာ (၉)-(၁၀)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၆၉။ ဓမၼစၾကၤာ (၉)-(၁၀) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=069.mp4
+youtube-upload --title="၇၀။ ဓမၼစၾကၤာ (၁၀)-(၁၀)" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၇၀။ ဓမၼစၾကၤာ (၁၀)-(၁၀) 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=070.mp4
+youtube-upload --title="၇၁။ မီးေလာင္အိမ္မွာကိုယ္ပိုင္ရွာ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၇၁။ မီးေလာင္အိမ္မွာကိုယ္ပိုင္ရွာ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=071.mp4
+youtube-upload --title="၇၂။ စုႏိုင္မွခ်မ္းသာရ" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၇၂။ စုႏိုင္မွခ်မ္းသာရ 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=072.mp4
+youtube-upload --title="၇၃။ သပၸဳရိသဒါန" --description="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား
+၇၃။ သပၸဳရိသဒါန 
+source from http://www.dhammadownload.com" --playlist="ခ်မ္းေျမ႕ၿမိဳင္ ဆရာေတာ္ ေဟာၾကားေတာ္မူေသာ တရားေတာ္မ်ား" file=073.mp4
