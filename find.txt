@@ -1,0 +1,1 @@
+$ find -regextype posix-awk -regex "(.*.gif|.*.png|.*.jpeg|.*.jpg|.*.mp3|.*.py)" -exec ls -alh {} \;

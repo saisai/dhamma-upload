@@ -54,7 +54,7 @@ prefs = {'download.default_directory': os.getcwd()}
 
 options.add_argument("--headless")
 #browser = webdriver.Firefox(firefox_profile=profile, firefox_options=options, executable_path=r'/e/geckodriver/geckodriver.exe')
-browser = webdriver.Firefox(firefox_profile=profile, firefox_options=options, executable_path=r'/home/walen/shared/pdf_to_images/geckodriver')
+browser = webdriver.Firefox(firefox_profile=profile, firefox_options=options, executable_path=r'/home/user/shared/pdf_to_images/geckodriver')
 
 #browser = webdriver.Firefox(profile)
 

@@ -21,8 +21,8 @@ from crawler import (get_fb_title, rearrange_urls, download_fb,
 
            
 
-remote_username = 'walen'
-remote_pass = 'walen'
+remote_username = 'user'
+remote_pass = 'user'
 remote_hostname = '192.168.1.123'
 escaped_remote = '.'
 remote_port = 22
@@ -30,7 +30,7 @@ remote_port = 22
 # thread_upload_remote(copied_file, running_from_path, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote, threads):
 
 for i in range(0, 10):
-    thread_upload_remote('*.mp4', '/home/walen/mahasi/paauk-sayadaw/',
+    thread_upload_remote('*.mp4', '/home/user/mahasi/paauk-sayadaw/',
                 remote_username, remote_pass, remote_hostname, remote_port, escaped_remote,
                 5
                 )

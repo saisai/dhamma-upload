@@ -1,0 +1,2 @@
+ack -l 'pattern' | xargs perl -pi -E 's/pattern/replacement/g'
+https://stackoverflow.com/questions/4792561/how-to-do-search-replace-with-ack-in-vim
