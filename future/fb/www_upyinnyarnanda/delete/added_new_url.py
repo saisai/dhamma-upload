@@ -4,6 +4,7 @@
 from collections import Counter
 
 urls = [f.strip('\n') for f in open('new_raw_url.txt')]
+#urls = [f.strip('\n') for f in open('raw_url.txt')]
 
 #print(urls)
 
