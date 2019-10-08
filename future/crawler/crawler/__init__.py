@@ -8,6 +8,7 @@ from crawler.core import (
     convert_myanmar_number,
     get_json,    
     get_json_fb,
+    get_json_fb_2,
     update_raw_titles_links,
     update_raw_titles_links_option,
     update_raw_reversed_titles_links,
