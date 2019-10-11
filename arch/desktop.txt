@@ -1,0 +1,260 @@
+fdisk -l /dev/sda
+fdisk -t dos /dev/sda
+
+n 
+
+boot +10G
+/    rest
+
+w
+
+mkfs.ext2 /dev/sda1 # /boot
+mkfs.ext4 /dev/sda2 # / (root file system)
+
+
+mount -v /dev/sda2 /mnt
+mkdir /mnt/boot
+mount -v /dev/sda1 /mnt/boot
+
+pacstrap -i /mnt base base-devel linux
+genfstab -U -p /mnt >> /mnt/etc/fstab
+
+arch-chroot /mnt
+
+pacman -S --noconfirm vim mc dnsutils traceroute net-tools openssh unace unarj unrar zip p7zip grub sudo os-prober
+
+
+cat > /etc/resolv.conf << "EOF"
+nameserver 192.168.1.1
+
+EOF
+
+cat > /etc/hosts << "EOF"
+127.0.0.1       localhost.localdomain   localhost user.local
+
+EOF
+
+rm -rfv /etc/localtime
+
+ln -s /usr/share/zoneinfo/Asia/Bangkok /etc/localtime
+
+hwclock --systohc --utc
+
+sed -i 's@#en_US\.U@en_US\.U@' /etc/locale.gen
+
+locale-gen
+
+echo LANG=en_US.UTF-8 > /etc/locale.conf
+
+export LANG=en_US.UTF-8
+
+cat > /etc/systemd/network/eth0.network << "EOF"
+# Begin /etc/systemd/network/eth0.network
+[Match]
+Name=eth0
+
+[Network]
+Address=192.168.1.140/24
+Gateway=192.168.1.1
+DNS=8.8.8.8
+DNS=8.8.4.4
+
+# End /etc/systemd/network/eth0.network
+EOF
+
+
+grep -n ^GRUB_CMDLINE_LINUX_DEFAULT /etc/default/grub
+
+Go to /etc/default/grub and find 4:GRUB_CMDLINE_LINUX_DEFAULT="quiet"
+
+replaced with GRUB_CMDLINE_LINUX_DEFAULT="ipv6.disable=1 net.ifnames=0 quiet"
+
+vim /etc/mkinitcpio.conf
+
+Added usr in /etc/mkinitcpio.conf if /usr used in partition
+HOOKS=(base udev autodetect modconf block filesystems keyboard usr fsck)
+HOOKS=(base udev autodetect modconf block keyboard keymap resume filesystems fsck) # from installing manjaro.org
+
+cd /boot
+mkinitcpio -p linux	
+
+grub-install --target=i386-pc --recheck /dev/sda
+grub-mkconfig -o /boot/grub/grub.cfg
+
+
+#Root login
+vim /etc/ssh/sshd_config
+
+#PermitRootLogin prohibit-password
+PermitRootLogin yes
+
+
+# To preventing mounting automatically if wanted
+systemctl mask tmp.mount
+
+# set the current time
+timedatectl set-ntp true
+
+
+Added user
+useradd -m -g users -G audio,lp,optical,storage,video,games,power,scanner,wheel -s /bin/bash user
+useradd -m -g users -G audio,lp,optical,storage,video,games,power,scanner,wheel -s /bin/bash snp
+passwd user
+
+passwd root
+
+
+# To give user root access 
+visduo
+
+%wheel ALL=(ALL) ALL
+
+#To start network
+systemctl enable systemd-networkd
+systemctl enable sshd
+
+exit
+
+umount -l /mnt
+reboot
+
+# after installation check and added for internet connection
+# if you can not ping other
+vim /etc/resolv.conf
+nameserver 192.168.1.1
+
+
+1) Install X Window Systems on Arch Linux
+
+[Keep your system upto date]
+$ sudo pacman -Syu
+
+[Install X Window System]
+$ sudo pacman -S xorg xorg-server
+
+
+2) Install Desktop Environment on Arch Linux
+
+    [Install xfce4 Desktop Environment]
+    $ sudo pacman -S xfce4 xfce4-goodies
+
+    [Install Budgie Desktop Environment]
+    $ sudo pacman -S budgie-desktop
+
+    [Install GNOME Desktop Environment]
+    $ sudo pacman -S gnome gnome-extra
+
+    [Install Cinnamon Desktop Environment]
+    $ sudo pacman -S cinnamon nemo-fileroller
+
+    [Install KDE Desktop Environment]
+    $ sudo pacman -S plasma
+
+    [Install Mate Desktop Environment]
+    $ sudo pacman -S mate mate-extra
+
+    [Install Deepin Desktop Environment]
+    $ sudo pacman -S deepin deepin-extra
+
+    [Install Enlightenment Desktop Environment]
+    $ sudo pacman -S enlightenment
+
+    [Install LXDE Desktop Environment]
+    $ sudo pacman -S lxde
+
+    [Install LXQT Desktop Environment]
+    $ sudo pacman -S lxqt
+
+
+3) Install Display Manager on Arch Linux
+
+    we need to install Display Manager based on the desktop environment such as gdm, lightdm, slim, lxdm, etc,.. so that we can feel the difference or we can use the same Display Manager to all the desktop environment. 
+    Finally enable the Display Manager on boot so that it will popup the login screen, otherwise you wont get login screen.
+
+        [Install, Start & Enable lxdm Display Manager]
+    $ sudo pacman -S lxdm
+    $ sudo systemctl start lxdm.service
+    $ sudo systemctl enable lxdm.service
+
+
+    Deepin Desktop Environment uses lightdm display manager as a login screen.
+    To configure lightdm greeter, include the below line on lightdm.conf file under SeatDefaults section.
+
+    [Install, Start & Enable lightdm Display Manager]
+    $ sudo nano /etc/lightdm/lightdm.conf
+    greeter-session=lightdm-deepin-greeter
+
+    $ sudo systemctl start lightdm.service
+    $ sudo systemctl enable lightdm.service
+    
+    
+    GNOME using GDM (the GNOME Display manager) which was installed part of GNOME Desktop package, 
+    so no need to make any changes but you have to start and enable it.
+
+    [Start & Enable GDM Display Manager]
+    $ sudo systemctl start gdm.service
+    $ sudo systemctl enable gdm.service
+    
+    
+    Cinnamon using GDM GNOME Display manager, so you have to install manually then start, finally enable on boot.
+
+    [Install, Start & Enable GDM Display Manager]
+    $ sudo pacman -S gdm
+    $ sudo systemctl start gdm.service
+    $ sudo systemctl enable gdm.service
+    https://www.2daygeek.com/install-xfce-mate-kde-gnome-cinnamon-lxqt-lxde-budgie-deepin-enlightenment-desktop-environment-on-arch-linux/
+
+https://www.reddit.com/r/archlinux/comments/b0ona0/vmtools_on_arch_linux_full_screen_or_resizing/
+
+Intall Resolution first and patched vmware-tools-patches 
+Resolution
+
+    Install OpenVMTools
+
+sudo pacman -S open-vm-tools
+
+2) Install drivers and libraries
+
+sudo pacman -Su xf86-input-vmmouse xf86-video-vmware mesa gtk2 gtkmm
+
+3) Create / Edit /etc/X11/Xwrapper.config
+
+sudo echo needs_root_rights=yes >>/etc/X11/Xwrapper.config
+
+4) Enable and start vmtoolsd.service
+
+sudo systemctl enable vmtoolsd
+
+sudo systemctl start vmtoolsd    
+
+
+
+# Copy and paste text from window to vm [from host to guest]    
+vmware-tools-patches        
+https://github.com/rasa/vmware-tools-patches    
+
+
+
+To uninstall VMware Tools in a Linux guest operating system:
+
+Open a terminal window.
+Switch to the root user by running the command:
+
+su - root
+ 
+Run the VMware Tools uninstaller script:
+
+/usr/bin/vmware-uninstall-tools.pl
+ 
+Follow the onscreen instructions to complete the uninstall.
+Reboot the virtual machine.
+
+https://kb.vmware.com/s/article/1014522
+
+
+added fonts
+https://wiki.archlinux.org/index.php/Font_configuration
+pacman -S texlive-core texlive-fontsextra
+fc-list
+https://mcf.org.mm/pyidaungsu-font.html
+/home/walen/.local/share/fonts/Pyidaungsu-2.5.3_Regular.ttf

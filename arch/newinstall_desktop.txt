@@ -6,6 +6,8 @@ n
 boot +10G
 /    rest
 
+w
+
 mkfs.ext2 /dev/sda1 # /boot
 mkfs.ext4 /dev/sda2 # / (root file system)
 
@@ -22,19 +24,35 @@ arch-chroot /mnt
 pacman -S --noconfirm vim mc dnsutils traceroute net-tools openssh unace unarj unrar zip p7zip grub sudo os-prober
 
 # after installation check and added for internet connection
-vim /etc/resolv.conf
-echo "nameserver 192.168.1.1" > /etc/resolv.conf
+#vim /etc/resolv.conf
+
+cat > /etc/resolv.conf << "EOF"
+nameserver 192.168.1.1
+
+EOF 
+
+#echo "nameserver 192.168.1.1" > /etc/resolv.conf
 
 echo user.local >/etc/hostname
-vim /etc/hosts
+#vim /etc/hosts
+
+cat > /etc/hosts << "EOF"
 127.0.0.1       localhost.localdomain   localhost user.local
 
+EOF 
+
 rm -rfv /etc/localtime
+
 ln -s /usr/share/zoneinfo/Asia/Bangkok /etc/localtime
+
 hwclock --systohc --utc
+
 sed -i 's@#en_US\.U@en_US\.U@' /etc/locale.gen
+
 locale-gen
+
 echo LANG=en_US.UTF-8 > /etc/locale.conf
+
 export LANG=en_US.UTF-8
 
 cat > /etc/systemd/network/eth0.network << "EOF"
@@ -43,7 +61,7 @@ cat > /etc/systemd/network/eth0.network << "EOF"
 Name=eth0
 
 [Network]
-Address=192.168.1.128/24
+Address=192.168.1.130/24
 Gateway=192.168.1.1
 DNS=8.8.8.8
 DNS=8.8.4.4
@@ -61,9 +79,9 @@ EOF
 >
 >>		replaced with GRUB_CMDLINE_LINUX_DEFAULT="ipv6.disable=1 net.ifnames=0 quiet"
 
+vim /etc/mkinitcpio.conf
 Added usr in /etc/mkinitcpio.conf if /usr used in partition
-HOOKS="base udev autodetect modconf block filesystems keyboard usr fsck"
-HOOKS="base udev autodetect modconf block keyboard keymap resume filesystems fsck" # from installing manjaro.org
+HOOKS=(base udev autodetect modconf block filesystems keyboard usr fsck)
 HOOKS=(base udev autodetect modconf block keyboard keymap resume filesystems fsck) # from installing manjaro.org
 
 cd /boot
@@ -102,7 +120,6 @@ timedatectl set-time "2017-08-03 1:44:60"
 
 Added user
 useradd -m -g users -G audio,lp,optical,storage,video,games,power,scanner,wheel -s /bin/bash user
-useradd -m -g users -G audio,lp,optical,storage,video,games,power,scanner,wheel -s /bin/bash admin
 passwd user
 
 passwd root
@@ -233,3 +250,120 @@ namei -m /usr/local/apache2/htdocs/foo/bar.html
 
 cat /etc/httpd/conf/httpd.conf| grep mod_rewrite
 https://bbs.archlinux.org/viewtopic.php?id=41606
+
+
+https://www.ostechnix.com/how-to-install-gnome-desktop-environment-in-arch-linux/
+
+sudo pacman -S xorg xorg-server
+sudo pacman -S gnome
+sudo systemctl start gdm.service
+sudo systemctl enable gdm.service
+
+
+https://steemit.com/utopian-io/@farahnabilla/how-to-install-desktop-environment-on-arch-linux
+https://itsfoss.com/install-arch-linux/
+https://www.maketecheasier.com/set-up-xfce-arch-linux/
+https://www.2daygeek.com/install-xfce-mate-kde-gnome-cinnamon-lxqt-lxde-budgie-deepin-enlightenment-desktop-environment-on-arch-linux/
+
+
+chrome 
+https://aur.archlinux.org/packages/google-chrome/
+makepkg -sri
+
+firefox
+pacman -S firefox
+
+https://www.akitaonrails.com/2017/01/10/arch-linux-best-distro-ever
+
+sudo pacman -Sy postgresql
+sudo -u postgres -i
+initdb --locale $LANG -E UTF8 -D '/var/lib/postgres/data'
+exit
+
+# do not do this in Production machines
+sudo sed -i.bak 's/ident/trust/' /var/lib/postgres/data/pg_hba.conf
+sudo systemctl start postgresql
+sudo systemctl enable postgresql
+
+sudo -u postgres -i
+createuser --interactive # create with your username and superuser role
+createdb youruser
+exit
+sudo systemctl restart postgresql
+
+
+vmware-tools-patches
+https://github.com/rasa/vmware-tools-patches
+Skipping rebuilding initrd boot image for kernel as no drivers to be included
+in boot image were installed by this installer.
+
+
+NOTE: both /etc/vmware-tools/GuestProxyData/server/key.pem and
+      /etc/vmware-tools/GuestProxyData/server/cert.pem already exist.
+      They are not generated again. To regenerate them by force,
+      use the "vmware-guestproxycerttool -g -f" command.
+
+The configuration of VMware Tools 10.3.10 build-12406962 for Linux for this
+running kernel completed successfully.
+
+You must restart your X session before any mouse or graphics changes take
+effect.
+
+To enable advanced X features (e.g., guest resolution fit, drag and drop, and
+file and text copy/paste), you will need to do one (or more) of the following:
+1. Manually start /usr/bin/vmware-user
+2. Log out and log back into your desktop session
+3. Restart your X session.
+
+https://www.linuxsecrets.com/archlinux-wiki/wiki.archlinux.org/index.php/VMware/Installing_Arch_as_a_guest.html
+
+gtk
+https://wiki.gnome.org/HowDoI/
+https://python-gtk-3-tutorial.readthedocs.io/en/latest/application.html
+
+
+https://www.reddit.com/r/archlinux/comments/b0ona0/vmtools_on_arch_linux_full_screen_or_resizing/
+
+Resolution
+
+        Install OpenVMTools
+
+    sudo pacman -S open-vm-tools
+
+    2) Install drivers and libraries
+
+    sudo pacman -Su xf86-input-vmmouse xf86-video-vmware mesa gtk2 gtkmm
+
+    3) Create / Edit /etc/X11/Xwrapper.config
+
+    sudo echo needs_root_rights=yes >>/etc/X11/Xwrapper.config
+
+    4) Enable and start vmtoolsd.service
+
+    sudo systemctl enable vmtoolsd
+
+    sudo systemctl start vmtoolsd
+    
+https://www.linux.org/threads/users-on-a-system.4228/
+
+
+https://www.akitaonrails.com/2017/01/10/arch-linux-best-distro-ever
+
+https://arachnoid.com/index.html
+http://code.activestate.com/recipes/578774-list-mysql-databases-in-a-gtktreeview/
+
+
+
+https://www.mono-project.com/docs/getting-started/mono-basics/
+http://zetcode.com/gui/csharpwinforms/snake/    
+
+Vim
+https://github.com/tao12345666333/vim
+wget --no-check-certificate https://raw.githubusercontent.com/tao12345666333/vim/master/vimrc -O $HOME/.vimrc
+vim -E -u $HOME/.vimrc +qall
+
+
+
+https://www.linux.org/threads/users-on-a-system.4228/
+
+
