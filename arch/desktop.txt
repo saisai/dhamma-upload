@@ -257,4 +257,4 @@ https://wiki.archlinux.org/index.php/Font_configuration
 pacman -S texlive-core texlive-fontsextra
 fc-list
 https://mcf.org.mm/pyidaungsu-font.html
-/home/walen/.local/share/fonts/Pyidaungsu-2.5.3_Regular.ttf
+/home/user/.local/share/fonts/Pyidaungsu-2.5.3_Regular.ttf
