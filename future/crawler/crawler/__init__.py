@@ -44,6 +44,8 @@ from crawler.thread_convert_mp3_to_mp4 import thread_convert_mp3_to_mp4
 
 from crawler.thread_upload_remote import thread_upload_remote
 
+from crawler.thread_download_remote_to_local import thread_download_remote_local
+
 
 
 

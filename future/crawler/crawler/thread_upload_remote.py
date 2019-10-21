@@ -169,5 +169,4 @@ def thread_upload_remote(copied_file, running_from_path, remote_username, remote
 
     #convert_manager = ConvertManager(running_from_path, mp3s, threads)
     convert_manager = ConvertManager(running_from_path, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote, mp3s, threads)
-    convert_manager.begin_convert()
-
+    convert_manager.begin_convert()      
