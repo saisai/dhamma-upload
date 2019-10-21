@@ -1,0 +1,125 @@
+https://wiki.archlinux.org/index.php/Kernel
+
+fdisk -l /dev/sda
+fdisk -t dos /dev/sda
+
+n 
+
+boot +10G
+/    rest
+
+mkfs.ext2 /dev/sda1 # /boot
+mkfs.ext4 /dev/sda2 # / (root file system)
+
+
+mount -v /dev/sda2 /mnt
+mkdir /mnt/boot
+mount -v /dev/sda1 /mnt/boot
+
+pacstrap -i /mnt base base-devel linux-lts
+
+genfstab -U -p /mnt >> /mnt/etc/fstab
+
+arch-chroot /mnt
+
+pacman -S --noconfirm vim mc dnsutils traceroute net-tools openssh unace unarj unrar zip p7zip grub sudo os-prober git
+
+# after installation check and added for internet connection
+cat > /etc/resolv.conf << "EOF"
+nameserver 192.168.1.1
+
+EOF
+
+cat > /etc/hosts << "EOF"
+127.0.0.1       localhost.localdomain   localhost user.local
+
+EOF
+
+rm -rfv /etc/localtime
+
+ln -s /usr/share/zoneinfo/Asia/Bangkok /etc/localtime
+
+hwclock --systohc --utc
+
+sed -i 's@#en_US\.U@en_US\.U@' /etc/locale.gen
+
+locale-gen
+
+echo LANG=en_US.UTF-8 > /etc/locale.conf
+
+export LANG=en_US.UTF-8
+
+cat > /etc/systemd/network/eth0.network << "EOF"
+# Begin /etc/systemd/network/eth0.network
+[Match]
+Name=eth0
+
+[Network]
+Address=192.168.1.150/24
+Gateway=192.168.1.1
+DNS=8.8.8.8
+DNS=8.8.4.4
+
+# End /etc/systemd/network/eth0.network
+EOF
+
+
+grep -n ^GRUB_CMDLINE_LINUX_DEFAULT /etc/default/grub
+
+Go to /etc/default/grub and find 4:GRUB_CMDLINE_LINUX_DEFAULT="quiet"
+
+replaced with GRUB_CMDLINE_LINUX_DEFAULT="ipv6.disable=1 net.ifnames=0 quiet"
+
+vim /etc/mkinitcpio.conf
+
+Added usr in /etc/mkinitcpio.conf if /usr used in partition
+HOOKS=(base udev autodetect modconf block filesystems keyboard usr fsck)
+HOOKS=(base udev autodetect modconf block keyboard keymap resume filesystems fsck) # from installing manjaro.org
+
+cd /boot
+mkinitcpio -p linux-lts	
+
+grub-install --target=i386-pc --recheck /dev/sda
+grub-mkconfig -o /boot/grub/grub.cfg
+
+
+#Root login
+vim /etc/ssh/sshd_config
+
+#PermitRootLogin prohibit-password
+PermitRootLogin yes
+
+
+# To preventing mounting automatically if wanted
+systemctl mask tmp.mount
+
+# set the current time
+timedatectl set-ntp true
+
+
+Added user
+useradd -m -g users -G audio,lp,optical,storage,video,games,power,scanner,wheel -s /bin/bash user
+useradd -m -g users -G audio,lp,optical,storage,video,games,power,scanner,wheel -s /bin/bash snp
+passwd user
+
+passwd root
+
+
+# To give user root access 
+visduo
+
+%wheel ALL=(ALL) ALL
+
+#To start network
+systemctl enable systemd-networkd
+systemctl enable sshd
+
+exit
+
+umount -l /mnt
+reboot
+
+# after installation check and added for internet connection
+# if you can not ping other
+vim /etc/resolv.conf
+nameserver 192.168.1.1

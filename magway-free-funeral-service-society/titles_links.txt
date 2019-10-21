@@ -1,0 +1,353 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/01.%20(7.12.2015).mp3|၁။မပျက် ဆင် ခြင် နိဗ္ဗာန်ဝင် တရား တော် (၇.၁၂.၁၅) ဒေါက်တာအရှင် အဂ္ဂဝရ(ဖြူးဆရာတော်)
+002.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/02.%20(8.12.2015).mp3|၂။ အနှိုင်းမဲ့အဖေ ဦးနန္ဒာသီရိ(ရွှေမြိုင်ဆရာတော်) (၈.၁၂.၁၅)
+003.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/03.%20(9.12.2015).mp3|၃။ (၉.၁၂.၁၅)  လူ ဘဝ ဂုဏ် ရည် တရား တော် ဦးနန္ဒာစာရ(မော်ကျွန်း)
+004.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/04.%20(10.12.2015).mp3|၄။ (၁၀.၁၂.၁၅) အပြစ် ကင်း မှ ချမ်း သာ ရ အရှင်တိက္ခသာရ(သီတဂူ)
+005.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/05.%20(11.12.2015).mp3|၅။ (၁၁.၁၂.၁၅)အနေတတ်မှချမ်းသာရ အရှင်တိက္ခသာရ(သီတဂူ)
+006.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/06.%20(12.12.2015).mp3|၆။ (၁၂.၁၂.၁၅) ကံမ္မပစ္စည်းတရားတော် ဒေါက်တာအရှင်အာသဘ
+007.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/07.%20(13.12.2015).mp3|၇။ (၁၃.၁၂.၁၅) နုတ်ဆက်ပါရစေ ဒေါက်တာအရှင်အာသဘ
+008.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/08.%20(14.12.2015).mp3|၈။ (၁၄.၁၂.၁၅)ဘုရားမြတ်စွာဆေးဆရာ ဦးဝိမလ(ကြို့ပင်ကောက်)
+009.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/09.%20(15.12.2015).mp3|၉။ (၁၅.၁၂.၁၅)သတိပဋ္ဌန်ကျင့်မှအသိညဏ်ရင့်မယ် ဦးဝိမလ(ကြို့ပင်ကောက်)
+010.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/10.%20(16.12.2015).mp3|၁၀။ ဝမ်းမနည်းသော အပြန်လမ်း (၁၆.၁၂.၁၅) အရှင်တေဇာနန္ဒ(ရှင်နေမင်း၊ဥရှစ်ကုန်း)
+011.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/11.%20(17.12.2015).mp3|၁၁။မြင့်မိုလ်ဦးရဲ့ မသေလမ်း (၁၇.၁၂.၁၅) အရှင်တေဇာနန္ဒ(ရှင်နေမင်း၊ဥရှစ်ကုန်း)
+012.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/12.%20(18.12.2015).mp3|၁၂။ (၁၈.၁၂.၁၅) ဖိတ်စာ လေးတစောင်ပို့လိုက်မယ် အရှင်တေဇနိယ(ဓမ္မမဏ္ဏိုင်)
+013.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/13.%20(19.12.2015).mp3|၁၃။ (၁၉.၁၂.၁၅)အမှား မလုပ်မိစေနဲ့ တရားတော် အရှင်တေဇနိယ(ဓမ္မမဏ္ဏိုင်)
+014.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/14.%20(20.12.2015).mp3|၁၄။ (၂၀.၁၂.၁၅) ကမ်းနားသစ်ပင်တရားတော် အရှင်ကုသလ(သဒ္ဓမ္မဂုဏ်ရည်)
+015.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/15.%20(21.12.2015).mp3|၁၅။ မိဘမေတ္တာမင်္ဂလာ တရားတော် (၂၁.၁၂.၁၅) ဦးရေဝတ (သာသနပျိုးခင်း)
+016.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/16.%20(22.12.2015).mp3|၁၆။ (၂၂.၁၂.၁၅) စိတ်ထားလေးသာပြင်လိုက်ပါ အရှင်ဝိစိတ္တ(ကိုရီးယား)
+017.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/17.%20(23.12.2015).mp3|၁၇။ (၂၃.၁၂.၁၅)သူတော်ကောင်းတို့နလုံးသား အရှင်ပါကဌာလင်္ကာရ
+018.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/18.%20(24.12.2015).mp3|၁၈။ (၂၄.၁၂.၁၅) ဒေါက်တာအရှင်တေဇောသာရ(ချင်းတောင်တန်း)
+019.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/19.%20(25.12.2015).mp3|၁၉။ (၂၅.၁၂.၁၅) အရှင်တေဇနိယ(သရဖူ)
+020.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/20.%20(26.12.2015).mp3|၂၀။ (၂၆.၁၂.၁၅) အရှင်တေဇနိယ(သရဖူ)
+021.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/21.%20(27.12.2015).mp3|၂၁။ (၂၇.၁၂.၁၅) ဒေါသ နှင့် မေတ္တာ ဓမ္မဓရ အရှင် ကုမာရ
+022.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/22.%20(28.12.2015).mp3|၂၂။ (၂၈.၁၂.၁၅) ဓမ္မဓရအရှင်ကုမာရ
+023.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/23.%20(29.12.2015).mp3|၂၃။ (၂၉.၁၂.၁၅) သီတဂူဆရာတော် ဒေါက်တာအရှင်ဉာဏိဿရ)
+024.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/24.%20(30.12.2015).mp3|၂၄။ (၃၀.၁၂.၁၅) တောင်းဆု နဲ့ကောင်းမှုတရားတော် ဒေါက်တာအရှင်ဣန္ဒာစရိယ(သီတဂူ)
+025.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/25.%20(31.12.2015).mp3|၂၅။ (၃၁.၁၃.၁၅)စုပေါင်းညီညာ အောင်ကြောင်း ဖြာ တရားတော် ဦးသုဇာတ (မေတ္တာအေး)
+026.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/26.%20(1.1.2016).mp3|၂၆။ (၁.၁.၂၀၁၆) ဘဝ သံသရာလွတ်လမ်းရှာ တရားတော် ဦးစန္ဒနသာရ(အောင်မြေဗိမာန်ဆရာတော်)
+027.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/27.%20(2.1.2016).mp3|၂၇။ (၂.၁.၂၀၁၆)စိတ်မဆိုး ပါနဲ့ ခွင့်လွတ်ပါကွယ် တရားတော် အရှင်ဣန္ဒကာလင်္ကာရ(တောင်ကြီး-သိမ်ဆောင်)
+028.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/28.%20(3.1.2016).mp3|၂၈။ (၃.၁.၂၀၁၆) ဘယ်ကလာလို့ ဘယ်ကိုသွား မှာလဲ တရားတော် ဦးတိက္ခ(ဓမ္မရံသီ)
+029.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/29.%20(4.1.2016).mp3|၂၉။ ( ၄.၁.၂၀၁၆) အရှင်ဝိစာရ
+030.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/30.%20(5.1.2016).mp3|၃၀။ (၅.၁.၂၀၁၆) ဦးကုသလ(စာဗူးတောင်း)
+031.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/31.%20(6.1.2016).mp3|၃၁။ မိမိကိုယ်သာ စစ်ဆေးပါ (၆.၁.၂၀၁၆) ပါမောက္ခဒေါက်တာအရှင်စန္ဒာဝရ
+032.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/32.%20(7.1.2016).mp3|၃၂။ (၇.၁.၂၀၁၆) အရှင်နန္ဒိယ(မနောမယ)
+033.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/33.%20(8.1.2016).mp3|၃၃။ (၈.၁.၂၀၁၆) ဦးနန္ဒာသီရိ(ရွှေမြိုင်ဆရာတော်)
+034.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/34.%20(9.1.2016).mp3|၃၄။ (၉.၁.၂၀၁၆) ဦးကေသဝ(ချမ်းမြေ့ဆရာတော်)
+035.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/35.%20(10.1.2016).mp3|၃၅။ (၁၀.၁.၂၀၁၆) ဒေါက်တာအရှင်ဝဏ္ဏိဿရရွှေမေတ္တာ)
+036.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/36.%20(11.1.2016).mp3|၃၆။ (၁၁.၁.၂၀၁၆) အရှင်သီလစာရ(ဗဟုဇနဟိတဓရပါဠိပါရဂူ)
+037.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/37.%20(12.1.2016).mp3|၃၇။ (၁၂.၁.၂၀၁၆) အရှင်မေဃိယ(ရွှေသံလျင်)
+038.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-13yr/38.%20(13.1.2016).mp3|၃၈။ (၁၃.၁.၂၀၁၆) ဦးဥတ္တမ(ဖိုးလမင်း)
+039.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/01-12-KYNS_16-11-14.mp3|၃၉။၀၁. ကျွန်မမိန်းမသားပါ ဒါပေမယ့်
+040.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/02-12-KYNS_17-11-14.mp3|၄၀။၀၂. လောကသဘောနှင့် ဓမ္မသဘော
+041.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/03-12-KYNS_18-11-14.mp3|၄၁။၀၃. ရွှေတံခါးကြီးဖွင့်ပါအုန်း
+042.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/04-12-KYNS_19-11-14.mp3|၄၂။၀၄. အကာကိုပစ်၍ အနှစ်ကိုရှာ
+043.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/05-12-KYNS_20-11-14.mp3|၄၃။၀၅. စိုမှာစိုးလို့မိုးမိသူ
+044.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/06-12-KYNS_21-11-14.mp3|၄၄။၀၆. ဘယ်အတန်းရောက်ပြီလဲ
+045.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/07-12-KYNS_22-11-14.mp3|၄၅။၀၇. ဥပနိဿယပစ္စယော
+046.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/08-12-KYNS_23-11-14.mp3|၄၆။၀၈. ရေချိုးပါ
+047.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/09-12-KYNS_24-11-14.mp3|၄၇။၀၉. ပန်းပန်ပါ
+048.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/10-12-KYNS_25-11-14.mp3|၄၈။၁၀. ကိုယ့်ကိုကိုယ်ပင်ကိုပြုပြင်
+049.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/11-12-KYNS_26-11-14.mp3|၄၉။၁၁. လောကဓံနှင့်သတိစွမ်းအား
+050.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/12-12-KYNS_27-11-14.mp3|၅၀။၁၂. အမေဟာအမေပါ
+051.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/13-12-KYNS_28-11-14.mp3|၅၁။၁၃. မှန်သောသစ္စာဆိုကြပါ
+052.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/14-12-KYNS_29-11-14.mp3|၅၂။၁၄. မိုးပေါက်ပမာကုသိုလ်ရှာ
+053.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/15-12-KYNS_30-11-14.mp3|၅၃။၁၅. နိဗ္ဗာန်ရမည့်သူ
+054.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/16-12-KYNS_01-12-14.mp3|၅၄။၁၆. အကျဉ်းလေးမတွေးနဲ့ အကျယ်ကြီးတွေး
+055.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/17-12-KYNS_02-12-14.mp3|၅၅။၁၇. ဘဝအရှိကို ဓမ္မအသိနှင့်ညှိပါ
+056.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/18-12-KYNS_03-12-14.mp3|၅၆။၁၈. နှလုံးလှလူသား
+057.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/19-KYNS_04-12-14-C.mp3|၅၇။၁၉. အောင်မြင်ရေးနည်းလမ်း(၃)ချက်
+058.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/20-12-KYNS_04-12-14.mp3|၅၈။၂၀. သာသနာဘယ်လိုပြုမလဲ
+059.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/21-12-KYNS_05-12-14.mp3|၅၉။၂၁. စစ်မှန်သော ဘာသာကိုးကွယ်ရေး
+060.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/22-12-KYNS_06-12-14.mp3|၆၀။၂၂. အားထုတ်ဖို့သာလိုတော့သည်
+061.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/23-12-KYNS_07-12-14.mp3|၆၁။၂၃. လူသားနှင့်အောင်မြင်ရေးလမ်းကြောင်းများ
+062.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/24-12-KYNS_08-12-14.mp3|၆၂။၂၄. မိဘနှင့်သားသမီး
+063.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/25-12-KYNS_09-12-14.mp3|၆၃။၂၅. ကိုယ့်အဆင့်ကိုယ်မြှင့်ပါ
+064.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/26-12-KYNS_10-12-14.mp3|၆၄။၂၆. လူဖြစ်ရကျိုးနပ်ပါစေ
+065.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/28-12-KYNS_12-12-14.mp3|၆၅။၂၇. အထုပ်လည်းထုပ်ပါ အလုပ်လဲလုပ်ပါ
+066.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/29-12-KYNS_13-12-14.mp3|၆၆။၂၈. အနှစ်ရှိတဲ့လူ
+067.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/30-12-KYNS_14-12-14.mp3|၆၇။၂၉. အဖော်ဆရာပျော်စရာ
+068.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/31-12-KYNS_15-12-14.mp3|၆၈။၃၀. သက်တမ်းတိုလှ လူ့ဘဝ
+069.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/32-12-KYNS_16-12-14.mp3|၆၉။၃၁. ဆင်ခြင်ပွားများသတိထား
+070.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/33-12-KYNS_17-12-14.mp3|၇၀။၃၂. သဘာဝဟာ သဘာဝပါ
+071.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/34-12-KYNS_18-12-14.mp3|၇၁။၃၃. ဘဝနိဂုံးအလှဆုံး
+072.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/35-12-KYNS_19-12-14.mp3|၇၂။၃၄. ပိန်းရွက်တစ်ရွက်၏အကျိုးဆက်ပုံရိပ်(သစ္စာပါရမီဆရာတော်)
+073.mp3|https://media.thitsarparamisociety.com/mp3/Magway/12yr/36-12-KYNS_20-12-14.mp3|၇၃။၃၅. အတုယူကြ ဓမ္မပါလ တရားတော်း
+074.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/01.%20%2827.11.2013%29.mp3|၇၄။ သီတဂူ အရှင်တိက္ခသာရ (၂၇.၁၁.၁၃)
+075.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/02.%20%2828.11.2013%29.mp3|၇၅။ ဓမ္မဏ္ဍိုင် အရှင်တေဇနိယ (၂၈.၁၁.၁၃)
+076.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/03.%20%2829.11.2013%29.mp3|၇၆။ ဓမ္မဓရ အရှင်ဝိစိတ္တာသာရ (၂၉.၁၁.၁၃)
+077.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/04.%20%2830.11.2013%29.mp3|၇၇။ အရှင်ကဝိဓဇလင်္ကာရ (မျိုုးသာကီ) (၃၀.၁၁.၁၃)
+078.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/05.%20%281.12.2013%29.mp3|၇၈။ အရှင်ကဝိဓဇလင်္ကရ (မျိုးသာကီ) (၁.၁၂.၁၃)
+079.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/06.%20%282.12.2013%29.mp3|၇၉။ ဓမ္မရံသီ အရှင်တိက္ခ (၂.၁၂.၁၃)
+080.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/07.%20%283.12.2013%29.mp3|၈၀။ ဓမ္မဘေရီ အရှင်ဝီရိယ (၃.၁၂.၁၃)
+081.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/08.%20%284.12.2013%29.mp3|၈၁။ ဒေါက်တာအရှင်ဇယတိဿ (သစ္စာပါရမီ) (၄.၁၂.၁၃)
+082.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/09.%20%285.12.2013%29.mp3|၈၂။ အရှင်ဝိမလ (ကြို့ပင်ကောက်) (၅.၁၂.၁၃)
+083.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/10.%20%286.12.2013%29.mp3|၈၃။ ဒေါက်တာအရှင်ဖယတိဿ (သစ္ဓာပါရမီ) (၆.၁၂.၁၃)
+084.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/11.%20%287.12.2013%29.mp3|၈၄။ ဒေါက်တာအရှင်ဖယတိဿ (သစ္စာပါရမီ) (၇.၁၂.၁၃)
+085.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/13.%20%289.12.2013%29.mp3|၈၅။ အရှင်စန္ဒောဘာသ (ဖိုးလမင်း) (၉.၁၂.၁၃)
+086.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/14.%20%2810.12.2013%29.mp3|၈၆။ အရှင်စန္ဒောဘာသ (ဖိုးလမင်း) (၁၀.၁၂.၁၃)
+087.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/15.%20%2811.12.2013%29.mp3|၈၇။ ရှင်ဗုဒ္ဓပိယ (မစိုးရိမ်) (၁၀.၁၂.၁၃)
+088.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/16.%20%2812.12.2013%29.mp3|၈၈။ ရှင်ဗုဒ္ဓပိယ (မစိုးရိမ်) (၁၁.၁၂.၁၃)
+089.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/17.%20%2813.12.2013%29.mp3|၈၉။ အရှင်ပန္ဒဝံသ (သဇင်ရေကျော်) (၁၂.၁၂.၁၃)
+090.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/18.%20%2814.12.2013%29.mp3|၉၀။ အရှင်ဝိစိတ္တ (ကိုးရီးယား) (၁၃.၁၂.၁၃)
+091.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/19.%20%2815.12.2013%29.mp3|၉၁။ အရှင်သုဇာတ (မေတ္တာအေး) (၁၄.၁၂.၁၃)
+092.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/20.%20%2816.12.2013%29.mp3|၉၂။ အရှင်သုဇာတ (မေတ္တာအေး) (၁၅.၁၂.၁၃)
+093.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/21.%20%2817.12.2013%29.mp3|၉၃။ အရှင်ပါကဋာလင်္ကာရ (ဌမ္မပါလ) (၁၆.၁၂.၁၃)
+094.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/22.%20%2817.12.2013%29.mp3|၉၄။ အရှင်ပါကဋာလင်္ကာရ (ဓမ္မပါလ) (၁၇.၁၂.၁၃)
+095.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/23.%20%2818.12.2013%29.mp3|၉၅။ ဓမ္မဓရဒေါတာအရှင်ကုမာရ (၁၈.၁၂.၁၃)
+096.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/24.%20%2819.12.2013%29.mp3|၉၆။ ဓမ္မဓရဒေါတာအရှင်ကုမာရ (၁၉.၁၂.၁၃)
+097.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/25.%20%2820.12.2013%29.mp3|၉၇။ အရှင်တေဇာစာရ သျှင်နေမင်း (၂၀.၁၂.၁၃)
+098.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/26.%20%2821.12.2013%29.mp3|၉၈။ အရှင်တေဇာစာရ သျှင်နေမင်း (၂၁.၁၂.၁၃)
+099.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/27.%20%2822.12.2013%29.mp3|၉၉။ အရှင်တေဇောသာရ (ချင်းတောင်တန်း) (၂၂.၁၂.၁၃)
+100.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/28.%20%2823.12.2013%29.mp3|၁၀၀။ အရှင်တေဇောသာရ (ချင်းတောင်တန်း) (၂၃.၁၂.၁၃)
+101.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/29.%20%2824.12.2013%29.mp3|၁၀၁။ ဓမ္မဒူတဒေါက်တာအရှင်ပညိဿရ (၂၄.၁၂.၁၃)
+102.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/30.%20%2825.12.2013%29.mp3|၁၀၂။ ဓမ္မဒူတဒေါက်တာအရှင်ပညိဿရ (၂၅.၁၂.၁၃)
+103.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/31.%20%2826.12.2013%29.mp3|၁၀၃။ သီတဂူကြယ်တစ်ပွင့် (၂၆.၁၂.၂၀၁၃)
+104.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/32.%20%2827.12.2013%29.mp3|၁၀၄။ သီတဂူကြယ်တစ်ပွင့် (၂၇.၁၂.၂၀၁၃)
+105.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/33.%20%2828.12.2013%29.mp3|၁၀၅။ အရှင်သုမင်္ဂလ (ဝေါဆရာတော်) (၂၈.၁၂.၂၀၁၃)
+106.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/34.%20%2829.12.2013%29.mp3|၁၀၆။ အရှင်သုမင်္ဂလ (ဝေါဆရာတော်) (၂၉.၁၂.၂၀၁၃)
+107.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/35.%20%2830.12.2013%29.mp3|၁၀၇။ အရှင်တေဇောသာရ (ပဲခူး) (၃၀.၁၂.၂၀၁၃)
+108.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/36.%20%2831.12.2013%29.mp3|၁၀၈။ အရှင်တေဇောသာရ (ပဲခူး) (၃၁.၁၂.၂၀၁၃)
+109.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/37.%20%2816.1.2014%29.mp3|၁၀၉။ အရှင်ဝိစိတ္တ (ကိုးရီးယားဆရာတော်) (၁၆.၁.၁၄)
+110.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/38.%20%2817.1.2014%29.mp3|၁၁၀။ သီတဂူဆရာတော် (၁၇.၁.၁၄)
+111.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-11yr/39.%20%2818.1.2014%29.mp3|၁၁၁။ အရှင်ဝိမလ (ကြို့ပင်ကောက်) (၁၈.၁.၁၄)
+112.mp3|https://media.thitsarparamisociety.com/mp3/Magway/2013/magway%20dvd%202%20Title%201.mp3|၁၁၂။ ရင်ထဲက ဘော်လုံးပွဲ တရားတော်(ဓမ္မဘေရီ အရှင်ဝိရိယ – တောင်စွန်း)
+113.mp3|https://media.thitsarparamisociety.com/mp3/Magway/2013/magway%20dvd%202%20Title%202.mp3|၁၁၃။ ယောနိသောမနသိကာရနှလုံးသား တရားတော် (ဒေါက်တာ အရှင်အာသဘ)
+114.mp3|https://media.thitsarparamisociety.com/mp3/Magway/2013/magway%20dvd%202%20Title%203.mp3|၁၁၄။ မှန်ကြိုက်သူ တရားတော် (ကြို့ပင်ကောက်ဆရာတော် အရှင်ဝိမလ)
+115.mp3|https://media.thitsarparamisociety.com/mp3/Magway/2013/magway%20dvd%202%20Title%204.mp3|၁၁၅။ အပျင်းကို ဘယ်လိုပယ်ဖျောက်မလဲ တရားတော် (ဒေါက်တာ အရှင်ဇယျတိဿ – သစ္စာပါရမီ)
+116.mp3|https://media.thitsarparamisociety.com/mp3/Magway/2013/magway%20dvd%202%20Title%205.mp3|၁၁၆။ သတိပဋ္ဌာန် ဂုဏ်ရည် တရားတော် (ဒေါက်တာ အရှင်ဇယျတိဿ – သစ္စာပါရမီ)
+117.mp3|https://media.thitsarparamisociety.com/mp3/Magway/2013/magway%20dvd%202%20Title%206.mp3|၁၁၇။ အနေကောင်းမှ အသေကောင်းမည် တရားတော် ( မင်္ဂလာဘုံကျော် အရှင်ကေသဝ)
+118.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/01.%20%289.12.2012%29.mp3|၁၁၈။ အရှင်တိက္ခ (ဓမ္မရံသီ) – အပြန်လမ်းတရားတော် (၀၉.၁၂.၂၀၁၂)
+119.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/02.%20%2810.12.2012%29.mp3|၁၁၉။ အရှင်ဝိစာရ (ပြည်ရွှေဘို) – အဖော်ဆရာ ပျော်စရာ (၁၀.၁၂.၂၀၁၂)
+120.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/03.%20%2812.12.2012%29.mp3|၁၂၀။ အရှင်ဗုဒ္ဓပီယ (မစိုးရိမ်) – သစ်တုံးပမာ တရားရှာ (အပိုင်း ၁) (၁၂.၁၂.၂၀၁၂)
+121.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/04.%20%2813.12.2012%29.mp3|၁၂၁။ အရှင်ဗုဒ္ဓပီယ (မစိုးရိမ်) – သစ်တုံးပမာ တရားရှာ (အပိုင်း ၂) (၁၃.၁၂.၂၀၁၂)
+122.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/05.%20%2814.12.2012%29.mp3|၁၂၂။ ဓမ္မဘေရီအရှင်ဝီရိယ (တောင်စွန်း) – မင်္ဂလာရှိတဲ့လူ (၁၄.၁၂.၂၀၁၂)
+123.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/06.%20%2815.12.2012%29.mp3|၁၂၃။ ဒေါက်တာအရှင်ပညိဿရ – မှားနေမှန်းသိရင် ပြုပြင်ပါ (၁၅.၁၂.၂၀၁၂)
+124.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/07.%20%2816.12.2012%29.mp3|၁၂၄။ ဒေါက်တာအရှင်ပညိဿရ – ဒေါသကင်းစင် စိတ်ကောင်းဝင် (၁၆.၁၂.၂၀၁၂)
+125.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/08.%20%2817.12.2012%29.mp3|၁၂၅။ အရှင်ပါကဋာလင်္ကာရ – အောင်မြင်ရေးနည်းလမ်း (၁၇.၁၂.၂၀၁၂)
+126.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/09.%20%2817.12.2012%29.mp3|၁၂၆။ အရှင်ပါကဋာလင်္ကာရ – ဘဝလွတ်လပ်ရေး (၁၇.၁၂.၂၀၁၂)
+127.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/10.%20%2818.12.2012%29.mp3|၁၂၇။ ဦးသုမင်္ဂလ (ဝေါဆရာတော်) – ဘာကိုတန်ဖိုးထားမလဲ (၁၈.၁၂.၂၀၁၂)
+128.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/11.%20%2819.12.2012%29.mp3|၁၂၈။ ဦးသုမင်္ဂလ (ဝေါဆရာတော်) – ဗုဒ္ဓဘာသာရွှေမြန်မာ (၁၉.၁၂.၂၀၁၂)
+129.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/12.%20%2820.12.2012%29.mp3|၁၂၉။ ဒေါက်တာအရှင်တေဇောသာရ (ချင်းတောင်တန်း) – ကံဆင့်မှားသူ (၂၀.၁၂.၂၀၁၂)
+130.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/13.%20%2821.12.2012%29.mp3|၁၃၀။ ဒေါက်တာအရှင်တေဇောသာရ (ချင်းတောင်တန်း) – ဂုဏ်တော်ကွန်ချာ (၂၁.၁၂.၂၀၁၂)
+131.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/14.%20%2822.12.2012%29.mp3|၁၃၁။ အရှင်အာစာရ (လှရတနာဆရာတော်) – အပြစ်ကင်းသောဆုတောင်း(၆)မျိုး (၂၂.၁၂.၂၀၁၂)
+132.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/15.%20%2823.12.2012%29.mp3|၁၃၂။ ဦးကုသလ (သန္ဒမ္မဂုဏ်ရည်) – တိမ်ကင်းစင်သော လတစ်စင်း (၂၃.၁၂.၂၀၁၂)
+133.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/16.%20%2824.12.2012%29.mp3|၁၃၃။ ဦးကုသလ (သန္ဒမ္မဂုဏ်ရည်) – မြတ်သောကျေးဇူး ဆပ်ဖူးပါစေ (၂၄.၁၂.၂၀၁၂)
+134.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/17.%20%2825.12.2012%29.mp3|၁၃၄။ အရှင်ပဏ္ဍိတ (သစ္စာမြိုင်) – ဘဝနှင့်သာသနာ ကိုယ့်အတွက်သုံးပါ (၂၅.၁၂.၂၀၁၂)
+135.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/18.%20%2826.12.2012%29.mp3|၁၃၅။ အရှင်ဂုဏိန္ဒ (ဆင်ဖြူတောင်) – ဘဝနေဝင် လှစေချင် (၂၆.၁၂.၂၀၁၂)
+136.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/19.%20%2827.12.2012%29.mp3|၁၃၆။ အရှင်ဂုဏိန္ဒ (ဆင်ဖြူတောင်) – နိဗ္ဗာန်မဝေး နီးနီးလေးပါ (၂၇.၁၂.၂၀၁၂)
+137.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/20.%20%2828.12.2012%29.mp3|၁၃၇။ အရှင်ကဝိတဇာလင်္ကာရ (မျိုးသာကီ) – စိုမှာဆိုးလို့ မိုးမိသူ (၂၈.၁၂.၂၀၁၂)
+138.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/21.%20%2829.12.2012%29.mp3|၁၃၈။ အရှင်ကဝိတဇာလင်္ကာရ (မျိုးသာကီ) – မတူလို့ ထူးတာပါ (၂၉.၁၂.၂၀၁၂)
+139.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/22.%20%2830.12.2012%29.mp3|၁၃၉။ ဒေါက်တာအရှင်ဉာဏိဿာရ (သီတဂူ) – စိတ်ထိန်းသိမ်းစောင့်ရှောက်တဲ့နည်း (၃-.၁၂.၂၀၁၂)
+140.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/23.%20%2831.12.2012%29.mp3|၁၄၀။ ဦးသုဇာတ (မေတ္တာအေး) – ရှာပုံတော်မင်းသားကြီး (၃၁.၁၂.၂၀၁၂)
+141.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/24.%20%281.1.2013%29.mp3|၁၄၁။ အရှင်ဇာဂရာဘိဝံသ (မဟာစည်) – အနှိုင်းမဲ့ရတနာ အရယူပါ ( ၁.၁.၂၀၁၃)
+142.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/25.%20%282.1.2013%29.mp3|၁၄၂။ ဒေါက်တာဦးဣန္ဒာစရိယ (သီတဂူ) – ကြီးပွားရေးလမ်းညွန် (၂.၁.၂၀၁၃)
+143.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/26.%20%283.1.2013%29.mp3|၁၄၃။ အရှင်တိက္ခ (ဓမ္မရံသီ) – သာသနာတွင်းမှာ အနှစ်ရှာ (၃.၁.၂၀၁၃)
+144.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/27.%20%284.1.2013%29.mp3|၁၄၄။ အရှင်ဝိစာရ (ငြိမ်းချမ်းရွှေပြည်) – အနာခံမှ အသာစံရမယ် (၄.၁.၂၀၁၃)
+145.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/28.%20%285.1.2013%29.mp3|၁၄၅။ အရှင်ဇာဂရာဘိဝံသ (မဟာစည်) – ဘဝနေနည်း (၅.၁.၂၀၁၃)
+146.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/29.%20%286.1.2013%29.mp3|၁၄၆။ အရှင်သုန္ဒရ (သာသနာ့မဏ္ဍိုင်) – ပညာ၏တန်ဖိုး (၆.၁.၂၀၁၃)
+147.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/30.%20%287.1.2013%29.mp3|၁၄၇။ အရှင်သုန္ဒရ (သာသနာ့မဏ္ဍိုင်) – ကံမနိယာမ (၇.၁.၂၀၁၃)
+148.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/31.%20%288.1.2013%29.mp3|၁၄၈။ ဦးကောသလ္လ ၉လောကတ္တစရိယဖောင်ဒေးရှင်း) – ဘာသာရေးအခြေခံ (၈.၁.၂၀၁၃)
+149.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/32.%20%289.1.2013%29.mp3|၁၄၉။ ဦးကေသဝ ( မာဟာဘုံကျော်) – သာသနာဘာကြောင့်ကွယ်မှာလဲ (၉.၁.၂၀၁၃)
+150.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/33.%20%2810.1.2013%29.mp3|၁၅၀။ အရှင်ဝိဇ္ဇောဘာသာလင်္ကာရ (လားရှိုးလေးဆရာတော်) – အဖေ့မေတ္တာ အောင်ကြောင်းဖြာ (၁၀.၁.၂၀၁၃)
+151.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-10yr/34.%20%2811.1.2013%29.mp3|၁၅၁။ အရှင်ဝိဇ္ဇောဘာသာလင်္ကာရ (လားရှိုးလေးဆရာတော်) – အမေ့မျက်ရည် ပြေပါစေ (၁၁.၁.၂၀၁၃)
+152.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/01.%28%2021.11.2011%29.mp3|၁၅၂။ အရှင်ဝိစာရ (ပြည်ရွှေဘို) – အမြတ်ဆုံးအလှူရအောင်လှူ (၂၁.၁၁.၂၀၁၁)
+153.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/02.%20%2822.11.2011%29.mp3|၁၅၃။ အရှင်ကဝိဓဇာလင်္ကာရ (မျိုးသာကီ) – ဒါကတော့မေ့လို့မရနိုင်ဘူး (၂၂.၁၁.၂၀၁၁)
+154.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/03.%20%2823.11.2011%29.mp3|၁၅၄။ အရှင်ကဝိဓဇာလင်္ကာရ (မျိုးသာကီ) – အောင်ဖို့ရည်မျှော် ညီစေသော် (၂၃.၁၁.၂၀၁၁)
+155.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/04.%20%2824.11.2011%29.mp3|၁၅၅။ ဓမ္မဒူတဒေါက်တာအရှင်ပညိဿရ – သစ္စာပန်းများပွင့်လန်းရာ (၂၄.၁၁.၂၀၁၁)
+156.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/05.%20%2825.11.2011%29.mp3|၁၅၆။ ဓမ္မဒူတဒေါက်တာအရှင်ပညိဿရ – အားကိုးမှီရာ (၂၅.၁၁.၂၀၁၁)
+157.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/06.%20%2826.11.2011%29.mp3|၁၅၇။ ဓမ္မဘေရီ အရှင်ဝီရိယ (တောင်စွန်း) – ကံကောင်းအကြောင်းလှပါစေ (၂၆.၁၁.၂၀၁၁)
+158.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/07.%20%2827.11.2011%29.mp3|၁၅၈။ ဦးသုမင်္ဂလ (ဝေါဆရာတော်) – တန်ဖိုးရှိတဲ့လူ (၂၇.၁၁.၂၀၁၁)
+159.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/08.%20%2828.11.2011%29.mp3|၁၅၉။ ဦးသုမင်္ဂလ (ဝေါဆရာတော်) – အကောင်းဆုံးကို ရွေးချယ်ပါ (၂၈.၁၁.၂၀၁၁)
+160.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/09.%20%2829.11.2011%29.mp3|၁၆၀။ ရှင်စန္ဒောဘာသ (ဖိုးလမင်း) – စိတ်ယဉ်ကျေးမှ ချမ်းသာရ (၂၉.၁၁.၂၀၁၁)
+161.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/10.%20%2830.11.2011%29.mp3|၁၆၁။ ဦးတေဇောသာရ (ချင်းတောင်တန်း) – မမေ့နဲ့နော် (၃၀.၁၁.၂၀၁၁)
+162.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/11.%20%281.12.2011%29.mp3|၁၆၂။ ဦးတေဇောသာရ (ချင်းတောင်တန်း) – အမေဝမ်းမြောက်ပါလေတော့ (၀၁.၁၂.၂၀၁၁)
+163.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/12.%20%282.12.2011%29.mp3|၁၆၃။ ဦးသုမန (သီတဂူ) – အရိပ်စစ်၏ နေရာမှန် (၀၂.၁၂.၂၀၁၁)
+164.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/13.%20%283.12.2011%29.mp3|၁၆၄။ အရှင်ဗုဒ္ဓပီယ (မစိုးရိမ်) – ထိပ်ဆုံးမှအမေ (၀၃.၁၂.၂၀၁၁)
+165.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/14.%20%284.12.2011%29.mp3|၁၆၅။ အရှင်ဝိစိတ္တ (ပိဋက ၁ပုံအောင်) – လင်းလက်ပြောင်မြောက် ထိပ်တန်းရောက် (၀၄.၁၂.၂၀၁၁)
+166.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/15.%20%285.12.2011%29.mp3|၁၆၆။ အရှင်ကုသလ (သဒ္ဓမ္မဂုဏ်ရည်) – နာရေးမှသည် သာရေးဆီသို့ (၀၅.၁၂.၂၀၁၁)
+167.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/16.%20%286.12.2011%29.mp3|၁၆၇။ အရှင်ရာဇိန္ဒ (အောင်မေတ္တာ) – အသက်တမျှချစ်ရပါသော (၀၆.၁၂.၂၀၁၁)
+168.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/17.%20%287.12.2011%29.mp3|၁၆၈။ အရှင်ဂုဏိန္ဒ (ဆင်ဖြူတောင်) – အတွေးကောင်းလေးတွေတွေးမိပါစေ (၀၇.၁၂.၂၀၁၁)
+169.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/18.%20%288.12.2011%29.mp3|၁၆၉။ဘာ နဲ နေ မလဲ ဘာ နဲသေ မလဲ
+170.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/19.%20%289.12.2011%29.mp3|၁၇၀။အမှိ ကောင်း တရား တော်
+171.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/20.%20%2810.12.2011%29.mp3|၁၇၁။ဆရာ ကျေးဇူး ဆပ် ဘူး ပါ စေ
+172.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/21.%20%2811.12.2011%29.mp3|၁၇၂။ကု သိုလ် များ ကို လေ့ လာ ခြင်း
+173.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/22.%20%2812.12.2011%29.mp3|၁၇၃။ ဗုဒ္ဓ အဘိ ဓမ္မာ နှင့် လူ တို့ ကမ္ဘာ
+174.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/23.%20%2813.12.2011%29.mp3|၁၇၄။ ရှိ ပေ မဲ မသိ သူ များ
+175.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/24.%20%2814.12.2011%29.mp3|၁၇၅။မျှမျှ တ တ ဘဝ အလှ
+176.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/25.%20%2815.12.2011%29.mp3|၁၇၆။ရတနာရှာ ပုံတော် တရား
+177.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/26.%20%2816.12.2011%29.mp3|၁၇၇။ ဝေ ဖန် ပြု ပါ ကံ လေး ဖျာ(ပ)
+178.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-9yr/27.%20%2817.12.2011%29.mp3|၁၇၈။ ဝေ ဖန် ပြု ပါ ကံ လေး ဖျာ (ဒု)
+179.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/01%20(24.11.2010).mp3|၁၇၉။ စွမ်းရည် (၄) မျိုးတရားတော်
+180.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/02%20(25.11.2010).mp3|၁၈၀။ သာသနဂုဏ်ရည် တရားတော်
+181.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/03%20(26.11.2010).mp3|၁၈၁။ အတိတ်ကို သုံးသပ်၍ အနာဂါတ်ကို ပုံဖော် ခြင်း
+182.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/04%20(27.11.2010).mp3|၁၈၂။ ဆုံသာဆုံ မဆုံသည့်လမ်း တရားတော်
+183.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/05%20(28.11.2010).mp3|၁၈၃။ ဓမ္မေဌိတော -၂ (ဦးသုမင်္ဂလ-ဝေါ)
+184.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/06%20(29.11.2010).mp3|၁၈၄။ အချစ်နဲ့ ဘဝကို တည်ဆောက် ခြင်းတရား (ဦးသုမင်္ဂလ-ဝေါ)
+185.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/07%20(30.11.2010).mp3|၁၈၅။ (သီတဂူ ဆရာတော် ဘုရားကြီး)
+186.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/08%20(1.12.2010).mp3|၁၈၆။ အခွင့်ကောင်းကို လက်မလွတ်စေနှင့်
+187.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/09%20(2.12.2010).mp3|၁၈၇။ အချစ်ဆုံးကို မုန်းလိုက်ပါ တရားတော် (မေတ္တာအေးဆရာတော်)
+188.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/10%20(3.12.2010).mp3|၁၈၈။ သားတို့ သမီးတို့ အတုယူဖို့ တရားတော် (အရှင်စန္ဒောဘာသ-ဖိုးလမင်း)
+189.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/11%20(4.12.2010).mp3|၁၈၉။ လူဖြစ်ရကျိုး နပ်ပါစေ
+190.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/12%20(5.12.2010).mp3|၁၉၀။ ကံကောင်း ခြင်းလက်ဆောင်တရားတော်
+191.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/13%20(6.12.2010).mp3|၁၉၁။ ပူလောင်ခြင်း နဲ့ ငြိမ်းအေးခြင်း တရားတော်
+192.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/14%20(7.12.2010).mp3|၁၉၂။ အရိပ် နဲ့ ခရီးသွား ကြသူများ
+193.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/15%20(8.12.2010).mp3|၁၉၃။ မတူပေမဲ့ တူပါတယ် တရားတော် ( အရှင်ဆေကိန္ဒ)
+194.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/16%20(9.12.2010).mp3|၁၉၄။ ငါးပါးမမှောက် ပါစေ နှင့် တရားတော် -အပိုင်း -၁
+195.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/17%20(10.12.2010).mp3|၁၉၅။ ငါးပါးမမှောက် ပါစေ နှင့် တရားတော် – အပိုင်း-၂
+196.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/18%20(11.12.2010).mp3|၁၉၆။ မုန်ညင်းက စ မြတ်ဘဝ တရားတော်
+197.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/19%20(12.12.2010).mp3|၁၉၇။ ဘယ်လို လူစားလဲ တရားတော် (ဓမ္မဓရ အရှင်ကုမာရ)
+198.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/20%20(13.12.2010).mp3|၁၉၈။ ကိုယ့်စိတ်ကိုသာ စိစစ်ပါ တရားတော် (ဓမ္မဓရ အရှင်ကုမာရ)
+199.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/21%20(14.12.2010).mp3|၁၉၉။ ရွှေမြင့်မိုရ် ပြိုမှာ စိုးတယ် တရားတော်
+200.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/22%20(15.12.2010).mp3|၂၀၀။ ဘဝတကွေ့ ခဏတွေ့ တရားတော်
+201.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/23%20(16.12.2010).mp3|၂၀၁။ ကံကောင်းချင်သလား အိုလူသား တရားတော်
+202.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/24%20(17.12.2010).mp3|၂၀၂။ ဘဝမစောင်း ကြီးပွား ေ ကြာင်းတရားတော်
+203.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/25%20(18.12.2010).mp3|၂၀၃။ ရွေးချယ်ရမဲ့ လမ်း တရားတော် ( အရှင် ပညိသာရ)
+204.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/26%20(19.12.2010).mp3|၂၀၄။ ဘဝကို ဓမ္မဖြင့် တည်ဆောက်ခြင်းတရားတော် ( ဓမ္မဒူတ အရှင် ပညိသာရ )
+205.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/27%20(20.12.2010).mp3|၂၀၅။ တန်ဖိုးမဲ့ မျက်ရည် တရားတော်
+206.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/28%20(21.12.2010).mp3|၂၀၆။ အများ ကြိုက် နဲ့ ဘုရား ကြိုက်တရားတော်
+207.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/29%20(22.12.2010).mp3|၂၀၇။ ဘဝ အဖော်ပါမှ စိတ်အေးရ တရားတော်
+208.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/30%20(23.12.2010).mp3|၂၀၈။ သာသနာပြု သူရဲကောင်း ( အရှင်တေဇောသာရ ချင်းတောင်တန်း )
+209.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/31%20(24.12.2010).mp3|၂၀၉။ ဆရာဒကာ တရားတော်
+210.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(8)/32%20(25.12.2010).mp3|၂၁၀။ ကုသိုလ်အိမ် တရားတော်
+211.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/01%20G7(6.11.09).mp3|၂၁၁။ အလင်းမှတ်တိုင် တရားတော်(ဦးသုမင်္ဂလ-ဝေါ)
+212.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/02%20G7(7.11.09).mp3|၂၁၂။ ဓမ္မေဌိတော တရားတော် (ဦးသုမင်္ဂလ-ဝေါ )
+213.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/03%20G7(8.11.09).mp3|၂၁၃။ ခပ်စိမ်းစိမ်းပဲနေပါ့မယ် (သို့မဟုတ်) အားကိုးရာအစစ် တရားတော်
+214.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/04%20G7(9.11.09).mp3|၂၁၄။ သာသနာပြုတရားတော် (ဦးဇဝန -ပဲခူး)
+215.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/05%20G7(10.11.09).mp3|၂၁၅။ ကောင်းဖို့ ေ ပြာင်း ကြရအောင်တရားတော်
+216.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/06%20G7(11.11.09).mp3|၂၁၆။ ပျောက်တာကိုရှာ တို့သူငါ တရားတော်(အရှင်ဣန္ဒက-တွံ့တေး)
+217.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/07%20G7(12.11.09).mp3|၂၁၇။ မင်္ဂလာတရားတော် (ဘဒ္ဒန္တ သြဘာသ-မိုးကုတ်)
+218.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/08%20G7(13.11.09).mp3|၂၁၈။ လယ်သမား အစစ်ဘယ်သူ ဖြစ်သလဲ
+219.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/09%20G7(14.11.09).mp3|၂၁၉။ ပျော်ရွှင် ငြိမ်းချမ်းသော မိသားစု (အရှင်စန္ဒောဘာသ-ဖိုးလမင်း)
+220.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/10%20G7(15.11.09).mp3|၂၂၀။ အချစ်စံအိမ် နှင့် နိဗ္ဗာန် အိမ်တရားတော် (အရှင် ပညာနန္ဒ)
+221.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/11%20G7(16.11.09).mp3|၂၂၁။ အမေ့မေတ္တာ ကိုးဆယ်ဆသာ တရားတော်
+222.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/12%20G7(17.11.09).mp3|၂၂၂။ ဘဝပြန်ချီတရားတော်(အရှင်ဝိရိယ-တောင်စွန်း)
+223.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/13%20G7(18.11.09).mp3|၂၂၃။ ချမ်းသာကို ရှာဖွေ ခြင်း (ဓမ္မဒူတ အရှင်ပညိဿရဘိဝံသ)
+224.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/14%20G7(19.11.09).mp3|၂၂၄။ အလင်းရောင်အောက်က လူသားများတရားတော် (ဓမ္မဒူတ အရှင်ပညိဿရဘိဝံသ)
+225.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/15%20G7(20.11.09).mp3|၂၂၅။ အမေကျေနပ်မှာပါ တရားတော် (အရှင်အာစာရာလင်္ကာရ)
+226.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/16%20G7(21.11.09).mp3|၂၂၆။ အကောင်းကံကို ချစ်မှ အချစ်ကံကောင်းမယ်
+227.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/17%20G7(22.11.09).mp3|၂၂၇။ ဒုက္ခကို တကယ် မုန်း ပြီလား တရားတော်
+228.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/18%20G7(23.11.09).mp3|၂၂၈။ မြင့်မြတ်ကြီးပွားစက် (၄) ပါးတရားတော် (အရှင်သုဇာတ)
+229.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/19%20G7(24.11.09).mp3|၂၂၉။ ဂရုဏာရဲ့ လိုအပ်ချက်များ (သီတဂူ ဆရာတော် ဘုရားကြီး)
+230.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/20%20G7(25.11.09).mp3|၂၃၀။ တရားသိသူများ တရားတော် ( အရှင်ဆေကိန္ဒ)
+231.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/21%20G7(26.11.09).mp3|၂၃၁။ နာရဂဇာတ် တရားတော်
+232.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/22%20G7(27.11.09).mp3|၂၃၂။ ရွှေစကား ဖြင့် ရွှေတခါး ဖွင့်ပါတရားတော် (အရှင်ဂုဏိန္ဒ – ဆင်ဖြူတောင်)
+233.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/23%20G7(28.11.09).mp3|၂၃၃။ စိတ်ကြမ်းမာန်ရှော့ ပြန်ကန်တော့ပါတရားတော် ( )
+234.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/24%20G7(29.11.09).mp3|၂၃၄။ အမွေပေးတတ်သူ ဖြစ်ပါစေ (အရှင်ပညာနန္ဒ)
+235.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/25%20G7(30.11.09).mp3|၂၃၅။ အလောင်းတော်မြတ် မင်းသိဒ္ဓ ဖွားတော်မူခန်း တရားတော်
+236.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/26%20G7(1.12.09).mp3|၂၃၆။ လုပ်သင့် မလုပ်သင့် တရားတော် (ဦးရာဇိန္ဒ-အောင်မေတ္တာ)
+237.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/27%20G7(2.12.09).mp3|၂၃၇။ ပေးတတ်ပါစေ တို့အမွေ တရားတော်(အရှင်ကုမာရ)
+238.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/28%20G7(3.12.09).mp3|၂၃၈။ ဘဝလှဖို့ ဝေယာဝစ္စလုပ် ကြစို့ (
+239.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/29%20G7(4.12.09).mp3|၂၃၉။ ပေါင်းတာ မှန်မှ ကောင်းတာရတရားတော်
+240.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gyunar(7)MP3/30%20G7(5.12.09).mp3|၂၄၀။ ပရဟိတ မြတ်ဗုဒ္ဓ တရားတော် (သို့) အများအကျိုးဆောင် ကိုယ့်အကျိုးအောင် တရားတော် ( အရှင်သောသန)
+241.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/01%20Gyunar%286%29/AAA.mp3|၂၄၁။ ဓမ္မဘေရီအရှင်ဝီရိယ (တောင်စွန်း) – ဘဝခန္ဓာနှင့် ဓမ္မခန္ဓာ (၂၆.၁၁.၀၈) (ပ)
+242.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/01%20Gyunar%286%29/BBB.mp3|၂၄၂။ဓမ္မဘေရီအရှင်ဝီရိယ (တောင်စွန်း) – ဘဝခန္ဓာနှင့် ဓမ္မခန္ဓာ (၂၆.၁၁.၀၈) (ဒု)
+243.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/02%20Gyunar%286%29/AAA.mp3|၂၄၃။ ဒေါက်တာအရှင်ဉာဏ်ဿရ – နေလနှင့်တူသောကရုဏာ (၂၇.၁၁.၀၈) (ပ)
+244.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/02%20Gyunar%286%29/BBB.mp3|၂၄၄။ဒေါက်တာအရှင်ဉာဏ်ဿရ – နေလနှင့်တူသောကရုဏာ (၂၇.၁၁.၀၈) (ဒု)
+245.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/03%20Gyunar%286%29/AAAA.mp3|၂၄၅။ ဓမ္မဓရအရှင်ကုမာရ – စိတ်ထားလေးသာပြင်လိုက်ပါ (၂၈.၁၁.၀၈) (ပ)
+246.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/03%20Gyunar%286%29/BBB.mp3|၂၄၆။ဓမ္မဓရအရှင်ကုမာရ – စိတ်ထားလေးသာပြင်လိုက်ပါ (၂၈.၁၁.၀၈) (ဒု)
+247.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/03%20Gyunar%286%29/CCC.mp3|၂၄၇။ဓမ္မဓရအရှင်ကုမာရ – စိတ်ထားလေးသာပြင်လိုက်ပါ (၂၈.၁၁.၀၈) ( တ)
+248.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/04%20Gyunar%286%29/AAA.mp3|၂၄၈။ ဖြူးဆရာတော် – အဆိပ်မိုးနဲ့ပျိုးသစ်ပင် (၂၉.၁၁.၀၈) (ပ)
+249.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/04%20Gyunar%286%29/BBB.mp3|၂၄၉။ဖြူးဆရာတော် – အဆိပ်မိုးနဲ့ပျိုးသစ်ပင် (၂၉.၁၁.၀၈) (ဒု)
+250.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/04%20Gyunar%286%29/CCC.mp3|၂၅၀။ဖြူးဆရာတော် – အဆိပ်မိုးနဲ့ပျိုးသစ်ပင် (၂၉.၁၁.၀၈) (တ)
+251.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/05%20Gyunar%286%29/AAA.mp3|၂၅၁။ ဘဒ္ဒန ္တဝံသပါလာလင်္ကာရ (မြင်းမူ) – ဘယ်သူပြိုင်လို့သာပါတော့နိုင် (၃၀.၁၁.၀၈) (ပ)
+252.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/05%20Gyunar%286%29/BBB.mp3|၂၅၂။ဘဒ္ဒန ္တဝံသပါလာလင်္ကာရ (မြင်းမူ) – ဘယ်သူပြိုင်လို့သာပါတော့နိုင် (၃၀.၁၁.၀၈) (ဒု)
+253.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/06%20Gyunar%286%29/AAA.mp3|၂၅၃။ အရှင်ဂုဏိန္ဓ (ဆင်ဖြူတောင်) – သောကကင်းဝေးအေးကြပါစေ (၀၁.၁၂.၀၈)(ပ)
+254.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/06%20Gyunar%286%29/BBB.mp3|၂၅၄။အရှင်ဂုဏိန္ဓ (ဆင်ဖြူတောင်) – သောကကင်းဝေးအေးကြပါစေ (၀၁.၁၂.၀၈) (ဒု)
+255.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/06%20Gyunar%286%29/CCC.mp3|၂၅၅။အရှင်ဂုဏိန္ဓ (ဆင်ဖြူတောင်) – သောကကင်းဝေးအေးကြပါစေ (၀၁.၁၂.၀၈)(တ)
+256.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/07%20Gyunar%286%29/AAA.mp3|၂၅၆။ သီတဂူအရှင် ဣန္ဒာစရိယ – ကောင်းသောညတစ်ည (၀၂.၁၂.၀၈)(ပ)
+257.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/07%20Gyunar%286%29/BBB.mp3|၂၅၇။သီတဂူအရှင် ဣန္ဒာစရိယ – ကောင်းသောညတစ်ည (၀၂.၁၂.၀၈) (ဒု)
+258.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/08%20Gyunar%286%29/AVSEQ01.mp3|၂၅၈။ ဝေါဆရာတော် အရှင်သုမင်္ဂလ – နေရဲရဲ သေရဲရဲ (၀၃.၁၂.၀၈)
+259.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/09%20Gyunar%286%29/AAA.mp3|၂၅၉။ ဝေါဆရာတော် အရှင်သုမင်္ဂလ – လူပီသသူ (၀၄.၁၂.၀၈)(ပ)
+260.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/09%20Gyunar%286%29/BBB.mp3|၂၆၀။ဝေါဆရာတော် အရှင်သုမင်္ဂလ – လူပီသသူ (၀၄.၁၂.၀၈) (ဒု)
+261.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/10%20Gyunar%286%29/AAA.mp3|၂၆၁။ အရှင်ဣန္ဒက (တွံတေးဆရာတော်) – ဗြဟ္မစိုရ်တရားတော် (၀၅.၁၂.၀၈)(ပ)
+262.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/10%20Gyunar%286%29/BBB.mp3|၂၆၂။အရှင်ဣန္ဒက (တွံတေးဆရာတော်) – ဗြဟ္မစိုရ်တရားတော် (၀၅.၁၂.၀၈) (ဒု)
+263.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/11%20Gyunar%286%29/AAA.mp3|၂၆၃။ အရှင်အာစာရာလင်္ကာရ (ကိုးဘွဲ့ရ) – ကောင်းကောင်းနေကြပါစို့ (၀၆.၁၂.၀၈) (ပ)
+264.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/11%20Gyunar%286%29/BBB.mp3|၂၆၄။အရှင်အာစာရာလင်္ကာရ (ကိုးဘွဲ့ရ) – ကောင်းကောင်းနေကြပါစို့ (၀၆.၁၂.၀၈) (ဒု)
+265.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/12%20Gyunar%286%29/AAAA.mp3|၂၆၅။ အရှင်အာစာရာလင်္ကာရ (ကိုးဘွဲ့ရ) – တန်ခိုးကြီးအောင် ပဌာန်းရွတ်နည်း (၀၇.၁၂.၀၈) (ပ)
+266.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/12%20Gyunar%286%29/BBB.mp3|၂၆၆။အရှင်အာစာရာလင်္ကာရ (ကိုးဘွဲ့ရ) – တန်ခိုးကြီးအောင် ပဌာန်းရွတ်နည်း (၀၇.၁၂.၀၈) (ဒု)
+267.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/13%20Gyunar%286%29/AAA.mp3|၂၆၇။ သီတဂူဒေါက်တာအရှင်ဣန္ဒက – သတိသမ္ပဇဉ် ယှဉ်စေခြင် (၀၈.၁၂.၀၈) (ပ)
+268.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/13%20Gyunar%286%29/BBB.mp3|၂၆၈။သီတဂူဒေါက်တာအရှင်ဣန္ဒက – သတိသမ္ပဇဉ် ယှဉ်စေခြင် (၀၈.၁၂.၀၈) (ဒု)
+269.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/14%20Gyunar%286%29/AVSEQ01.mp3|၂၆၉။ သီတဂူဒေါက်တာအရှင်ဣန္ဒက – အဘိုးအိုရဲ့ ဓမ္မသံဝေ (၀၉.၁၂.၀၈)
+270.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/15%20Gyunar%286%29/AAA.mp3|၂၇၀။ ဒေါက်တာအရှင်ဆေကိန္ဒ – အားကိုးပါရစေ (၁၀.၁၂.၀၈)(ပ)
+271.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/15%20Gyunar%286%29/BBB.mp3|၂၇၁။ဒေါက်တာအရှင်ဆေကိန္ဒ – အားကိုးပါရစေ (၁၀.၁၂.၀၈)(ပ) (ဒု)
+272.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/16%20Gyunar%286%29/AAA.mp3|၂၇၂။ အရှင်သုဇာတ (မေတ္တာအေး) – အမေများအတွက်တရားတစ်ပုဒ် (၁၁.၁၂.၀၈)(ပ)
+273.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/16%20Gyunar%286%29/BBB.mp3|၂၇၃။အရှင်သုဇာတ (မေတ္တာအေး) – အမေများအတွက်တရားတစ်ပုဒ် (၁၁.၁၂.၀၈) (ဒု)
+274.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/17%20Gyunar%286%29/AAA.mp3|၂၇၄။ အရှင်သုဇာတ (မေတ္တာအေး) – ချစ်ကြောင်းသက်သေ မှာတမ်းချွေ (၁၂.၁၂.၀၈)(ပ)
+275.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/17%20Gyunar%286%29/BBB.mp3|၂၇၅။အရှင်သုဇာတ (မေတ္တာအေး) – ချစ်ကြောင်းသက်သေ မှာတမ်းချွေ (၁၂.၁၂.၀၈) (ဒု)
+276.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/17%20Gyunar%286%29/CCC.mp3|၂၇၆။အရှင်သုဇာတ (မေတ္တာအေး) – ချစ်ကြောင်းသက်သေ မှာတမ်းချွေ (၁၂.၁၂.၀၈)( တ)
+277.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/18%20Gyunar%286%29/AAA.mp3|၂၇၇။ သီတဂူကြယ်တစ်ပွင့် – အရေးနှစ်ပါးအလေးထား (၁၃.၁၂.၀၈)(ပ)
+278.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/18%20Gyunar%286%29/BBB.mp3|၂၇၈။သီတဂူကြယ်တစ်ပွင့် – အရေးနှစ်ပါးအလေးထား (၁၃.၁၂.၀၈) (ဒု)
+279.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/19%20Gyunar%286%29/AAA.mp3|၂၇၉။ သီတဂူကြယ်တစ်ပွင့် – ကိုရင်လေးရဲ့စာကျက်သံ (၁၄.၁၂.၀၈) (ပ)
+280.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/19%20Gyunar%286%29/BBB.mp3|၂၈၀။သီတဂူကြယ်တစ်ပွင့် – ကိုရင်လေးရဲ့စာကျက်သံ (၁၄.၁၂.၀၈) (ဒု)
+281.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/20%20Gyunar%286%29/AAA.mp3|၂၈၁။ ဒေါက်တာအရှင်ပညိဿရ – သူတော်ကောင်းဆိုသည်မှာ (၁၅.၁၂.၀၈) (ပ)
+282.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/20%20Gyunar%286%29/BBB.mp3|၂၈၂။ဒေါက်တာအရှင်ပညိဿရ – သူတော်ကောင်းဆိုသည်မှာ (၁၅.၁၂.၀၈) (ဒု)
+283.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/21%20Gyunar%286%29/AAA.mp3|၂၈၃။ ဒေါက်တာအရှင်ပညိဿရ – သေမှာမကြောက်တဲ့သူ (၁၆.၁၂.၀၈) (ပ)
+284.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/21%20Gyunar%286%29/BBB.mp3|၂၈၄။ဒေါက်တာအရှင်ပညိဿရ – သေမှာမကြောက်တဲ့သူ (၁၆.၁၂.၀၈) (ဒု)
+285.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/22%20Gyunar%286%29/AAA.mp3|၂၈၅။ အရှင်ရာဇိန္ဒ (အောင်မေတ္တာ) – ဘဝရဲ့အားမာန် (၁၇.၁၂.၀၈) (ပ)
+286.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/22%20Gyunar%286%29/BBB.mp3|၂၈၆။အရှင်ရာဇိန္ဒ (အောင်မေတ္တာ) – ဘဝရဲ့အားမာန် (၁၇.၁၂.၀၈) (ဒု)
+287.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/23%20Gyunar%286%29/AAA.mp3|၂၈၇။ အရှင်သုစိတ္တ (နေနတ်သား) – နိဗ္ဗာန်စခန်း ဖြတ်လမ်းမရှိ (၁၈.၁၂.၀၈) (ပ)
+288.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/23%20Gyunar%286%29/BBB.mp3|၂၈၈။အရှင်သုစိတ္တ (နေနတ်သား) – နိဗ္ဗာန်စခန်း ဖြတ်လမ်းမရှိ (၁၈.၁၂.၀၈) (ဒု)
+289.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/24%20Gyunar%286%29/AAA.mp3|၂၈၉။ ဓမ္မဓရ အရှင်ဉ္စန – စကားနှစ်လုံးတန်ဘိုး (၁၉.၁၂.၀၈) (ပ)
+290.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-6yr/24%20Gyunar%286%29/BBB.mp3|၂၉၀။ဓမ္မဓရ အရှင်ဉ္စန – စကားနှစ်လုံးတန်ဘိုး (၁၉.၁၂.၀၈) (ဒု)
+291.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/01%20Gyu%285%29.mp3|၂၉၁။ အရှင်ပညာနန္ဒ (သီတဂူကြယ်တစ်ပွင့်) – လူပီတဲ့လူ
+292.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/02%20Gyu%285%29.mp3|၂၉၂။ အရှင်ပညာနန္ဒ (သီတဂူကြယ်တစ်ပွင့်) – အမေ့မေတ္တာသားလိမ္မာ
+293.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/03%20Gyu%285%29.mp3|၂၉၃။ ဘဒ္ဒန္တင်္အဂီသ (ဒီဃဘာဏက၊ ဒီဃနိကာယကောဝိဒ) – တောင်ပို့တရား
+294.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/04%20Gyu%285%29.mp3|၂၉၄။ အရှင်ပညာသီဟာဘိဝံသ (သ-စ-သ-အဓမ္မာစရိယ) – မီးခဲပြာဖုံး
+295.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/05%20Gyu%285%29.mp3|၂၉၅။ ဘဒ္ဒန္တဝါသေဌာဘိဝံသ (သ-စ-သ-အဓမ္မာစရိယ) – ဘုရားဘက်ကလူ
+296.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/06%20Gyu%285%29.mp3|၂၉၆။ ဒေါက်တာအရှင်ဉဏိဿရ (သီတဂူ) – ရဟန်းပြုခြင်းရည်ရွယ်ချက် (၄)မျိုး
+297.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/07%20Gyu%285%29.mp3|၂၉၇။ ဒေါက်တာအရှင်ဉဏိဿရ (သီတဂူ) – ကရုဏာဘာဝနာ
+298.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/08%20Gyu%285%29.mp3|၂၉၈။ အရှင်ရာဇိန္ဒ (အောင်မေတ္တာ) – အနှိုင်းမဲ့မေတ္တာ
+299.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/09%20Gyu%285%29.mp3|၂၉၉။ ဦးဝံသပါလာလင်္ကာရ (ရွှေရတုတိပိဋကဓရ) – သာသနာ့တန်ဘိုး
+300.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/10%20Gyu%285%29.mp3|၃၀၀။ အရှင်အာစာရလင်္ကာရ – ရှင်သီဝလိ
+301.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/11%20Gyu%285%29.mp3|၃၀၁။ အရှင်ဇဝန (ပဲခူးဆရာတော်) – ဘာလှူရင် ဘာရမလဲ
+302.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/12%20Gyu%285%29.mp3|၃၀၂။ အရှင်သုမင်္ဂလ (မဟာဓမ္မာစရိယ) – လေးဆယ်ကျော်အချစ် ဘယ်လိုချစ်မလဲ
+303.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/13%20Gyu%285%29.mp3|၃၀၃။ အရှင်သုစိတ္တ (နေနတ်သား) – ဘဝခရီးနှင့်အပေါက်ကြီးလေးပေါက်
+304.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/14%20Gyu%285%29.mp3|၃၀၄။ အရှင်သုဇာတ (မေတ္တာအေး) – အပျော်ဆုံးနေ့
+305.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/15%20Gyu%285%29.mp3|၃၀၅။ အရှင်သုဇာတ (မေတ္တာအေး) – ကုသိုလ်အလုပ်ရဲရဲလုပ်
+306.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/16%20Gyu%285%29.mp3|၃၀၆။ ဓမ္မဒူတအရှင်ဆေကိန္ဒ – ကလေးအထူးတရားပွဲ
+307.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/17%20Gyu%285%29.mp3|၃၀၇။ ဓမ္မဒူတအရှင်ဆေကိန္ဒ – ကောင်းသောလာခြင်းဖြစ်ပါစေ
+308.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/18%20Gyu%285%29.mp3|၃၀၈။ အရှင်တေဇိန္ဒ (စစ်ကိုင်း) – အမှန်တရားကိုရှာဖွေခြင်း
+309.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/19%20Gyu%285%29.mp3|၃၀၉။ ဒေါက်တာဝေဠုရိယဉဏာလင်္ကာရ – လွတ်လပ်တဲ့ဗုဒ္ဓဘာသာ
+310.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/20%20Gyu%285%29.mp3|၃၁၀။ ဒေါက်တာအရှင်ပညိဿရ – မြတ်ဗုဒ္ဓကိုကြည်ညိုခြင်း
+311.mp3|https://media.thitsarparamisociety.com/mp3/Magway/Gayunar-5yr/21%20Gyu%285%29.mp3|၃၁၁။ ဒေါက်တာအရှင်ပညိဿရ – နေ့စဉ်ဆုံးမ သြဝါဒ
+312.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO2/New%20Title%201.mp3|၃၁၂။ မြင့်မြတ်ကြီးပွား စက်(၄)ပါး တရားတော် (အရှင်သုဇာတ)
+313.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO2/New%20Title%202.mp3|၃၁၃။ ရွှေစကားဖြင့် ရွှေတံခါးဖွင့်ပါ တရားတော် (အရှင်ဂုဏိန္ဒ – ဆင်ဖြူတောင်)
+314.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO2/New%20Title%203.mp3|၃၁၄။ ပျော်ရွှင်ငြိမ်းချမ်းသော မိသားစု တရားတော် (အရှင်စန္ဒောဘာသ – ဖိုးလမင်း)
+315.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO2/New%20Title%204.mp3|၃၁၅။ မင်္ဂလာ တရားတော် (ဘန္ဒန ္တ သြဘာသ – မိုးကုတ်)
+316.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO2/New%20Title%205.mp3|၃၁၆။ အများအကျိုးဆောင် ကိုယ့်အကျိုးအောင် တရားတော် (အရှင်သောသန)
+317.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO2/New%20Title%206.mp3|၃၁၇။ လုပ်သင့် မလုပ်သင့် တရားတော် (ဦးရာဇိန္ဒ – အောင်မေတ္တာ)
+318.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO2/New%20Title%207.mp3|၃၁၈။ အလင်းမှတ်တိုင် (ဦးသုမင်္ဂလ – ဝေါ)
+319.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO2/New%20Title%208.mp3|၃၁၉။ အချစ်စံအိမ် နိဗ္ဗာန်အိမ် တရားတော် ( အရှင် ပညာနန္ဒ)
+320.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO2/New%20Title%209.mp3|၃၂၀။ သာသနာပြု တရားတော် (ဦးဇဝန – ပဲခူး)
+321.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO3/New%20Title%201.mp3|၃၂၁။ အမွေပေးတက်သူဖြစ်ပါစေ တရားတော် (အရှင်ပညာနန္ဒ)
+322.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO3/New%20Title%202.mp3|၃၂၂။ နေ့ကလေး တရားတော် (အရှင်ဆေကိန္ဒ)
+323.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO3/New%20Title%203.mp3|၃၂၃။ ဒုက္ခကို တကယ်မုန်းပြီလား တရားတော် (အရှင် သုဇာတ)
+324.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO3/New%20Title%204.mp3|၃၂၄။ အလင်းရောင်အောက်က လူသားများ တရားတော် (အရှင်ပညိဿ ရ)
+325.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO3/New%20Title%205.mp3|၃၂၅။ အမေကျေနပ်မှာပါ တရားတော် (အရှင်အာစာရာ လင်္ကာရ)
+326.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO3/New%20Title%206.mp3|၃၂၆။ ပျောက်တာကိုရှာ တို့သူငှာ တရားတော် (အရှင်ဣန္ဒက – တွံ့တေး)
+327.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO3/New%20Title%207.mp3|၃၂၇။ ဘဝဖြန့်ချီ တရားတော် (အရှင်ဝိရိယ – တောင်စွန်း)
+328.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO3/New%20Title%208.mp3|၃၂၈။ ပေးတက်ပါစေ တို့အမွေ တရားတော် (အရှင်ကုမာရ)
+329.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO38/NEW%20Title%202.mp3|၃၂၉။ ဒီအတိုင်းပဲ ဆက်သွားမှာလား တရားတော် (ဒေါက်တာ အရှင်ကောဝိဒ – မဇ္ဈိမဂုဏ်ရည်)
+330.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO38/NEW%20Title%203.mp3|၃၃၀။ ဘာဖြစ်ချင်သလဲ တရားတော် (ဘဒ္ဒန ္တတေဇောသာရ – ပဲခူး)
+331.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO38/NEW%20Title%204.mp3|၃၃၁။ မရှိမဖြစ် ဖေဖေတရားတော် (အရှင်ကုသလ – ဆားဘူးတောင်)
+332.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO38/NEW%20Title%205.mp3|၃၃၂။ ထိုးသွင်းခြင်းသိအပ်သည့် တရားတော် (ဥုးသုမင်္ဂလ – ဒယ်အိုး)
+333.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO38/NEW%20Title%206.mp3|၃၃၃။ စရိယသုံးထွေ ကျင့်တက်စေ တရားတော် (ဦးသုနန္ဒ – ဓမ္မရံသီ)
+334.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO39/PRJ_20140109_001%20Title%201.mp3|၃၃၄။ သေနေ့မင်္ဂလာ တရားတော် (အရှင်ပညာနန္ဒ – သီတဂူကြယ်တစ်ပွင့်)
+335.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO39/PRJ_20140109_001%20Title%202.mp3|၃၃၅။ အပြုံးနဲ့ပြန်ပါ တရားတော် (အရှင်ပညာနန္ဒ – သီတဂူကြယ်တစ်ပွင့်)
+336.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO39/PRJ_20140109_001%20Title%203.mp3|၃၃၆။ နိုးကြားနေတဲ့ နှလုံးသား တရားတော် (အရှင်သုမင်္ဂလ – ဝေါဆရာတော်)
+337.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO39/PRJ_20140109_001%20Title%204.mp3|၃၃၇။ အကယ်ဒမီထိုက်တဲ့ မြတ်သောအမွေ (အရှင်သုမင်္ဂလ – ဝေါဆရာတော်)
+338.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO39/PRJ_20140109_001%20Title%205.mp3|၃၃၈။ ဘာဖြစ်ချင်သလဲ တရားတော် (အရှင်တေဇောသာရ – ပဲခူး)
+339.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO39/PRJ_20140109_001%20Title%206.mp3|၃၃၉။ ဘယ်သူ့ကိုချစ်မှာလဲ တရားတော် (အရှင်တေဇောသာရ – ပဲခူး)
+340.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO40/DVD%20Title%202.mp3|၃၄၀။ ကိုယ်ကြိုက်တာကိုယ်လုပ် တရားတော် (မနာပဒါယိ အရှင်ဝိစိတ္တ – ကိုရီးယား)
+341.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO40/DVD%20Title%203.mp3|၃၄၁။ စိတ်ချလက်ချက်မနေကြနဲ့ တရားတော် (အရှင်သုဇာတ -မေတ္တာအေး)
+342.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO40/DVD%20Title%204.mp3|၃၄၂။ တုတ်နဲ့ငုတ်နဲ့ရိုက်ကြစို့ တရားတော် (အရှင်သုဇာတ -မေတ္တာအေး)
+343.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO40/DVD%20Title%205.mp3|၃၄၃။ အောင်မြင်ကြီးပွား တတိယခြေလှမ်းများ တရားတော် (အရှင်ပါကဋာလင်္ကာရ – ဓမ္မပါလ)
+344.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO40/DVD%20Title%206.mp3|၃၄၄။ မင်္ဂလာစကား တရားတော် (အရှင်ပါကဋာလင်္ကာရ – ဓမ္မပါလ)
+345.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO40/DVD%20Title%207.mp3|၃၄၅။ မကောင်းတဲ့အတွေး၊ မကောင်းတဲ့စရိတ်၊ မကောင်းတဲ့ အယူအဆ တရားတော် (ဓမ္မဓရ အရှင်ကုမာရ)
+346.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO40/DVD%20Title%208.mp3|၃၄၆။ ထိပ်ဆုံးလူနှင့် ဘိတ်ဆုံးလူ တရားတော် (ဓမ္မဓရ အရှင်ကုမာရ)
+347.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO41/PRJ_20140224%20Title%202.mp3|၃၄၇။ ဒါန (၈)မျိုးအတုခိုး တရားတော် (အရှင်ဝိမလ – ကြို့ပင်ကောက်)
+348.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO41/PRJ_20140224%20Title%203.mp3|၃၄၈။ သားမင်းလေးမျိုး တရားတော် (အရှင်တေဇာစာရ သျှင်နေမင် – ဥသျှစ်ပင်)
+349.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO41/PRJ_20140224%20Title%204.mp3|၃၄၉။ သုဿ န်မြေမှာပွင့်သောပန်း တရားတော် (အရှင်တေဇာစာရ သျှင်နေမင် – ဥသျှစ်ပင်)
+350.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO41/PRJ_20140224%20Title%205.mp3|၃၅၀။ မာယာတရားတော် (အရှင်တေဇောသာရ – ချင်းတောင်တန်း)
+351.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO41/PRJ_20140224%20Title%206.mp3|၃၅၁။ ကျေးဇူးရှိသူနဲ့ ကျေးဇူးသိသူ တရားတော် (အရှင်တေဇောသာရ – ချင်းတောင်တန်း)
+352.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO41/PRJ_20140224%20Title%207.mp3|၃၅၂။ အားကိုးစရာ တရားတော် (ဓမ္မဓူရ ဒေါက်တာအရှင်ပညိဿ ရာဘိဝံသ)
+353.mp3|https://media.thitsarparamisociety.com/mp3/Magway/NO41/PRJ_20140224%20Title%208.mp3|၃၅၃။ ကြီးပွားကြောင်းနှင့် ပျက်စီးကြောင်း တရားတော် (ဓမ္မဓူရ ဒေါက်တာအရှင်ပညိဿ ရာဘိဝံသ)

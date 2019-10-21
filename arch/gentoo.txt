@@ -1,0 +1,353 @@
+lspci
+///////
+00:00.0 Host bridge: Intel Corporation 440BX/ZX/DX - 82443BX/ZX/DX Host bridge (rev 01)
+00:01.0 PCI bridge: Intel Corporation 440BX/ZX/DX - 82443BX/ZX/DX AGP bridge (rev 01)
+00:07.0 ISA bridge: Intel Corporation 82371AB/EB/MB PIIX4 ISA (rev 08)
+00:07.1 IDE interface: Intel Corporation 82371AB/EB/MB PIIX4 IDE (rev 01)
+00:07.3 Bridge: Intel Corporation 82371AB/EB/MB PIIX4 ACPI (rev 08)
+00:07.7 System peripheral: VMware Virtual Machine Communication Interface (rev 10)
+00:0f.0 VGA compatible controller: VMware SVGA II Adapter
+00:10.0 SCSI storage controller: Broadcom / LSI 53c1030 PCI-X Fusion-MPT Dual Ultra320 SCSI (rev 01)
+00:11.0 PCI bridge: VMware PCI bridge (rev 02)
+00:15.0 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:15.1 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:15.2 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:15.3 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:15.4 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:15.5 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:15.6 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:15.7 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:16.0 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:16.1 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:16.2 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:16.3 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:16.4 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:16.5 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:16.6 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:16.7 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:17.0 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:17.1 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:17.2 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:17.3 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:17.4 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:17.5 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:17.6 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:17.7 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:18.0 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:18.1 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:18.2 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:18.3 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:18.4 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:18.5 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:18.6 PCI bridge: VMware PCI Express Root Port (rev 01)
+00:18.7 PCI bridge: VMware PCI Express Root Port (rev 01)
+02:00.0 USB controller: VMware USB1.1 UHCI Controller
+02:01.0 Ethernet controller: Intel Corporation 82545EM Gigabit Ethernet Controller (Copper) (rev 01)
+02:02.0 Multimedia audio controller: Ensoniq ES1371/ES1373 / Creative Labs CT2518 (rev 02)
+02:03.0 USB controller: VMware USB2 EHCI Controller
+02:05.0 SATA controller: VMware SATA AHCI controller
+//////////////////////////////////////
+
+////////////
+lsmod
+Module                  Size  Used by
+ipv6                  348160  140
+cfg80211              561152  0
+rfkill                 24576  1 cfg80211
+8021q                  28672  0
+video                  40960  0
+backlight              16384  1 video
+battery                20480  0
+fan                    16384  0
+thermal                20480  0
+snd_ens1371            24576  0
+snd_ac97_codec        114688  1 snd_ens1371
+ac97_bus               16384  1 snd_ac97_codec
+snd_rawmidi            28672  1 snd_ens1371
+snd_seq_device         16384  1 snd_rawmidi
+snd_pcm                81920  2 snd_ac97_codec,snd_ens1371
+snd_timer              32768  1 snd_pcm
+snd                    69632  6 snd_seq_device,snd_timer,snd_ac97_codec,snd_pcm,snd_rawmidi,snd_ens1371
+soundcore              16384  1 snd
+ata_generic            16384  0
+pata_acpi              16384  0
+button                 16384  0
+ac                     16384  0
+xts                    16384  0
+aes_x86_64             20480  0
+crc32_generic          16384  0
+sha256_generic         20480  0
+ixgb                   40960  0
+ixgbe                 245760  0
+samsung_sxgbe          45056  0
+tulip                  57344  0
+cxgb3                 139264  0
+cxgb                   73728  0
+mdio                   16384  3 cxgb,cxgb3,ixgbe
+cxgb4                 335872  0
+vxge                  102400  0
+bonding               110592  0
+vxlan                  49152  0
+ip6_udp_tunnel         16384  1 vxlan
+udp_tunnel             16384  1 vxlan
+macvlan                20480  0
+vmxnet3                49152  0
+tg3                   155648  0
+sky2                   57344  0
+r8169                  69632  0
+libphy                 49152  3 r8169,tg3,samsung_sxgbe
+pcnet32                45056  0
+igb                   167936  0
+i2c_algo_bit           16384  1 igb
+hwmon                  20480  3 tg3,igb,ixgbe
+i2c_core               53248  2 i2c_algo_bit,igb
+e1000                 102400  0
+bnx2                   81920  0
+atl1c                  40960  0
+msdos                  20480  0
+configfs               36864  1
+fuse                   94208  1
+f2fs                  397312  0
+jfs                   163840  0
+btrfs                1069056  0
+zstd_decompress        81920  1 btrfs
+zstd_compress         180224  1 btrfs
+xxhash                 16384  2 zstd_compress,zstd_decompress
+lzo_compress           16384  1 btrfs
+zlib_deflate           28672  2 cxgb4,btrfs
+multipath              16384  0
+linear                 16384  0
+raid10                 49152  0
+raid1                  40960  0
+raid0                  20480  0
+dm_zero                16384  0
+dm_snapshot            40960  0
+dm_raid                40960  0
+raid456               114688  1 dm_raid
+async_raid6_recov      16384  1 raid456
+async_memcpy           16384  1 raid456
+async_pq               16384  1 raid456
+async_xor              16384  2 async_pq,raid456
+async_tx               16384  5 async_pq,async_memcpy,async_xor,raid456,async_raid6_recov
+xor                    24576  2 async_xor,btrfs
+raid6_pq              114688  4 async_pq,btrfs,raid456,async_raid6_recov
+dm_mirror              20480  0
+dm_region_hash         16384  1 dm_mirror
+dm_log                 16384  2 dm_region_hash,dm_mirror
+dm_crypt               36864  0
+dm_bufio               24576  1 dm_snapshot
+dm_mod                110592  7 dm_raid,dm_crypt,dm_zero,dm_log,dm_snapshot,dm_mirror,dm_bufio
+dax                    20480  1 dm_mod
+hid_sunplus            16384  0
+hid_sony               28672  0
+hid_samsung            16384  0
+hid_pl                 16384  0
+hid_petalynx           16384  0
+hid_logitech_dj        20480  0
+hid_gyration           16384  0
+sl811_hcd              20480  0
+xhci_pci               16384  0
+xhci_hcd              176128  1 xhci_pci
+ohci_hcd               36864  0
+uhci_hcd               32768  0
+usb_storage            57344  0
+ehci_pci               16384  0
+ehci_hcd               49152  1 ehci_pci
+mpt3sas               225280  0
+raid_class             16384  1 mpt3sas
+aic94xx                81920  0
+libsas                 69632  1 aic94xx
+qla2xxx               704512  0
+megaraid_sas          131072  0
+megaraid_mbox          32768  0
+megaraid_mm            16384  1 megaraid_mbox
+megaraid               45056  0
+aacraid               110592  0
+sx8                    20480  0
+DAC960                 73728  0
+hpsa                   86016  0
+3w_9xxx                40960  0
+3w_xxxx                32768  0
+3w_sas                 28672  0
+mptsas                 57344  0
+scsi_transport_sas     32768  5 mptsas,aic94xx,hpsa,libsas,mpt3sas
+mptfc                  20480  0
+scsi_transport_fc      49152  2 qla2xxx,mptfc
+mptspi                 24576  3
+mptscsih               32768  3 mptsas,mptspi,mptfc
+mptbase                86016  4 mptsas,mptspi,mptfc,mptscsih
+atp870u                24576  0
+dc395x                 36864  0
+qla1280                32768  0
+dmx3191d               20480  0
+sym53c8xx              81920  0
+gdth                   81920  0
+initio                 24576  0
+BusLogic               32768  0
+arcmsr                 40960  0
+aic7xxx               122880  0
+aic79xx               135168  0
+scsi_transport_spi     28672  5 mptspi,aic79xx,aic7xxx,sym53c8xx,dmx3191d
+sg                     40960  0
+pdc_adma               16384  0
+sata_inic162x          16384  0
+sata_mv                32768  0
+ata_piix               32768  0
+ahci                   40960  1
+libahci                28672  1 ahci
+sata_qstor             16384  0
+sata_vsc               16384  0
+sata_uli               16384  0
+sata_sis               16384  0
+sata_sx4               20480  0
+sata_nv                32768  0
+sata_via               16384  0
+sata_svw               16384  0
+sata_sil24             20480  0
+sata_sil               16384  0
+sata_promise           16384  0
+pata_sl82c105          16384  0
+pata_via               16384  0
+pata_jmicron           16384  0
+pata_marvell           16384  0
+pata_sis               20480  1 sata_sis
+pata_netcell           16384  0
+pata_pdc202xx_old      16384  0
+pata_triflex           16384  0
+pata_atiixp            16384  0
+pata_opti              16384  0
+pata_amd               20480  0
+pata_ali               16384  0
+pata_it8213            16384  0
+pata_pcmcia            20480  0
+pcmcia                 45056  1 pata_pcmcia
+pcmcia_core            20480  1 pcmcia
+pata_ns87415           16384  0
+pata_ns87410           16384  0
+pata_serverworks       16384  0
+pata_artop             16384  0
+pata_it821x            16384  0
+pata_optidma           16384  0
+pata_hpt3x2n           16384  0
+pata_hpt3x3            16384  0
+pata_hpt37x            20480  0
+pata_hpt366            16384  0
+pata_cmd64x            16384  0
+pata_efar              16384  0
+pata_rz1000            16384  0
+pata_sil680            16384  0
+pata_radisys           16384  0
+pata_pdc2027x          16384  0
+pata_mpiix             16384  0
+libata                196608  51 pata_ns87415,pata_sil680,pata_amd,sata_qstor,ata_piix,libahci,pata_optidma,pata_netcell,pata_hpt366,sata_promise,pata_marvell,sata_uli,pata_via,pata_pdc2027x,pata_hpt3x2n,pata_sl82c105,sata_sil,pata_ali,ahci,pata_opti,pata_it821x,sata_via,pata_acpi,pata_cmd64x,sata_vsc,ata_generic,pata_hpt37x,pata_rz1000,pata_jmicron,pata_it8213,pata_efar,pdc_adma,sata_sil24,pata_pcmcia,pata_hpt3x3,pata_sis,pata_artop,sata_svw,sata_sx4,pata_ns87410,pata_radisys,pata_mpiix,sata_nv,sata_sis,libsas,sata_mv,pata_triflex,pata_serverworks,pata_pdc202xx_old,sata_inic162x,pata_atiixp
+nvme                   32768  0
+nvme_core              57344  1 nvme
+virtio_net             36864  0
+net_failover           16384  1 virtio_net
+failover               16384  1 net_failover
+virtio_crypto          20480  0
+crypto_engine          16384  1 virtio_crypto
+virtio_mmio            16384  0
+virtio_pci             28672  0
+virtio_balloon         16384  0
+virtio_rng             16384  0
+virtio_console         28672  0
+virtio_blk             20480  0
+virtio_scsi            20480  0
+virtio_ring            20480  9 virtio_rng,virtio_mmio,virtio_console,virtio_balloon,virtio_scsi,virtio_crypto,virtio_pci,virtio_blk,virtio_net
+virtio                 16384  9 virtio_rng,virtio_mmio,virtio_console,virtio_balloon,virtio_scsi,virtio_crypto,virtio_pci,virtio_blk,virtio_net
+
+///////////
+https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Networking
+
+passwd root
+
+rc-service sshd start
+
+
+fdisk -l /dev/sda
+fdisk -t dos /dev/sda
+
+/dev/sda1	Boot                    1G
+/dev/sda2	Swap partition          2G
+/dev/sda3	Root partition
+
+
+mkfs.ext2 /dev/sda1
+mkfs.ext4 /dev/sda3
+
+mkswap /dev/sda2
+swapon /dev/sda2
+
+
+mount /dev/sda3 /mnt/gentoo
+
+
+date
+
+cd /mnt/gentoo
+
+wget -c http://distfiles.gentoo.org/releases/amd64/autobuilds/20191016T214504Z/stage3-amd64-20191016T214504Z.tar.xz
+
+
+tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner
+
+
+mount --types proc /proc /mnt/gentoo/proc
+mount --rbind /sys /mnt/gentoo/sys
+mount --make-rslave /mnt/gentoo/sys
+mount --rbind /dev /mnt/gentoo/dev
+mount --make-rslave /mnt/gentoo/dev
+
+chroot /mnt/gentoo /bin/bash
+source /etc/profile
+export PS1="(chroot) ${PS1}"
+
+
+mount /dev/sda1 /boot
+
+emerge-webrsync
+
+
+eselect profile list
+
+eselect profile set 1
+
+emerge --ask --verbose --update --deep --newuse @world
+
+
+ls /usr/share/zoneinfo
+echo "Asia/Bangkok" > /etc/timezone
+emerge --config sys-libs/timezone-data
+
+
+nano -w /etc/locale.gen
+en_US ISO-8859-1
+en_US.UTF-8 UTF-8
+
+locale-gen
+
+eselect locale list
+
+eselect locale set 6 # utf8
+
+
+env-update && source /etc/profile && export PS1="(chroot) ${PS1}"
+
+
+emerge --ask sys-kernel/gentoo-sources
+
+emerge --ask sys-apps/pciutils
+
+cd /usr/src/linux
+
+make menuconfig
+
+
+
+https://wiki.gentoo.org/wiki/Vim
+vim editor
+emerge --ask app-editors/vim
+
+
+

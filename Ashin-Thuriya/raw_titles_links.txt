@@ -1,0 +1,76 @@
+001.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-01-Kayanupassana.mp3|၁။ ကာယာႏုပႆနာ
+002.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-02-Vedananupassana.mp3|၂။ ေဝဒနာႏုပႆနာ
+003.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-03-Cittanupassana.mp3|၃။ စိတၱာႏုပႆနာ
+004.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-04-Dhammanupassana.mp3|၄။ ဓမၼာႏုပႆနာ
+005.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-05-Sampajanapabba.mp3|၅။ သမၸဇာန ပဗၺတရားေတာ္
+006.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-06-VipassanaAchanKhan-1.mp3|၆။ ဝိပႆနာအေျခခံ (၁)
+007.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-07-VipassanaAchanKhan-2.mp3|၇။ ဝိပႆနာအေျခခံ (၂)
+008.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-08-VipassanaAchanKhan-3.mp3|၈။ ဝိပႆနာအေျခခံ (၃)
+009.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-09-Vipassana%20KhaYeeThal-1.mp3|၉။ ဝိပႆနာခရီးသည္ (၁)
+010.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-10-Vipassana%20KhaYeeThal-2.mp3|၁၀။ ဝိပႆနာခရီးသည္ (၂)
+011.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-11-Vipassana%20KhaYeeThak-3.mp3|၁၁။ ဝိပႆနာခရီးသည္ (၃)
+012.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-12-Culamalukya.mp3|၁၂။ စူဠာမာလုက်သုတၱံတရားေတာ္
+013.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-13-MahaMalukyaputtaSutta.mp3|၁၃။ သံေယာဇဥ္ (မဟာမာလုက်သုတၱံ)
+014.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-14-MalukyaputtaSutta.mp3|၁၄။ ဒိေ႒ဒိ႒မတၱံ (မာလုက်ပုတၱသုတၱံ)
+015.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-15-AThayMaOoKhinNyanOoYaMal.mp3|၁၅။ အေသမဦးခင္ ဉာဏ္ဦးရမယ္
+016.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-16-AShoteHteHmarShinAungNay.mp3|၁၆။ အရႈပ္ထဲမွာ ရွင္းေအာင္ေန
+017.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-17-AHmaungHteHmarAlinShar.mp3|၁၇။ အေမွာင္ထဲမွာ အလင္းရွာ
+018.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-18-KhayTaHlanKaTayTaThan.mp3|၁၈။ ေျခတစ္လွမ္း ကုေဋတစ္သန္း
+019.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-19-SatipatthanAloteAhnitChote.mp3|၁၉။ သတိပ႒ာန္အလုပ္အႏွစ္ခ်ဳပ္
+020.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-20-EikNgitePhyayNee.mp3|၂၀။ အိပ္ငိုက္ေျဖနည္းတရားေတာ္
+021.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-21-Aggapasada%20Sutta.mp3|၂၁။ အဂၢပသာဒသုတၱံ
+022.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-22-KyaungKyoNyiHmaMagPhoya.mp3|၂၂။ ေၾကာင္းက်ိဳးညီမွ မဂ္ဖိုလ္ရ
+023.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-23-Dhammacari%20ChanTharThi.mp3|၂၃။ ဓမၼစာရီ ခ်မ္းသာသည္
+024.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-24-Dukkhasacca.mp3|၂၄။ ဒုကၡသစၥာ
+025.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-25-PyayHnaingHmaLutMal.mp3|၂၅။ ေျပးႏိုင္မွလြတ္မယ္တရားေတာ္
+026.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-26-tharmarthieibayyan.mp3|၂၆။ သမာဓိ၏ေဘးရန္ႏွင့္ ကုစားနည္းမ်ား
+027.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-27-SotarpanSittam.mp3|၂၇။ ေသာတာပန္စစ္တမ္း
+028.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-28-KuThoASwanAntMakhan.mp3|၂၈။ ကုသိုလ္အစြမ္းအံ့မခန္း
+029.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-29-KoWanKoHtamKoLamKoShout.mp3|၂၉။ ကိုယ့္ဝန္ကိုယ္ထမ္းကိုယ့္လမ္းကိုယ္ေလွ်ာက္
+030.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-30-MayatManarWatThonePar.mp3|၃၀။ မရပ္မနားဝဋ္သံုးပါး
+031.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-31-DatKyiLayParShuPwarPone.mp3|၃၁။ ဓါတ္ႀကီးေလးပါးရႈပြားပံု
+032.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-32-TaDingaMahanTetBinganyan.mp3|၃၂။ တဒဂၤမဟန္တဲ့ဘဂၤဉာဏ္
+033.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-33-TayarBarKyaungArHtateTal.mp3|၃၃။ တရားဘာေၾကာင့္ အားထုတ္တယ္ (၁-၅)
+034.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-34-TayarBarKyaungArHtateTal-2.mp3|၃၄။ တရားဘာေၾကာင့္ အားထုတ္တယ္ (၂-၅)
+035.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-35-TaryabarkyaungArhtotetel3.mp3|၃၅။ တရားဘာေၾကာင့္ အားထုတ္တယ္ (၃-၅)
+036.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-36-TaryabarkyaungArThataer4.mp3|၃၆။ တရားဘာေၾကာင့္ အားထုတ္တယ္ (၄-၅)
+037.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-37-TaryabarkyaungArthataer5.mp3|၃၇။ တရားဘာေၾကာင့္ အားထုတ္တယ္ (၅-၅)
+038.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-38-PhayarKoeKweTaGoKywae.mp3|၃၈။ ဘုရားကိုးကြယ္တန္ခိုးႂကြယ္
+039.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-39-Tayarkoekwepyinyakywae.mp3|၃၉။ တရားကိုးကြယ္ပညာႂကြယ္
+040.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-40-thangarkoekwesiseinkywe.mp3|၄၀။ သံဃာကိုးကြယ္စည္းစိမ္ႂကြယ္
+041.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-41-Appamada.mp3|၄၁။ အပၸမာဒတရားေတာ္
+042.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-42-Dullaba.mp3|၄၂။ ဒုလႅဘ တရားေတာ္
+043.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-43-Metta.mp3|၄၃။ ေမတၱာတရားေတာ္
+044.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-44-Garudhamma.mp3|၄၄။ ဂ႐ုဓမၼတရားေတာ္
+045.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-45-BalPanTharLoeYinPartMal.mp3|၄၅။ ဘယ္ပန္းသာလို႔ယဥ္ပါ့မယ္
+046.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-46-Kinda%20da%20Sutta.mp3|၄၆။ ကႎဒဒသုတၱံ
+047.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-47-ThappurithaMyatDana.mp3|၄၇။ သပၸဳရိသျမတ္ဒါန
+048.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-48-AHulaTaPweSitPweTayar.mp3|၄၈။ အလွဴတစ္ပြဲစစ္ပြဲတစ္ရာ
+049.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-49-KuThoHninAkuTho.mp3|၄၉။ ကုသိုလ္ႏွင့္အကုသိုလ္
+050.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-50-KhanTiHninNibban-1.mp3|၅၀။ ခႏၲီႏွင့္နိဗၺာန္တရားေတာ္(၁)
+051.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-51-KhanTiHninNibban-2.mp3|၅၁။ ခႏၲီႏွင့္နိဗၺာန္တရားေတာ္(၂)
+052.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-52-Adhika%20and%20Tharmannya.mp3|၅၂။ အဓိကႏွင့္သာမည
+053.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-53-OatSarHnaMyo.mp3|၅၃။ ဥစၥာႏွစ္မ်ိဳး
+054.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-54-The%20four%20person.mp3|၅၄။ ပုဂၢိဳလ္ေလးမ်ိဳး
+055.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-55-Adanedanpauk.mp3|၅၅။ အဓိ႒ာန္ေပါက္မွနိဗၺာန္ေရာက္မယ္
+056.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-56-AdanedanAswan.mp3|၅၆။ အဓိ႒ာန္အစြမ္းနိဗၺာန္ျမန္း
+057.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-57-satekoepyiepyi1.mp3|၅၇။ စိတ္ကိုျပဳျပင္နိဗၺာန္ဝင္(၁)
+058.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-58-satekoepyiepyin2.mp3|၅၈။ စိတ္ကိုျပဳျပင္နိဗၺာန္ဝင္(၂)
+059.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-59-Mingalar-1.mp3|၅၉။ မဂၤလာတရား (၁)-(၈)
+060.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-60-Mingalar-2.mp3|၆၀။ မဂၤလာတရား (၂)-(၈)
+061.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-61-Mingalar-3.mp3|၆၁။ မဂၤလာတရား (၃)-(၈)
+062.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-62-Mingalar-4.mp3|၆၂။ မဂၤလာတရား (၄)-(၈)
+063.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-63-Mingalar-5.mp3|၆၃။ မဂၤလာတရား (၅)-(၈)
+064.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-64-Mingalar-6.mp3|၆၄။ မဂၤလာတရား (၆)-(၈)
+065.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-65-Mingalar-7.mp3|၆၅။ မဂၤလာတရား (၇)-(၈)
+066.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-66-Mingalar-8.mp3|၆၆။ မဂၤလာတရား (၈)-(၈)
+067.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-67-LaMyatKasone%20Buddhagone.mp3|၆၇။ လျမတ္ကဆုန္ဗုဒၶဂုဏ္
+068.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-68-WrongWayAndRightWay.mp3|၆၈။ လမ္းမွားႏွင့္လမ္းမွန္
+069.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-69-PhayarBarKyaungKoeKwelTel.mp3|၆၉။ ဘုရားဘာေၾကာင့္ကိုးကြယ္တယ္
+070.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-70-SimeeBarKyaungTunYaTel.mp3|၇၀။ ဆီမီးဘာေၾကာင့္ထြန္းရတယ္
+071.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-71-BirthdayMingalar.mp3|၇၁။ ေမြးေန႔မဂၤလာ
+072.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-72-AyaTawSwaLubawa.mp3|၇၂။ အရေတာ္စြဲလူ႔ဘဝ
+073.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-73-AyweThoneParTanPhoeHtar.mp3|၇၃။ အရြယ္သံုးပါး တန္ဖိုးထား
+074.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-74-MyatPhayarEiPaHtaMaSagartaw.mp3|၇၄။ ျမတ္ဘုရား၏ ပထမဆံုးစကားေတာ္
+075.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-75-ZararOandKanyarpyo.mp3|၇၅။ ဇရာအိုႏွင့္ ကညာပ်ိဳ
+076.mp3|http://dhammadownload.com/MP3Library/AshinThuriya/CD2/AshinThuriya-76-NyarMaShiKanshiTineLwe.mp3|၇၆။ ဉာဏ္မရွိ ကံရွိတိုင္းလြဲ

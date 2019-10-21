@@ -1,0 +1,35 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/122/1.mp3|၁။ သူတော်ကောင်းအမှတ်အသား (ဘဒ္ဒန္တပညာသိရီ) (၁၄.၉.၂၀၁၈)နေ့
+002.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/122/2.mp3|၂။ စွန့်လွှတ်ခြင်း၏ ဘုန်းတန်ခိုးတရား (ဘဒ္ဒန္တဝါယာမသိရ) (၁၄.၉.၂၀၁၈)ည
+003.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/122/3.mp3|၃။ သန်ရည်ကပ်စွမ်းမြတ်သင်္ကန်း(ဘဒ္ဒန္တကုမုဒသိရီ) (၁၅.၉.၂၀၁၈) နေ့
+004.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/122/4.mp3|၄။ သုဘာသိတသုတ္တန် (ဘဒ္ဒန္တကောမုဒိဝရ) (၁၅.၉.၂၀၁၈)ည
+005.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/122/5.mp3|၅။ သိကြားမင်းရဲ့ ဒါနအောင်ပွဲတရား (ဘဒ္ဒန္တဝိစာရ) (၁၆.၉.၂၀၁၈)နေ့
+006.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/122/6.mp3|၆။ ပျားပိတုန်းကဲ့သို့ ပြုကျင့်ပါ (ဘဒ္ဒန္တဉာဏဝရ) (၁၆.၉.၂၀၁၈)ည
+007.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/122/7.mp3|၇။ လူလိုနေမှ လူပီသ တရားတော် (ဘဒ္ဒန္တသီဟဉာဏာလင်္ကာရာဘိဝံသ) (၁၇.၉.၂၀၁၈)နေ့
+008.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/122/8.mp3|၈။ ဒက္ခိဏာဝိဘင်ဂသုတ္တန်(ဘဒ္ဒန္တတရုဏပဏ္ဍိတ) (၁၇.၉.၂၀၁၈) ည
+009.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/122/9.mp3|၉။ ဒါနပုံရိပ် ယုံတံဆိပ် (ပါမောက္ခချုပ်ဆရာတော်ဘုရားကြီး) (၁၉.၉.၂၀၁၈)
+010.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/122/10.mp3|၁၀။ ပထမနာနာတိတ္ထိယသုတ် (သီတဂူဆရာတော်ဘုရားကြီး) (၂၀.၉.၂၀၁၈)
+011.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/1.mp3|၁။ ကုသိုလ်ဒါနပြုပါကြ (ဘဒ္ဒန္တကုသလဗုဒ္ဓိ) (၂၆.၈.၂၀၁၇)
+012.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/2.mp3|၂။ ဘဝအောင်မြင်ရေးတရားတော်(ဘဒ္ဒန္တဝါယာမသိရီ)(၂၆.၈.၂၀၁၇)
+013.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/3.mp3|၃။ အစားရနေပါစေ လှူနေရဝမ်းသာတယ် (ဘဒ္ဒန္တကေသဝ)(၂၇.၈.၂၀၁၇)
+014.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/4.mp3|၄။ ဗဟုကာရသုတ္တန်(ဘဒ္ဒန္တကောမုဒိဝရ)(၂၇.၈.၂၀၁၇)
+015.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/5.mp3|၅။ ကြီးပွားကြောင်းတရား(ဘဒ္ဒန္တတိက္ခဉာဏ)(၂၈.၈.၂၀၁၇)
+016.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/6.mp3|၆။ ထေရိကာအပါဒါန်(ဘဒ္ဒန္တဉာဏဝရ)(၂၈.၈.၂၀၁၇)
+017.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/7.mp3|၇။ အဘိဓဇမဟာရဋ္ဌဂုရုပူဇာ (ကျပ်-သိန်းတစ်ထောင်)ပူဇော်ပွဲ (၂၉.၈.၂၀၁၇)
+018.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/8.mp3|၈။ (၁၂၁)နှစ်မြောက် အကြိုရေစက်ချဓမ္မသဘင် (ဘဒ္ဒန္တတရုဏပဏ္ဍိတ)(၂၉.၈.၂၀၁၇)
+019.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/9.mp3|၉။ အရိပ်ကောင်းမှ နားခိုပါ (ဘဒ္ဒန္တဓမ္မောသဓ)(၂၉.၈.၂၀၁၇)
+020.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/10.mp3|၁၀။ ကလျဏမိတ္တအကြောင်း သိကောင်းစရာ (ဘဒ္ဒန္တဝဏ္ဏိတာလင်္ကာရာဘိဝံသ) (၃၀.၈.၂၀၁၇)
+021.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/11.mp3|၁၁။ ကောင်းကင်ယံက တရားသံ (ဘဒ္ဒန္တခေမာသိရီလင်္ကာရ) (၃၀.၈.၂၀၁၇)
+022.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/12.mp3|၁၂။ လျှော့မတွက်နဲ့ (ဘဒ္ဒန္တဝံသပါလာဘိဝံသ) (၃၁.၈.၂၀၁၇)
+023.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/13.mp3|၁၃။ မထေမြတ်တို့၏ အမှတ်တရစကား အပိုင်း (၈)(ပါမောက္ခချုပ်ဆရာတော်ဘုရားကြီး)(၃၁.၈.၂၀၁၇)
+024.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/14.mp3|၁၄။ ဒါတွေမပျောက်စေနဲ့ (ဘဒ္ဒန္တဘဒ္ဒန္တဇဝန)(၁.၉.၂၀၁၇)
+025.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/121/15.mp3|၁၅။ ခဂ္ဂဝိသာဏသုတ္တန် (သီတဂူဆရာတော်ဘုရားကြီး) (၁.၉.၂၀၁၇)
+026.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/songs/01.mp3|၁။ အလှူခံသီချင်း (၅၈)မိနစ်
+027.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/songs/02history.mp3|၂။ အလှူခံသီချင်း (၅၇)မိနစ်
+028.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/songs/03Yoemin.mp3|၃။ အလှူခံသီချင်း (၅၆)မိနစ်
+029.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/songs/04yarpyae.mp3|၄။ အလှူခံသီချင်း (၅၉)မိနစ်
+030.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/songs/05ML(1).mp3|၅။ အလှူခံသီချင်း (၆)မိနစ်
+031.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/songs/06ML(2).mp3|၆။ အလှူခံသီချင်း (၇)မိနစ်
+032.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/songs/07ML(3).mp3|၇။ အလှူခံသီချင်း (၇)မိနစ်
+033.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/songs/08ML(4).mp3|၈။ အလှူခံသီချင်း (၈)မိနစ်
+034.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/songs/09Track1.mp3|၉။ အလှူခံသီချင်း (၇)မိနစ်
+035.mp3|https://media.thitsarparamisociety.com/mp3/2018/malonzay/songs/010Track2.mp3|၁၀။ အလှူခံသီချင်း (၄)မိနစ်

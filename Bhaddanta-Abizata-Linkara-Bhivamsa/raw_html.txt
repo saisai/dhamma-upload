@@ -1,0 +1,793 @@
+<font face="Zawgyi-One">
+
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<!-- Start dhammadownload menu top and side bar -->
+
+
+<div style="position: absolute; width: 100px; height: 100px; z-index: 1; left: 7px; top: 4px;" id="layer21">
+	<img src="images/Top-button-wt.gif" width="680" height="132" border="0"></div>
+<div style="position: absolute; width: 506px; height: 63px; z-index: 2; left: 52px; top: 43px;" id="layer22" align="center">
+	<font size="6" color="#800080">အရွင္အဘိဇာတာဘိဝံသ</font></div>
+<div style="position: absolute; width: 100px; height: 100px; z-index: 20; left: 540px; top: 10px;" id="layer23">
+	<img src="images/ashin-Abizata-Bhivamsa-Linkara200x200.gif" width="231" height="225" border="0"></div>
+	
+
+
+
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 143px;" id="layer1">
+       <a href="index.htm" target="_parent">
+       <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+    <p></p>
+</a></div><a href="index.htm" target="_parent">
+
+</a><div style="position: absolute; width: 157px; height: 37px; z-index: 1; left: 22px; top: 154px;" id="layer2" align="center"><a href="index.htm" target="_parent">
+    <font size="4">
+      </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="index.htm">Home Page</a>
+   </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 2; left: 8px; top: 201px" id="layer3">
+    <a href="AbhidhammaInEnglish.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0">
+</a></div><a href="AbhidhammaInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 3; left: 19px; top: 208px;" id="layer4" align="center"><a href="AbhidhammaInEnglish.htm" target="_parent">
+    <font size="4">
+       </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInEnglish.htm">Abhidhamma in English</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; height: 58px; z-index: 4; left: 8px; top: 270px; width: 186px" id="layer5">
+    <a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0">
+</a></div><a href="AbhidhammaInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 32px; z-index: 5; left: 20px; top: 276px;" id="layer6" align="center"><a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInMyanmar.htm">Abhidhamma in Myanmar</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 6; left: 8px; top: 339px;" id="layer7">
+    <a href="AudioInEnglish.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="AudioInEnglish.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 34px; z-index: 7; left: 20px; top: 350px;" id="layer8" align="center"><a href="AudioInEnglish.htm" target="_parent">
+     <font size="4">
+         </font></a><font size="4"><a target="_parent" href="AudioInEnglish.htm">Audio in English</a>
+     </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 8; left: 8px; top: 398px;" id="layer9">
+    <a href="AudioInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="AudioInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 9; left: 19px; top: 408px;" id="layer10" align="center"><a href="AudioInMyanmar.htm" target="_parent">
+      <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AudioInMyanmar.htm">Audio in Myanmar</a>
+      </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 10; left: 8px; top: 457px" id="layer11">
+    <a href="VideoInEnglish.htm" target="_parent">
+      <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="VideoInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 156px; height: 30px; z-index: 11; left: 23px; top: 469px;" id="layer12" align="center"><a href="VideoInEnglish.htm" target="_parent">
+     <font size="4">
+        </font></a><font size="4"><a target="_parent" href="VideoInEnglish.htm">Video in English</a>
+     </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 12; left: 8px; top: 516px" id="layer13">
+    <a href="VideoInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="VideoInMyanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 161px; height: 33px; z-index: 13; left: 18px; top: 527px;" id="layer14" align="center"><a href="VideoInMyanmar.htm" target="_parent">
+     <font size="4"></font></a><font size="4"><a href="VideoInMyanmar.htm">Video in Myanmar </a></font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 14; left: 8px; top: 575px" id="layer15">
+    <a href="eBook-English.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="eBook-English.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 31px; z-index: 15; left: 19px; top: 587px;" id="layer16" align="center"><a href="eBook-English.htm" target="_parent">
+    <font size="4">
+    </font>
+    <font size="4">
+    </font></a><font size="4"><a href="eBook-English.htm">eBook in English</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 16; left: 8px; top: 634px" id="layer17">
+     <a href="eBook-Myanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="eBook-Myanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 154px; height: 32px; z-index: 17; left: 22px; top: 646px;" id="layer18" align="center"><a href="eBook-Myanmar.htm" target="_parent"><font size="4">
+	</font><font size="4">
+	</font></a><font size="4"><a href="eBook-Myanmar.htm">eBook in Myanmar</a></font></div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 18; left: 8px; top: 693px" id="layer19">
+    <a href="dhammadownload-news.htm" target="_parent">
+    <img style="top: 660px; height: 54px;" src="images/Side-button-wt.gif" width="182" border="0">
+</a></div><a href="dhammadownload-news.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 158px; height: 36px; z-index: 19; left: 22px; top: 705px;" id="layer20" align="center"><a href="dhammadownload-news.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="dhammadownload-news.htm">NEWS
+	သတင္း႑</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 993px" id="layer37">
+    <p style="margin-top: 3px; height: 54px;">
+    <a target="_parent" href="Contribute-to-dhammadownload.htm">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 933px" id="layer35"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="Suggestion-cbox.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 872px;" id="layer33"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><p style="margin-top: 3px; height: 54px;"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a target="_parent" href="contact.htm">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 811px" id="layer31"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="usefullinks.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="usefullinks.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 750px" id="layer27"><a href="usefullinks.htm" target="_parent"> </a><a href="live.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="live.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 1010px;" id="layer38" align="center"><a href="live.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="Contribute-to-dhammadownload.htm">လႈဒါန္းရန္</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 946px;" id="layer36" align="center">
+    <font size="4"><a href="Suggestion-cbox.htm">အႀကံျပဳခ်က္မ်ား</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 886px;" id="layer34" align="center">
+    <font size="4"><a href="contact.htm">Contact Us</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 825px;" id="layer32" align="center">
+    <font size="4"><a href="usefullinks.htm">Useful Link</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 762px;" id="layer28" align="center">
+    <font size="4"><a href="live.htm">LIVE Webcast</a></font></div>
+
+
+
+<div style="position: absolute; width: 192px; height: 450px; z-index: 23; left: 9px; top: 1147px; background-color:#F3F3F3" id="layer30">
+<font size="6">iPhone, iPAD </font><font size="2">ကိုအသံုးျပဳသူမ်ားသည္ 
+	Mp3 မ်ားကို တိုက္ရိုက္ နာယူႏိုင္ပါသည္။ ဗီဒီယိုတရားေတာ္မ်ား အတြက္ App Store တြင္
+	<font color="#FF0000">Oplayer Lite</font> (သို႕မဟုတ္) yxplayer2 Lite 
+	ကို Free Download အသုံးျပဳၿပီး ၾကည္႕ရႈႏိုင္ပါသည္။
+</font>
+	<p><font size="2">
+	တျခား Mobile Phone မ်ားအတြက္ Opera Browser ကို အသုံးျပဳႏိုင္ပါသည္။</font></p><p>
+<font size="2">Android version 2.1တြင္ ျမန္မာလို မျမင္ရပါ။  Android  version 2.2 ႏွင့္ ဒီထက္ျမင့္ေသာ Android Version မ်ားပါရွိေသာ Mobile, Tablet မ်ားကို အသုံးျပဳက ျမန္မာလို ျမင္ရ ႏိုင္ပါသည္။</font></p></div>
+
+
+
+<div style="position: absolute; width: 171px; height: 64px; z-index: 23; left: 9px; top: 1074px; " id="layer39">
+<a href="https://www.facebook.com/groups/dhammadownload/?ref=br_rs#">
+<img src="images/facebook-logo.gif" width="159" height="59" border="0"></a></div>
+<!-- end dhammadownload menu top and side bar -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="position: absolute; width: 1101px; height: 6396px; z-index: 21; left: 239px; top: 243px" id="layer24" font="" face="Zawgyi-One">
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									ဓမၼာစရိယ (၁၀)ဘြဲ႕၊ </p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									ပါဠိပါရဂူ 
+									(၃)ဘြဲ႕၊ ဝိဒူ(၅)ဘြဲ႕၊ </p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									မဟာဝိဒူ(၅)ဘြဲ႕ႏွင့္ အျခားအစိုးရ 
+									တိပိဋကဆုိင္ရာ ဘြဲ႕မ်ား အပါအဝင္ 
+									ဘြဲ႕တံဆိပ္ေပါင္း (၄၇)ဘြဲ႕ရ<font size="4">
+									</font></p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<font size="4">မုံရြာၿမိဳ႕ သဒၶမၼေဇာတက 
+									သုေဗာဓါရုံေက်ာင္းတိုက္၊ <br>
+									ဒြါဒသမ တိပိဋက ဓရ 
+									ဓမၼဘ႑ာဂါရိက </font></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<font size="6">အသွ်င္အဘိဇာတာဘိဝံသ
+									</font><font size="4"><br>
+									&nbsp;စစ္ကိုင္းဆရာေတာ္</font></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+						<span class="text_exposed_show">**************************<wbr>​***********</span></p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<span class="text_exposed_show">ဆရာေတာ္၏ 
+									ေထရုပတၱိ အက်ဥ္း</span></p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+						<span class="text_exposed_show">**************************<wbr>​***********</span></p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<br>
+									မုံရြာၿမိဳ႕ သဒၶမၼေဇာတက 
+									သုေဗာဓါရုံေက်ာင္းတိုက္၊ <br>
+									ဒြါဒသမ တိပိဋကဓရ၊ တိပိဋကေကာဝိဒ၊ တိပိဋက ဓရ 
+									ဓမၼဘ႑ာဂါရိက <br>
+									ဆရာေတာ္ အသွ်င္အဘိဇာတာ လကၤာရာ ဘိဝံသ<br>
+									<br>
+									~~~~~~<br>
+									အတၳဳပၸတၱိကထာ<br>
+									~~~~~~<br>
+									<br>
+									~~~~~~<br>
+									ဝိဇာတမဂၤလာ<br>
+									~~~~~~<br>
+									<br>
+									ဘဒၵႏၱအဘိဇာတာဘိဝံသသည္ စစ္ကိုင္းတုိင္း၊ 
+									ဝက္လက္ၿမိဳ႕နယ္၊ ဆင္နင္းေက်းရြာတြင္ 
+									ခမည္းေတာ္ဦးတင္ရႏွင့္ မယ္ေတာ္ 
+									ေဒၚၫြန္႔ခင္တို႔မွ ၁၃၃၀-ျပည္႕ႏွစ္ 
+									သီတင္းကၽြတ္လဆန္း (၈)ရက္၊ (၂၉-၉-၁၉၆၈)ရက္၊ 
+									တနဂၤေႏြေန႔တြင္ ဖြားျမင္ခဲ့ျခင္းျဖစ္ခဲ့ေသာ 
+									သားရတနာ ျဖစ္သည္။ ေမြးခ်င္း (၇)ဦး အနက္ 
+									တတိယသားရတနာ ျဖစ္သည္။ ဆရာေတာ္ သည္ (၂၉၊ ၁ဝ၊ 
+									၁၉၇၉)ရက္တြင္ မိဘႏွစ္ပါး၏ ပစၥယာ ႏုဂၢဟျဖင့္ 
+									ဆင္နင္းေက်းရြာ၊ ဇမၺဴမဂၤလာေရႊရပ္သာေက်ာင္း 
+									ဆရာေတာ္က ဦးပဇၥ်ာယ္ျပဳ၍ ရွင္သမေဏ အျဖစ္သို႔ 
+									ေရာက္ရွိခဲ့သည္။<br>
+									<br>
+									(၁) ဘဒၵႏၱမာနိတာလကၤာရာဘိဝံသ 
+									(ဓမၼမာနိတာရုံဆရာေတာ္၊ စက္မႈ-၂၊ မႏၱေလး)<br>
+									(၂) (ေမာင္ခ်စ္ေအာင္) (ငယ္စဥ္က ဆုံးပါး)<br>
+									(၃) တိပိဋိကဓရဆရာေတာ္<br>
+									(၄) ကိုေအာင္ေသာင္း<br>
+									(၅) ဘဒၵႏၱဝိဇယာလကၤာရာဘိဝံသ (Delhi University, 
+									New Delhi, India)<br>
+									(၆) မသိန္းသိန္းဆယ္<br>
+									(၇) မသိန္းသိန္းေဆြ ဟု ေမြးခ်င္း ခုႏွစ္ေယာက္ 
+									ရွိရာ တတိယေျမာက္ သားသရတနာ ျဖစ္သည္။<br>
+									<br>
+									~~~~~~<br>
+									ပဗၺဇၨမဂၤလာ<br>
+									~~~~~~<br>
+									<br>
+									<br>
+									<br>
+									၁၃၄၁-ခုႏွစ္၊ နတ္ေတာ္လဆန္း (၁၁)ရက္ 
+									(၂၉-၁၀-၁၉၇၉) ၾကာသာပေတးေန႕တြင္ 
+									မိဘႏွစ္ပါးတို႕၏ ပစၥယာႏုဂၢဟျဖင့္ 
+									ဆင္ႏွင္းေက်းရြာ ဇမၺဴ႕မဂၤလာ 
+									ေရႊရပ္သာေက်ာင္းဆရာေတာ္ကို ဥပဇၥ်ာယ္ျပဳ၍ 
+									ရွင္သာမေဏအျဖစ္သို႕ ေရာက္ရွိခဲ့သည္။<br>
+									<br>
+									~~~~~~<br>
+									သိပၸမဂၤလာ<br>
+									~~~~~~<br>
+									<br>
+									၁၃၄၁-ခုႏွစ္၊ နတ္ေတာ္လျပည္႕ေက်ာ္ (၁၁)ရက္၊ 
+									(၁၄-၁၂-၁၉၇၉) ရက္ေန႕မွာပင္ ဦးေလးေတာ္၊ 
+									ေနာင္ေတာ္မ်ားရွိရာ စစ္ကိုင္းၿမိဳ႕၊ မဟာ 
+									သုေဗာဓာ႐ံု ေက်ာင္းတိုက္သို႕ ပညာရင္ႏို႔ 
+									ေသာက္စို႔ရန္ ေရာက္ရွိခဲ့သည္။ ရွင္သာမေဏဘဝတြင္ 
+									ဦးေလးေတာ္၊ ေနာင္ေတာ္တို႔၏ အနီးကပ္ 
+									ၾကပ္မတ္ပဲ့ျပင္မႈျဖင့္ ပညာင္ၾကားခဲ့ရာ 
+									'သာသနာလကၤာရ သာမေဏေက်ာ္' ဘြဲ႕ႏွင့္ 'သာသန 
+									ဓဇဓမၼာစရိယ' ဘြဲ႕ေတာ္တို႔ကုိ ရွင္သာမေဏ 
+									ဘဝမွာပင္ ရရွိခဲ့သည္။ <br>
+									<br>
+									~~~~~~<br>
+									ဥပသမၸဒမဂၤလာ<br>
+									~~~~~~<br>
+									<br>
+									၁၃၄၉-ခုႏွစ္၊ ျပာသိုလျပည္႕ေက်ာ္ (၁)ရက္၊ ( ၄- 
+									၁-၁၉၈၈ )ရက္ တနလာၤေန႕တြင္ ဝက္လက္ၿမိဳ႕၊ 
+									ႀကံ႕ခိုင္ရပ္၊ ဦးသန္းထြန္း +ေဒၚဟန္ၫြန္႔တို႔၏ 
+									ပစၥယာႏုဂၢဟျဖင့္ ဝက္လက္ၿမိဳ႕၊ သီရိရပ္၊ 
+									ဓမၼာ႐ံုေက်ာင္း၊ သာသနဝိလာသိနီသိမ္ေတာ္တြင္ 
+									ျမင့္ျမတ္ေသာ ရဟန္းအျဖစ္ ေရာက္ရွိခဲ့သည္။ 
+									ဥပဇၥၽာယ္ဆရာေတာ္မွာ ေနာင္တြင္ အဂၢမဟာပ႑ိတ၊ 
+									အဘိဓဇ မဟာရ႒ဂု႐ု၊ ေရႊက်င္နိကာယ ဥပဥကၠ႒ မဟာနာယက 
+									(တြဲဖက္ေရႊက်င္သာသနာပိုင္) ျဖစ္လာမည့္ 
+									စစ္ကိုင္းၿမိဳ႕၊ မဟာသုေဗာဓာ႐ံု ေက်ာင္းတိုက္ 
+									ပဓာနာယက ဆရာေတာ္ ျဖစ္သည္။ <br>
+									ေနာင္တြင္ ကုသိုလ္ရွင္ မ်ားစြာတုိ႔က 
+									သိကၡာထပ္မဂၤလာ ျပဳလုပ္ခဲ့ၾကသည္။ <br>
+									<br>
+									~~~~~~<br>
+									ဝိဇယမဂၤလာ<br>
+									~~~~~~<br>
+									<br>
+									ဆရာေတာ္သည္ တစ္ဖက္တြင္ေက်ာင္းတိုက္ အတြက္ 
+									စာေပပို႔ခ်မႈ၊ အုပ္ခ်ဳပ္မႈတာဝန္မ်ားကို အထက္ 
+									မေထရ္ႀကီးမ်ား၏ ၫႊန္ၾကားခ်က္အတိုင္း 
+									ထမ္းေဆာင္ရင္း တစ္ဖက္ကလည္း မိမိအတြက္ 
+									အထက္တန္းပိဋကစာေပမ်ားကုိ ေလ့လာဆည္းပူးကာ 
+									ျမန္မာျပည္အရပ္ရပ္ရွိ စာျပန္ပြဲ၊ 
+									စာေမးပြဲမ်ား၌ တတ္စြမ္းသမွ် ဝင္ေရာက္ျပန္ဆုိ 
+									ေျဖဆိုခဲ့ရာ ယခု(၁၃၇၁)ခုႏွစ္ အထိ စာျပန္ပြဲ၊ 
+									စာေမးပြဲေပါင္း (၅ဝ)ေက်ာ္ (၆ဝ)ခန္႔ကုိ 
+									ျပန္ေျဖဆို ေအာင္ျမင္ခဲ့သည္။ <br>
+									ဓမၼာစရိယ (၁၀)ဘြဲ႕၊ ပါဠိပါရဂူ(၃)ဘြဲ႕၊ 
+									ဝိဒူ(၅)ဘြဲ႕၊ မဟာဝိဒူ(၅)ဘြဲ႕ႏွင့္ အျခားအစိုးရ 
+									တိပိဋကဆုိင္ရာ ဘြဲ႕မ်ား အပါအဝင္ 
+									ဘြဲ႕တံဆိပ္ေပါင္း (၄၇)ဘြဲ႕ကုိ ဆြတ္ခူး 
+									ရရွိခဲ့သည္။ <br>
+									<br>
+									(ႏွစ္စဥ္အလိုက္ ရရွိခဲ့ေသာ ဘြဲ႕တံဆိပ္မ်ားကို 
+									သီးသန္႕ ေဖာ္ျပထားသည္။)<br>
+									<br>
+									<br>
+									~~~~~~<br>
+									စာေပေက်းဇူးရွင္မ်ား<br>
+									~~~~~~<br>
+									<br>
+									ဘဒၵႏၱအဘိဇာတာဘိဝံသ၏ စာေပေက်းဇူးရွင္မ်ားမွာ-<br>
+									(၁)ဝက္လက္ၿမိဳ႕နယ္၊ ဆင္နင္းေက်းရြာ၊ 
+									ဇမၺဴမဂၤလာေရႊရပ္သာ ေက်ာင္းဆရာေတာ္၊ 
+									(၂)စစ္ကုိင္းၿမိဳ႕၊ မဟာသုေဗာဓာ႐ံု 
+									ေက်ာင္းတိုက္၊ အာရာမသမု႒ာပက ပဓာနနာယက၊ 
+									အဂၢမဟာပ႑ိတ၊ အဘိဓဇမဟာရ႒ဂု႐ု၊ ေရႊက်င္ နိကာယ 
+									ဥပကၠ႒ မဟာနာယက (တြဲဖက္ေရႊက်င္သာသနာပုိင္) 
+									ဆရာေတာ္၊ <br>
+									(၃)စစ္ကုိင္းၿမိဳ႕၊ မဟာသုေဗာဓာ႐ံု 
+									ေက်ာင္းတုိက္(ဒုတိယ) ပဓာနနာယက၊ ရန္ကုန္ၿမိဳ႕၊ 
+									အျပည္ျပည္ဆုိင္ရာ ေထရဝါဒ တကၠသိုလ္ပါေမာကၡခ်ဳပ္ 
+									၊အဘိဓမၼာမဟာသိပၸံပါေမာကၡခ်ဳပ္၊ 
+									စစ္ကုိင္းၿမိဳ႕၊ သီတဂူ ကမၻာ့ဗုဒၶတကၠသိုလ္ 
+									ပါေမာကၡခ်ဳပ္ ဆရာေတာ္ 
+									ဘဒၵႏၲေဒါက္တာနႏၵမာလာဘိဝံသ၊ <br>
+									(၄)မတၲရာၿမိဳ႕၊ သာသနေဇာတာ႐ံု ေက်ာင္းတိုက္ 
+									နာယကဆရာေတာ္၊ <br>
+									(၅) သုေဗာဓက ဂဏဝါစကမ်ား ျဖစ္ၾကေသာ 
+									အရွင္အဓိဝါသ၊ အရွင္ဓိေနာရသ၊ 
+									အရွင္ပိေ႑ာလာဘိဝံသ၊ <br>
+									(၆) ဦးေလး ေတာ္ေနာင္ခ်ိဳၿမိဳ႕၊ ကတီပင္ေက်ာင္း 
+									ဆရာေတာ္ ဘဒၵႏၲ ဥတၲမ၊ <br>
+									(၇)ေနာင္ေတာ္-မႏၲေလးၿမိဳ႕၊ 
+									ျပည္ႀကီးတံခြန္ၿမိဳ႕နယ္၊ စက္မႈ(၂)၊ 
+									ဓမၼမာနိတာ႐ံု ေက်ာင္းတိုက္ဆရာေတာ္ 
+									ဘဒၵႏၲမာနိတာဘိဝံသ၊ <br>
+									(၈)ႏိုင္ငံေတာ္သံဃမဟာနာယကအဖြဲ႕ ဥကၠ႒ 
+									ဗန္းေမာ္ဆရာေတာ္တို႔ ျဖစ္သည္။ <br>
+									<br>
+									ဆရာေတာ္၏ ထူးျခားခ်က္တစ္ခုမွာ ေနာင္ေတာ္ 
+									ဘဒၵႏၲမာနိတာဘိဝံသႏွင့္ ညီေတာ္ 
+									ဘဒၵႏၲဝိဇယာလကၤာရာဘိဝံသ ( သစသအ ) 
+									ဓမၼာစရိယတို႔ႏွင့္ အတူ ညီအစ္ကို (၃)ဦးစလံုး 
+									သာသနာလကၤာရ ဘြဲ႕ကို သာမေဏဘဝတြင္ 
+									ရရွိခဲ့သူျဖစ္သည္။ <br>
+									<br>
+									<br>
+									~~~~~~<br>
+									သာသနာ့တာဝန္ထမ္းေဆာင္ျခင္း<br>
+									~~~~~~<br>
+									<br>
+									<br>
+									ဘဒၵနၱအဘိဇာတာဘိဝံသသည္ ရဟန္းျဖစ္သည့္နွစ္မွ 
+									စ၍ယေန့တိုင္ေအာင္ နွစ္ရွည္လမ်ား 
+									ေသာတုဇနတို့အား စာဝါမ်ားပို့ခ်ခဲ့သည္။ 
+									ေက်းဇူးရွင္ (ပထမ) ပဓာန နာယက ဆရာေတာ္ 
+									ဘုရားၾကီး ၏ ၁၃၆၀-ျပည့္နွစ္ (၁၉၉၈-ခုနွစ္)တြင္ 
+									"တဲြဖက္ ဒုတိယတိုက္ၾကပ္" အျဖစ္လည္းေကာင္း၊ 
+									၁၃၆၉နွစ္ (၂၀၀၇-ခုနွစ္)တြင္ "ဒုတိယတိုက္ၾကပ္" 
+									အျဖစ္လည္းေကာင္း၊ တာဝန္ေပးအပ္ 
+									ခီ်းေျမွာက္မႈကို ခံယူခဲ့ရသည္။<br>
+									<br>
+									ထို့အျပင္ ဆရာေတာ္ ဘုရားၾကီး ၏ အမိန့္အရ 
+									ေသာတုဇနငယ္မ်ား ေလ့လာရန္...<br>
+									<br>
+									၁၊ သုေဗာဓက အဂၤုတၱရနီတိ (ပထမအဆင့္)<br>
+									၂၊ သုေဗာဓက ဓမၼပဒနီတိ (ပထမအဆင့္)<br>
+									၃၊ သုေဗာဓက သဂၤဟသရုပ္ဆိုရိုး (မူလပထမအဆင့္)<br>
+									၄၊ သုေဗာဓက သဂၤဟသရုပ္ဆိုရိုး (မူလဒုတိယအဆင့္)<br>
+									၅၊ သုေဗာဓက သဂၤဟသရုပ္ဆိုရိုး (မူလတတိယအဆင့္)<br>
+									က်မ္းစာငယ္တို့ကို ျပန္လည္စုစည္း 
+									ေဖၚထုတ္ေရးသားခဲ့ကာ ဓမၼဒါနျပုခဲ့သည္<br>
+									<br>
+									ဆရာေတာ္၏ စာေရးဆရာ ကေလာင္အမည္မ်ားမွာ 
+									ေမ့သားလွ(ေအာင္ေျမ)ႏွင့္ 
+									ဓမၼာစရိယဓမၼေအာင္စည္တို႔ ျဖင့္လည္း သာသနာျပဳ 
+									ကဗ်ာ ေဆာင္းပါးမ်ား ေရးသားလ်က္ရွိသည္။ <br>
+									<br>
+									<br>
+									၁၃၇၀-ျပည့္နွစ္၊ တပို့တဲြလျပည့္ 
+									(ပါတိေမာက္အခါေတာ္ေန့) (၉-၂-၂၀၀၉) တြင္ 
+									ေနာင္ေတာ္, ညီေတာ္မ်ား နွင့္အတူ မနၱေလး၊ 
+									ျပည္ၾကီးတံခြန္ျမို့နယ္၊ စက္မႈ(၂)၊ ၆၃x၆၄ 
+									လမ္းၾကား၌ "ဓမၼဓာနိတာရံုစာသင္တိုက္" ကို 
+									တည္ေထာင္ဖြင့္ လွစ္ခဲ့သည္။ ၁၃၇၅-ခု၊ 
+									နယုန္လတြင္ ရန္ကုန္ျမို့၊ 
+									ဒဂံုျမို့သစ္ေျမာက္ပိုင္း ရွမ္းတဲၾကီး 
+									ရပ္ကြက္၌ "သဒၶမၼနိတာရံု က်ာင္းတိုက္" 
+									ကိုတည္ေထာင္ဖြင့္လွစ္ခဲ့သည္။<br>
+									<br>
+									ယခုအခါ ဘဒၶနၱအဘိဇာတာဘိဝံသည္ မံုရြာျမို့၊ 
+									သဒၶမၼေဇာတကသု ေဗာဓာရံု ေက်ာင္းတိုက္ 
+									နာယကဆရာေတာ္<br>
+									အျဖစ္ျဖင့္ စာေပမ်ားပို့ခ်ရင္ 
+									တရားဓမၼေဟာၾကားရင္း သီတင္းသံုး လ်က္ရိွပါသည္။<br>
+									<br>
+									~~~~~~<br>
+									နွစ္ အလိုက္ရရိွခဲ့ေသာ ဘဲြ့တံဆိပ္မ်ား<br>
+									~~~~~~<br>
+									<br>
+									၁၊ မနၱေလး ပရိယတၱိသာသန ဟိတ သာသနာလကၤာရ 
+									သာေမေဏေက်ာ္။ (၁၃၄၈-ခု)<br>
+									၂၊ အစိုးရ သာသနဓဇဓမၼာစရိယ။ (၁၃၄၈-ခု)<br>
+									၃၊ အစိုးရ သာသနဓဇသိရီပဝရ ဓမၼာစရိယ 
+									(အဂၤုတၱိုရ္ျမန္မာဂုဏ္ထူး) (၁၃၅၀-ျပည့္)<br>
+									၄၊ ေက်ာင္းတိုက္ သုေဗာဓက ဓမၼာစရိယ။ (၁၃၅၂-ခု)<br>
+									၅၊ အစိုးရ သာသနဓဇဓမၼာစရိယ ဝိနိယပါဠိပါရဂူ။ 
+									(၁၃၅၂-ခု)<br>
+									၆၊ ျမင္းျခံ ပရိယတၱိသဒၶမၼပါလ ဓမၼာစရိယ။ 
+									(၁၃၅၄-ခု)<br>
+									၇၊ ရန္ကုန္ ေစတိယဂင္ၸရိယတၱိဓမၼာစရိယ ဂဏဝါစက 
+									(၁၃၅၄-ခု)<br>
+									၈၊ အစိုးရ သာသနဓဇဓမၼာစရိယ ဒီဃနိကာယပါဠိပါရဂူ 
+									(၁၃၅၄-ခု)<br>
+									၉၊ မနၱေလး ပရိယတၱိသာသနဟိတဓမၼာစရိယ (၁၃၅၆-ခု)<br>
+									၁၀၊ ေမာ္လျမိုင္ သုသမာစာရဓမၼာစရိယ ပိဋိကတၱယ 
+									အဂၢဝိသိဠ ေကာဝိဒ။ (၁၃၅၇)<br>
+									၁၁။ အစိုးရ ဥဘေတာဝိဘဂၤဓရ။ (၁၃၅၇-ခု)<br>
+									၁၂။ အစိုးရ ဥဘေတာဝိဘဂၤေကာဝိဒ။ (၁၃၅၈-ခု)<br>
+									၁၃။ ရန္ကုန္-နိကာယုေဇၨာတက ဓမၼဝိသာရဒ ဝိနယဓရ 
+									(ႏွစ္ခ်င္း) (မစိုးရိမ္ဆရာေတာ္ႀကီးဆု)။ 
+									(၁၃၅၉-ခု)<br>
+									၁၄။ အစိုးရ ဝိနယဓရ။ (၁၃၅၉-ခု)<br>
+									၁၅။ အစိုးရ ဝိနယေကာဝိဒ။ (၁၃၅၉-ခု) 
+									(အာဂံုေရးေျဖ ပူးတြဲေအာင္ျမင္သည္)။<br>
+									၁၆။ ရန္ကုန္-နိကာယုေဇၨာတက ဓမၼဝိသာရဒဒီဃဘာဏက။ 
+									(ႏွစ္ခ်င္း) (ေရစႀကိဳဆရာေတာ္ႀကီးဆု) (၁၃၆၀-ခု)<br>
+									၁၇။ အစိုးရ ဝိသိ႒ဝိနယဝိဒူ။ 
+									(တစ္ႏိုင္ငံလံုးပထမ) (၁၃၆၀-ျပည့္ႏွစ္)<br>
+									၁၈။ အစိုးရ ဒီဃဘာဏက။ (၁၃၆၀-ျပည့္ႏွစ္)<br>
+									၁၉။ ရန္ကုန္ နိကာယုေဇၨာတက ဒီဃနိကာယ 
+									အဂၢမဟာဓမၼာစရိယ။ (မစိုးရိမ္ဆရာေတာ္ႀကီးဆု) 
+									(၁၃၆၁-ခု)<br>
+									၂၀။ အစိုးရ ဒီဃနိကာယဝိဒူ။ (၁၃၆၁-ခု)<br>
+									၂၁။ အစိုးရ ဒီဃနိကာယေကာဝိဒ။ (၁၃၆၁-ခု)<br>
+									၂၂။ ရန္ကုန္ နိကာယုေဇၨာတက 
+									အတၳဝိသာရဒမူလအာဘိဓမၼိက။ (ႏွစ္ခ်င္း) 
+									(ရန္ကုန္တိပိဋကဓရဆရာေတာ္ႀကီးဆု) (၁၃၆၂-ခု)<br>
+									၂၃။ အစိုးရ သာသနဓဇဓမၼာစရိယ အဘိဓမၼပါဠိပါရဂူ။ 
+									(၁၃၆၂-ခု)<br>
+									၂၄။ အစိုးရ မူလအာဘိဓမၼိက။ (၁၃၆၂-ခု)<br>
+									၂၅။ အစိုးရ ဝိသိ႒အဘိဓမၼဝိဒူ-၁။ 
+									(တစ္ႏိုင္ငံလံုးပထမ) (၁၃၆၃-ခု)<br>
+									၂၆။ အစိုးရ ဝိနယမဟာဝိဒူ။ (၁၃၆၄-ခု)<br>
+									၂၇။ ရန္ကုန္ နိကာယုေဇၨာတက အာဘိဓမၼိက 
+									မူလဘာဂဓမၼာစရိယ။ (၁၃၆၅-ခု)<br>
+									၂၈။ အစိုးရ ဝိသိ႒အဘိဓမၼမဟာဝိဒူ-၁။ 
+									(တစ္ႏိုင္ငံလံုးတစ္ပါးသာ) (၁၃၆၅-ခု)<br>
+									၂၉။ အစိုးရ မူလအာဘိဓမၼိကေကာဝိဒ။ (၁၃၆၅-ခု)<br>
+									၃၀။ မိုးကုတ္ နိကာယဝုၯိသမိတိအာဘိဓမၼိကေကာဝိဒ။ 
+									(၁၃၆၆-ခု)<br>
+									၃၁။ ရန္ကုန္ နိကာယုေဇၨာတက မဇၩိမဘာဂအာဘိဓမၼိက။ 
+									(ႏွစ္ခ်င္း) (ပဥၥနိကာယ 
+									သာသနာ့ဗိမာန္ဆရာေတာ္ႀကီးဆု) (၁၃၆၆-ခု)<br>
+									၃၂။ အစိုးရ အဘိဓမၼဝိဒူ-၂။ 
+									(တစ္ႏိုင္ငံလံုးတစ္ပါးသာ) (၁၃၆၆-ခု)<br>
+									၃၃။ မႏၲေလး ပရိယတၱိသာသနဟိတအာဘိဓမၼိက။ 
+									(၁၃၆၆-ခု)<br>
+									၃၄။ အစိုးရ ဝိသိ႒အဘိဓမၼမဟာဝိဒူ-၂။ 
+									(တစ္ႏိုင္ငံလံုးတစ္ပါးသာ) (၁၃၆၇-ခု)<br>
+									၃၅။ ရန္ကုန္ နိကာယုေဇၨာတက အတၳဝိသာရဒ ဥပရိဘာဂ 
+									အာဘိဓမၼိက။ (ႏွစ္ခ်င္း) 
+									(မစိုးရိမ္ဆရာေတာ္ႀကီးဆု) (၁၃၆၇-ခု)<br>
+									၃၆။ ရန္ကုန္ နိကာယုေဇၨာတက အာဘိဓမၼိကတိပိဋကဓရ။ 
+									(၁၃၆၇-ခု)<br>
+									၃၇။ အစိုးရ အဂၤုတၱရနိကာယဝိဒူ။ (၁၃၆၈-ခု)<br>
+									၃၈။ အစိုးရ အာဘိဓမၼိက။ (၁၃၆၈-ခု)<br>
+									၃၉။ အစိုးရ တိပိဋကဓရ။ (၁၃၆၈-ခု)<br>
+									၄၀။ အစိုးရ အဂၤုတၱရနိကာယမဟာဝိဒူ။ 
+									(တစ္ႏိုင္ငံလံုးတစ္ပါးသာ) (၁၃၇၁-ခု)<br>
+									၄၁။ ရန္ကုန္ နိကာယုေဇၨာတက အာဘိဓမၼိက 
+									မဇၩိမဘာဂဓမၼာစရိယ။ (၁၃၇၁-ခု)<br>
+									၄၂။ အစိုးရ အဘိဓမၼေကာဝိဒ။ (၁၃၇၁-ခု)<br>
+									၄၃။ အစိုးရ တိပိဋကေကာဝိဒ။ (၁၃၇၁-ခု)<br>
+									၄၄။ အစိုးရ ဒီဃနိကာယမဟာဝိဒူ။ (၁၃၇၂-ခု)<br>
+									၄၅။ ရန္ကုန္ နိကာယုေဇၨာတက အာဘိဓမၼိက 
+									ဥပရိဘာဂဓမၼာစရိယ။ (၁၃၇၄-ခု)<br>
+									၄၆။ အစိုးရ မဇၩိမနိကာယဝိဒူ။ (၁၃၇၇-ခု)<br>
+									၄၇။ အစိုးရ တိပိဋကဓရ ဓမၼဘ႑ာဂါရိက။ (၁၃၇၇-ခု)<br>
+									<br>
+									<br>
+									~~~~~~~~<br>
+									အသွ်င္အဘိဇာတာလကၤာရာဘိဝံသ ၏ လကၤာ<br>
+									~~~~~~~~</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<br>
+									"စာေပ ဖတ္ၾက မွတ္ၾကစို႔"<br>
+&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									* သုတ, ပညာ၊ ကင္းတံုပါမူ။<br>
+									ေရးရာ မသိ ငံုးတိတိနွင့္၊<br>
+									နြား၏အလား၊ ပံုမျခားဟု၊<br>
+									ဘုရား ဘဂဝန္၊ ေဟာမိန္ညြန္၏။<br>
+									<br>
+									* သိဉာဏ္ေဝဝါး၊ ေယာင္မွားမွားမို့၊<br>
+									အမ်ားတကာ၊ ဟားစရာနွင့္<br>
+									လိမ္ညာသမွ်၊ ခံရေခ်၏။<br>
+									<br>
+									* သုတ, ပညာ၊ ျပည့္တံုပါမွ၊<br>
+									ေရးရာ ပိုင္းျဖတ္၊ ေတြးေခၚတတ္၍၊<br>
+									တည့္မတ္က်န၊ အေျခလွလ်က္၊<br>
+									ဘဝတတ္လမ္း၊ ျဖူးေျဖာင့္တန္း၏။<br>
+									<br>
+									* ရည္မွန္းခ်က္မ်ား၊ ၾကီးၾကီးထား၍၊<br>
+									ၾကိုးစားမေသြ၊ တို့တေတြ၊<br>
+									စာေပ ဖတ္ၾက မွတ္ၾကစို့။ ။<br>
+									<br>
+									ဒြါဒသမ တိပိဋိကဓရ ဓမၼဘ႑ာဂါရိက<br>
+									အသွ်င္အဘိဇာတာ လကၤာရာ ဘိဝံသ</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									~~~~~</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									MP3 တရားေတာ္မ်ား</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									~~~~</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/001-Bhaddanta-Abizata-Linkara-Bhivamsa-TaYarNarKyaYaAg.mp3">
+									၁။ တရားနာၾကရေအာင္တရားေတာ္ </a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/002-Bhaddanta-Abizata-Linkara-Bhivamsa-Pyinnyarparrami.mp3">
+									၂။ ပညာပါရမီတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/003-Bhaddanta-Abizata-Linkara-Bhivamsa-NoeKyarNayThu.mp3">
+									၃။ ႏိုးၾကားေနသူတရားေတာ္ (စစ္ကိုင္း)</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/004-Bhaddanta-Abizata-Linkara-Bhivamsa-Arahan-1.mp3">
+									၄။ အရဟံဂုဏ္ေတာ္တရားေတာ္ (ေညာင္ဦး)</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/005-Bhaddanta-Abizata-Linkara-Bhivamsa-SwamCatKya%20mp3.mp3">
+									၅။ ဆြမ္းကပ္ၾကရေအာင္တရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/006-Bhaddanta-Abizata-Linkara-Bhivamsa-OoPaNateThaRa.mp3">
+									၆။ ဥပနိႆယပစၥည္းတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/007-Bhaddanta-Abizata-Linkara-Bhivamsa-Shonemyatsayin.mp3">
+									၇။ ႐ံႈးျမတ္စာရင္း အစဥ္႐ွင္းတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/008-Bhaddanta-Abizata-Linkara-Bhivamsa-ToTaungHla.mp3">
+									၈။ တိုေတာင္းလွသည့္ လူ႕အသက္တရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/009-Bhaddanta-Abizata-Linkara-Bhivamsa-LuChannThar.mp3">
+									၉။ လူခ်မ္းသာႏွင့္လူဆင္းရဲတရားေတာ္ (မႏၱေလး)</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/010-Bhaddanta-Abizata-Linkara-Bhivamsa-Taung%20min%20hay%20mawar.mp3">
+									၁၀။ ေတာင္မင္းေဟမဝါတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/011-Bhaddanta-Abizata-Linkara-Bhivamsa-KarLaDarNa.mp3">
+									၁၁။ ကာလဒါနသုတၲန္တရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/012-Bhaddanta-Abizata-Linkara-Bhivamsa-MyatMhaukTamaLhon-1.mp3">
+									၁၂။ မ်က္ေမွာက္ တမလြန္ ၾကီးပြားခ်မ္းသာေရး</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/013-Bhaddanta-Abizata-Linkara-Bhivamsa-PyarrTiHar.mp3">
+									၁၃။ ျပာဋိဟာႏွင့္သာသနာတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/014-Bhaddanta-Abizata-Linkara-Bhivamsa-Horse.mp3">
+									၁၄။ ျမင္းၿပိဳင္ပြဲတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/015-Bhaddanta-Abizata-Linkara-Bhivamsa-OoPoat.mp3">
+									၁၅။ ဥပုသ္ေစာင့္ၾကရေအာင္တရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/016-Bhaddanta-Abizata-Linkara-Bhivamsa-BuddhaAloTaw.mp3">
+									၁၆။ ဗုဒၶအလိုေတာ္က် ႀကီးပြားတိုးတက္ျခင္း</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/017-Bhaddanta-Abizata-Linkara-Bhivamsa-YatCannThiMaLay.mp3">
+									၁၇။ ယက္ကန္းသည္မေလးတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/018-Bhaddanta-Abizata-Linkara-Bhivamsa-KanSoThiMhar.mp3">
+									၁၈။ ကံဆိုသည္မွာတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/019-Bhaddanta-Abizata-Linkara-Bhivamsa-LuChanThar(Pazundaung).mp3">
+									၁၉။ လူခ်မ္းသာႏွင့္လူဆင္းရဲတရားေတာ္ (ရန္ကုန္)</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/020-Bhaddanta-Abizata-Linkara-Bhivamsa-ThatPuYriTha.mp3">
+									၂၀။ သပၸဳရိသဒါနသုတၲန္တရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/021-Bhaddanta-Abizata-Linkara-Bhivamsa-NoeKyarNayThu-1.mp3">
+									၂၁။ ႏိုးၾကားေနသူတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/022-Bhaddanta-Abizata-Linkara-Bhivamsa-AtKhaNa-1.mp3">
+									၂၂။ အကၡဏသုတၲန္တရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/023-Bhaddanta-Abizata-Linkara-Bhivamsa-PyitSeeChin-1.mp3">
+									၂၃။ ပ်က္စီးျခင္း ႏွင့္ ျပည့္စံုျခင္းတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/024-Bhaddanta-Abizata-Linkara-Bhivamsa-SinPaungGyi-1.mp3">
+									၂၄။ ဆင္ေျပာင္ႀကီးပမာတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/025-Bhaddanta-Abizata-Linkara-Bhivamsa-ANeeNeAWay-1.mp3">
+									၂၅။ အနီး နဲ႔ အေဝးတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/026-Bhaddanta-Abizata-Linkara-Bhivamsa-ARaHan(Sagaing)-1.mp3">
+									၂၆။ အရဟံဂုဏ္ေတာ္ တရားေတာ္ (စစ္ကိုင္း)</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/027-Bhaddanta-Abizata-Linkara-Bhivamsa-MyatBuddhato-1.mp3">
+									၂၇။ ျမတ္ဗုဒၶတို႔အဆံုးအမ(၃)မ်ိဳးတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/028-Bhaddanta-Abizata-Linkara-Bhivamsa-ThuDawKaungTo.mp3">
+									၂၈။ သူေတာ္ေကာင္းတို႔အမွတ္အသားတရားေတာ္-၁</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/029-Bhaddanta-Abizata-Linkara-Bhivamsa-ThuDawKaungTo2-1.mp3">
+									၂၉။ သူေတာ္ေကာင္းတို႔အမွတ္အသားတရားေတာ္-၂</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/030-Bhaddanta-Abizata-Linkara-Bhivamsa-WaNaYawPa.mp3">
+									၃၀။ ဝနေရာပသုတၲန္တရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/031-Bhaddanta-Abizata-Linkara-Bhivamsa-BoDiThatTa-1.mp3">
+									၃၁။ ေဗာဓိသတၲဓမၼတာတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/032-Bhaddanta-Abizata-Linkara-Bhivamsa-MhanKanThaw4Myo-1.mp3">
+									၃၂။ မွန္ကန္ေသာႀကိဳးစားအားထုတ္မွဳ(၄)မ်ိဳး</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/033-Bhaddanta-Abizata-Linkara-Bhivamsa-ThinBalLoLU.mp3">
+									၃၃။ သင္ဘယ္လိုလူလဲတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/034-Bhaddanta-Abizata-Linkara-Bhivamsa-Thukha4par.mp3">
+									၃၄။ သုခေလးပါးတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/035-Bhaddanta-Abizata-Linkara-Bhivamsa-AhChat5Thwesincinbwe.mp3">
+									၃၅။ အခ်က္(၅)သြယ္ဆင္ျခင္ဖြယ္တရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/036-Bhaddanta-Abizata-Linkara-Bhivamsa-AhThatNge2Aswaehtet2.mp3">
+									၃၆။ အသက္ငယ္ငယ္ အစြယ္ထက္ထက္တရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/037-Bhaddanta-Abizata-Linkara-Bhivamsa-Bawanaywinchinekaungsaybot.mp3">
+									၃၇။ ဘဝေနဝင္ခ်ိန္ေကာင္းေစဖို႔တရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/038-Bhaddanta-Abizata-Linkara-Bhivamsa-MePhaYarManlikar.mp3">
+									၃၈။ မိဖုရားမလႅိကာတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/039-Bhaddanta-Abizata-Linkara-Bhivamsa-Mibayargyi%20Manlikar.mp3">
+									၃၉။ မိဖုရားႀကီးမလႅိကာတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/040-Bhaddanta-Abizata-Linkara-Bhivamsa-Myintmyatahhlwe.mp3">
+									၄၀။ ျမင့္ျမတ္အလွဴတရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/041-Bhaddanta-Abizata-Linkara-Bhivamsa-Oakgathukyawe.mp3">
+									၄၁။ ဥဂၢသူျကြယ္တရားေတာ္</a><br>
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/042-Bhaddanta-Abizata-Linkara-Bhivamsa-pyayer-begining.mp3">
+									၄၂။ ဝတ္ရြတ္စဥ္ အစ</a></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/043-Bhaddanta-Abizata-Linkara-Bhivamsa-Pahtan.mp3">
+									၄၃။ ပ႒ာန္း ဝတ္ရြတ္စဥ္</a></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/044-Bhaddanta-Abizata-Linkara-Bhivamsa-DhammaSyatKyar.mp3">
+									၄၄။ ဓမၼစၾကာ ဝတ္ရြတ္စဥ္</a></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/045-Bhaddanta-Abizata-Linkara-Bhivamsa-Annatlatkhana.mp3">
+									၄၅။ အနတၲလကၡဏာသုတ္ ဝတ္ရြတ္စဥ္</a></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/046-Bhaddanta-Abizata-Linkara-Bhivamsa-Mahathamaya.mp3">
+									၄၆။ မဟာသမယသုတ္ ဝတ္ရြတ္စဥ္</a></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									<a href="http://dhammadownload.com/MP3Library/Bhaddanta-Abizata-Linkara-Bhivamsa/2016-7-17/047-Bhaddanta-Abizata-Linkara-Bhivamsa-prayer-ending.mp3">
+									၄၇။ ဝတ္ရြတ္စဥ္ အဆုံး</a></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+						<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-70zUvF4huN4OU"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-70zUvF4huN4OU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+</font>
+
+
+
+<font face="Zawgyi-One">
+
+
+
+
+
+
+</font>
