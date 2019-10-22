@@ -1,3 +1,24 @@
+make modules_install
+  INSTALL drivers/thermal/x86_pkg_temp_thermal.ko
+  INSTALL fs/efivarfs/efivarfs.ko
+  INSTALL net/ipv4/netfilter/ipt_MASQUERADE.ko
+  INSTALL net/ipv4/netfilter/iptable_nat.ko
+  INSTALL net/ipv4/netfilter/nf_log_arp.ko
+  INSTALL net/ipv4/netfilter/nf_log_ipv4.ko
+  INSTALL net/ipv4/netfilter/nf_nat_ipv4.ko
+  INSTALL net/ipv6/netfilter/nf_log_ipv6.ko
+  INSTALL net/netfilter/nf_log_common.ko
+  INSTALL net/netfilter/nf_nat.ko
+  INSTALL net/netfilter/nf_nat_ftp.ko
+  INSTALL net/netfilter/nf_nat_irc.ko
+  INSTALL net/netfilter/nf_nat_sip.ko
+  INSTALL net/netfilter/xt_LOG.ko
+  INSTALL net/netfilter/xt_addrtype.ko
+  INSTALL net/netfilter/xt_mark.ko
+  INSTALL net/netfilter/xt_nat.ko
+  DEPMOD  4.19.72-gentoo
+
+  
 lspci
 ///////
 00:00.0 Host bridge: Intel Corporation 440BX/ZX/DX - 82443BX/ZX/DX Host bridge (rev 01)
@@ -259,6 +280,9 @@ virtio                 16384  9 virtio_rng,virtio_mmio,virtio_console,virtio_bal
 
 ///////////
 https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Networking
+https://linuxconfig.org/installing-and-using-gentoo-linux-getting-started-guide-for-beginners
+
+MBR installation using BIOS
 
 passwd root
 
@@ -267,6 +291,11 @@ rc-service sshd start
 
 fdisk -l /dev/sda
 fdisk -t dos /dev/sda
+
+
+t 
+L 
+choose 82 for swap
 
 /dev/sda1	Boot                    1G
 /dev/sda2	Swap partition          2G
@@ -280,17 +309,31 @@ mkswap /dev/sda2
 swapon /dev/sda2
 
 
+mkdir /mnt/gentoo 
 mount /dev/sda3 /mnt/gentoo
 
+mkdir /mnt/gentoo/boot 
+mount /dev/sda1 /mnt/gentoo/boot 
 
-date
+# Use the MMDDhhmmYYYY syntax (Month, Day, hour, minute and Year)
+date 102210162019
 
 cd /mnt/gentoo
 
 wget -c http://distfiles.gentoo.org/releases/amd64/autobuilds/20191016T214504Z/stage3-amd64-20191016T214504Z.tar.xz
 
+sshpass -p root rsync -avzz -P stage3-amd64-20191016T214504Z.tar.xz root@192.168.153.158:/mnt/gentoo/
 
 tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner
+
+
+mirrorselect -i -o >> /mnt/gentoo/etc/portage/make.conf
+mkdir --parents /mnt/gentoo/etc/portage/repos.conf
+cp /mnt/gentoo/usr/share/portage/config/repos.conf /mnt/gentoo/etc/portage/repos.conf/gentoo.conf
+
+cp --dereference /etc/resolv.conf /mnt/gentoo/etc/
+
+
 
 
 mount --types proc /proc /mnt/gentoo/proc
@@ -304,7 +347,7 @@ source /etc/profile
 export PS1="(chroot) ${PS1}"
 
 
-mount /dev/sda1 /boot
+#mount /dev/sda1 /boot
 
 emerge-webrsync
 
@@ -314,6 +357,10 @@ eselect profile list
 eselect profile set 1
 
 emerge --ask --verbose --update --deep --newuse @world
+
+emerge --info | grep ^USE
+
+nano -w /etc/portage/make.conf
 
 
 ls /usr/share/zoneinfo
@@ -327,10 +374,16 @@ en_US.UTF-8 UTF-8
 
 locale-gen
 
+locale -a # To verify that the selected locales are now available, run locale -a
+
 eselect locale list
 
 eselect locale set 6 # utf8
 
+'''
+Setting LANG to en_US.utf8 ...
+Run ". /etc/profile" to update the variable in your shell.
+'''
 
 env-update && source /etc/profile && export PS1="(chroot) ${PS1}"
 
@@ -343,6 +396,138 @@ cd /usr/src/linux
 
 make menuconfig
 
+make -j2 
+make modules_install
+make install
+
+
+
+find /lib/modules/<kernel version>/ -type f -iname '*.o' -or -iname '*.ko' | less
+find /lib/modules/4.19.72-gentoo/ -type f -iname '*.o' -or -iname '*.ko' | less
+
+
+mkdir -p /etc/modules-load.d
+nano -w /etc/modules-load.d/network.conf
+
+emerge --ask sys-kernel/linux-firmware
+
+blkid 
+
+/dev/loop0: TYPE="squashfs"
+/dev/sr0: UUID="2019-10-17-03-17-59-52" LABEL="Gentoo amd64 20191016T214504Z" TYPE="iso9660" PTUUID="624fb0bd" PTTYPE="dos"
+/dev/sda1: UUID="2b9098e7-a3aa-4dcd-9f19-971c925f28f6" TYPE="ext2" PARTUUID="948a99c0-01"
+/dev/sda2: UUID="988d1ffe-d27a-4590-a00b-0e85dd4ad2ec" TYPE="swap" PARTUUID="948a99c0-02"
+/dev/sda3: UUID="81a08b54-846a-47d6-9997-1f2da99dee5a" TYPE="ext4" PARTUUID="948a99c0-03"
+
+
+/dev/sda1    /boot         ext2    noauto,noatime  1 2
+/dev/sda2    none          swap    sw             0 0
+/dev/sda3    /             ext4    noatime        0 1
+
+''''''
+/dev/sda1   /boot        ext2    defaults,noatime     0 2
+/dev/sda2   none         swap    sw                   0 0
+/dev/sda3   /            ext4    noatime              0 1
+/dev/cdrom  /mnt/cdrom   auto    noauto,user          0 0
+''''''
+
+
+
+nano -w /etc/conf.d/hostname
+
+emerge --ask --noreplace net-misc/netifrc
+
+
+#/etc/conf.d/net Static IP definition
+config_eth0="192.168.1.200 netmask 255.255.255.0 brd 192.168.1.255"
+routes_eth0="default via 192.168.1.1"
+
+
+cd /etc/init.d
+ln -s net.lo net.eth0
+rc-update add net.eth0 default
+
+emerge --ask sys-apps/pcmciautils
+
+emerge --ask app-admin/sysklogd
+rc-update add sysklogd default
+
+emerge --ask sys-process/cronie
+rc-update add cronie default
+crontab /etc/crontab
+https://wiki.gentoo.org/wiki/Cron
+
+emerge --ask sys-apps/mlocate
+
+emerge --ask net-misc/dhcpcd
+
+nano -w /etc/inittab
+# SERIAL CONSOLES
+s0:12345:respawn:/sbin/agetty 9600 ttyS0 vt100
+s1:12345:respawn:/sbin/agetty 9600 ttyS1 vt100
+
+rc-update add sshd default
+
+
+emerge --ask --verbose sys-boot/grub:2
+
+'''
+/boot/grub/grub.conf
+default 0
+timeout 20
+
+splashimage=(hd0,0)/boot/grub/splash.xpm.gz
+# use the branding USE flag for a nice Gentoo splash
+title Gentoo Linux 2.6.39-r3
+root(hd0,0)
+kernel /boot/kernel-2.6.39-gentoo-r3 root=/dev/sda1 
+'''
+
+grep -v rootfs /proc/mounts > /etc/mtab 
+grub-install /dev/sda
+grub-mkconfig -o /boot/grub/grub.cfg
+
+# https://gist.github.com/wolfg1969/3832294
+# https://github.com/c00kiemon5ter/gentoo/blob/master/boot/grub.conf
+
+''''''
+emerge --ask --verbose sys-boot/grub:2
+(chroot) livecd /etc/init.d # grub-install /dev/sda
+Installing for i386-pc platform.
+Installation finished. No error reported.
+(chroot) livecd /etc/init.d # grub-mkconfig -o /boot/grub/grub.cfg
+Generating grub configuration file ...
+Found linux image: /boot/vmlinuz-4.19.72-gentoo
+done
+
+''''''
+
+useradd -m -G users,wheel,audio -s /bin/bash larry
+passwd larry
+
+# visudo
+emerge --ask app-admin/sudo
+libtool: warning: remember to run 'libtool --finish /usr/lib64/sudo'
+
+
+exit
+cd
+umount -l /mnt/gentoo/dev{/shm,/pts,}
+umount -R /mnt/gentoo
+reboot
+
+
+https://wiki.gentoo.org/wiki/GRUB2
+https://wiki.archlinux.org/index.php/GRUB
+
+
+https://wiki.gentoo.org/wiki/Knowledge_Base:Unable_to_mount_root_fs
+Error after installation 
+gentoo kernel panic not syncing vfs
+
+
+https://www.linuxquestions.org/questions/linux-kernel-70/kernel-panic-not-syncing-vfs-unable-to-mount-root-fs-on-unknown-block-2-0-a-688150/
+
 
 
 https://wiki.gentoo.org/wiki/Vim
@@ -351,3 +536,49 @@ emerge --ask app-editors/vim
 
 
 
+
+http://www.pathname.com/fhs/
+react
+https://github.com/kushhingol/aws-demo/tree/master/web-server-updated
+
+https://linuxconfig.org/installing-and-using-gentoo-linux-getting-started-guide-for-beginners
+
+
+USE="acl amd64 berkdb bzip2 cli crypt cxx dri fortran gdbm iconv ipv6 libtirpc multilib ncurses nls nptl openmp pam pcre readline seccomp split-usr ssl tcpd unicode xattr zlib" 
+ABI_X86="64" 
+ADA_TARGET="gnat_2018" 
+ALSA_CARDS="ali5451 als4000 atiixp atiixp-modem bt87x ca0106 cmipci emu10k1x ens1370 ens1371 es1938 es1968 fm801 hda-intel intel8x0 intel8x0m maestro3 trident usb-audio via82xx via82xx-modem ymfpci" 
+APACHE2_MODULES="authn_core authz_core socache_shmcb unixd actions alias auth_basic authn_alias authn_anon authn_dbm authn_default authn_file authz_dbm authz_default authz_groupfile authz_host authz_owner authz_user autoindex cache cgi cgid dav dav_fs dav_lock deflate dir disk_cache env expires ext_filter file_cache filter headers include info log_config logio mem_cache mime mime_magic negotiation rewrite setenvif speling status unique_id userdir usertrack vhost_alias" 
+CALLIGRA_FEATURES="karbon sheets words" 
+COLLECTD_PLUGINS="df interface irq load memory rrdtool swap syslog" 
+CPU_FLAGS_X86="mmx mmxext sse sse2" 
+ELIBC="glibc" 
+GPSD_PROTOCOLS="ashtech aivdm earthmate evermore fv18 garmin garmintxt gpsclock greis isync itrax mtk3301 nmea ntrip navcom oceanserver oldstyle oncore rtcm104v2 rtcm104v3 sirf skytraq superstar2 timing tsip tripmate tnt ublox ubx" 
+INPUT_DEVICES="libinput keyboard mouse" 
+KERNEL="linux" 
+LCD_DEVICES="bayrad cfontz cfontz633 glk hd44780 lb216 lcdm001 mtxorb ncurses text" 
+LIBREOFFICE_EXTENSIONS="presenter-console presenter-minimizer" 
+NETBEANS_MODULES="apisupport cnd groovy gsf harness ide identity j2ee java mobility nb php profiler soa visualweb webcommon websvccommon xml" 
+OFFICE_IMPLEMENTATION="libreoffice" 
+PHP_TARGETS="php7-2" 
+POSTGRES_TARGETS="postgres10 postgres11" 
+PYTHON_SINGLE_TARGET="python3_6" 
+PYTHON_TARGETS="python2_7 python3_6" 
+RUBY_TARGETS="ruby24 ruby25" 
+USERLAND="GNU" 
+VIDEO_CARDS="amdgpu fbdev intel nouveau radeon radeonsi vesa dummy v4l" 
+XTABLES_ADDONS="quota2 psd pknock lscan length2 ipv4options ipset ipp2p iface geoip fuzzy condition tee tarpit sysrq steal rawnat logmark ipmark dhcpmac delude chaos account"
+
+
+
+https://www.funtoo.org/Install/Download_and_Extract_Stage3
+
+https://www.unixmen.com/a-beginners-guide-to-install-gentoo/
+http://swift.siphos.be/linux_sea/installgentoo.html
+
+
+# Try to install 
+https://github.com/WhatCD/Gazelle/wiki/Gazelle-Installation-from-scratch-with-Gentoo
+useradd -m -G users,wheel,audio,lp,cdrom,portage,cron -s /bin/bash caezsar
+
+https://www.tecmint.com/gentoo-linux-installation-guide-part-2/
