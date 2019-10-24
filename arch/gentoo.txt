@@ -1,3 +1,11 @@
+kernel panic not syncing vfs unable to mount root fs on unknown-block(8,2) gentoo
+https://forums.gentoo.org/viewtopic-t-1084484.html
+
+
+https://github.com/yeokm1/gentoo-on-486
+http://swift.siphos.be/linux_sea/kernelbuilding.html#configuringkernel
+https://www.unix.com/gentoo/203387-help-lead-me-end-vfs-readonly-fs-couldnt-mount.html
+
 make modules_install
   INSTALL drivers/thermal/x86_pkg_temp_thermal.ko
   INSTALL fs/efivarfs/efivarfs.ko
@@ -582,3 +590,51 @@ https://github.com/WhatCD/Gazelle/wiki/Gazelle-Installation-from-scratch-with-Ge
 useradd -m -G users,wheel,audio,lp,cdrom,portage,cron -s /bin/bash caezsar
 
 https://www.tecmint.com/gentoo-linux-installation-guide-part-2/
+
+
+
+
+
+
+
+
+
+from github 
+https://github.com/yeokm1/gentoo-on-486
+https://github.com/kristapsk/gentoo-install
+https://github.com/hiroru/gentoo_install
+
+https://github.com/WhatCD/Gazelle/wiki/Gazelle-Installation-from-scratch-with-Gentoo
+http://yeokhengmeng.com/2018/01/make-the-486-great-again/
+
+
+
+http://swift.siphos.be/linux_sea/installgentoo.html
+http://swift.siphos.be/linux_sea/kernelbuilding.html#configuringkernel
+
+https://www.unixmen.com/a-beginners-guide-to-install-gentoo/
+https://wiki.gentoo.org/wiki/Handbook:X86/Installation/Bootloader
+http://swift.siphos.be/linux_sea/installgentoo.html
+
+
+https://www.linuxquestions.org/questions/linux-from-scratch-13/unable-to-mount-root-fs-on-unknown-block-0-0-a-4175589372/
+ Talking unable to mount root fs on unknown-block(0,0) 
+ 
+ https://forums.gentoo.org/viewtopic-t-895938-start-0.html
+ https://wiki.gentoo.org/wiki/Kernel/Gentoo_Kernel_Configuration_Guide/en
+ https://wiki.gentoo.org/wiki/VirtualBox
+ https://github.com/Heather/gentoo-config/blob/master/Beelzebub/.config
+ https://wiki.gentoo.org/wiki/HP_Proliant_Microserver
+ sed -i -e "s~CONFIG_SATA_AHCI=y~CONFIG_SATA_AHCI=m~" /usr/src/linux/.config
+ https://wiki.gentoo.org/wiki/HP_Proliant_Microserver
+ https://forums.gentoo.org/viewtopic-t-895938-start-0.html
+ 
+ 
+ vmware
+ https://www.linux.com/tutorials/install-vmware-player-gentoo-amd64-easy-way/
+ https://techtorials.me/linux/configuring-gentoo-kernel-vmware-player-minimal-manual-configuration/
+ 
+ http://majestio.info/viewtopic.php?id=52
+ https://cyberbisson.com/blog/2016/03/28/creating-a-gentoo-workstation-in-a-vmware-virtual-machine-2/
+ view-source:https://cyberbisson.com/download/linux-4.4.3-kernel.config
+ https://spacetux.org/tommie/?p=142

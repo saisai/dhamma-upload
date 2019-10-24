@@ -1,0 +1,160 @@
+passwd root
+
+rc-service sshd start
+
+fdisk /dev/sda 
+
+n 
++1G
+n 
+the rest
+
+mkfs.ext4 /dev/sda2
+mkswap /dev/sda1
+swapon /dev/sda1
+
+
+mkdir /mnt/gentoo
+mount /dev/sda2 /mnt/gentoo
+
+
+sshpass -p root rsync -avzz -P stage3-amd64-20191016T214504Z.tar.xz root@192.168.153.158:/mnt/gentoo/
+
+
+tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner
+
+mirrorselect -i -o >> /mnt/gentoo/etc/portage/make.conf
+mkdir --parents /mnt/gentoo/etc/portage/repos.conf
+cp /mnt/gentoo/usr/share/portage/config/repos.conf /mnt/gentoo/etc/portage/repos.conf/gentoo.conf
+
+cp --dereference /etc/resolv.conf /mnt/gentoo/etc/
+
+
+
+mount --types proc /proc /mnt/gentoo/proc
+mount --rbind /sys /mnt/gentoo/sys
+mount --make-rslave /mnt/gentoo/sys
+mount --rbind /dev /mnt/gentoo/dev
+mount --make-rslave /mnt/gentoo/dev
+
+chroot /mnt/gentoo /bin/bash
+source /etc/profile
+export PS1="(chroot) ${PS1}"
+
+#mkdir /usr/portage
+
+emerge-webrsync
+emerge --sync
+
+
+eselect profile list
+
+eselect profile set 1
+
+emerge --ask --verbose --update --deep --newuse @world
+
+
+ls /usr/share/zoneinfo
+echo "Asia/Bangkok" > /etc/timezone
+emerge --config sys-libs/timezone-data
+
+
+nano -w /etc/locale.gen
+en_US ISO-8859-1
+en_US.UTF-8 UTF-8
+
+locale-gen
+
+locale -a # To verify that the selected locales are now available, run locale -a
+
+eselect locale list
+
+eselect locale set 6 # utf8
+
+'''
+Setting LANG to en_US.utf8 ...
+Run ". /etc/profile" to update the variable in your shell.
+'''
+
+env-update && source /etc/profile && export PS1="(chroot) ${PS1}"
+
+
+emerge --ask sys-kernel/gentoo-sources
+
+#try this one 
+#emerge genkernel
+#genkernel all
+
+nano -w /etc/fstab
+/dev/sda1   none         swap    sw                   0 0
+/dev/sda2   /            ext4    noatime              0 1
+
+emerge --ask --noreplace net-misc/netifrc
+
+
+nano -w /etc/conf.d/hostname
+
+emerge --ask --noreplace net-misc/netifrc
+
+
+#/etc/conf.d/net Static IP definition
+config_eth0="192.168.1.200 netmask 255.255.255.0 brd 192.168.1.255"
+routes_eth0="default via 192.168.1.1"
+
+
+cd /etc/init.d
+ln -s net.lo net.eth0
+rc-update add net.eth0 default
+
+emerge --ask sys-apps/pcmciautils
+
+emerge --ask app-admin/sysklogd
+rc-update add sysklogd default
+
+emerge --ask sys-process/cronie
+rc-update add cronie default
+crontab /etc/crontab
+https://wiki.gentoo.org/wiki/Cron
+
+emerge --ask sys-apps/mlocate
+
+emerge --ask net-misc/dhcpcd
+
+nano -w /etc/inittab
+# SERIAL CONSOLES
+s0:12345:respawn:/sbin/agetty 9600 ttyS0 vt100
+s1:12345:respawn:/sbin/agetty 9600 ttyS1 vt100
+
+rc-update add sshd default
+
+
+
+emerge sys-boot/lilo
+
+nano -w /etc/lilo.conf
+### Add the following
+boot=/dev/sda             # Install LILO in the MBR
+prompt                    # Give the user the chance to select another section
+timeout=50                # Wait 5 (five) seconds before booting the default section
+default=gentoo            # When the timeout has passed, boot the "gentoo" section
+
+image=/boot/vmlinuz-4.19.72-gentoo
+  label=gentoo
+  read-only
+  root=/dev/sda2
+  vga=4                   # This will set the VGA mode to 80x30
+
+image=/boot/vmlinuz-4.19.72-gentoo
+  label=gentoo-ask-vga
+  read-only
+  root=/dev/sda2
+  vga=ask                 # Linux will ask you to pick the VGA mode on startup
+
+image=/boot/vmlinuz-4.19.72-gentoo
+  label=gentoo-rescue
+  read-only
+  root=/dev/sda2
+  append="init=/bin/bb"
+### End
+
+/sbin/lilo
