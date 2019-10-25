@@ -1,0 +1,5 @@
+https://wiki.archlinux.org/index.php/Mail_server#POP3/IMAP_servers
+https://www.linuxbabe.com/mail-server/ubuntu-16-04-iredmail-server-installation 	
+https://www.vultr.com/
+https://www.linuxbabe.com/mail-server/email-server-ubuntu-18-04-modoboa
+https://modoboa.readthedocs.io/en/latest/
