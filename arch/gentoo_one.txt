@@ -139,7 +139,7 @@ timeout=50                # Wait 5 (five) seconds before booting the default sec
 default=gentoo            # When the timeout has passed, boot the "gentoo" section
 
 image=/boot/vmlinuz-4.19.72-gentoo
-  label=gentoo
+  label=gentoo 
   read-only
   root=/dev/sda2
   vga=4                   # This will set the VGA mode to 80x30
