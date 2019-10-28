@@ -1,0 +1,1698 @@
+<font face="Pyidaungsu">
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<!-- Start dhammadownload menu top and side bar -->
+
+<div style="position: absolute; width: 100px; height: 100px; z-index: 1; left: 7px; top: 4px;" id="layer21">
+	<img src="images/Top-button-wt.gif" width="680" height="132" border="0"></div>
+<div style="position: absolute; width: 506px; height: 63px; z-index: 2; left: 52px; top: 43px;" id="layer22" align="center">
+	<font size="5" color="#800080">ဓမ္မဒူတ ဒေါက်တာအရှင်ပညိဿရာ ဘိဝံသ </font></div>
+<div style="position: absolute; width: 100px; height: 100px; z-index: 20; left: 596px; top: 4px;" id="layer23">
+	<img src="images/Dhammaduta-Dr-Ashin-Pannyissarra.gif" width="200" height="185" border="0"></div>
+
+
+
+
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 143px;" id="layer1">
+       <a href="index.htm" target="_parent">
+       <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+    <p></p>
+</a></div><a href="index.htm" target="_parent">
+
+</a><div style="position: absolute; width: 157px; height: 37px; z-index: 1; left: 22px; top: 154px;" id="layer2" align="center"><a href="index.htm" target="_parent">
+    <font size="4">
+      </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="index.htm">Home Page</a>
+   </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 2; left: 8px; top: 201px" id="layer3">
+    <a href="AbhidhammaInEnglish.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0">
+</a></div><a href="AbhidhammaInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 3; left: 19px; top: 208px;" id="layer4" align="center"><a href="AbhidhammaInEnglish.htm" target="_parent">
+    <font size="4">
+       </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInEnglish.htm">Abhidhamma in English</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; height: 58px; z-index: 4; left: 8px; top: 270px; width: 186px" id="layer5">
+    <a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0">
+</a></div><a href="AbhidhammaInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 32px; z-index: 5; left: 20px; top: 276px;" id="layer6" align="center"><a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInMyanmar.htm">Abhidhamma in Myanmar</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 6; left: 8px; top: 339px;" id="layer7">
+    <a href="AudioInEnglish.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="AudioInEnglish.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 34px; z-index: 7; left: 20px; top: 350px;" id="layer8" align="center"><a href="AudioInEnglish.htm" target="_parent">
+     <font size="4">
+         </font></a><font size="4"><a target="_parent" href="AudioInEnglish.htm">Audio in English</a>
+     </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 8; left: 8px; top: 398px;" id="layer9">
+    <a href="AudioInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="AudioInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 9; left: 19px; top: 408px;" id="layer10" align="center"><a href="AudioInMyanmar.htm" target="_parent">
+      <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AudioInMyanmar.htm">Audio in Myanmar</a>
+      </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 10; left: 8px; top: 457px" id="layer11">
+    <a href="VideoInEnglish.htm" target="_parent">
+      <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="VideoInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 156px; height: 30px; z-index: 11; left: 23px; top: 469px;" id="layer12" align="center"><a href="VideoInEnglish.htm" target="_parent">
+     <font size="4">
+        </font></a><font size="4"><a target="_parent" href="VideoInEnglish.htm">Video in English</a>
+     </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 12; left: 8px; top: 516px" id="layer13">
+    <a href="VideoInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="VideoInMyanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 161px; height: 33px; z-index: 13; left: 18px; top: 527px;" id="layer14" align="center"><a href="VideoInMyanmar.htm" target="_parent">
+     <font size="4"></font></a><font size="4"><a href="VideoInMyanmar.htm">Video in Myanmar </a></font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 14; left: 8px; top: 575px" id="layer15">
+    <a href="eBook-English.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="eBook-English.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 31px; z-index: 15; left: 19px; top: 587px;" id="layer16" align="center"><a href="eBook-English.htm" target="_parent">
+    <font size="4">
+    </font>
+    <font size="4">
+    </font></a><font size="4"><a href="eBook-English.htm">eBook in English</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 16; left: 8px; top: 634px" id="layer17">
+     <a href="eBook-Myanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</a></div><a href="eBook-Myanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 154px; height: 32px; z-index: 17; left: 22px; top: 646px;" id="layer18" align="center"><a href="eBook-Myanmar.htm" target="_parent"><font size="4">
+	</font><font size="4">
+	</font></a><font size="4"><a href="eBook-Myanmar.htm">eBook in Myanmar</a></font></div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 18; left: 8px; top: 693px" id="layer19">
+    <a href="dhammadownload-news.htm" target="_parent">
+    <img style="top: 660px; height: 54px;" src="images/Side-button-wt.gif" width="182" border="0">
+</a></div><a href="dhammadownload-news.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 158px; height: 36px; z-index: 19; left: 22px; top: 705px;" id="layer20" align="center"><a href="dhammadownload-news.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="dhammadownload-news.htm">NEWS
+	သတင်းဏ္ဍ</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 993px" id="layer37">
+    <p style="margin-top: 3px; height: 54px;">
+    <a target="_parent" href="Contribute-to-dhammadownload.htm">
+    <img src="images/Side-button-wt.gif" width="182" height="64" border="0"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 933px" id="layer35"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="Suggestion-cbox.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 872px;" id="layer33"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><p style="margin-top: 3px; height: 54px;"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a target="_parent" href="contact.htm">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 811px" id="layer31"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="usefullinks.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="usefullinks.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 750px" id="layer27"><a href="usefullinks.htm" target="_parent"> </a><a href="live.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" width="182" height="54" border="0">
+</p>
+</a></div><a href="live.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 1010px;" id="layer38" align="center"><a href="live.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="Contribute-to-dhammadownload.htm">လှုဒါန်းရန်</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 946px;" id="layer36" align="center">
+    <font size="4"><a href="Suggestion-cbox.htm">အကြံပြုချက်များ</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 886px;" id="layer34" align="center">
+    <font size="4"><a href="contact.htm">Contact Us</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 825px;" id="layer32" align="center">
+    <font size="4"><a href="usefullinks.htm">Useful Link</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 762px;" id="layer28" align="center">
+    <font size="4"><a href="live.htm">LIVE Webcast</a></font></div>
+
+
+
+
+
+
+
+<div style="position: absolute; width: 171px; height: 64px; z-index: 23; left: 9px; top: 1074px; " id="layer39">
+<a href="https://www.facebook.com/groups/dhammadownload/?ref=br_rs#">
+<img src="images/facebook-logo.gif" width="159" height="59" border="0"></a></div>
+<!-- end dhammadownload menu top and side bar -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="position: absolute; width: 852px; height: 1832px; z-index: 21; left: 219px; top: 156px" id="layer24" font="" face="Pyidaungsu">
+<p style="margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p style="margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p style="margin-top: 0; margin-bottom: 0">
+<font size="6" face="Franklin Gothic Medium">
+<span style="line-height: 100%; mso-default-font-family: Franklin Gothic Demi; mso-ascii-font-family: Franklin Gothic Demi; mso-latin-font-family: Franklin Gothic Demi; mso-greek-font-family: Franklin Gothic Demi; mso-cyrillic-font-family: Franklin Gothic Demi; mso-latinext-font-family: Franklin Gothic Demi; language: EN; mso-ansi-language: EN">
+Dhammaduta Dr. Ashin Pannyissarra</span></font></p>
+<p style="margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p style="margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p style="margin-top: 0; margin-bottom: 0">
+<font size="6" face="Pyidaungsu">ဓမ္မဒူတ ဒေါက်တာအရှင်ပညိဿရာ 
+ဘိဝံသ </font>
+<font size="4" face="Pyidaungsu"> <br>
+B.A(Myanmar) M.A (Sri Lanka) Ph.D (India)</font></p>
+<p style="margin-top: 0; margin-bottom: 0">
+<font size="4">သာသနဓဇ ဓမ္မာစရိယ သာသနဇောတိပါလဒမ္မာစရိယ၊ သာသနဟိတဂဏဝါစကာစရိယ၊ မဟာဂန 
+္တဝါစကပဏ္ဍိတ</font></p>
+<p style="margin-top: 0; margin-bottom: 0">
+&nbsp;</p>
+<p style="margin-top: 0; margin-bottom: 0">
+<font size="4" face="Pyidaungsu"><br>
+<br>
+ဓမ္မဒူတတောရ သာသနာရိပ်သာ <br>
+ဆယ်မိုင်ကုန်း ၊ ပဲခူးမြို့ <br>
+<br>
+&nbsp;</font></p>
+<p style="margin-top: 0; margin-bottom: 0">
+****dhamma talks uploaded and published on 
+24 August 2009****</p>
+<p style="margin-top: 0; margin-bottom: 0">
+<font size="4" face="Pyidaungsu">
+<br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/001-AshinPyinNyeintThara.mp3">၁။ အကျင့်မှန်မှ အသိမှန်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/002-AshinPyinNyeintThara.mp3">၂။ ဝေဒနာရှုပွားနည်း</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/003-AshinPyinNyeintThara.mp3">၃။ တရားရနိုင် မရနိုင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/004-AshinPyinNyeintThara.mp3">၄။ ကယ်တင်ရှင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/005-AshinPyinNyeintThara.mp3">၅။ နိဗ္ဗာန်သွားတဲ့လမ်း</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/006-AshinPyinNyeintThara.mp3">၆။ အပ္ပါယ်တံခါးပိတ်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/007-AshinPyinNyeintThara.mp3">၇။ လိုရင်းတိုရှင်းဝိပဿနာ(၁)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/008-AshinPyinNyeintThara.mp3">၈။ လိုရင်းတိုရှင်းဝိပဿနာ(၂)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/009-AshinPyinNyeintThara.mp3">၉။ မြေအိုပမာ ဤခန္ဓာ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/010-AshinPyinNyeintThara.mp3">၁၀။ လွတ်လမ်းကိုရှာ တရားနာ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/011-AshinPyinNyeintThara.mp3">၁၁။ နေနှင့်တူစွာ ကျင့်ကြံပါ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/012-AshinPyinNyeintThara.mp3">၁၂။ ခုရောနောင်ပါ ချမ်းသာတဲ့အကျင့်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/013-AshinPyinNyeintThara.mp3">၁၃။ တရားကျင့်တဲ့ ရည်ရွှယ်ချက်အမှန်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/014-AshinPyinNyeintThara.mp3">၁၄။ ပုထုဇဉ်သဘာဝ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/015-AshinPyinNyeintThara.mp3">၁၅။ တစ်ကြိမ်လှူရ မြတ်ဒါန</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/016-AshinPyinNyeintThara.mp3">၁၆။ မမေ့မလျော့နေတဲ့သူ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/017-AshinPyinNyeintThara.mp3">၁၇။ နေရေးထက် သေရေးခက်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/018-AshinPyinNyeintThara.mp3">၁၈။ အားထုတ်နည်းသင်အလုပ်ပေးတရား</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/019-AshinPyinNyeintThara.mp3">၁၉။ တရားဘာကြောင့် ကျင့်ရသလဲ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/020-AshinPyinNyeintThara.mp3">၂၀။ မာယာခရီး</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/021-AshinPyinNyeintThara.mp3">၂၁။ အမြတ်ဆုံးတရား (၆)ပါး</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/022-AshinPyinNyeintThara.mp3">၂၂။ ဥပုဒ်ဘာကြောင့် စောင့်ရတယ်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/023-AshinPyinNyeintThara.mp3">၂၃။ အပ္ပါယ်တံခါးပိတ်ထားကြစို့</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/024-AshinPyinNyeintThara.mp3">၂၄။ တစ်နေ့ကုန်သွားရင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/025-AshinPyinNyeintThara.mp3">၂၅။ ပြတ်သားတဲ့ဆုံးဖြတ်ချက်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/026-AshinPyinNyeintThara.mp3">၂၆။ ဘုရားအရိပ် တရားအရိပ်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/027-AshinPyinNyeintThara.mp3">၂၇။ တရားကျင့်နည်း အားထုတ်နည်း</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/028-AshinPyinNyeintThara.mp3">၂၈။ ခန္ဓာဝန်ထမ်း</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/029-AshinPyinNyeintThara.mp3">၂၉။ စောင့်ထိန်းကျင့်မှ တရားရ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/030-AshinPyinNyeintThara.mp3">၃၀။ ဘာအရေးကြီးဆုံးလဲ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/031-AshinPyinNyeintThara.mp3">၃၁။ မှားနေရင် ပြင်လိုက်ပါ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/032-AshinPyinNyeintThara.mp3">၃၂။ စိတ်မနာပါစေနဲ့</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/033-AshinPyinNyeintThara.mp3">၃၃။ ရှိဖို့မလှူ သိဖို့လှူ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/034-AshinPyinNyeintThara.mp3">၃၄။ တရားကျင့်ဖို့ ကောင်းတဲ့အချိန်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/035-AshinPyinNyeintThara.mp3">၃၅။ တစ်နေ့ကုန်သွားရင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/036-AshinPyinNyeintThara.mp3">၃၆။ အကျဉ်းချုပ် (၄)ပါး</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/037-AshinPyinNyeintThara.mp3">၃၇။ တရားကျင့်သူတစ်ယောက်အကြောင်း</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/038-AshinPyinNyeintThara.mp3">၃၈။ သံသရာကူးသူများ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/039-AshinPyinNyeintThara.mp3">၃၉။ သံယောဇဉ်ရှင်းတမ်း (၁)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/040-AshinPyinNyeintThara.mp3">၄၀။ သံယောဇဉ်ရှင်းတမ်း (၂)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/041-AshinPyinNyeintThara.mp3">၄၁။ ဘဝနှင့်ရင်းရတဲ့ဒါန</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/042-AshinPyinNyeintThara.mp3">၄၂။ ထာဝရကုသိုလ်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/043-AshinPyinNyeintThara.mp3">၄၃။ တရားကပေးတဲ့ချမ်းသာ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/044-AshinPyinNyeintThara.mp3">၄၄။ တောင်ထိပ်ပေါ်က ရတနာ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/045-AshinPyinNyeintThara.mp3">၄၅။ ပေါင်းစုတူယှဉ် နိဗ္ဗာန်ဝင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/046-AshinPyinNyeintThara.mp3">၄၆။ ငါတစ်ယောက်တည်းမဟုတ်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/047-AshinPyinNyeintThara.mp3">၄၇။ ကိုယ်အမှားသိမြင်ကိုယ်ပြုပြင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/048-AshinPyinNyeintThara.mp3">၄၈။ ဘဝစစ်တမ်း</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/049-AshinPyinNyeintThara.mp3">၄၉။ ဖြူစင်သောစိတ်ထား</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/050-AshinPyinNyeintThara.mp3">၅၀။ အဖော်မဲ့ခရီးသည်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/051-AshinPyinNyeintThara.mp3">၅၁။ သတိသမ္ဗောဇ္ဈင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/052-AshinPyinNyeintThara.mp3">၅၂။ ဓမ္မဝိစယ သမ္ဗောဇ္ဈင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/053-AshinPyinNyeintThara.mp3">၅၃။ ဝီရိယ သမ္ဗောဇ္ဈင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/054-AshinPyinNyeintThara.mp3">၅၄။ ပီတိ သမ္ဗောဇ္ဈင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/055-AshinPyinNyeintThara.mp3">၅၅။ ပဿဒ္ဓိ သမ္ဗောဇ္ဈင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/056-AshinPyinNyeintThara.mp3">၅၆။ သမာဓိ သမ္ဗောဇ္ဈင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/057-AshinPyinNyeintThara.mp3">၅၇။ ဥပေက္ခာ သမ္ဗောဇ္ဈင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/058-AshinPyinNyeintThara.mp3">၅၈။ တရားဘယ်လိုကျင့်ရမလဲ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/059-AshinPyinNyeintThara.mp3">၅၉။ မြတ်ဗုဒ္ဓ၏ အယူဝါဒ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/060-AshinPyinNyeintThara.mp3">၆၀။ တရားဆေးကို သောက်သုံးပါ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/061-AshinPyinNyeintThara.mp3">၆၁။ တရားကျင့်ဖို့ကောင်းတဲ့အချိန်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/062-AshinPyinNyeintThara.mp3">၆၂။ ဝဋ်ကျွတ်ရာမှန် မြတ်နိဗ္ဗာန်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/063-AshinPyinNyeintThara.mp3">၆၃။ အဝိဇ္ဇာမှ ဝိဇ္ဇာသို့</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/064-AshinPyinNyeintThara.mp3">၆၄။ ချမ်းသာပျော်ရွှင် နေလိုလျှင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/065-AshinPyinNyeintThara.mp3">၆၅။ ခန္ဓာကိုယ်ထဲကမြွေဆိုးလေးကောင်(၁)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/066-AshinPyinNyeintThara.mp3">၆၆။ ခန္ဓာကိုယ်ထဲကမြွေဆိုးလေးကောင်(၂)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/067-AshinPyinNyeintThara.mp3">၆၇။ ခန္ဓာကိုယ်ထဲကမြွေဆိုးလေးကောင်(၃)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/068-AshinPyinNyeintThara.mp3">၆၈။ ခန္ဓာကိုယ်ထဲကမြွေဆိုးလေးကောင်(၄)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/069-AshinPyinNyeintThara.mp3">၆၉။ သီတင်းကျွတ်တိုင်း မျက်ရည်ဝိုင်း</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/070-AshinPyinNyeintThara.mp3">၇၀။ ကိုယ်လျှောက်နေတဲ့လမ်း</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/071-AshinPyinNyeintThara.mp3">၇၁။ လောကဓံကို သည်းခံပါ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/072-AshinPyinNyeintThara.mp3">၇၂။ ဒုက္ခအရိယ သစ္စာ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/073-AshinPyinNyeintThara.mp3">၇၃။ ထမင်းလေးတစ်လုပ်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/074-AshinPyinNyeintThara.mp3">၇၄။ ကံစီမံတရားတော်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/075-AshinPyinNyeintThara.mp3">၇၅။ ကိုယ်ရဲ့ကယ်တင်ရှင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/076-AshinPyinNyeintThara.mp3">၇၆။ တရားကျင့်နည်း ၊ အားထုတ်နည်း</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/077-AshinPyinNyeintThara.mp3">၇၇။ တရားကျင့်သူနှင့် မကျင့်သူ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/078-AshinPyinNyeintThara.mp3">၇၈။ အနှစ်ရှာယူ မြတ်သောသူ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/079-AshinPyinNyeintThara.mp3">၇၉။ ဖြစ်ဆဲရုပ်နာမ် ရှုပွားရန်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/080-AshinPyinNyeintThara.mp3">၈၀။ ကံကြွေးကို ဉာဏ်နှင့်ဆပ်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/081-AshinPyinNyeintThara.mp3">၈၁။ အပူတွေ့ရင် အအေးရှာ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/082-AshinPyinNyeintThara.mp3">၈၂။ ကံရှင်းပြတ်မှ နိဗ္ဗာန်ရ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/083-AshinPyinNyeintThara.mp3">၈၃။ အကျိုးကြီးမားသောဒါန</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/084-AshinPyinNyeintThara.mp3">၈၄။ လိုအပ်ချက်ကိုဖြည့်ပေးပါ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/085-AshinPyinNyeintThara.mp3">၈၅။ ဗုဒ္ဓဝါဒ အခြေခံသဘောတရား</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/086-AshinPyinNyeintThara.mp3">၈၆။ အမြတ်ဆုံး (၄)ပါး</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/087-AshinPyinNyeintThara.mp3">၈၇။ တရားမရခြင်း အကြောင်းရင်း (၁)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/088-AshinPyinNyeintThara.mp3">၈၈။ တရားမရခြင်း အကြောင်းရင်း (၂)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/089-AshinPyinNyeintThara.mp3">၈၉။ ဘာဝနာစွမ်းအား</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/090-AshinPyinNyeintThara.mp3">၉၀။ ဥဂ္ဂသူကြွယ်၏ အံဖွယ် (၈)ပါး</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/091-AshinPyinNyeintThara.mp3">၉၁။ လောင်နေတဲ့မီး အလုပ်ပေးတရား</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/092-AshinPyinNyeintThara.mp3">၉၂။ တဆင့်ထက်တဆင့် မြင့်ထက်မြင့်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/093-AshinPyinNyeintThara.mp3">၉၃။ အဝိဇ္ဇာကင်းစင် နိဗ္ဗာန်ဝင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/094-AshinPyinNyeintThara.mp3">၉၄။ အံဖွယ်(၇)ဖြာ နန္ဒာမာတာ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/095-AshinPyinNyeintThara.mp3">၉၅။ ပရိတ်ကြီး (၁၁)သုတ်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/096-AshinPyinNyeintThara.mp3">၉၆။ ဗောဓိရာဇကုမာရသုတ္တန် (၁)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/097-AshinPyinNyeintThara.mp3">၉၇။ ဗောဓိရာဇကုမာရသုတ္တန် (၂)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/098-AshinPyinNyeintThara.mp3">၉၈။ ဗောဓိရာဇကုမာရသုတ္တန် (၃)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/099-AshinPyinNyeintThara.mp3">၉၉။ ဗောဓိရာဇကုမာရသုတ္တန် (၄)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/100-AshinPyinNyeintThara.mp3">၁၀၀။ ကြိုးစားကျင့်ကာ တရားရှာ (၁)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/101-AshinPyinNyeintThara.mp3">၁၀၁။ ကြိုးစားကျင့်ကာ တရားရှာ (၂)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/102-AshinPyinNyeintThara.mp3">၁၀၂။ ကြိုးစားကျင့်ကာ တရားရှာ (၃)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/103-AshinPyinNyeintThara.mp3">၁၀၃။ ပဋိစ္စသမုပ္ပါဒ် တရားတော် (၁)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/104-AshinPyinNyeintThara.mp3">၁၀၄။ ပဋိစ္စသမုပ္ပါဒ် တရားတော် (၂)</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/105-AshinPyinNyeintThara.mp3">၁၀၅။ နတ်တွေအားကျတဲ့ ဘဝ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/106-AshinPyinNyeintThara.mp3">၁၀၆။ သာသနာကို ချစ်မြတ်နိုးသူ</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/107-AshinPyinNyeintThara.mp3">၁၀၇။ မှားမှန်းသိရင် အမှန်ပြင်</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/108-AshinPyinNyeintThara.mp3">၁၀၈။ မြတ်ဗုဒ္ဓကို ကြည်ညိုခြင်း</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/109-AshinPyinNyeintThara.mp3">၁၀၉။ ဆန့်ကျင်ဘက်နှစ်ခု</a><br>
+<a title="To download to your hard disc, please right click and choose " save="" target="" as"."="" href="http://dhammadownload.com/MP3Library/Dhammaduta-Dr-Ashin-Pannyissarra/110-AshinPyinNyeintThara.mp3">၁၁၀။ အမေး+အဖြေ</a><br>
+&nbsp;</font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/111-AshinPyinNyeintThara.mp3">
+၁၁၁။ ဝိပဿနာအကျိုး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/112-AshinPyinNyeintThara.mp3">
+၁၁၂။ အေးရာပေအေးကြောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/113-AshinPyinNyeintThara.mp3">
+၁၁၃။ နိဗ္ဗာန်ကို ခန္ဓာဖုံးသည်။</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/114-AshinPyinNyeintThara.mp3">
+၁၁၄။ အားထုတ်ဖို့ရန် စိတ်ရည်သန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/115-AshinPyinNyeintThara.mp3">
+၁၁၅။ နိဗ္ဗာန်မြတ်ချမ်းသာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/116-AshinPyinNyeintThara.mp3">
+၁၁၆။ အမြင်သုံးမျိူး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/117-AshinPyinNyeintThara.mp3">
+၁၁၇။ သစ္စာမသိက သံသရာရှည်သည်။</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/118-AshinPyinNyeintThara.mp3">
+၁၁၈။ ရည်မှန်းချက်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/119-AshinPyinNyeintThara.mp3">
+၁၁၉။ မဂ်ဉာဏ်၏ အကျိုးကျေးဇူး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/120-AshinPyinNyeintThara.mp3">
+၁၂၀။ နှလုံးသွင်းမှန်ဖို့ အရေးကြီးသည်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/121-AshinPyinNyeintThara.mp3">
+၁၂၁။ သံသရာဝဋ်က ကျွတ်လွတ်ချင်ရင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/122-AshinPyinNyeintThara.mp3">
+၁၂၂။ ဓမ္မအစွမ်း အံ့မခန်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/123-AshinPyinNyeintThara.mp3">
+၁၂၃။ သေခြင်းတရား&nbsp;&nbsp; အနီးထား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/124-AshinPyinNyeintThara.mp3">
+၁၂၄။ အမျက်ဒေါသကို ဖြေလျော့ပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/125-AshinPyinNyeintThara.mp3">
+၁၂၅။ ဘယ်အကျိူးငှာ တရားကျင့်ပါသလဲ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/126-AshinPyinNyeintThara.mp3">
+၁၂၆။ အာရုံခြောက်ပါး ရှုပွားနည်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/127-AshinPyinNyeintThara.mp3">
+၁၂၇။ မဂ်၏ သဘာဝ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/128-AshinPyinNyeintThara.mp3">
+၁၂၈။ လူလေးမျိုး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/129-AshinPyinNyeintThara.mp3">
+၁၂၉။ ချမ်းသာ (၇)မျိုး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/130-AshinPyinNyeintThara.mp3">
+၁၃၀။ သစ္စာလေးပါး တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/131-AshinPyinNyeintThara.mp3">
+၁၃၁။ ပြုနိုင်ခဲတဲ့ အလှူဒါန</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/132-AshinPyinNyeintThara.mp3">
+၁၃၂။ ဝိသာခါ ဆုတောင်းရှစ်ပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/133-AshinPyinNyeintThara.mp3">
+၁၃၃။ စီးပွားမဲ့က ဆင်းရဲလှ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/134-AshinPyinNyeintThara.mp3">
+၁၃၄။ နတ်တမန် ငါးဦး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/135-AshinPyinNyeintThara.mp3">
+၁၃၅။ လောင်စာလည်းသိမ်း မီးလည်းငြိမ်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/136-AshinPyinNyeintThara.mp3">
+၁၃၆။ မဂ္ဂင်ရှစ်ဖော် ယာဉ်ပျံတော် (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/137-AshinPyinNyeintThara.mp3">
+၁၃၇။ မဂ္ဂင်ရှစ်ဖော် ယာဉ်ပျံတော် (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/138-AshinPyinNyeintThara.mp3">
+၁၃၈။ တရားဘယ်လို ကျင့်ရမလဲ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/139-AshinPyinNyeintThara.mp3">
+၁၃၉။ ရုပ်နာမ်နှစ်ထွေ စောင့်ကြည့်နေ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/140-AshinPyinNyeintThara.mp3">
+၁၄၀။ ဝိပဿနာနှင့် ဆောင်ရန် ရှောင်ရန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/141-AshinPyinNyeintThara.mp3">
+၁၄၁။ ခန္ဓာ သံသရာနှင့် နိဗ္ဗာန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/142-AshinPyinNyeintThara.mp3">
+၁၄၂။ မပြေတဲ့ ရန်ငြိုး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/143-AshinPyinNyeintThara.mp3">
+၁၄၃။ မပြတ်ဆက်ကာ ရှုမှတ်ပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/144-AshinPyinNyeintThara.mp3">
+၁၄၄။ ဝိရိယနှင့် ပညာ ဆက်စပ်ပုံ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/145-AshinPyinNyeintThara.mp3">
+၁၄၅။ လျှောက်ရမယ့်လမ်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/146-AshinPyinNyeintThara.mp3">
+၁၄၆။ ဘဝ၏ နောက်ဆုံးအချိန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/147-AshinPyinNyeintThara.mp3">
+၁၄၇။ အသွား အပြန် ခရီး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/148-AshinPyinNyeintThara.mp3">
+၁၄၈။ အလင်းရောင်အော်က လူသားများ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/149-AshinPyinNyeintThara.mp3">
+၁၄၉။ သူှုထိုက်နှင့် သူ့ကံ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/150-AshinPyinNyeintThara.mp3">
+၁၅၀။ တရားဘာကြောင့် ကျင့်ရတာလဲ (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/151-AshinPyinNyeintThara.mp3">
+၁၅၁။ တရားဘာကြောင့် ကျင့်ရတာလဲ (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/152-AshinPyinNyeintThara.mp3">
+၁၅၂။ တရားမမြင် ပုထုစဉ် (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/153-AshinPyinNyeintThara.mp3">
+၁၅၃။ တရားမမြင် ပုထုစဉ် (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/154-AshinPyinNyeintThara.mp3">
+၁၅၄။ ကံကြွေးပေးချေပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/155-AshinPyinNyeintThara.mp3">
+၁၅၅။ ကိုယ့်အတွက် ကိုယ်သာ တရားရှာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/156-AshinPyinNyeintThara.mp3">
+၁၅၆။ အားထုတ်ဖို့ရန် စိတ်ရည်သန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/157-AshinPyinNyeintThara.mp3">
+၁၅၇။ ဆန့်ကျင်ပယ်ကာ တရားရှာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/158-AshinPyinNyeintThara.mp3">
+၁၅၈။ ကိုယ့်အကျိုးနှင် သူ့အကျိုး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/159-AshinPyinNyeintThara.mp3">
+၁၅၉။ တရားကျင့်လျှက် အတွေးဖျက်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/160-AshinPyinNyeintThara.mp3">
+၁၆၀။ တရားရှုမြင် ဒိဋ္ဌိစင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/161-AshinPyinNyeintThara.mp3">
+၁၆၁။ အမေလေးထွေ အဖြေ လေးပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/162-AshinPyinNyeintThara.mp3">
+၁၆၂။ လွတ်မြောက်ရေးလမ်းစ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/163-AshinPyinNyeintThara.mp3">
+၁၆၃။ နိဗ္ဗာန်ကို ရယူလိုလျှင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/164-AshinPyinNyeintThara.mp3">
+၁၆၄။ ရှုုပွားအားထုတ်နည်း (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/165-AshinPyinNyeintThara.mp3">
+၁၆၅။ ရှုုပွားအားထုတ်နည်း (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/166-AshinPyinNyeintThara.mp3">
+၁၆၆။ တရားနှင့်နေလေ့ရှိသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/167-AshinPyinNyeintThara.mp3">
+၁၆၇။ သတိပညာ ပြည့်စုံလာလျှင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/168-AshinPyinNyeintThara.mp3">
+၁၆၈။ မထွက်မရပ် တရားမှတ်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/169-AshinPyinNyeintThara.mp3">
+၁၆၉။ အတွေးနှစ်မျိုး ခွဲခြားခြင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/170-AshinPyinNyeintThara.mp3">
+၁၇၀။ အကြံဆိုးများကို ပယ်ဖျောက်ခြင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/171-AshinPyinNyeintThara.mp3">
+၁၇၁။ ပူပန်ခပ်သိမ်း ကင်းငြိမ်းသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/172-AshinPyinNyeintThara.mp3">
+၁၇၂။ အပျက်မြင်က ဘယ်ကျိုးရ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/173-AshinPyinNyeintThara.mp3">
+၁၇၃။ ဘုရားဘာကြောင့် ပွင့်ပါသလဲ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/174-AshinPyinNyeintThara.mp3">
+၁၇၄။ သတ္တဝါနှင့် ဖန်ဆင်းသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/175-AshinPyinNyeintThara.mp3">
+၁၇၅။ ကြည့်ရင်း ကြည်ရင်း ပျက်ယိုယွင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/176-AshinPyinNyeintThara.mp3">
+၁၇၆။ အားကိုးမှီရာ တရားရှာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/177-AshinPyinNyeintThara.mp3">
+၁၇၇။ သိ - ပယ် - ဆိုက် - ပွား တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/178-AshinPyinNyeintThara.mp3">
+၁၇၈။ ရုပ် - နာမ် ကြားဖူး အကျိုးထူး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/179-AshinPyinNyeintThara.mp3">
+၁၇၉။ တည်ရှိအောက်မေ့ရမည့် တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/180-AshinPyinNyeintThara.mp3">
+၁၈၀။&nbsp; နှလုံးသွင်းမှန် တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/181-AshinPyinNyeintThara.mp3">
+၁၈၁။ ကုသိလ်ပြုရတဲ့အကျိုး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/182-AshinPyinNyeintThara.mp3">
+၁၈၂။ ဖြတ် - ပယ် - ရှာ - ကပ် တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/183-AshinPyinNyeintThara.mp3">
+၁၈၃။ ပြုပြင်နည်း နှစ်မျိုး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/184-AshinPyinNyeintThara.mp3">
+၁၈၄။ နိဗ္ဗာန်ကမ်းတစ်ဖက်သို့ တက်လှမ်းကြောင်း (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/185-AshinPyinNyeintThara.mp3">
+၁၈၅။ နိဗ္ဗာန်ကမ်းတစ်ဖက်သို့ တက်လှမ်းကြောင်း (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/186-AshinPyinNyeintThara.mp3">
+၁၈၆။ နိဗ္ဗာန်ကမ်းတစ်ဖက်သို့ တက်လှမ်းကြောင်း (၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/187-AshinPyinNyeintThara.mp3">
+၁၈၇။ နိဗ္ဗာန်ကမ်းတစ်ဖက်သို့ တက်လှမ်းကြောင်း (၄)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/188-AshinPyinNyeintThara.mp3">
+၁၈၈။ နိဗ္ဗာန်ကမ်းတစ်ဖက်သို့ တက်လှမ်းကြောင်း (၅)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/189-AshinPyinNyeintThara.mp3">
+၁၈၉။ နိဗ္ဗာန်ကမ်းတစ်ဖက်သို့ တက်လှမ်းကြောင်း (၆)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/190-AshinPyinNyeintThara.mp3">
+၁၉၀။ နိဗ္ဗာန်ကမ်းတစ်ဖက်သို့ တက်လှမ်းကြောင်း (၇)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/191-AshinPyinNyeintThara.mp3">
+၁၉၁။ မင်းဆင်ပမာ ကျင့်ကြံပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/192-AshinPyinNyeintThara.mp3">
+၁၉၂။ လောကကို လွှမ်းမိုးသော တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/193-AshinPyinNyeintThara.mp3">
+၁၉၃။ လိုရာပန်းတိုင်ရောက်အောင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/194-AshinPyinNyeintThara.mp3">
+၁၉၄။ ပုထုဇဉ်သွားတဲ့လမ်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/195-AshinPyinNyeintThara.mp3">
+၁၉၅။ နိဗ္ဗာန်ကို ခန္ဓာဖုံးထားသည်။</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/196-AshinPyinNyeintThara.mp3">
+၁၉၆။ ကောင်းစွာသိမြင်ခြင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/197-AshinPyinNyeintThara.mp3">
+၁၉၇။ စူဠသောတာပန်ဖြစ်ကြောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/198-AshinPyinNyeintThara.mp3">
+၁၉၈။ ကိုယ်သလျှင် ဖန်ဆင်းရှင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/199-AshinPyinNyeintThara.mp3">
+၁၉၉။ ကုသိုလ်ပြုလျှက် ဒိဋ္ဌိဖျက်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/200-AshinPyinNyeintThara.mp3">
+၂၀၀။ ငြောင့်တသင်းနှင့် နှောင်ဖွဲ့ခြင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/201-AshinPyinNyeintThara.mp3">
+၂၀၁။ ဖြောင့်တန်းနေတဲ့ နိဗ္ဗာန်လမ်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/202-AshinPyinNyeintThara.mp3">
+၂၀၂။ ဆင်းရဲကင်းကွာ မြတ်ချမ်းသာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/203-AshinPyinNyeintThara.mp3">
+၂၀၃။ အရှင်ပိဏ္ဍောလဘာရဒွါဇ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/204-AshinPyinNyeintThara.mp3">
+၂၀၄။ သေသူအားလုံး ကောင်းရာ ရောက်နိုင်သလား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/205-AshinPyinNyeintThara.mp3">
+၂၀၅။ မကျန်းမာလျှင် ဆင်ခြင်ပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/206-AshinPyinNyeintThara.mp3">
+၂၀၆။ တရားစစ်နှင့် တရားတု</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/207-AshinPyinNyeintThara.mp3">
+၂၀၇။ ရောဟနီမင်းသမီး၏ ကုသိုလ်တော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/208-AshinPyinNyeintThara.mp3">
+၂၀၈။ သမုတိနှင့် ပရမတ် ခွဲခြားနည်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/209-AshinPyinNyeintThara.mp3">
+၂၀၉။ ပညာဉာဏ်ကို ရင့်ကျက်စေကြောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/210-AshinPyinNyeintThara.mp3">
+၂၁၀။ သီတင်းကျွတ်လပြည့် ပဝါရဏာနေ့</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/211-AshinPyinNyeintThara.mp3">
+၂၁၁။ အလှူအကျိုးကြီးခြင်းကြောင်းရင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/212-AshinPyinNyeintThara.mp3">
+၂၁၂။ တရား ရရာ ရကြောင်း (၈)ပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/213-AshinPyinNyeintThara.mp3">
+၂၁၃။ အားကိုးမှီရာ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/214-AshinPyinNyeintThara.mp3">
+၂၁၄။ ခန္ဓာငါးဖြာ ရှုပွားပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/215-AshinPyinNyeintThara.mp3">
+၂၁၅။ ကိလေသာ စိုစွတ်သူနှင့် မစိုစွတ်သူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/216-AshinPyinNyeintThara.mp3">
+၂၁၆။ အသိဉာဏ်နှင့် လွတ်မြောက်ခြင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/217-AshinPyinNyeintThara.mp3">
+၂၁၇။ ကြောက်ရွံ့ခြင်းမှ ကင်းဝေးရန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/218-AshinPyinNyeintThara.mp3">
+၂၁၈။ အယူမှန် အကျင့်မှန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/219-AshinPyinNyeintThara.mp3">
+၂၁၉။ မိမိစိတ်ကို ဆင်ခြင်ပုံ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/220-AshinPyinNyeintThara.mp3">
+၂၂၀။ ကာမဂုဏ်အပြစ်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/221-AshinPyinNyeintThara.mp3">
+၂၂၁။ အိုခြင်းတရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/222-AshinPyinNyeintThara.mp3">
+၂၂၂။ ငြိမ်းအေးပြီးသူ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/223-AshinPyinNyeintThara.mp3">
+၂၂၃။ ဆင်းရဲခြင်း လါတ်ကင်းအောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/224-AshinPyinNyeintThara.mp3">
+၂၂၄။ တရားကျင့်ရန် ရည်ရွယ်ချက်အမှန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/225-AshinPyinNyeintThara.mp3">
+၂၂၅။ သုစိလောမဘီလူးအား ဆုံးမခြင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/226-AshinPyinNyeintThara.mp3">
+၂၂၆။ မကောင်းစိတ်များပယ်ရှားပုံ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/227-AshinPyinNyeintThara.mp3">
+၂၂၇။ မဂ်ဖိုလ်ရကြောင်း အကျင့်ကောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/228-AshinPyinNyeintThara.mp3">
+၂၂၈။ အဆင့်ဆင့်သော ကျင့်စဉ်များ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/229-AshinPyinNyeintThara.mp3">
+၂၂၉။ စိတ်ညစ်ညူးကြောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/230-AshinPyinNyeintThara.mp3">
+၂၃၀။ မိုးနတ်သားအား စိန်ခေါ်သံ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/231-AshinPyinNyeintThara.mp3">
+၂၃၁။ စိတ်ငြိမ်မှုမှ ကင်းဝေးသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/232-AshinPyinNyeintThara.mp3">
+၂၃၂။ ဓာတ်တူချင်းသာ ပေါင်းသင်းသည်။</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/233-AshinPyinNyeintThara.mp3">
+၂၃၃။ ကောင်းကျိုးချမ်းသာ တိုးပွားကြောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/234-AshinPyinNyeintThara.mp3">
+၂၃၄။ အပျက်မြင်မှ အမြင်မှန်ရ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/235-AshinPyinNyeintThara.mp3">
+၂၃၅။ အမြတ်ဆုံး (၆) ပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/236-AshinPyinNyeintThara.mp3">
+၂၃၆။ ကျင့်တိုင်းချမ်းသာ မချမ်းသာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/237-AshinPyinNyeintThara.mp3">
+၂၃၇။ ယဉ်ကျေးသူနှင့် မယဉ်ကျေးသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/238-AshinPyinNyeintThara.mp3">
+၂၃၈။ ဆုံးမလွယ်သူနှင့် ဆုံးမခက်သူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/239-AshinPyinNyeintThara.mp3">
+၂၃၉။ မဟာရာဟုလောဝါဒ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/240-AshinPyinNyeintThara.mp3">
+၂၄၀။ အနှစ်ရှာသူများ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/241-AshinPyinNyeintThara.mp3">
+၂၄၁။ အတ္တနှင့် အနတ္တ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/242-AshinPyinNyeintThara.mp3">
+၂၄၂။ မဟာသစ္စကပရိပိုဒ်တရား (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/243-AshinPyinNyeintThara.mp3">
+၂၄၃။ မဟာသစ္စကပရိပိုဒ်တရား (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/244-AshinPyinNyeintThara.mp3">
+၂၄၄။ မဟာသစ္စကပရိပိုဒ်တရား (၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/245-AshinPyinNyeintThara.mp3">
+၂၄၅။ ဓါတ်ကြီးလေးပါး တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/246-AshinPyinNyeintThara.mp3">
+၂၄၆။ လူနာနှင့် ယောဂီ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/247-AshinPyinNyeintThara.mp3">
+၂၄၇။ လူချင်း မတူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/248-AshinPyinNyeintThara.mp3">
+၂၄၈။ ကြည့်တိုင်း မမြင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/249-AshinPyinNyeintThara.mp3">
+၂၄၉။ ဘာအတွက် တရားကျင့်တာလဲ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/250-AshinPyinNyeintThara.mp3">
+၂၅၀။ ဝေဒနာဆူးငြောင့်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/251-AshinPyinNyeintThara.mp3">
+၂၅၁။ မကျန်းမမာ ဝေဒနာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/252-AshinPyinNyeintThara.mp3">
+၂၅၂။ မရှိကကောင်း ရှိမကောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/253-AshinPyinNyeintThara.mp3">
+၂၅၃။ သူတော်ကောင်းတို့၏ ခွန်အား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/254-AshinPyinNyeintThara.mp3">
+၂၅၄။ ရဲရင့်သော စကား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/255-AshinPyinNyeintThara.mp3">
+၂၅၅။ ဒါနပြုသူနှင့် မပြုသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/256-AshinPyinNyeintThara.mp3">
+၂၅၆။ အရဟတ္တဖိုလ်ရောက်ကြောင်း အကျင့်သီလ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/257-AshinPyinNyeintThara.mp3">
+၂၅၇။ ကျောင်းအလှူတရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/258-AshinPyinNyeintThara.mp3">
+၂၅၈။ ထကြွလုံ့လရှိပါမှ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/259-AshinPyinNyeintThara.mp3">
+၂၅၉။ ပေးလှူခြင်း (၈)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/260-AshinPyinNyeintThara.mp3">
+၂၆၀။ ကြိုးစာပြုကာ တရားရှာ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/261-AshinPyinNyeintThara.mp3">
+၂၆၁။ မရပ်မနား အမြဲရှုပွား တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/262-AshinPyinNyeintThara.mp3">
+၂၆၂။ သတိတရား လက်ကိုင်ထား တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/263-AshinPyinNyeintThara.mp3">
+၂၆၃။ ခန္ဓာ၏ သာယာဖွယ်နှင့် အပြစ်တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/264-AshinPyinNyeintThara.mp3">
+၂၆၄။ ဝက္ကလိသုတ္တန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/265-AshinPyinNyeintThara.mp3">
+၂၆၅။ သူတော်ကောင်း အလှူတရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/266-AshinPyinNyeintThara.mp3">
+၂၆၆။ ကျင့်ဆဲကျင့်ပြီး တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/267-AshinPyinNyeintThara.mp3">
+၂၆၇။ အငြင်းအခုံတရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/268-AshinPyinNyeintThara.mp3">
+၂၆၈။ ပြောင်းလဲစွန့်ခွာခြင်း တရားတော် (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/269-AshinPyinNyeintThara.mp3">
+၂၆၉။ ပြောင်းလဲစွန့်ခွာခြင်း တရားတော် (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/270-AshinPyinNyeintThara.mp3">
+၂၇၀။ ပြောင်းလဲစွန့်ခွာခြင်း တရားတော် (၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/271-AshinPyinNyeintThara.mp3">
+၂၇၁။ ပြောင်းလဲစွန့်ခွာခြင်း တရားတော် (၄)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/272-AshinPyinNyeintThara.mp3">
+၂၇၂။ ပြောင်းလဲစွန့်ခွာခြင်း တရားတော် (၅)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/273-AshinPyinNyeintThara.mp3">
+၂၇၃။ စိတ်ညစ်ကြေးလျှင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/274-AshinPyinNyeintThara.mp3">
+၂၇၄။ အားကိုးမှီခိုရာ တရား (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/275-AshinPyinNyeintThara.mp3">
+၂၇၅။ အားကိုးမှီခိုရာ တရား (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/276-AshinPyinNyeintThara.mp3">
+၂၇၆။ အားကိုးမှီခိုရာ တရား (၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/277-AshinPyinNyeintThara.mp3">
+၂၇၇။ သပ္ပါယ (၅) ပါး တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/278-AshinPyinNyeintThara.mp3">
+၂၇၈။ တဏှာဖြစ်လာ တရား (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/279-AshinPyinNyeintThara.mp3">
+၂၇၉။ တဏှာဖြစ်လာ တရား (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/280-AshinPyinNyeintThara.mp3">
+၂၈၀။ မြင်ယုံကြားယုံမျှ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/281-AshinPyinNyeintThara.mp3">
+၂၈၁။ ရာဟုလောဝါဒ သုတ္တန် (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/282-AshinPyinNyeintThara.mp3">
+၂၈၂။ ရာဟုလောဝါဒ သုတ္တန် (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/283-AshinPyinNyeintThara.mp3">
+၂၈၃။ အပါယ်ဘေးက လွတ်လိုလျှင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/284-AshinPyinNyeintThara.mp3">
+၂၈၄။ တစ်ကြောင်းတည်းသော လမ်း (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/285-AshinPyinNyeintThara.mp3">
+၂၈၅။ တစ်ကြောင်းတည်းသော လမ်း (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/286-AshinPyinNyeintThara.mp3">
+၂၈၆။ ထင်းခြောက်ပမာ တရားရှာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/287-AshinPyinNyeintThara.mp3">
+၂၈၇။ ဝါဒစစ်ထိုး၍ မရသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/288-AshinPyinNyeintThara.mp3">
+၂၈၈။ အပြစ်ကင်းသော ကံ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/289-AshinPyinNyeintThara.mp3">
+၂၈၉။ ကောင်းကင်နှင့်တူစါာ ကျင့်ပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/290-AshinPyinNyeintThara.mp3">
+၂၉၀။ သတိသမ္ပဇဉ် ဉာဏ်နှင့်ယှဉ်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/291-AshinPyinNyeintThara.mp3">
+၂၉၁။ မေယိယသုတ္တန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/292-AshinPyinNyeintThara.mp3">
+၂၉၂။ ဘောဇဉ် (၇) ပါး အနှစ်ချုပ်တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/293-AshinPyinNyeintThara.mp3">
+၂၉၃။ ခန္ဓာနှင့် နိဗ္ဗာန်တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/294-AshinPyinNyeintThara.mp3">
+၂၉၄။ မာရ်နတ်၏ အင်အားစုများ တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/295-AshinPyinNyeintThara.mp3">
+၂၉၅။ ခံစားသူမှာ ဝေဒနာ တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/296-AshinPyinNyeintThara.mp3">
+၂၉၆။ အမှောင်နှင့် အလင်းရောင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/297-AshinPyinNyeintThara.mp3">
+၂၉၇။ ဘယ်ဆီကလာ ဘာတွေပြု တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/298-AshinPyinNyeintThara.mp3">
+၂၉၈။ သမုတိနှင့် ပရမတ် တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/299-AshinPyinNyeintThara.mp3">
+၂၉၉။ ဝဋ် (၃) ပါး တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/300-AshinPyinNyeintThara.mp3">
+၃၀၀။ အဝိဇ္ဇာနှင့် တဏှာတရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/301-AshinPyinNyeintThara.mp3">
+၃၀၁။ သံသရာကူမြောက်ရေး တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/302-AshinPyinNyeintThara.mp3">
+၃၀၂။ ချက်ချင်းကျိုးရ မြတ်ဒါန</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/303-AshinPyinNyeintThara.mp3">
+၃၀၃။ အနှစ်ရှာယူ မြတ်သောသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/304-AshinPyinNyeintThara.mp3">
+၃၀၄။ လုပ်သင့် မလုပ်သင့် နှိုင်းကာချင့်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/305-AshinPyinNyeintThara.mp3">
+၃၀၅။ ရှုပွားနည်း အနှစ်ချုုပ်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/306-AshinPyinNyeintThara.mp3">
+၃၀၆။ သတိထားကာ ကျင့်ကြံပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/307-AshinPyinNyeintThara.mp3">
+၃၀၇။ မျက်စိကြည့်နည်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/308-AshinPyinNyeintThara.mp3">
+၃၀၈။ နှလုံးသွင်းမှန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/309-AshinPyinNyeintThara.mp3">
+၃၀၉။ တဏှာ၊ ဒိဋ္ဌိ၊ မာန တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/310-AshinPyinNyeintThara.mp3">
+၃၁၀။ ဒုက္ခ သိမြင် နိဗ္ဗာန်ဝင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/311-AshinPyinNyeintThara.mp3">
+၃၁၁။ တရားနာပါ အာထုတ်ပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/312-AshinPyinNyeintThara.mp3">
+၃၁၂။ လွှမ်းမိုးအပ်သော တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/313-AshinPyinNyeintThara.mp3">
+၃၁၃။ အလိုခြားနားသတိထား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/314-AshinPyinNyeintThara.mp3">
+၃၁၄။ ဘယ်လိုကျင့်မှ ချမ်းသာရ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/315-AshinPyinNyeintThara.mp3">
+၃၁၅။&nbsp; လောကဆုံးမှ နိဗ္ဗာန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/316-AshinPyinNyeintThara.mp3">
+၃၁၆။ တရားတိုးတက်ကြောင်း (၇) ပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/317-AshinPyinNyeintThara.mp3">
+၃၁၇။ အစားထိုးကျင့်မယ်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/318-AshinPyinNyeintThara.mp3">
+၃၁၈။ အသိပညာချိုကတဲ့လာလျှင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/319-AshinPyinNyeintThara.mp3">
+၃၁၉။ ပုထုဇဉ်အပြစ်တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/320-AshinPyinNyeintThara.mp3">
+၃၂၀။ အျပက်မြင်က ဘယ်အကျိုးရ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/321-AshinPyinNyeintThara.mp3">
+၃၂၁။ အာသဝကုန်မှ နိဗ္ဗာန်ရ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/322-AshinPyinNyeintThara.mp3">
+၃၂၂။ ပွားများအပ်သည့် တရား (၇)ပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/323-AshinPyinNyeintThara.mp3">
+၃၂၃။ ဘယ်တရားလွန်တာ ကောင်းသနည်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/324-AshinPyinNyeintThara.mp3">
+၃၂၄။ ဘုရားဘာကြောင့် ပွင့်ပါသလဲ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/325-AshinPyinNyeintThara.mp3">
+၃၂၅။ အိုနာသေကင်း နိဗ္ဗာန်တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/326-AshinPyinNyeintThara.mp3">
+၃၂၆။ အကျင့်မှန်မှ နိဗ္ဗာန်ရ တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/327-AshinPyinNyeintThara.mp3">
+၃၂၇။ ဝိပဿနာရှုမှ မီးငြိမ်းရ တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/328-AshinPyinNyeintThara.mp3">
+၃၂၈။ ကံပစ်ချရာ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/329-AshinPyinNyeintThara.mp3">
+၃၂၉။ သုံးဆယ့်တစ်ဘုံ နွားသတ်ရုံ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/330-AshinPyinNyeintThara.mp3">
+၃၃၀။ ပညတ် - ပရမတ် ကွဲရမည့်တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/331-AshinPyinNyeintThara.mp3">
+၃၃၁။ ကိလေသာတောရှင်း တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/332-AshinPyinNyeintThara.mp3">
+၃၃၂။ ခန္ဓာငါးဖြာ ရှုစရာ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/333-AshinPyinNyeintThara.mp3">
+၃၃၃။ မှီခိုအားထားရာ တရား (၁၀)မျိုး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/334-AshinPyinNyeintThara.mp3">
+၃၃၄။ တရားတိုးတက်သူ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/335-AshinPyinNyeintThara.mp3">
+၃၃၅။ ဆိတ်ငြိမ်မှုကို လိုလားသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/336-AshinPyinNyeintThara.mp3">
+၃၃၆။ ဥဂ္ဂသူကြွယ်၏ အံ့ဖွယ် (၈)ပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/337-AshinPyinNyeintThara.mp3">
+၃၃၇။ စိတ်ကို စစ်ဆေး ပြုပြင်ပေး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/338-AshinPyinNyeintThara.mp3">
+၃၃၈။ အာသဝ (၆) ပါးကို ပယ်သူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/339-AshinPyinNyeintThara.mp3">
+၃၃၉။ အမြဲမပြတ် ဆင်ခြင်ရမည့် တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/340-AshinPyinNyeintThara.mp3">
+၃၄၀။ လိုလားနှစ်သက်ဖွယ် (၁၀)ပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/341-AshinPyinNyeintThara.mp3">
+၃၄၁။ မဂ္ဂင်ရှစ်ဖေါ် ယာဉ်ပျံတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/342-AshinPyinNyeintThara.mp3">
+၃၄၂။ အဖော်ကောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/343-AshinPyinNyeintThara.mp3">
+၃၄၃။ တရားတိုးတက်ကြောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/344-AshinPyinNyeintThara.mp3">
+၃၄၄။ အတ္တပျောက်မှ နိဗ္ဗာန်ရ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/345-AshinPyinNyeintThara.mp3">
+၃၄၅။ တရားအားထုတ်သူနှင့် အားမထုတ်သူ ထူးခြားချက်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/346-AshinPyinNyeintThara.mp3">
+၃၄၆။ အရူးနှင့် အကောင်းတရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/347-AshinPyinNyeintThara.mp3">
+၃၄၇။ ဝဋ် (၃) ပါး တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/348-AshinPyinNyeintThara.mp3">
+၃၄၈။ စီးပွားချမ်းသာကြောင်း ကျင့်စဉ် (၁) </a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/349-AshinPyinNyeintThara.mp3">
+၃၄၉။ စီးပွားချမ်းသာကြောင်း ကျင့်စဉ် (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/350-AshinPyinNyeintThara.mp3">
+၃၅၀။ ကယ်တင်ရှင် တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/351-AshinPyinNyeintThara.mp3">
+၃၅၁။ လောကကို လွှမ်းမိုးသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/352-AshinPyinNyeintThara.mp3">
+၃၅၂။ ကိလေသာ ဖောက်ခွဲရေး (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/353-AshinPyinNyeintThara.mp3">
+၃၅၃။ ကိလေသာ ဖောက်ခွဲရေး (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/354-AshinPyinNyeintThara.mp3">
+၃၅၄။ ကိလေသာ ဖောက်ခွဲရေး (၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/355-AshinPyinNyeintThara.mp3">
+၃၅၅။ ခန္ဒာဖြစ်စဉ် သတိဝင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/356-AshinPyinNyeintThara.mp3">
+၃၅၆။ ရှိလျှင် ချမ်းသာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/357-AshinPyinNyeintThara.mp3">
+၃၅၇။ တူရာ မရှိ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/358-AshinPyinNyeintThara.mp3">
+၃၅၈။ နာယူပြီးကာ ကျင့်ကြံပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/359-AshinPyinNyeintThara.mp3">
+၃၅၉။ တရား ဘာကြောင့် ကျင့်ရတယ် (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/360-AshinPyinNyeintThara.mp3">
+၃၆၀။ တရား ဘာကြောင့် ကျင့်ရတယ် (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/361-AshinPyinNyeintThara.mp3">
+၃၆၁။ မတူခြားနားခြင်း တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/362-AshinPyinNyeintThara.mp3">
+၃၆၂။ တရားျကင့်ကာ အသိဉာဏ်ရျာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/363-AshinPyinNyeintThara.mp3">
+၃၆၃။ မဂ်ဉာဏ်ဖိုလ်ဉာဏ် တရားရကြောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/364-AshinPyinNyeintThara.mp3">
+၃၆၄။ ကိုယ့်တရား ကိုယ်စစ်ပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/365-AshinPyinNyeintThara.mp3">
+၃၆၅။ နှစ်သစ်မင်္ဂလာ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/366-AshinPyinNyeintThara.mp3">
+၃၆၆။ အစုတ် အဆန် တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/367-AshinPyinNyeintThara.mp3">
+၃၆၇။ အပါယ်လွတ်ကြောင်းရှာ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/368-AshinPyinNyeintThara.mp3">
+၃၆၈။ ယဉ်ကျေးသူသာ သိမြင်လာ တရာေးတာ်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/369-AshinPyinNyeintThara.mp3">
+၃၆၉။ နှလုံးသွင်းရန် တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/370-AshinPyinNyeintThara.mp3">
+၃၇၀။ ဖြတ်ပယ်ကျင့်မှ တရားရ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/371-AshinPyinNyeintThara.mp3">
+၃၇၁။ သံဝေယူကာ ကျင့်ကြံပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/372-AshinPyinNyeintThara.mp3">
+၃၇၂။ သေခြင်းရှုမြင် တရားဝင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/373-AshinPyinNyeintThara.mp3">
+၃၇၃။ ကြိုးချည်ရေမျော တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/374-AshinPyinNyeintThara.mp3">
+၃၇၄။ ငြိတွယ်ပယ်ရှား လွတ်မြောက်သွား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/375-AshinPyinNyeintThara.mp3">
+၃၇၅။ အဓိပတိ (၃)ပါး လက်ကိုင်ထား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/376-AshinPyinNyeintThara.mp3">
+၃၇၆။ ဉာဏ်ယှဉ်တဲ့ အလှူ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/377-AshinPyinNyeintThara.mp3">
+၃၇၇။ ကောင်းကျိုးမဖက် ကာမဝိတက်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/378-AshinPyinNyeintThara.mp3">
+၃၇၈။ အယူမှားခြင်း အကြောင်းအရင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/279-AshinPyinNyeintThara.mp3">&nbsp;၃၇၉။ 
+သောတာပန်ဖြစ်ရ အကျိုးဖလ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/380-AshinPyinNyeintThara.mp3">
+၃၈၀။ အကျင့်ကောင်းနှင့် ပြည့်စုံသူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/381-AshinPyinNyeintThara.mp3">
+၃၈၁။ ရထားပမာ ဤခန္ဓာ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/382-AshinPyinNyeintThara.mp3">
+၃၈၂။ အရှင်အာနန္ဓာ၏ ဆုတောင်း (၈)ပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/383-AshinPyinNyeintThara.mp3">
+၃၈၃။ ဝိပဿနာဉာဏ် ရင့်သန်ကြောင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/384-AshinPyinNyeintThara.mp3">
+၃၈၄။ လိပ်နှင့်တူအောင်ကျင့်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/385-AshinPyinNyeintThara.mp3">
+၃၈၅။ ဝိသာခါတောင်းဆု (၈)ပါး</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/386%20-AshinPyinNyeintThara.mp3">
+၃၈၆။ နေလပမာ ကျင့်ကြံပါ တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/387-AshinPyinNyeintThara.mp3">
+၃၈၇။ ရေမီးတူစွာ ကျင့်ကြံပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/388-AshinPyinNyeintThara.mp3">
+၃၈၈။ ကင်းဝေးဆိတ်ငြိမ်စွာ နေထိုင်ခြင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/389-AshinPyinNyeintThara.mp3">
+၃၈၉။ မြေကြီး ကျောက်တောင်ပမာဆောင်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/390-AshinPyinNyeintThara.mp3">
+၃၉၀။ ယမမင်း စစ်တမ်း တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/391-AshinPyinNyeintThara.mp3">
+၃၉၁။ ကြက်ငှက်ပမာ ကျင့်ကြံပါ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/392-AshinPyinNyeintThara.mp3">
+၃၉၂။ အလှူပေးခြင်း အကြောင်းရင်း</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/393-AshinPyinNyeintThara.mp3">
+၃၉၃။ ပေါင်းသင့်သူနှင့် မပေါင်းသင့်သူ</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/394-AshinPyinNyeintThara.mp3">
+၃၉၄။ မရွံ့မကြောက် ခြသေ့ၤဟောက်သို့</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/395-AshinPyinNyeintThara.mp3">
+၃၉၅။ မရပ်မနား ဆက်ကြိုးစား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/396-AshinPyinNyeintThara.mp3">
+၃၉၆။ ဘာဝနာ သုတ္တန်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/397-AshinPyinNyeintThara.mp3">
+၃၉၇။ ဝိဇ္ဇာဖြစ်ကြောင်း တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/398-AshinPyinNyeintThara.mp3">
+၃၉၈။ ဝိဇ္ဇာဉာဏ်ဖြစ်ကြောင်း တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/399-AshinPyinNyeintThara.mp3">
+၃၉၉။ ဆင်ခြင်ပွားများ မြတ်တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/400-AshinPyinNyeintThara.mp3">
+၄၀၀။ အကောင်းဆုံး လမ်းခရီး တရားတော်</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/401-AshinPyinNyeintThara.mp3">
+၄၀၁။ ယောဂီ သတိပေး တရားတော် (၁)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/402-AshinPyinNyeintThara.mp3">
+၄၀၂။ ယောဂီ သတိပေး တရားတော် (၂)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/403-AshinPyinNyeintThara.mp3">
+၄၀၃။ ယောဂီ သတိပေး တရားတော် (၃)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/404-AshinPyinNyeintThara.mp3">
+၄၀၃။ ယောဂီများ မပြတ် ဆင်ခြင်ရမည့် တရား</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/404-AshinPyinNyeintThara.mp3">
+၄၀၄။ အမြတ်သာသနာကြုံသောအခါ တရားတော် (၁၂-၄-၂၀၁၅)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/405-AshinPyinNyeintThara.mp3">
+၄၀၅။ တန်ဖိုးရှိတာ ရယူပါ တရားတော် (၁၃-၄-၂၀၁၅)</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/406-AshinPyinNyeintThara.mp3">
+၄၀၆။ သံသရာမရပ် ဒုက္ခထပ် တရားတော် (၁၄-၄-၂၀၁၅) နေ့</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/407-AshinPyinNyeintThara.mp3">
+၄၀၇။ ရုန်းထွက်နိုင်မှ ချမ်းသာရ တရားတော် (၁၄-၄-၂၀၁၅) ည</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/408-AshinPyinNyeintThara.mp3">
+၄၀၈။ အကျင့်မြတ်လမ်းစဉ်တရားတော် (၁၅-၄-၂၀၁၅) ည</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/409-AshinPyinNyeintThara.mp3">
+၄၀၉။ ကံပေါ်ဉာဏ်ဆင့်တရားတော် (၁၆-၄-၂၀၁၅) နေ့</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/410-AshinPyinNyeintThara.mp3">
+၄၁၀။ စွန့်ပေါင်းပြုပွား တရားတော် (၁၆-၄-၂၀၁၅) ည</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">
+<a href="http://dhammadownload.com/MP3Library/Dr-AshinPyinNyeintThara/411-AshinPyinNyeintThara.mp3">
+၄၁၁။ ပြုနိုင်ခဲသော ဒါန တရားတော် (၁၇-၄-၂၀၁၅) နေ့</a></font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+<font size="4">&nbsp;</font></p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+<p class="MsoTagline" style="text-align: left; text-kashida-space: 50%; margin-top:0; margin-bottom:0">
+&nbsp;</p>
+	<p>&nbsp;</p></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-70zUvF4huN4OU"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-70zUvF4huN4OU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+</font>
+
+
+
+<font face="Pyidaungsu">
+
+
+
+
+
+</font>

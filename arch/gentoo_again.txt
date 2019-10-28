@@ -1,3 +1,5 @@
+https://wiki.gentoo.org/wiki/Full_Disk_Encryption_From_Scratch_Simplified
+
 MBR installation using BIOS
 
 passwd root
@@ -101,10 +103,13 @@ make menuconfig
 # could not find the root block device in uuid gentoo
 # Device Drivers->SCSI Device Support->SCSI-low-level-drivers->virtio-scsi support
 
+# https://tutel.me/c/unix/questions/343056/could+not+find+the+root+block+device+in+gentoo
+
 make -j2 
 make modules_install
 
 make install
+
 ///////
  make modules_install
   INSTALL drivers/hid/intel-ish-hid/intel-ish-ipc.ko
@@ -145,8 +150,11 @@ make install
 
 # Try to use this one 
 https://tutel.me/c/unix/questions/343056/could+not+find+the+root+block+device+in+gentoo
-UUID=5f7c7e13-2a46-4ae4-a8c0-f77f84e80900  /      ext4  noatime  0 1   
-UUID=5f7c7e13-2a46-4ae4-a8c0-f77f84e80900  none      swap  sw       0 0   
+UUID=0a892f65-8b70-4058-ab04-e4c70d40ce90  /      ext4  noatime  0 1   
+UUID=664f8c36-ada0-48b6-95f6-eff5c46ea384  none      swap  sw       0 0   
+
+
+
 
 
 emerge --ask sys-kernel/genkernel
@@ -163,7 +171,11 @@ ls /boot/initramfs*
 
 
 
+#emerge --ask --verbose sys-boot/os-prober
 emerge --ask --verbose sys-boot/grub:2
+
+nano -w /etc/default/grub
+GRUB_CMDLINE_LINUX_DEFAULT="ipv6.disable=1 net.ifnames=0 quiet"
 
 grub-install /dev/sda
 grub-mkconfig -o /boot/grub/grub.cfg
@@ -174,6 +186,24 @@ s0:12345:respawn:/sbin/agetty 9600 ttyS0 vt100
 s1:12345:respawn:/sbin/agetty 9600 ttyS1 vt100
 
 rc-update add sshd default
+
+
+#/etc/conf.d/net Static IP definition
+
+cat > /etc/conf.d/net << "EOF"
+# Begin 
+
+config_eth0="192.168.1.200 netmask 255.255.255.0 brd 192.168.1.255"
+routes_eth0="default via 192.168.1.1"
+
+# End /etc/systemd/network/eth0.network
+
+EOF
+
+
+cd /etc/init.d
+ln -s net.lo net.eth0
+rc-update add net.eth0 default
 
 
 useradd -m -G users,wheel,audio -s /bin/bash larry
