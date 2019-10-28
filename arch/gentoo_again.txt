@@ -1,0 +1,204 @@
+MBR installation using BIOS
+
+passwd root
+
+rc-service sshd start
+
+
+fdisk -l /dev/sda
+fdisk -t dos /dev/sda
+
+
+t 
+L 
+choose 82 for swap
+
+/dev/sda1	Swap partition +2G
+/dev/sda2	Root partition
+
+
+mkfs.ext4 /dev/sda2
+mkswap /dev/sda1
+swapon /dev/sda1
+
+
+mkdir /mnt/gentoo
+mount /dev/sda2 /mnt/gentoo 
+cd /mnt/gentoo
+
+
+sshpass -p root rsync -avzz -P stage3-amd64-20191016T214504Z.tar.xz root@192.168.153.158:/mnt/gentoo/
+
+
+tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner
+
+mirrorselect -i -o >> /mnt/gentoo/etc/portage/make.conf
+mkdir --parents /mnt/gentoo/etc/portage/repos.conf
+cp /mnt/gentoo/usr/share/portage/config/repos.conf /mnt/gentoo/etc/portage/repos.conf/gentoo.conf
+
+cp --dereference /etc/resolv.conf /mnt/gentoo/etc/
+
+
+mount --types proc /proc /mnt/gentoo/proc
+mount --rbind /sys /mnt/gentoo/sys
+mount --make-rslave /mnt/gentoo/sys
+mount --rbind /dev /mnt/gentoo/dev
+mount --make-rslave /mnt/gentoo/dev
+
+chroot /mnt/gentoo /bin/bash
+source /etc/profile
+export PS1="(chroot) ${PS1}"
+
+emerge-webrsync
+emerge --sync
+
+
+eselect profile list
+
+eselect profile set 1
+
+emerge --ask --verbose --update --deep --newuse @world
+
+
+ls /usr/share/zoneinfo
+echo "Asia/Bangkok" > /etc/timezone
+emerge --config sys-libs/timezone-data
+
+
+nano -w /etc/locale.gen
+en_US ISO-8859-1
+en_US.UTF-8 UTF-8
+
+locale-gen
+
+locale -a # To verify that the selected locales are now available, run locale -a
+
+eselect locale list
+
+eselect locale set 6 # utf8
+
+env-update && source /etc/profile && export PS1="(chroot) ${PS1}"
+
+
+emerge --ask sys-kernel/gentoo-sources
+emerge --ask sys-apps/pciutils
+emerge --ask sys-apps/pcmciautils
+emerge --ask sys-apps/mlocate
+emerge --ask net-misc/dhcpcd
+
+cd /usr/src/linux
+
+make menuconfig
+# lsmod 
+# lspci -k
+# lsusb
+# https://techtorials.me/linux/configuring-gentoo-kernel-vmware-player-minimal-manual-configuration/
+# http://wikigentoo.ksiezyc.pl/HOWTO_Install_Gentoo_on_VMware.htm
+
+# https://www.noobslab.com/2018/08/how-to-install-gentoo-linux-cli-and-kde.html?m=1
+
+# https://forums.gentoo.org/viewtopic-t-1079474-start-0.html
+# could not find the root block device in uuid gentoo
+# Device Drivers->SCSI Device Support->SCSI-low-level-drivers->virtio-scsi support
+
+make -j2 
+make modules_install
+
+make install
+///////
+ make modules_install
+  INSTALL drivers/hid/intel-ish-hid/intel-ish-ipc.ko
+  INSTALL drivers/hid/intel-ish-hid/intel-ishtp-hid.ko
+  INSTALL drivers/hid/intel-ish-hid/intel-ishtp.ko
+  INSTALL drivers/net/vmxnet3/vmxnet3.ko
+  INSTALL drivers/scsi/scsi_transport_sas.ko
+  INSTALL drivers/scsi/sd_mod.ko
+  INSTALL drivers/thermal/x86_pkg_temp_thermal.ko
+  INSTALL fs/efivarfs/efivarfs.ko
+  INSTALL net/ipv4/netfilter/ipt_MASQUERADE.ko
+  INSTALL net/ipv4/netfilter/iptable_nat.ko
+  INSTALL net/ipv4/netfilter/nf_log_arp.ko
+  INSTALL net/ipv4/netfilter/nf_log_ipv4.ko
+  INSTALL net/ipv4/netfilter/nf_nat_ipv4.ko
+  INSTALL net/ipv6/netfilter/nf_log_ipv6.ko
+  INSTALL net/netfilter/nf_log_common.ko
+  INSTALL net/netfilter/nf_nat.ko
+  INSTALL net/netfilter/nf_nat_ftp.ko
+  INSTALL net/netfilter/nf_nat_irc.ko
+  INSTALL net/netfilter/nf_nat_sip.ko
+  INSTALL net/netfilter/xt_LOG.ko
+  INSTALL net/netfilter/xt_addrtype.ko
+  INSTALL net/netfilter/xt_mark.ko
+  INSTALL net/netfilter/xt_nat.ko
+  DEPMOD  4.19.72-gentoo
+
+///////
+
+
+#/dev/sda1    /boot         ext2    noauto,noatime  1 2
+#/dev/sda2    none          swap    sw             0 0
+#/dev/sda3    /             ext4    noatime        0 1
+
+
+#/dev/sda2    /             ext4    noatime        0 1
+#/dev/sda1    none          swap    sw             0 0
+
+# Try to use this one 
+https://tutel.me/c/unix/questions/343056/could+not+find+the+root+block+device+in+gentoo
+UUID=5f7c7e13-2a46-4ae4-a8c0-f77f84e80900  /      ext4  noatime  0 1   
+UUID=5f7c7e13-2a46-4ae4-a8c0-f77f84e80900  none      swap  sw       0 0   
+
+
+emerge --ask sys-kernel/genkernel
+
+etc-update 
+
+# choose -3 say yes
+
+genkernel --install initramfs
+ls /boot/initramfs*
+
+
+
+
+
+
+emerge --ask --verbose sys-boot/grub:2
+
+grub-install /dev/sda
+grub-mkconfig -o /boot/grub/grub.cfg
+
+nano -w /etc/inittab
+# SERIAL CONSOLES
+s0:12345:respawn:/sbin/agetty 9600 ttyS0 vt100
+s1:12345:respawn:/sbin/agetty 9600 ttyS1 vt100
+
+rc-update add sshd default
+
+
+useradd -m -G users,wheel,audio -s /bin/bash larry
+passwd larry
+
+# visudo
+emerge --ask app-admin/sudo
+libtool: warning: remember to run 'libtool --finish /usr/lib64/sudo'
+
+
+exit
+cd
+umount -l /mnt/gentoo/dev{/shm,/pts,}
+umount -R /mnt/gentoo
+reboot
+
+
+https://unix.stackexchange.com/questions/343056/could-not-find-the-root-block-device-in-gentoo
+https://www.linuxquestions.org/questions/linux-software-2/gentoo-error-could-not-find-the-root-block-device-in-uuid%3D-4175563831/
+https://tutel.me/c/unix/questions/343056/could+not+find+the+root+block+device+in+gentoo
+https://tutel.me/c/unix/questions/343056/could+not+find+the+root+block+device+in+gentoo
+
+
+https://www.cyberciti.biz/faq/howto-display-list-of-modules-or-device-drivers-in-the-linux-kernel/
+http://edoceo.com/howto/kernel-modules
+https://unix.stackexchange.com/questions/184877/how-to-list-all-loadable-kernel-modules
+https://www.networkworld.com/article/3391362/looking-into-linux-modules.html
+http://modules.sourceforge.net/
