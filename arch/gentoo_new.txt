@@ -184,7 +184,7 @@ emerge --ask --noreplace net-misc/netifrc
 cat > /etc/conf.d/net << "EOF"
 # Begin 
 
-config_eth0="192.168.1.201 netmask 255.255.255.0 brd 192.168.1.255"
+config_eth0="192.168.1.200 netmask 255.255.255.0 brd 192.168.1.255"
 routes_eth0="default via 192.168.1.1"
 
 # End /etc/systemd/network/eth0.network
@@ -496,3 +496,6 @@ export PS1="(chroot) ${PS1}"
 env-update && source /etc/profile && export PS1="(chroot) ${PS1}"
 
 https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Kernel
+
+could not find the root block device UUID in gentoo
+https://unix.stackexchange.com/questions/343056/could-not-find-the-root-block-device-in-gentoo
