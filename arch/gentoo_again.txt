@@ -1,3 +1,15 @@
+#Errors
+# Cound not find the root block device in UUID=
+
+https://wiki.gentoo.org/wiki/Sakaki%27s_EFI_Install_Guide
+
+http://elatov.github.io/2014/11/running-gentoo-as-a-guest-in-virtualbox/
+http://elatov.github.io/2015/02/install-gentoo-on-samsung-chromebook/
+
+
+https://www.osboxes.org/guide/
+https://www.osboxes.org/gentoo/#gentoo-201905-info
+
 https://wiki.gentoo.org/wiki/Full_Disk_Encryption_From_Scratch_Simplified
 
 MBR installation using BIOS
@@ -104,6 +116,9 @@ make menuconfig
 # Device Drivers->SCSI Device Support->SCSI-low-level-drivers->virtio-scsi support
 
 # https://tutel.me/c/unix/questions/343056/could+not+find+the+root+block+device+in+gentoo
+# https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Kernel
+# https://wiki.gentoo.org/wiki/Kernel/Configuration
+# http://swift.siphos.be/linux_sea/kernelbuilding.html
 
 make -j2 
 make modules_install
@@ -154,7 +169,15 @@ UUID=0a892f65-8b70-4058-ab04-e4c70d40ce90  /      ext4  noatime  0 1
 UUID=664f8c36-ada0-48b6-95f6-eff5c46ea384  none      swap  sw       0 0   
 
 
+# this command if the output is the same or not 
+ls -l /dev/disk/by-uuid/
+udevadm info -q all -n /dev/sda2 | grep uuid
+# https://linuxconfig.org/how-to-retrieve-and-change-partitions-universally-unique-identifier-uuid-on-linux
 
+
+
+# https://github.com/robbat2/genkernel/tree/master/arch/x86_64
+# https://github.com/robbat2/genkernel/blob/master/arch/x86_64/modules_load
 
 
 emerge --ask sys-kernel/genkernel
@@ -221,6 +244,14 @@ umount -R /mnt/gentoo
 reboot
 
 
+emerge --ask sys-block/parted
+parted -l
+
+https://xuri.me/2014/04/26/gentoo-linux-quick-install-guide.html
+https://wiki.gentoo.org/wiki/Kernel/Configuration
+https://unix.stackexchange.com/questions/343056/could-not-find-the-root-block-device-in-gentoo
+https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Kernel
+
 https://unix.stackexchange.com/questions/343056/could-not-find-the-root-block-device-in-gentoo
 https://www.linuxquestions.org/questions/linux-software-2/gentoo-error-could-not-find-the-root-block-device-in-uuid%3D-4175563831/
 https://tutel.me/c/unix/questions/343056/could+not+find+the+root+block+device+in+gentoo
@@ -232,3 +263,169 @@ http://edoceo.com/howto/kernel-modules
 https://unix.stackexchange.com/questions/184877/how-to-list-all-loadable-kernel-modules
 https://www.networkworld.com/article/3391362/looking-into-linux-modules.html
 http://modules.sourceforge.net/
+
+///
+from arch
+
+sudo parted -l
+Model: VMware, VMware Virtual S (scsi)
+Disk /dev/sda: 161GB
+Sector size (logical/physical): 512B/512B
+Partition Table: msdos
+Disk Flags:
+
+Number  Start   End     Size    Type     File system  Flags
+ 1      1049kB  5370MB  5369MB  primary  ext2
+ 2      5370MB  161GB   156GB   primary  ext4
+
+lsblk -f
+NAME   FSTYPE  LABEL       UUID                                 FSAVAIL FSUSE% MOUNTPOINT
+sda
+├─sda1 ext2                2e76e134-f29b-465c-99ea-96ef777f6cc5    4.6G     1% /boot
+└─sda2 ext4                ce25373c-e3e9-4ba4-9d5c-a45c9bcab92c  123.8G     8% /
+
+ 
+/etc/fstab
+ # <file system> <dir> <type> <options> <dump> <pass>
+# /dev/sda2
+UUID=ce25373c-e3e9-4ba4-9d5c-a45c9bcab92c       /               ext4            rw,relatime     0 1
+
+# /dev/sda1
+UUID=2e76e134-f29b-465c-99ea-96ef777f6cc5       /boot           ext2            rw,relatime     0 2
+
+
+# /etc/fstab: static file system information
+#
+# <file system> <dir>   <type>  <options>       <dump>  <pass>
+# /dev/sda1
+UUID=eded6749-c4c5-4373-b236-e65f37f27f1f       /               ext4            rw,relatime,data=ordered        0 1
+
+# /dev/mapper/vg-home
+UUID=7c4c3f40-da93-49d3-b38c-d305096e7d7a       /home           ext4            rw,relatime,data=ordered        0 2
+
+# /dev/mapper/vg-swap
+UUID=c7f97772-df74-4f82-9aae-ddefcfea9c3c       none            swap            defaults,pri=1  0 0
+
+
+
+////
+
+
+# /dev/sda2
+UUID=e20a3f2f-622b-4e92-b7ea-6e71fc6374b8       /               ext4            rw,relatime         0 1
+
+# /dev/sda1
+UUID=20d2e701-99cb-4a2f-a044-70ab06148583       none           swap             defaults,pri=1      0 0
+
+
+#/dev/sda2    /             ext4    noatime        0 1
+#/dev/sda1    none          swap    sw             0 0
+
+
+http://swift.siphos.be/linux_sea/kernelbuilding.html
+https://wiki.gentoo.org/wiki/Custom_Initramfs
+
+
+https://ubuntuforums.org/showthread.php?t=1690831
+could not find the root block device in UUID gentoo
+
+ sudo gedit /etc/grub.d/40_custom
+
+menuentry "sabayon" {
+insmod ext2
+set root="(hd0,4)"
+search --no-floppy --fs-uuid --set 4a2b695a-1b00-4b63-a45a-2b93e388eee4a
+linux /boot/kernel-genkernel-x86-2.6.36-sabayon ro root=/dev/ram0 ramdisk=8192 real_root=/dev/sda4 dolvm init=/linuxrc splash=silent,theme:sabayon vga=791 console=tty1 quiet resume=swap:/dev/sda8 real_resume=swap:/dev/sda8
+initrd /boot/initramfs-genkernel-x86-2.6.36-sabayon  
+}
+
+
+https://sysadmins.ru/topic519626.html
+http://www.gentooforum.de/artikel/21677/gel-st-could-not-finde-the-root-block-device.html
+
+arch
+udevadm info -q all -n /dev/sda2
+P: /devices/pci0000:00/0000:00:10.0/host32/target32:0:0/32:0:0:0/block/sda/sda2
+N: sda2
+L: 0
+S: disk/by-partuuid/3d1afd16-02
+S: disk/by-uuid/ce25373c-e3e9-4ba4-9d5c-a45c9bcab92c
+S: disk/by-path/pci-0000:00:10.0-scsi-0:0:0:0-part2
+E: DEVPATH=/devices/pci0000:00/0000:00:10.0/host32/target32:0:0/32:0:0:0/block/sda/sda2
+E: DEVNAME=/dev/sda2
+E: DEVTYPE=partition
+E: PARTN=2
+E: MAJOR=8
+E: MINOR=2
+E: SUBSYSTEM=block
+E: USEC_INITIALIZED=14881643
+E: ID_SCSI=1
+E: ID_VENDOR=VMware_
+E: ID_VENDOR_ENC=VMware\x2c\x20
+E: ID_MODEL=VMware_Virtual_S
+E: ID_MODEL_ENC=VMware\x20Virtual\x20S
+E: ID_REVISION=1.0
+E: ID_TYPE=disk
+E: ID_BUS=scsi
+E: ID_PATH=pci-0000:00:10.0-scsi-0:0:0:0
+E: ID_PATH_TAG=pci-0000_00_10_0-scsi-0_0_0_0
+E: ID_PART_TABLE_UUID=3d1afd16
+E: ID_PART_TABLE_TYPE=dos
+E: ID_FS_UUID=ce25373c-e3e9-4ba4-9d5c-a45c9bcab92c
+E: ID_FS_UUID_ENC=ce25373c-e3e9-4ba4-9d5c-a45c9bcab92c
+E: ID_FS_VERSION=1.0
+E: ID_FS_TYPE=ext4
+E: ID_FS_USAGE=filesystem
+E: ID_PART_ENTRY_SCHEME=dos
+E: ID_PART_ENTRY_UUID=3d1afd16-02
+E: ID_PART_ENTRY_TYPE=0x83
+E: ID_PART_ENTRY_NUMBER=2
+E: ID_PART_ENTRY_OFFSET=10487808
+E: ID_PART_ENTRY_SIZE=304084992
+E: ID_PART_ENTRY_DISK=8:0
+E: DEVLINKS=/dev/disk/by-partuuid/3d1afd16-02 /dev/disk/by-uuid/ce25373c-e3e9-4ba4-9d5c-a45c9bcab92c /dev/disk/by-path/pci-0000:00:10.0-scsi-0:0:0:0-part2
+E: TAGS=:systemd:
+
+
+udevadm info -q all -n /dev/sda1
+P: /devices/pci0000:00/0000:00:10.0/host32/target32:0:0/32:0:0:0/block/sda/sda1
+N: sda1
+L: 0
+S: disk/by-uuid/2e76e134-f29b-465c-99ea-96ef777f6cc5
+S: disk/by-partuuid/3d1afd16-01
+S: disk/by-path/pci-0000:00:10.0-scsi-0:0:0:0-part1
+E: DEVPATH=/devices/pci0000:00/0000:00:10.0/host32/target32:0:0/32:0:0:0/block/sda/sda1
+E: DEVNAME=/dev/sda1
+E: DEVTYPE=partition
+E: PARTN=1
+E: MAJOR=8
+E: MINOR=1
+E: SUBSYSTEM=block
+E: USEC_INITIALIZED=14974423
+E: ID_SCSI=1
+E: ID_VENDOR=VMware_
+E: ID_VENDOR_ENC=VMware\x2c\x20
+E: ID_MODEL=VMware_Virtual_S
+E: ID_MODEL_ENC=VMware\x20Virtual\x20S
+E: ID_REVISION=1.0
+E: ID_TYPE=disk
+E: ID_BUS=scsi
+E: ID_PATH=pci-0000:00:10.0-scsi-0:0:0:0
+E: ID_PATH_TAG=pci-0000_00_10_0-scsi-0_0_0_0
+E: ID_PART_TABLE_UUID=3d1afd16
+E: ID_PART_TABLE_TYPE=dos
+E: ID_FS_UUID=2e76e134-f29b-465c-99ea-96ef777f6cc5
+E: ID_FS_UUID_ENC=2e76e134-f29b-465c-99ea-96ef777f6cc5
+E: ID_FS_VERSION=1.0
+E: ID_FS_TYPE=ext2
+E: ID_FS_USAGE=filesystem
+E: ID_PART_ENTRY_SCHEME=dos
+E: ID_PART_ENTRY_UUID=3d1afd16-01
+E: ID_PART_ENTRY_TYPE=0x83
+E: ID_PART_ENTRY_NUMBER=1
+E: ID_PART_ENTRY_OFFSET=2048
+E: ID_PART_ENTRY_SIZE=10485760
+E: ID_PART_ENTRY_DISK=8:0
+E: DEVLINKS=/dev/disk/by-uuid/2e76e134-f29b-465c-99ea-96ef777f6cc5 /dev/disk/by-partuuid/3d1afd16-01 /dev/disk/by-path/pci-0000:00:10.0-scsi-0:0:0:0-part1
+E: TAGS=:systemd:
+
