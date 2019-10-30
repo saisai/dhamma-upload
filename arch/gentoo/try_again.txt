@@ -1,0 +1,2 @@
+https://www.linux.org/threads/understanding-the-various-grub-modules.11142/
+http://glennastory.net/boot/grub2.html
