@@ -56,3 +56,6 @@ GRUB_GFXPAYLOAD_LINUX=keep
 GRUB_THEME="/boot/themes/starfield/theme.txt"
 
 
+https://www.youtube.com/watch?v=9mD6aAG7DNA
+
+
