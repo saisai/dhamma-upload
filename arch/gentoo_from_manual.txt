@@ -1,0 +1,146 @@
+https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Disks
+https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Kernel
+
+parted -a optimal /dev/sda
+mklabel gpt
+unit mib
+
+set 2 boot on
+
+
+mount /dev/sda4 /mnt/gentoo
+mirrorselect -i -o >> /mnt/gentoo/etc/portage/make.conf
+cp --dereference /etc/resolv.conf /mnt/gentoo/etc/
+
+
+mount --types proc /proc /mnt/gentoo/proc
+mount --rbind /sys /mnt/gentoo/sys
+mount --make-rslave /mnt/gentoo/sys
+mount --rbind /dev /mnt/gentoo/dev
+mount --make-rslave /mnt/gentoo/dev 
+
+
+chroot /mnt/gentoo /bin/bash
+source /etc/profile
+export PS1="(chroot) ${PS1}"
+
+
+mount /dev/sda2 /boot
+emerge-webrsync
+
+eselect profile list
+eselect profile set 1
+
+emerge --ask --verbose --update --deep --newuse @world
+
+ls /usr/share/zoneinfo
+echo "Asia/Bangkok" > /etc/timezone
+emerge --config sys-libs/timezone-data
+
+nano -w /etc/locale.gen
+
+en_US ISO-8859-1
+en_US.UTF-8 UTF-8
+
+locale-gen
+
+locale -a # To verify that the selected locales are now available, run locale -a
+
+eselect locale list
+
+eselect locale set 6 # utf8
+
+env-update && source /etc/profile && export PS1="(chroot) ${PS1}"
+
+emerge --ask sys-kernel/gentoo-sources
+ls -l /usr/src/linux
+
+cd /usr/src/linux 
+make menuconfig
+make -j2 && make modules_install
+make install
+
+emerge --ask sys-kernel/genkernel
+genkernel --install initramfs
+
+
+nano -w /etc/fstab
+
+/dev/sda2	/boot	ext2	defaults	0 2
+
+#genkernel all
+#ls /boot/kernel* /boot/initramfs*
+
+
+emerge --ask sys-kernel/linux-firmware
+
+
+nano -w /etc/fstab
+
+/dev/sda2   /boot        ext2    defaults,noatime     0 2
+/dev/sda3   none         swap    sw                   0 0
+/dev/sda4   /            ext4    noatime              0 1
+
+/dev/cdrom  /mnt/cdrom   auto    noauto,user          0 0
+
+nano -w /etc/conf.d/hostname
+
+
+emerge --ask --noreplace net-misc/netifrc
+
+#/etc/conf.d/net Static IP definition
+
+cat > /etc/conf.d/net << "EOF"
+# Begin 
+
+config_eth0="192.168.1.200 netmask 255.255.255.0 brd 192.168.1.255"
+routes_eth0="default via 192.168.1.1"
+
+# End 
+
+EOF
+
+
+cd /etc/init.d
+ln -s net.lo net.eth0
+rc-update add net.eth0 default
+
+nano -w /etc/hosts
+
+passwd root
+
+
+emerge --ask sys-apps/mlocate
+rc-update add sshd default
+
+nano -w /etc/inittab
+
+# SERIAL CONSOLES
+s0:12345:respawn:/sbin/agetty 9600 ttyS0 vt100
+s1:12345:respawn:/sbin/agetty 9600 ttyS1 vt100
+
+emerge --ask net-misc/dhcpcd
+
+
+#emerge --ask --verbose sys-boot/grub:2
+# https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Bootloader
+
+echo 'GRUB_PLATFORMS="efi-64"' >> /etc/portage/make.conf
+emerge --ask sys-boot/grub:2
+emerge --ask --update --newuse --verbose sys-boot/grub:2
+
+grub-install --target=x86_64-efi --efi-directory=/boot
+grub-install --target=x86_64-efi --efi-directory=/boot --removable
+grub-mkconfig -o /boot/grub/grub.cfg
+
+grub-install /dev/sda
+grub-mkconfig -o /boot/grub/grub.cfg
+
+
+grub-mkconfig -o /boot/grub/grub.cfg
+
+exit
+cd
+umount -l /mnt/gentoo/dev{/shm,/pts,}
+umount -R /mnt/gentoo
+reboot

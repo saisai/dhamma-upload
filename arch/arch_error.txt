@@ -1,0 +1,7 @@
+"error: failed to commit transaction (conflicting files)” In Arch Linux
+https://www.ostechnix.com/how-to-solve-error-failed-to-commit-transaction-conflicting-files-in-arch-linux/
+
+
+sudo pacman -Syu --overwrite /usr/lib/libstfl.so.0
+sudo rm /usr/lib/libstfl.so.0
+sudo pacman -Syu

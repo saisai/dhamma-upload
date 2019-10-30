@@ -1,0 +1,58 @@
+arch linux
+https://chaseafterstart.github.io/
+
+
+https://blog.sourcerer.io/building-a-website-with-c-db942c801aee
+
+
+
+
+
+
+https://www.osboxes.org/gentoo/#gentoo-201808-info
+
+
+gentoo 
+https://tutel.me/c/unix/questions/343056/could+not+find+the+root+block+device+in+gentoo
+https://gist.github.com/jukbot/956963fbd033658511c0
+
+check this one in .config
+CONFIG_FUSION_SPI=Y
+
+from www.osboxes.org/gentoo
+# https://forums.gentoo.org/viewtopic-t-1093352-start-0.html
+cat /proc/cmdline
+BOOT_IMAGE=/kernel-4.19.37-gentoo root=UUID=9a36e149-af55-4b2c-aa40-94a86a2cb366 ro
+
+
+sudo blkid
+/dev/sda1: UUID="9a36e149-af55-4b2c-aa40-94a86a2cb366" TYPE="ext4" PARTUUID="2754c0d9-01"
+/dev/sda2: UUID="33530bec-2bd0-4d55-a8a2-003bb4b1f170" TYPE="ext4" PARTUUID="2754c0d9-02"
+/dev/sda3: UUID="33a32838-4989-4249-8468-11a4acf52ed9" TYPE="swap" PARTUUID="2754c0d9-03"
+/dev/sda4: UUID="bdbd8597-0ece-470e-8211-da722dad4dca" TYPE="ext4" PARTUUID="2754c0d9-04"
+
+
+sudo fdisk -l /dev/sda
+Disk /dev/sda: 500 GiB, 536870912000 bytes, 1048576000 sectors
+Disk model: VMware Virtual S
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x2754c0d9
+
+Device     Boot     Start        End   Sectors  Size Id Type
+/dev/sda1            2048  494929919 494927872  236G 83 Linux
+/dev/sda2       494929920  497027071   2097152    1G 83 Linux
+/dev/sda3       497027072  513804287  16777216    8G 82 Linux swap / Solaris
+/dev/sda4       513804288 1048575999 534771712  255G 83 Linux
+
+
+
+https://cyberbisson.com/blog/2016/03/28/creating-a-gentoo-workstation-in-a-vmware-virtual-machine-2/
+GRUB_CMDLINE_LINUX="root=/dev/sda3 rootfstype=ext4 dolvm"
+GRUB_GFXMODE=1152x864
+GRUB_GFXPAYLOAD_LINUX=keep
+GRUB_THEME="/boot/themes/starfield/theme.txt"
+
+
