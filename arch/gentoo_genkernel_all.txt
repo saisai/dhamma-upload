@@ -221,3 +221,8 @@ You should now be able to login with the new password.
 
 From http://www.gentoo.org/news/en/gwn/20040301-newsletter.xml
 ''''''
+
+
+https://wiki.archlinux.org/index.php/Reset_lost_root_password
+
+

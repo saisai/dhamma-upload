@@ -1,0 +1,8 @@
+vm ware 
+f2 for bios set up 
+
+ctrl + c  to boot from the iso
+
+grub will appear
+grub > init=/bin/sh
+grub > exit
