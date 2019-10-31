@@ -1,3 +1,19 @@
 wifi static
 https://linoxide.com/linux-how-to/netctl-setup-wifi-static-ip-arch-linux/
 https://www.fosslinux.com/17105/how-to-install-blackarch-repositories-on-arch-linux.htm
+
+
+curl -O https://blackarch.org/strap.sh
+chmod +x strap.sh
+./strap.sh
+pacman -Sg | grep blackarch
+Display Packages in Category
+pacman -Sgg | grep blackarch-wireless
+pacman -S blackarch-category
+
+
+
+
+
+https://parrotlinux.org/
+https://en.wikipedia.org/wiki/BlackArch
