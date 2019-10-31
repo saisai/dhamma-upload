@@ -1,0 +1,3 @@
+wifi static
+https://linoxide.com/linux-how-to/netctl-setup-wifi-static-ip-arch-linux/
+https://www.fosslinux.com/17105/how-to-install-blackarch-repositories-on-arch-linux.htm
