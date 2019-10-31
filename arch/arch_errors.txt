@@ -1,0 +1,24 @@
+invalid ssl certificate
+
+sudo pacman-mirrors -f5 && sudo pacman -Syu
+
+https://forum.manjaro.org/t/ssl-certificate-problem-certificate-has-expired/44851
+
+
+
+
+
+
+ Wifi finds networks but won't connect
+sudo pacman -S dialog
+sudo wifi-menu
+
+
+
+https://bbs.archlinux.org/viewtopic.php?id=208008
+
+https://bbs.archlinux.org/viewtopic.php?id=169371
+
+artixlinux installation
+https://wiki.artixlinux.org/Main/Installation#Format_partitions
+
