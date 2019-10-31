@@ -17,3 +17,7 @@ pacman -S blackarch-category
 
 https://parrotlinux.org/
 https://en.wikipedia.org/wiki/BlackArch
+
+
+c tutorial
+https://github.com/CoolerVoid?tab=repositories
