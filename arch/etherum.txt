@@ -1,0 +1,217 @@
+/run/user/1001/gvfs
+
+/run/media/walen/2F0F-5F12
+
+https://ropsten.etherscan.io/address/0xc03894ca5f696b8c7ffc34f0a6ad5eb38ed22fc9
+
+
+https://scotch.io/bar-talk/a-fast-and-convenient-development-server-with-lite-server
+https://github.com/johnpapa/lite-server
+
+
+https://planetpython.org/
+https://www.python.org/success-stories/python-to-control-cddvd-packaging-hardware/
+https://www.python.org/success-stories/category/business/
+https://busybox.net/about.html
+https://wiki.archlinux.org/index.php/Users_and_groups
+
+
+ropsten.etherscan.io says Please connect to your Web3 provider
+
+
+https://ethereum.stackexchange.com/questions/26225/issues-connecting-to-the-etherscan-ropsten-api-via-web3-py
+
+truffle run verify Bookmarks --network ropsten
+
+
+https://www.innoq.com/en/blog/ethereum-truffle-framework-tutorial/
+https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Arch
+https://www.sitepoint.com/truffle-testing-smart-contracts/
+
+https://github.com/trufflesuite/trufflesuite.github.io/issues/165
+https://github.com/scorpion9979/axpr-timelock
+
+
+https://api-ropsten.etherscan.io/api?module=block&action=getblockreward&blockno=6589496&apikey=https://ropsten.infura.io/v3/6db78a110144420eae57b957eae6dd26
+
+https://api-ropsten.etherscan.io/api?module=transaction&action=getstatus&txhash=0x15f8e5ea1079d9a0bb04a4c58ae5fe7654b5b2b4463375ff7ffb490aa0032f3a&apikey=YourApiKeyToken
+https://api-ropsten.etherscan.io/api?module=transaction&action=getstatus&txhash=0x107b20a81bc3c460f63f2b42167d78333162a0625ff5d049025fd3b9953d6ad3&apikey=https://ropsten.infura.io/v3/6db78a110144420eae57b957eae6dd26
+
+
+https://api-ropsten.etherscan.io/api?module=contract&action=getabi&address=0x5BC3E58378e0018f8eeF6b9A4DCf6b0eD524e908&apikey=https://ropsten.infura.io/v3/6db78a110144420eae57b957eae6dd26
+
+curl -X POST \
+-H "Content-Type: application/json" \
+--data '{"jsonrpc": "2.0", "id": 1, "method": "eth_blockNumber", "params": []}' \
+"https://mainnet.infura.io/v3/6db78a110144420eae57b957eae6dd26"
+
+curl -X POST \
+-H "Content-Type: application/json" \
+--data '{"jsonrpc": "2.0", "id": 1, "method": "eth_blockNumber", "params": []}' \
+"https://ropsten.infura.io/v3/6db78a110144420eae57b957eae6dd26"
+
+
+curl https:/ropsten.infura.io/v3/6db78a110144420eae57b957eae6dd26   \
+-X POST \
+-H "Content-Type: application/json" \
+-d '{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params": ["0x648b5e",false],"id":1}'
+
+
+
+SimpleStorage.deployed().then(function(instance){return instance.get.call();}).then(function(value){return value.toNumber()});
+
+SimpleStorage.deployed().then(function(instance){return instance.set(4);});
+
+SimpleStorage.deployed().then(function(instance){return instance.get.call();}).then(function(value){return value.toNumber()});
+
+
+SimpleStorage.deployed().then(function(instance){return instance.set(4);});
+
+
+https://www.trufflesuite.com/tutorials/debugging-a-smart-contract
+
+
+Fibonacci.deployed().then(function(instance){return instance.generateFib(3);});
+
+0x36e733497493ea09f5597aa5c4440bd2e455ee03
+
+personal.unlockAccount("your_new_address_here", "put_your_secret_passphrase_here", 600)
+personal.unlockAccount("0x36e733497493ea09f5597aa5c4440bd2e455ee03", "test-monkey-1983", 600)
+
+let bookmarksInst = await Bookmarks.at("0x36e733497493ea09f5597aa5c4440bd2e455ee03")
+
+
+Change
+Dev mail
+devsmtp2
+
+
+https://www.trufflesuite.com/tutorials/pet-shop
+
+
+
+https://www.trufflesuite.com/docs/ganache/quickstart
+https://www.trufflesuite.com/docs/truffle/reference/configuration
+https://www.trufflesuite.com/docs/truffle/reference/configuration#compiler-configuration
+https://medium.com/@zulhhandyplast/how-to-install-solidity-0-4-x-on-mac-using-homebrew-8dfadb244f5d
+
+Multiple solc version installation
+https://github.com/crytic/solc-select
+solc --version
+solc use 0.4.24
+
+list all versions 
+solc --versions
+
+https://github.com/crytic/slither
+
+https://github.com/ZerroXBToken/zxbt.git
+
+
+https://solidity.readthedocs.io/en/v0.4.24/using-the-compiler.html
+
+ganache-cli
+
+truffle compile
+truffle migrage
+
+
+https://github.com/ethereum/solc-js
+
+https://github.com/tao12345666333/vim
+https://github.com/tomlion/vim-solidity
+https://medium.com/block-journal/writing-solidity-0-5-smart-contracts-101-5efd1ee9f53e
+
+
+https://github.com/trufflesuite/ganache/network/dependents?package_id=UGFja2FnZS0yMTIzMjI0NDM%3D
+
+https://github.com/pilsa0327/etherscan
+
+https://en.wikipedia.org/wiki/Smart_contract
+https://medium.com/20scoops-cnx/%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-solidity-%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99-6f713b3fb64
+
+https://github.com/crytic/slightly-smarter-contracts/blob/master/template_checker.py
+https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/
+
+https://blockgeeks.com/guides/solidity/
+
+https://www.trufflesuite.com/tutorials/ethereum-overview
+https://www.trufflesuite.com/tutorials/pet-shop
+https://www.trufflesuite.com/docs/truffle/reference/configuration
+
+
+https://web3js.readthedocs.io/en/v1.2.0/
+https://github.com/OpenZeppelin
+https://github.com/ConsenSys/Tokens/issues
+
+https://solidity.readthedocs.io/en/v0.5.12/solidity-by-example.html
+
+https://github.com/fresh502/Udacity-FlightSurety
+https://github.com/CudoVentures/cudos-token
+https://github.com/tranchien2002/ShopEcopet
+
+https://github.com/trufflesuite/truffle/network/dependents?package_id=UGFja2FnZS0xODYzNTQ2Nw%3D%3D
+
+https://developer.kyber.network/docs/Reserves-Ganache/
+
+
+https://github.com/KyberNetwork/workshop
+https://developer.kyber.network/docs/Reserves-Ganache/
+
+
+https://hackernoon.com/the-right-way-to-develop-your-ethereum-dapp-is-here-drizzle-a633af45f031
+
+https://medium.com/@vittominacori/create-an-erc20-token-in-less-than-a-minute-2a8751c4d6f4
+https://medium.com/coinmonks/ethereum-payable-token-and-how-it-works-3bf3349a6a77
+
+https://github.com/arjunaskykok/mamba/tree/master/black_mamba/server
+
+https://github.com/trustwallet/assets
+
+https://github.com/arjunaskykok/programmingbitcoinjs
+
+https://py-evm.readthedocs.io/en/latest/guides/understanding_the_mining_process.html
+
+https://github.com/ethereum/py-evm
+
+https://github.com/OpenZeppelin
+
+https://github.com/ethereum/web3.js/
+
+https://github.com/pyskell/WatchIt/tree/master/app
+
+
+https://www.youtube.com/watch?v=ea3miXs_P6Y
+
+solc Greeter.sol --bin --abi --optimize -o build/
+
+
+https://github.com/web3j/web3j
+
+https://solidity.readthedocs.io/en/v0.5.10/types.html
+
+https://gist.github.com/ajsantander/dce951a95e7608bc29d7f5deeb6e2ecf#file-basictoken-sol
+
+https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-vi-the-swarm-hash-70f069e22aef/
+
+https://www.codementor.io/charlesvoltron/an-intro-to-solidity-debugging-ut6ycx1ot
+
+https://github.com/ethereum/wiki/wiki/JavaScript-API#web3ethcontract
+
+http://coders-errand.com/soliditys-stack-too-deep-errors/
+https://solidity.readthedocs.io/en/v0.5.10/types.html
+
+
+
+https://medium.com/interfacing-with-a-blockchain/communicating-with-an-ethereum-smart-contract-via-android-24ee0dd2c115
+
+
+https://tokenmint.io/app/#/token
+
+https://vittominacori.github.io/erc20-generator/
+
+https://ropsten.etherscan.io/token/0x8eef2547549e48d581c7c1a8c9728fce0a6c53a1 HAHAToken(HAHA)
+
+https://ropsten.etherscan.io/token/0xc52cf954a50e40d6aeeb584881e11d9bfa744a89 SaiToken(BASE)
+
+solc Greeter.sol --bin --abi --optimize -o build/

@@ -1,0 +1,21 @@
+pos printer 
+
+https://www.cosmocode.de/en/blog/kkue/2016-11/29-avoid-these-pitfalls-when-you-use-thermal-printer-your-next-web-project
+
+
+https://github.com/python-escpos/python-escpos
+https://reference.epson-biz.com/modules/popup/index.php/termsofuse_reference/index.php?m=ref_escpos&cid=79&PHPSESSID=de4bec0b0d47e8406dac788da294058a
+https://reference.epson-biz.com/modules/ref_escpos/index.php?content_id=79
+
+https://ariera.github.io/2017/09/26/django-webpack-vue-js-setting-up-a-new-project-that-s-easy-to-develop-and-deploy-part-1.html
+https://medium.com/@rodrigosmaniotto/integrating-django-and-vuejs-with-vue-cli-3-and-webpack-loader-145c3b98501a
+
+
+https://sai-sai@bitbucket.org/sai-sai/test.git
+
+
+
+find . -type f -name *.log -exec ls -al {} \;
+
+find . -type f -name *.pyc -exec rm -rfv {} \;
+find . -type f -name *.log -exec rm -rfv {} \;

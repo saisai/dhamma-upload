@@ -1,0 +1,32 @@
+https://github.com/chase-seibert/cookbook
+https://github.com/drubio/beginningdjango.git
+https://github.com/marijnh/Eloquent-JavaScript.git
+
+Oct 04 15:36:23 walen.local systemd[1]: Starting PostgreSQL database server...
+Oct 04 15:36:24 walen.local postgres[69460]: "/var/lib/postgres/data" is missing or empty. Use a command like
+Oct 04 15:36:24 walen.local postgres[69460]:   su - postgres -c "initdb --locale en_US.UTF-8 -D '/var/lib/postgres/data'"
+Oct 04 15:36:24 walen.local postgres[69460]: with relevant options, to initialize the database cluster.
+Oct 04 15:36:24 walen.local systemd[1]: postgresql.service: Control process exited, code=exited, status=1/FAILURE
+Oct 04 15:36:24 walen.local systemd[1]: postgresql.service: Failed with result 'exit-code'.
+Oct 04 15:36:24 walen.local systemd[1]: Failed to start PostgreSQL database server.
+
+
+WARNING: enabling "trust" authentication for local connections
+You can change this by editing pg_hba.conf or using the option -A, or
+--auth-local and --auth-host, the next time you run initdb.
+
+Success. You can now start the database server using:
+
+    pg_ctl -D /var/lib/postgres/data -l logfile start
+
+
+
+https://forums.gentoo.org/viewtopic-t-1081770-start-0.html
+https://wiki.gentoo.org/wiki/Debugging_with_GDB
+https://wiki.gentoo.org/wiki/QEMU
+https://www.elinux.org/Debugging_The_Linux_Kernel_Using_Gdb
+https://wiki.gentoo.org/wiki/QEMU/Linux_guest
+http://edoceo.com/howto/kvm
+https://wiki.archlinux.org/index.php/QEMU
+http://nickdesaulniers.github.io/blog/2018/10/24/booting-a-custom-linux-kernel-in-qemu-and-debugging-it-with-gdb/
+https://www.kernel.org/doc/html/v4.10/driver-api/index.html    
