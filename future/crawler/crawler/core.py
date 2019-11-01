@@ -838,7 +838,7 @@ def get_html_mp3(file_in, file_out, count=1):
 
         for key in soup.find_all('a'):
             #if ['.mp3', '.MP3'] in key.get('href'):
-            if '.mp3' in key.get('href') or '.MP3' in key.get('href'):
+            if '.mp3' in key.get('href') or '.MP3' in key.get('href') or '.wma' in key.get('href'):
                 mp3_type = key.get('href').split('/')[-1].split('.')[-1]
                 counter = '{:03d}'.format(count)
                 fd.write('{}.{}|{}|{}\n'.format(counter, mp3_type, ''.join(key.get('href').split()), ' '.join(key.get_text().split())))

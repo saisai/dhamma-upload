@@ -1,1 +1,8 @@
 https://www.lisenet.com/2015/install-gentoo-linux-from-debian-wheezy/
+
+
+https://wiki.gentoo.org/wiki/Basic_guide_to_write_Gentoo_Ebuilds
+https://wiki.gentoo.org/wiki/Basic_guide_to_write_Gentoo_Ebuilds
+
+To list installed packages
+emerge world -ep

@@ -1,0 +1,3 @@
+find . -type f -name raw_json_title.txt -exec rm -rfv {} \; | grep -v future
+find . -type f -name raw_json_title.txt -exec du -sh {} \; | grep -v future | grep -v tube_play_list
+

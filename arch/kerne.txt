@@ -1,0 +1,6 @@
+https://www.kernel.org/doc/html/latest/dev-tools/gdb-kernel-debugging.html
+
+https://www.qemu.org/download/#linux
+
+https://www.linux-kvm.org/page/Main_Page
+https://planet.virt-tools.org/
