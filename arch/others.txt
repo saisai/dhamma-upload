@@ -30,3 +30,7 @@ http://edoceo.com/howto/kvm
 https://wiki.archlinux.org/index.php/QEMU
 http://nickdesaulniers.github.io/blog/2018/10/24/booting-a-custom-linux-kernel-in-qemu-and-debugging-it-with-gdb/
 https://www.kernel.org/doc/html/v4.10/driver-api/index.html    
+
+
+kernel 
+http://www.alexlambert.com/2017/12/18/kernel-debugging-for-newbies.html
