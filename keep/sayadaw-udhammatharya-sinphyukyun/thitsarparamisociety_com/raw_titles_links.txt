@@ -1,0 +1,297 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%201/01%206-6-92%20Day.mp3|၁။ ၆.၆.၁၉၉၂ (နံနက်) ပဋိစ္စသမုပ္ပါဒ် အခြေခံသင်တန်း တရားတော်
+002.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%201/02%206-6-92%20Night.mp3|၂။ ၆.၆.၁၉၉၂ (ညနေ) ခန္ဓာအရှိ နဲ့ ဉာဏ်အသိ ကိုက်အောင်လုပ် တရားတော်
+003.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%201/03%207-6-92%20Day.mp3|၃။ ၇.၆.၁၉၉၂ (ညနေ) ပဋိစ္စသမုပ္ပါဒ် အခြေခံသင်တန်း တရားတော်
+004.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%201/04%207-6-92%20Night.mp3|၄။ ၇.၆.၁၉၉၂ (ညနေ) ကိုယ့်အသေ ကိုယ်ကြည့်တာ ဝိပဿနာ တရားတော်
+005.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%201/05%208-6-92%20Day.mp3|၅။ ၈.၆.၁၉၉၂ (နံနက်) ပဋိစ္စသမုပ္ပါဒ် အခြေခံသင်တန်း တရားတော်
+006.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%201/06%208-6-92%20Night.mp3|၆။ ၈.၆.၁၉၉၂ (ညနေ) ဝိသုဒ္ဓိမဂ် တရားတော်
+007.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%201/07%209-6-92%20Day.mp3|၇။ ၉.၆.၁၉၉၂ (နံနက်) ပဋိစ္စသမုပ္ပါဒ် အခြေခံသင်တန်း တရားတော်
+008.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%201/08%209-6-92%20Night.mp3|၈။ ၉.၆.၁၉၉၂ (ညနေ) ခန္ဓာ ဉာဏ်ရောက်သစ္စာ ဆိုက် အောင် ဟောကြားသော တရားတော်
+009.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%201/10%2010-6-92%20Night.mp3|၉။ ၁၀.၆.၁၉၉၂ (နံနက်) ကံပေါ်မှာ ဒိဋ္ဌိ ဖြုတ် ခြင်း တရားတော်
+010.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%202/01%2011-6-92%20Day.mp3|၁၀။ ၁၁.၆.၁၉၉၂ (နံနက်) ပဋိစ္စသမုပ္ပါဒ် သင်တန်း ဝဋ်လည်ပုံ နှင့် ဝဋ်ကျွတ်ပုံ တရားတော် – ၁
+011.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%202/02%2011-6-92%20Night.mp3|၁၁။ ၁၁.၆.၁၉၉၂ (ညနေ) ဒိဋ္ဌိအယူ စင်ကြယ် တရားတော်
+012.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%202/03%2012-6-92%20Day.mp3|၁၂။ ၁၂.၆.၁၉၉၂ (နံနက်) ဉာဏ်သုံး ပါး တရားတော် – ၁
+013.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%202/04%2012-6-92%20Night.mp3|၁၃။ ၁၂.၆.၁၉၉၂ (ညနေ) ပဋိစ္စသမုပ္ပါဒ် သင်တန်း ဝဋ်လည်ပုံ နှင့် ဝဋ်ကျွတ်ပုံ တရားတော် – ၂
+014.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%202/05%2013-6-92%20Day.mp3|၁၄။ ၁၃.၆.၁၉၉၂ (နံနက်) ပဋိစ္စသမုပ္ပါဒ် သင်တန်း တရားတော်
+015.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%202/06%2013-6-92%20Night.mp3|၁၅။ ၁၃.၆.၁၉၉၂ (ညနေ) ဉာဏ်သုံး ပါး တရားတော် – ၂
+016.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%202/07%2014-6-92%20Day.mp3|၁၆။ ၁၄.၆.၁၉၉၂ ( နံနက်) နိဗ္ဗာန် နှင့် ပတ်သက်ပြီး ရှင်းလင်းပေးသော တရားတော်
+017.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%202/08%2014-6-92%20Night.mp3|၁၇။ ၁၄.၆.၁၉၉၂ ( ညနေ) သစ္စာ တရားတော်
+018.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/01-%282.6.91%29.mp3|၁။ ၂.၆.၁၉၉၁ အလုပ်ပေးတရားတော်
+019.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/01-%283.6.91%29.mp3|၂။ ၃.၆.၁၉၉၁ (နံနက်) ပဋိစ္စသမုပ္ပါဒ် သင်တန်း တရားတော်
+020.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/02-3.6.1991.mp3|၃။ ၃.၆.၁၉၉၁ (ညနေ) ဒိဋ္ဌိဖြုတ်နည်း တရားတော်
+021.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/02-4.6.1991.mp3|၄။ ၄.၆.၁၉၉၁ (နံနက်) ပဋိစ္စသမုပ္ပါဒ် သင်တန်း တရားတော်
+022.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/03-%284.6.1991%29.mp3|၅။ ၄.၆.၁၉၉၁ (ညနေ) ဒိဋ္ဌိဖြစ်ကြောင်း တရားတော်
+023.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/03-%285.6.1991%29.mp3|၆။ ၅.၆.၁၉၉၁ (နံနက်) ပိဋိစ္စသမုပ္ပါဒ် သင်တန်း တရားတော်
+024.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/04-%286.6.1991%29.mp3|၇။ ၆.၆.၁၉၉၁ (နံနက်) ပဋိစ္စသမုပ္ပါဒ် သင်တန်း တရားတော်
+025.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/05-%286.6.1991%29.mp3|၈။ ၆.၆.၁၉၉၁ (ညနေ) ဒိဋ္ဌိဖြုတ်နည်း တရားတော်
+026.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/05-%287.6.1991%29.mp3|၉။ ၇.၆.၁၉၉၁ (နံနက်) ပဋိစ္စသမုပ္ပါဒ် သင်တန်း တရားတော်
+027.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/06-%287.6.91%29.mp3|၁၀။ ၇.၆.၁၉၉၁ (ညနေ) ဒိဋ္ဌိဖြစ်ကြောင်း တရားတော်
+028.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/06-%288.6.1991%29.mp3|၁၁။ ၈.၆.၁၉၉၁ (နံနက်) ပိဋိစ္စသမုပ္ပါဒ် သင်တန်း တရားတော်
+029.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/07-%288.6.1991%29.mp3|၁၁။ ၈.၆.၁၉၉၁ (ညနေ) ဒိဋ္ဌိဖြစ်ကြောင်း တရားတော်
+030.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/07-%289.6.07%29.mp3|၁၂။ ၉.၆.၁၉၉၁ (နံနက်) ပိဋိစ္စသမုပ္ပါဒ် သင်တန်း တရားတော်
+031.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/08-%289.6.1991%29.mp3|၁၃။ ၉.၆.၁၉၉၁ (ညနေ) ဒိဋ္ဌိဖြစ်ကြောင်း တရားတော်
+032.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/08-%2810.6.1991%29.mp3|၁၄။ ၁၀.၆.၁၉၉၁ (နံနက်) ပိဋိစ္စသမုပ္ပါဒ် သင်တန်း တရားတော်
+033.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/09-%2810.6.1991%29.mp3|၁၅။ ၁၀.၆.၁၉၉၁ (ညနေ) ဒိဋ္ဌိဖြစ်ကြောင်း တရားတော်
+034.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/09-%2811.6.1991%29.mp3|၁၆။ ၁၁.၆.၁၉၉၁ (နံနက်) ပိဋိစ္စသမုပ္ပါဒ် သင်တန်း တရားတော်
+035.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/Disc%203/10-%2811.6.1991%29.mp3|၁၇။ ၁၁.၆.၁၉၉၁ (ညနေ) ဒိဋ္ဌိဖြစ်ကြောင်း တရားတော်
+036.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/A0-1-9-86%20PM.mp3|၁။ ၁-၉-၁၉၈၆ညနေ သမ္မာဒိဋ္ဌိ (၅)မျိုး တရားတော်
+037.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/A1-2-9-86%20PM.mp3|၂။ ၂-၉-၁၉၈၆ညနေ ကံနှင့်ကံ၏အကျိုးပေးနယ်ထဲ ပျော်ပိုက်၍ မနေပါနဲ့တရားတော်
+038.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/A2-3-9-86%20PM.mp3|၃။ ၃-၉-၁၉၈၆ညနေ နားကတရားနာ ဉာဏ်ကခန္ဓာလှဲ့ သဋ္ဌေးသားကာလ ဥပမာပြ တရားတော်
+039.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/A3-4-9-86%20PM.mp3|၄။ ၄-၉-၁၉၈၆ညနေ သုညတတရားနာမှ သုညတ နိဗ္ဗာန်ရောက်မည် တရားတော်
+040.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/A4-5-9-86%20PM.mp3|၅။ ၅-၉-၁၉၈၆ညနေ လက်ရှိခန္ဓာစွန့်၍ နောက်ခန္ဓာရခြင်းသည် အပြစ်အကြီးဆုံးသင့်ပုံ တရားတော်
+041.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/A5-6-9-86%20PM.mp3|၆။ ၆-၉-၁၉၈၆ညနေ မိလက္ခရဟန်းနှင့် သုခသာမဏေဥပမာပြ အဓိပတိသုံးပါးထား၍ တရားအားထုတ်ရန် တရားတော်
+042.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/A6-7-9-86%20PM.mp3|၇။ ၇-၉-၁၉၈၆ညနေ ကံနှင့်တဏှာတွင် တဏှာကကြောက်စရာကောင်းပုံ တရားတော်
+043.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/A7-8-9-86%20PM.mp3|၈။ ၈-၉-၁၉၈၆ညနေ သုညတတရားနာမှ မသိဘေး အမှားဘေးလွတ်မည် တရားတော်
+044.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/A8-9-9-86%20PM.mp3|၉။ ၉-၉-၁၉၈၆ညနေ သေလပတ္တဆီကွက်ဥပမာပြ ဘေးငါးဘေးကိုစောင့်မနေကြပါနဲ့ တရားတော်
+045.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/A9-10-9-86%20PM.mp3|၁၀။ ၁၀-၉-၁၉၈၆ညနေ သက္ကပညှသုတ် တရားတော်
+046.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/B1-1-4-88%20PM.mp3|၁၁။ ၁-၄-၁၉၈၈ညနေ ဝေဒနာနှင့်ငါမရောစေနှင့် ဝေဒနာနုပဿနာ အလုပ်ပေးတရားတော်
+047.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/B2-23-4-88%20AM.mp3|၁၂။ ၂၃-၄-၁၉၈၈ညနေ အမှောင်(၅)စင်း အလင်(၅)ချက်ရှင်းဟော ခန္ဓာ့ပဋိစ္စသမုပါဒ်ကို အဖန်ဖန်သုံးသပ်ပြီးမှ ဝိပဿနာရှုကြရန်တရာေးတာ်
+048.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/B3-25-10-88%20AM.mp3|၁၃။ ၂၅-၁၀-၁၉၈၈ညနေ ခန္ဓာ့အဘိဓမ္မာကိုနာနိုင်မှ နက်နဲတဲ့သစ္စာကို ထိုးထွင်းသိနိုင်မည် တရားတော်
+049.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/B7-31-12-89%20PM.mp3|၁၄။ ၃၁-၁၂-၁၉၈၈ညနေ ခန္ဓာဟောတရားကိုနာနိုင်မှ နိဗ္ဗာန်ရောက်မည် တရားတော်
+050.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/B4-12-4-89%20PM.mp3|၁၅။ ၁၂-၄-၁၉၈၉ညနေ ဝိပံလ္လာသ တံတိုင်းပြိုရေး တရားတော်
+051.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/B5-28-10-89%20PM.mp3|၁၆။ ၂၈-၁၀-၁၉၈၉ညနေ ကမ္မသက္ကတဉာဏ်နှင့် သစ္စာအနုလောမိကဉာဏ် အကြောင်းရှင်းပြပုံ တရားတော်
+052.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/B6-12-12-89%20PM.mp3|၁၇။ ၁၂-၁၂-၁၉၈၉ညနေ အနှစ်ရှာကြရန် သာဓောပမသုတ် တရားတော်
+053.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/C1-3-1-90%20PM.mp3|၁၈။ ၃-၁-၁၉၉၀ညနေ လူ့သံယောဇဉ်စွန့်မှ နိဗ္ဗာန်ရောက်နိုင်မည် တရားတော်
+054.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/C2-10-1-90%20PM.mp3|၁၉။ ၁၀-၁-၁၉၉၀ညနေ တဏှာထက် ဒိဋ္ဌိကပို၍ကြောက်စရာကေင်းပုံ တရားတော်
+055.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/C3-2-2-90%20PM.mp3|၂၀။ ၂-၂-၁၉၉၀ညနေ နားကတရားနာဉာဏ်ကခန္ဓာလှည့် သုတိမသုတ္တာန် တရားတော်
+056.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/D0-12-7-90%20PM.mp3|၂၁။ ၁၉-၇-၁၉၉၀ညနေ ဇနပဒကလျှာဏီသုတ် တေလပတ္တဆီကွက် ဥပမာပြ တရားတော်
+057.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/D2-20-7-90%20PM.mp3|၂၂။ ၂၀-၇-၁၉၉၀ညနေ ကုက္ကုရဝတီသုတ် ကံကိုဝေဖန်၍ ရှင်းဟောပုံတရားတော်
+058.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/D3-21-7-90%20PM.mp3|၂၃။ ၂၁-၇-၁၉၉၀ညနေ ရှာမှီးခြင်းမလွဲကြစေရန်တရားတော်
+059.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/D4-22-7-90%20PM.mp3|၂၄။ ၂၂-၇-၁၉၉၀ညနေ သက္ကပညှသုတ် တရားတော်
+060.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/D5-23-7-90%20PM.mp3|၂၅။ ၂၃-၇-၁၉၉၀ညနေ သက္ကပညှသုတ် အဆက် တရားတော်
+061.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/D6-24-7-90%20PM.mp3|၂၆။ ၂၄-၇-၁၉၉၀ညနေ သက္ကပညှသုတ် အဆုံးသတ် တရားတော်
+062.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/D7-25-7-90%20PM.mp3|၂၇။ ၂၅-၇-၁၉၉၀ညနေ မသိဘေးအမှားဘေးမှလွတ်အောင် ကြိုးစားရန် တရားတော်
+063.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/D8-27-7-90%20PM.mp3|၂၈။ ၂၇-၇-၁၉၉၀ညနေ ဒိဋ္ဌိတွေအမေး အနာထပိန်သဌေးကြီးအဖြေ တရားတော်
+064.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/D9-28-7-90%20PM.mp3|၂၉။ ၂၈-၇-၁၉၉၀ညနေ ကိုယ်သာနာ၍ စိတ်မနာစေနဲ့တရားတော်
+065.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/E0-9-8-90%20PM.mp3|၃၀။ ၉-၈-၁၉၉၀ညနေ က္ကောသံပီသုတ် တရားတော်
+066.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/E1-10-8-90%20PM.mp3|၃၁။ ၁၀-၈-၁၉၉၀ညနေ နီဝတနတရား (၅)ပါး တရားတော်
+067.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/E2-11-8-90%20PM.mp3|၃၂။ ၁၁-၈-၁၉၉၀ညနေ ယက္ကန်းသည်မလေးကုမာရီဥပမာပြ ခန္ဓာဉာဏ်ရောက် အလုပ်ကိုကြိုးစားလုပ်ကြရန်တရားတော်
+068.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/E3-13-8-90%20PM.mp3|၃၄။ ၁၃-၈-၁၉၉၀ညနေ စပနောပမသုတ် သမုတိသစ္စာနှင့် ပရမတ္ထသစ္စာရှင်းဟောပုံ တရားတော်
+069.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/E4-14-8-90%20PM.mp3|၃၅။ ၁၄-၈-၁၉၉၀ညနေ ဝိပလ္လာသတရားတော်
+070.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/E5-15-8-90%20PM.mp3|၃၆။ ၁၅-၈-၁၉၉၀ညနေ နှလုံးသွင်းမှု မှားမှုကြောင့် ဝိပလ္လာသတရားဖြစ်ပေါ်ပုံ တရားတော်
+071.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/E6-16-8-90%20PM.mp3|၃၇။ ၁၆-၈-၁၉၉၀ညနေ နှလုံးသွင်းမှားမှုသည် အာသဝေါတရားကြောင့်ဖြစ်ပေါ်ပုံတရားတော်
+072.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/E7-17-8-90%20PM.mp3|၃၈။ ၁၇-၈-၁၉၉၀ညနေ ရှင်နန္ဒကနှင့် ဘိက္ကူနီမငါးရာ ဥပမာပြ နှလုံးသွင်းမှန်၍ အသင့်အတင့် အားထုတ်ရန် တရားတော်
+073.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/E8-18-8-90%20PM.mp3|၃၉။ ၁၈-၈-၁၉၉၀ညနေ သောတပတ္တိမဂ်ရလျှင် အရူး(၈)မျိုးပယ်ပုံ တရားတော်
+074.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/E9-19-8-90%20PM.mp3|၄၀။ ၁၉-၈-၁၉၉၀ညနေ ဝိသာခနှင့် ဓမ္မဒိန္နာ အမေးအဖြေ တရားတော်
+075.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/EA-10-20-8-90%20PM.mp3|၄၁။ ၂၀-၈-၁၉၉၀ညနေ ဘာသာခြားတို့၏ ယုံကြည်ချက်နှင့် အားကိုးချက်ကို ဓမ္မအကြောင်းအကျိုးပြ၍ ရှင်းလင်းဟောကြားပုံ တရားတော်
+076.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/EA-11-21-8-90%20PM.mp3|၄၂။ ၂၁-၈-၁၉၉၀ညနေ ခန္ဓာ့စက် ဓမ္မစက်လည်ပုံ တရားတော်
+077.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/EA-12-22-8-90%20PM.mp3|၄၃။ ၂၂-၈-၁၉၉၀ညနေ တွင်းအောင်းကြွက်ပမာ ပုဂ္ဂုလ်လေးမျိုး ဆန္ဒပြု တရားတော်
+078.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/EA-13-23-8-90%20PM.mp3|၄၄။ ၂၃-၈-၁၉၉၀ညနေ သုတိမဝတ္ထု (၁) တရားတော်
+079.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/EA-14-24-8-90%20PM.mp3|၄၅။ ၂၄-၈-၁၉၉၀ညနေ သုတိမဝတ္ထု (၂) တရားတော်
+080.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/EA-15-25-8-90%20PM.mp3|၄၆။ ၂၅-၈-၁၉၉၀ညနေ သုတိမဝတ္ထု အဆုံးသတ် တရားတော်
+081.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/EA-16-26-8-90%20PM.mp3|၄၇။ ၂၆-၈-၁၉၉၀ညနေ ဒုက္ခသစ္စာကို ပိုင်ပိုင်နိုင်နိုင်သိမှ နိရောဓသစ္စာကို မျက်မှောက်ပြုနိုင်မည် တရားတော်
+082.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/EA-17-27-8-90%20PM.mp3|၄၈။ ၂၇-၈-၁၉၉၀ညနေ ကိန ္တုကောပမသုတ် တရားတော်
+083.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/F0-7-9-90%20PM.mp3|၅၀။ ၇-၉-၁၉၉၀ညနေ ပုက္ကုရဝတီသုတ် ကံလေးမျိုးအကြောင်းရှင်းဟောပုံ တရားတော်
+084.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/F1-8-9-90%20PM.mp3|၅၁။ ၈-၉-၁၉၉၀ညနေ ရထဝနိ ္တတသုတ် တရားတော်
+085.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/F2-9-9-90%20PM.mp3|၅၂။ ၉-၉-၁၉၉၀ညနေ ဒိဋ္ဌိဖြစ်ခြင်းအကြောင်း(၈)မျိုး (၁) တရားတော်
+086.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/F3-10-9-90%20PM.mp3|၅၃။ ၁၀-၉-၁၉၉၀ညနေ ဒိဋ္ဌိဖြစ်ခြင်းအကြောင်း(၈)မျိုး (၂) တရားတော်
+087.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/F4-11-9-90%20PM.mp3|၅၄။ ၁၁-၉-၁၉၉၀ညနေ ခန္ဓဒုက္ခကိုမြင်မှမုန်းမှ ခန္ဓအဆုံးကိုဉာဏ်နှင့်တွေ့မည် တရားတော်
+088.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/F5-12-9-90%20PM.mp3|၅၅။ ၁၂-၉-၁၉၉၀ညနေ ရေနဲငါး ဥပမာပြ သက္ကပညှသုတ် တရားတော်
+089.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/F6-14-9-90%20PM.mp3|၅၆။ ၁၄-၉-၁၉၉၀ညနေ သစ္စာသိဖို့ အရေးကြီးပုံ တရားတော်
+090.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/F7-15-9-90%20PM.mp3|၅၇။ ၁၅-၉-၁၉၉၀ညနေ နှလုံးသွင်းမှုမှန်မှ ဒိဋ္ဌိစင်မည် အားထုတ်မှုမှန်မှ သစ္စာမြင်မည် တရားတော်
+091.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/F8-16-9-90%20PM.mp3|၅၈။ ၁၆-၉-၁၉၉၀ညနေ ပဋိစ္စသမုပ္ပါဒ်သိမှ သစ္စာသိမည် တရားတော်
+092.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/F9-17-9-90%20PM.mp3|၅၉။ ၁၇-၉-၁၉၉၀ညနေ အဝိဇ္ဇာ(၅)ထပ် ဖုံးနေပုံ တရားတော်
+093.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/FA10-18-9-90%20AM.mp3|၆၀။ ၁၈-၉-၁၉၉၀နံနက် ပဋိစ္စသမုပ္ပါဒ်နှင့် ရှုနည်းသင် တရားတော်
+094.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/FA11-20-9-90%20PM.mp3|၆၁။ ၂၀-၉-၁၉၉၀ညနေ အမှောင်(၅)စင်း အလင်း(၅)ချက် (၂) တရားတော်
+095.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/FA13-21-9-90%20PM.mp3|၆၂။ ၂၁-၉-၁၉၉၀ညနေ အမှောင်(၅)စင်း အလင်း(၅)ချက် (၃) တရားတော်
+096.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/FA15-22-9-90%20PM.mp3|၆၃။ ၂၂-၉-၁၉၉၀ညနေ အမှောင်(၅)စင်း အလင်း(၅)ချက် (၄) တရားတော်
+097.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/FA17-23-9-90%20PM.mp3|၆၄။ ၂၃-၉-၁၉၉၀ညနေ အမှောင်(၅)စင်း အလင်း(၅)ချက် (၅) တရားတော်
+098.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/FA19-24-9-90%20PM.mp3|၆၅။ ၂၄-၉-၁၉၉၀ညနေ သဿတနှင့် ဥစ္ဆေဒ ဒိဋ္ဌိရှိသူတို့၏ သဘောအလေ့အကျင့် အရှင်နုရာဓဥပမာပြ (၁) တရားတော်
+099.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/FA21-25-9-90%20PM.mp3|၆၆။ ၂၅-၉-၁၉၉၀ညနေ အရှင်နုရာဓဥပမာပြ (၂) တရားတော်
+100.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/FA23-26-9-90%20PM.mp3|၆၇။ ၂၆-၉-၁၉၉၀ညနေ ကိန ္တုကောပမသုတ် အမြင်မှန်ရရေး တရားတော်
+101.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/G0-6-7-91%20PM.mp3|၆၈။ ၆-၇-၁၉၉၁ညနေ သင်္ခံါရနှင့် အနိစ္စ အကွက်ကျမြင်လျှင် အသင်္ခါရ နိဗ္ဗာန်ရောက်မည် တရားတော်
+102.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/G2-19-7-91%20PM.mp3|၆၉။ ၁၉-၇-၁၉၉၁ညနေ သစ္စာသိမှ နိဗ္ဗာန်ရောက်မည် တရားတော်
+103.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/H0-22-7-92%20PM.mp3|၇၀။ ၂၇-၇-၁၉၉၂ညနေ အနာဟဗိမိကောဝါဒသုတ် တရားတော်
+104.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/H2-28-7-92%20PM.mp3|၇၁။ ၂၈-၇-၁၉၉၂ညနေ ဒိဋ္ဌိနှင့် ဝိစိကိစ္ဆာသတ်ခန်း ပဋိစ္စသမုပ္ပါဒ် တရားတော်
+105.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/H3-29-7-92%20pm.mp3|၇၂။ ၂၉-၇-၁၉၉၂ညနေ ကိတ္တုကောပမသုတ် တရားတော်
+106.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/H4-30-7-92%20PM.mp3|၇၃။ ၃၀-၇-၁၉၉၂ညနေ စေလ္လကသပ္ပဥပမာပြ (၁) တရားတော်
+107.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/H5-31-7-92%20PM.mp3|၇၄။ ၃၁-၇-၁၉၉၂ညနေ စေလ္လကသပ္ပဥပမာပြ (၂) တရားတော်
+108.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/H6-1-8-92%20PM.mp3|၇၅။ ၁-၈-၁၉၉၂ညနေ စေလ္လကသပ္ပဥပမာပြ (၃) တရားတော်
+109.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/H7-2-8-92%20PM.mp3|၇၆။ ၂-၈-၁၉၉၂ညနေ စေလ္လကသပ္ပဥပမာပြ (၄) တရားတော်
+110.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/H8-3-8-92%20PM.mp3|၇၇။ ၃-၈-၁၉၉၂ညနေ သားကောင်(၆)ကောင်ဥပမာပြ စပနောပမသုတ် တရားတော်
+111.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/H9-4-8-92%20PM.mp3|၇၈။ ၄-၈-၁၉၉၂ညနေ အရိန္နမနှင့် သောဏကဥပမာပြ တရာေးတာ်
+112.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/HA10-5-8-92%20PM.mp3|၇၉။ ၅-၈-၁၉၉၂ညနေ ကံကိုအားမကိုးသင့်ပုံ ကတ္ကုရဝတီသုတ် တရားတော်
+113.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/HA11-6-8-92%20AM.mp3|၈၀။ ၆-၈-၁၉၉၂နံနက် အားကိုးရာအစစ်ကိုရှာကြရန် တရားတော်
+114.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/HA12-6-8-92%20PM.mp3|၈၁။ ၆-၈-၁၉၉၂ညနေ ကမ္မသက္ကတဉာဏ်နှင့် သစ္စာအနုလောမိကဉာဏ် တရားတော်
+115.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/HA13-4-9-92%20PM.mp3|၈၂။ ၄-၉-၁၉၉၂ညနေ ရှင်ဆန္ဒသုတ် တရားတော်
+116.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/HA14-19-9-92%20PM.mp3|၈၃။ ၁၉-၉-၁၉၉၂ညနေ သမ္မသနသုတ် တရားတော်
+117.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/HA15-26-9-92%20PM.mp3|၈၄။ ၂၆-၉-၁၉၉၂ညနေ လမ်းသုံးသွယ် တရားတော်
+118.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/HA16-6-10-92%20PM.mp3|၈၅။ ၆-၁၀-၁၉၉၂ညနေ ဒုလ္လဘတရား(၅)ပါး တရားတော်
+119.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/HA17-25-10-92%20PM.mp3|၈၆။ ၂၅-၁၀-၁၉၉၂ညနေ အားကိုးလွဲလျှင် ဆင်းရဲပွဲ နွှဲကြရမည် တရားတော်
+120.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/I0-20-2-93%20PM.mp3|၈၇။ ၂၀-၂-၁၉၉၃ညနေ သုဗြဟ္မာနတ်သားဥပမာပြ မဂ္ဂင်အလုပ်ကိုကြိုးစာကြပါ တရားတော်
+121.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/I1-6-4-93%20PM.mp3|၈၈။ ၆-၄-၁၉၉၃ညနေ ပဋိစ္စသမုပ္ပါဒ်ရှင်းဟော ဒုက္ခသစ္စာရှုသောဉာဏ် တရားတော်
+122.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/I2-20-5-93%20PM.mp3|၈၉။ ၂၀-၅-၁၉၉၃ညနေ ဖြစ်ပျက်ကို ပိုင်ပိုင်နိုင်နိုင်သုံးသပ်တတ်ဖို့အရေးကြီးပုံ တရားတော်
+123.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%201%28SBG%2916%20BIT/I4-28-5-93%20PM.mp3|၉၀။ ၂၈-၅-၁၉၉၃ညနေ သစ္စာသိဖို့ အရေးကြီးပုံ တရားတော်
+124.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A01-0960408AM.mp3|၉၁။ ၈-၄-၁၉၉၆နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+125.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A02-0960408PM.mp3|၉၂။ ၈-၄-၁၉၉၆ညနေ ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+126.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A01-1960409AM.mp3|၉၃။ ၉-၄-၁၉၉၆နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+127.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A02-1960409PM.mp3|၉၄။ ၉-၄-၁၉၉၆ညနေ ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+128.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A01-2960410AM.mp3|၉၅။ ၁၀-၄-၁၉၉၆နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+129.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A02-2960410PM.mp3|၉၆။ ၁၀-၄-၁၉၉၆ညနေ ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+130.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A01-3960411AM.mp3|၉၇။ ၁၁-၄-၁၉၉၆နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+131.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A02-3960411PM.mp3|၉၈။ ၁၁-၄-၁၉၉၆ညနေ ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+132.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A01-4960412AM.mp3|၉၉။ ၁၂-၄-၁၉၉၆နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+133.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A02-4960412PM.mp3|၁၀၀။ ၁၂-၄-၁၉၉၆ညနေ ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+134.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A01-5960413AM.mp3|၁၀၁။ ၁၃-၄-၁၉၉၆နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+135.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A02-5960413PM.mp3|၁၀၂။ ၁၃-၄-၁၉၉၆ညနေ ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+136.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A01-6960414AM.mp3|၁၀၃။ ၁၄-၄-၁၉၉၆နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+137.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A02-6960414PM.mp3|၁၀၄။ ၁၄-၄-၁၉၉၆ညနေ သစ္စာသိဖို့ အရေးကြီးဆုံး တရားတော်
+138.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A01-7960415AM.mp3|၁၀၅။ ၁၅-၄-၁၉၉၆နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+139.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A02-7960415PM.mp3|၁၀၆။ ၁၅-၄-၁၉၉၆ညနေ သစ္စဉာဏ် တရားတော်
+140.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A01-8960416AM.mp3|၁၀၇။ ၁၆-၄-၁၉၉၆နံနက် နိဗ္ဗာန်အကြောင်း (၁) တရားတော်
+141.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A02-8960416PM.mp3|၁၀၈။ ၁၆-၄-၁၉၉၆ညနေ ကတဉာဏ် တရားတော်
+142.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A01-9960417AM.mp3|၁၀၉။ ၁၇-၄-၁၉၉၆နံနက် သောတပန်အင်္ဂါ(၇)ပါးနှင့် ဝိသုဒ္ဓိ(၇)ပါး တရားတော်
+143.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A02-9960417PM.mp3|၁၁၀။ ၁၇-၄-၁၉၉၆ညနေ နိဗ္ဗာန် နှင့် စုပေါင်းရေစက်ချ တရားတော်
+144.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A03-09708AM.mp3|၁၁၁။ ၁၂-၈-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+145.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A04-09708PM.mp3|၁၁၂။ ၁၂-၈-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+146.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A03-19708AM.mp3|၁၁၃။ ၁၃-၈-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+147.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A04-19708PM.mp3|၁၁၄။ ၁၃-၈-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+148.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A03-29708AM.mp3|၁၁၅။ ၁၄-၈-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+149.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A04-29708PM.mp3|၁၁၆။ ၁၄-၈-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+150.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A03-39708AM.mp3|၁၁၇။ ၁၅-၈-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+151.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A04-39708PM.mp3|၁၁၈။ ၁၅-၈-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+152.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A03-49708AM.mp3|၁၁၉။ ၁၆-၈-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+153.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A04-49708PM.mp3|၁၂၀။ ၁၆-၈-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+154.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A03-59708AM.mp3|၁၂၁။ ၁၇-၈-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+155.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A04-59708PM.mp3|၁၂၂။ ၁၇-၈-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+156.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A03-69708AM.mp3|၁၂၃။ ၁၈-၈-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+157.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A04-69708PM.mp3|၁၂၄။ ၁၈-၈-၁၉၉၇နေ့လည် သစ္စဉာဏ် တရားတော်
+158.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A03-79708AM.mp3|၁၂၅။ ၁၉-၈-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+159.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A04-79708PM.mp3|၁၂၆။ ၁၉-၈-၁၉၉၇နေ့လည် ဉာဏ်စဉ်(၃)ပါး တရားတော်
+160.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A03-89708AM.mp3|၁၂၇။ ၂၀-၈-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+161.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A04-89708PM.mp3|၁၂၈။ ၂၀-၈-၁၉၉၇နေ့လည် ထင်းခုတ်သမားနှင့် ဘီလူးမ ဥပမာပြ သစ္စဉာဏ်၊ ကိစ္စဉာဏ်၊ ကတဉာဏ် တရားတော်
+162.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A03-99708AM.mp3|၁၂၉။ ၂၁-၈-၁၉၉၇နံနက် ရတ္ထဝနိတသုတ်နှင့် ကောသန်ပီသုတ် တရားတော်
+163.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A04-99708PM.mp3|၁၃၀။ ၂၁-၈-၁၉၉၇နေ့လည် အဂ္ဂိဝတ္စသုတ်နှင့် စုပေါင်းရေစက်ချ တရားတော်
+164.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A05-0970910AM.mp3|၁၃၁။ ၁၀-၉-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+165.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A06-0970910PM.mp3|၁၃၂။ ၁၀-၉-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+166.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A05-1970911AM.mp3|၁၃၃။ ၁၁-၉-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+167.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A06-1970911PM.mp3|၁၃၄။ ၁၁-၉-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+168.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A05-2970912AM.mp3|၁၃၅။ ၁၂-၉-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+169.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A06-2970912PM.mp3|၁၃၆။ ၁၂-၉-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+170.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A05-3970913AM.mp3|၁၃၇။ ၁၃-၉-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+171.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A06-3970913PM.mp3|၁၃၈။ ၁၃-၉-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+172.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A05-4970914AM.mp3|၁၃၉။ ၁၄-၉-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+173.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A06-4970914PM.mp3|၁၄၀။ ၁၄-၉-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+174.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A05-5970915AM.mp3|၁၄၁။ ၁၅-၉-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+175.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A06-5970915PM.mp3|၁၄၂။ ၁၅-၉-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+176.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A05-6970916AM.mp3|၁၄၃။ ၁၆-၉-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+177.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A06-6970916PM.mp3|၁၄၄။ ၁၆-၉-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+178.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A05-7970917AM.mp3|၁၄၅။ ၁၇-၉-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+179.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A06-7970917PM.mp3|၁၄၆။ ၁၇-၉-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+180.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A05-8970918AM.mp3|၁၄၇။ ၁၈-၉-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+181.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A06-8970918PM.mp3|၁၄၈။ ၁၈-၉-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+182.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A05-9970919AM.mp3|၁၄၉။ ၁၉-၉-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+183.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A06-9970919PM.mp3|၁၅၀။ ၁၉-၉-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+184.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A07-0971010AM.mp3|၁၅၁။ ၁၀-၁၀-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+185.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A08-0971010PM.mp3|၁၅၂။ ၁၀-၁၀-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+186.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A07-1971011AM.mp3|၁၅၃။ ၁၁-၁၀-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+187.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A08-1971011PM.mp3|၁၅၄။ ၁၁-၁၀-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+188.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A07-2971012AM.mp3|၁၅၅။ ၁၂-၁၀-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+189.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A08-2971012PM.mp3|၁၅၆။ ၁၂-၁၀-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+190.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A07-3971013AM.mp3|၁၅၇။ ၁၃-၁၀-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+191.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A08-3971013PM.mp3|၁၅၈။ ၁၃-၁၀-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+192.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A07-4971014AM.mp3|၁၅၉။ ၁၄-၁၀-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+193.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A08-4971014PM.mp3|၁၆၀။ ၁၄-၁၀-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+194.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A07-5971015AM.mp3|၁၆၁။ ၁၅-၁၀-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+195.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A08-5971015PM.mp3|၁၆၂။ ၁၅-၁၀-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+196.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A07-6971016AM.mp3|၁၆၃။ ၁၆-၁၀-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+197.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A08-6971016PM.mp3|၁၆၄။ ၁၆-၁၀-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+198.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A07-7971017AM.mp3|၁၆၅။ ၁၇-၁၀-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+199.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A08-7971017PM.mp3|၁၆၆။ ၁၇-၁၀-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+200.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A07-8971018AM.mp3|၁၆၇။ ၁၈-၁၀-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+201.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A08-8971018PM.mp3|၁၆၈။ ၁၈-၁၀-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+202.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A07-9971019AM.mp3|၁၆၉။ ၁၉-၁၀-၁၉၉၇နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+203.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A08-9971019PM.mp3|၁၇၀။ ၁၉-၁၀-၁၉၉၇နေ့လည် ခန္ဓာဉာဏ်ရောက် ဒိဋ္ဌိပြုတ် တရားတော်
+204.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A09-0950819PM.mp3|၁၇၁။ ၁၉-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+205.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A09-1950820PM.mp3|၁၇၂။ ၂၀-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+206.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A09-2950821PM.mp3|၁၇၃။ ၂၁-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+207.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A09-3950822PM.mp3|၁၇၄။ ၂၂-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+208.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A09-4950823PM.mp3|၁၇၅။ ၂၃-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+209.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A09-5950824PM.mp3|၁၇၆။ ၂၄-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+210.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A09-6950825PM.mp3|၁၇၇။ ၂၅-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+211.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A09-7950826PM.mp3|၁၇၈။ ၂၆-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+212.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A10-0950827PM.mp3|၁၇၉။ ၂၇-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+213.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A10-1950828PM.mp3|၁၈၀။ ၂၈-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+214.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A10-2950829PM.mp3|၁၈၁။ ၂၉-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+215.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A10-3950830PM.mp3|၁၈၂။ ၃၀-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+216.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A10-4950831PM.mp3|၁၈၃။ ၃၁-၀၈-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+217.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A10-5950901PM.mp3|၁၈၄။ ၁၁-၀၉-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+218.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A10-6950912PM.mp3|၁၈၅။ ၁၂-၀၉-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+219.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A10-7950913PM.mp3|၁၈၆။ ၁၃-၀၉-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+220.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A10-8950914PM.mp3|၁၈၇။ ၁၄-၀၉-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+221.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/U%20DAMATHARA%202%20%28SBG%29%2016%20BIT/A10-9950915PM.mp3|၁၈၈။ ၁၅-၀၉-၁၉၉၅ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+222.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/08-UDMTR-%281994%29/01.24-7-94%20am.mp3|၁၈၉။ ၂၄-၀၇-၁၉၉၄ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+223.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/08-UDMTR-%281994%29/02.24-7-94%20pm.mp3|၁၉၀။ ၂၄-၀၇-၁၉၉၄ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+224.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/08-UDMTR-%281994%29/03.DMTY.mp3|၁၉၁။ ၂၅-၀၇-၁၉၉၄ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+225.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/08-UDMTR-%281994%29/04.25-7-94%20pm.mp3|၁၉၂။ ၂၅-၀၇-၁၉၉၄ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+226.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/08-UDMTR-%281994%29/05.26-7-94%20am.mp3|၁၉၃။ ၂၆-၀၇-၁၉၉၄ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+227.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/08-UDMTR-%281994%29/06.26-7-94%20pm.mp3|၁၉၄။ ၂၆-၀၇-၁၉၉၄ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+228.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/08-UDMTR-%281994%29/07.27-7-94%20am.mp3|၁၉၅။ ၂၇-၀၇-၁၉၉၄ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+230.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/08-UDMTR-%281994%29/09.28-7-94%20am.mp3|၁၉၇။ ၂၈-၀၇-၁၉၉၄ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+231.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/08-UDMTR-%281994%29/10.28-7-94%20pm.mp3|၁၉၈။ ၂၈-၀၇-၁၉၉၄ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+232.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/08-UDMTR-%281994%29/11.29-7-94%20am.mp3|၁၉၉။ ၂၉-၀၇-၁၉၉၄ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+233.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/01-%282.6.91%29.mp3|၂၀၀။ ၀၂-၀၆-၁၉၉၁ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+234.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/01-%283.6.91%29.mp3|၂၀၁။ ၀၃-၀၆-၁၉၉၁ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+235.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/02-3.6.1991.mp3|၂၀၂။ ၀၃-၀၆-၁၉၉၁ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+236.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/02-4.6.1991.mp3|၂၀၃။ ၀၄-၀၆-၁၉၉၁ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+237.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/03-%284.6.1991%29.mp3|၂၀၄။ ၀၄-၀၆-၁၉၉၁ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+238.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/03-%285.6.1991%29.mp3|၂၀၅။ ၀၅-၀၆-၁၉၉၁ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+239.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/04-%285.6.1991%29.mp3|၂၀၆။ ၀၅-၀၆-၁၉၉၁ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+240.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/04-%286.6.1991%29.mp3|၂၀၇။ ၀၆-၀၆-၁၉၉၁ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+241.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/05-%286.6.1991%29.mp3|၂၀၈။ ၀၆-၀၆-၁၉၉၁ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+242.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/05-%287.6.1991%29.mp3|၂၀၉။ ၀၇-၀၆-၁၉၉၁ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+243.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/06-%287.6.91%29.mp3|၂၁၀။ ၀၇-၀၆-၁၉၉၁ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+244.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/06-%288.6.1991%29.mp3|၂၁၁။ ၀၈-၀၆-၁၉၉၁ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+245.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/07-%288.6.1991%29.mp3|၂၁၂။ ၀၈-၀၆-၁၉၉၁ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+246.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/07-%289.6.07%29.mp3|၂၁၃။ ၀၉-၀၆-၁၉၉၁ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+247.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/08-%289.6.1991%29.mp3|၂၁၄။ ၀၉-၀၆-၁၉၉၁ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+248.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/08-%2810.6.1991%29.mp3|၂၁၅။ ၁၀-၀၆-၁၉၉၁ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+249.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/09-%2810.6.1991%29.mp3|၂၁၆။ ၁၀-၀၆-၁၉၉၁ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+250.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/09-%2811.6.1991%29.mp3|၂၁၇။ ၁၁-၀၆-၁၉၉၁ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+251.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/10-%2811.6.1991%29.mp3|၂၁၈။ ၁၁-၀၆-၁၉၉၁ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+252.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/07-UDMTR-%281991%29/10-%2812.6.1991%29.mp3|၂၁၉။ ၁၂-၀၆-၁၉၉၁ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+253.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/01-241188%2859%29.mp3|၂၂၀။ ၂၄-၁၁-၁၉၈၈ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+254.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/02-241188%2858%29.mp3|၂၂၁။ ၂၄-၁၁-၁၉၈၈ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော
+255.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/03-251188%2859%29.mp3|၂၂၂။ ၂၅-၁၁-၁၉၈၈ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+256.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/04-251188%2858%29.mp3|၂၂၃။ ၂၅-၁၁-၁၉၈၈ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+257.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/05-261188%2859%29.mp3|၂၂၄။ ၂၆-၁၁-၁၉၈၈ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+258.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/06-261188%2859%29.mp3|၂၂၅။ ၂၆-၁၁-၁၉၈၈ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+259.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/07-271188%2859%29.mp3|၂၂၆။ ၂၇-၁၁-၁၉၈၈ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+260.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/08-271188%2858%29.mp3|၂၂၇။ ၂၇-၁၁-၁၉၈၈ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+261.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/09-281188%2858%29.mp3|၂၂၈။ ၂၈-၁၁-၁၉၈၈ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+262.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/10%20-281188%2856%29.mp3|၂၂၉။ ၂၈-၁၁-၁၉၈၈ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+263.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/11-291188%2859%29.mp3|၂၃၀။ ၂၉-၁၁-၁၉၈၈ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+264.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/12%20-291188%2858%29.mp3|၂၃၁။ ၂၉-၁၁-၁၉၈၈ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+265.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/13-301188%2858%29.mp3|၂၃၂။ ၃၀-၁၁-၁၉၈၈ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+266.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/14-301188%2877%29.mp3|၂၃၃။ ၃၀-၁၁-၁၉၈၈ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+267.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/15-011288%2858%29.mp3|၂၃၄။ ၀၁-၁၂-၁၉၈၈ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+268.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/06-UDMTR-88%28Minbu%29/16-011288%2886%29..mp3|၂၃၅။ ၀၁-၁၂-၁၉၈၈ နေ့လည် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+269.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/01%2006-04-87%20%28A%29.mp3|၂၃၆။ ၀၆-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+270.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/02%2006-04-87%20%28B%29.mp3|၂၃၇။ ၀၆-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+271.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/03%2007-04-87%20%28A%29.mp3|၂၃၈။ ၀၇-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+272.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/04%2007-04-87%20%28B%29.mp3|၂၃၉။ ၀၇-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+273.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/05%2008-04-87%20%28A%29.mp3|၂၄၀။ ၀၈-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+274.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/06%2008-04-87%20%28B%29.mp3|၂၄၁။ ၀၈-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+275.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/07%2009-04-87%20%28A%29.mp3|၂၄၂။ ၀၉-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+276.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/08%2009-04-87%20%28B%29.mp3|၂၄၃။ ၀၉-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+277.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/09%2010-04-87%20%28A%29.mp3|၂၄၄။ ၁၀-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+278.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/10%2010-04-87%20%28B%29.mp3|၂၄၅။ ၁၀-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+279.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/11%2011-04-87%20%28A%29.mp3|၂၄၆။ ၁၁-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+280.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/12%2011-04-87%20%28B%29.mp3|၂၄၇။ ၁၁-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+281.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/13%2012-04-87%20%28A%29.mp3|၂၄၈။ ၁၂-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+282.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/14%2012-04-87%20%28B%29.mp3|၂၄၉။ ၁၂-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+283.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/15%2013-04-87%20%28A%29.mp3|၂၅၀။ ၁၃-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+284.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/16%2013-04-87%20%28B%29.mp3|၂၅၁။ ၁၃-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+285.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/17%2014-04-87%20%28A%29.mp3|၂၅၂။ ၁၄-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+286.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/18%2014-04-87%20%28B%29.mp3|၂၅၃။ ၁၄-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+287.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/19%2015-04-87%20%28A%29.mp3|၂၅၄။ ၁၅-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+288.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/20%2015-04-87%20%28B%29.mp3|၂၅၅။ ၁၅-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+289.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/21%2016-04-87%20%28A%29.mp3|၂၅၆။ ၁၆-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+290.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/22%2016-04-87%20%28B%29.mp3|၂၅၇။ ၁၆-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+291.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/23%2017-04-87%20%28A%29.mp3|၂၅၈။ ၁၇-၀၄-၁၉၈၇ နံနက် ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+292.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/05-UDMTR-87/24%2017-04-87%20%28B%29.mp3|၂၅၉။ ၁၇-၀၄-၁၉၈၇ ညနေ ခန္ဓာ့ပဋိစ္စသမုပ္ပါဒ်သင်တန်း တရားတော်
+293.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/000THILAPAY%20and%20WORK/A%20%286%29.mp3|၂၆၀။ အလုပ်ပေးတရားတော်(၁)
+294.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/000THILAPAY%20and%20WORK/A%20%287%29.mp3|၂၆၁။ အလုပ်ပေးတရားတော်(၂)
+295.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/000THILAPAY%20and%20WORK/A%20%288%29.mp3|၂၆၂။ အလုပ်ပေးတရားတော်(၃)
+296.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/000THILAPAY%20and%20WORK/A%20%289%29.mp3|၂၆၁။ အလုပ်ပေးတရားတော်(၄)
+297.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/000THILAPAY%20and%20WORK/B%20%281%29.mp3|၂၆၃။ အလုပ်ပေးတရားတော်(၆)
+298.mp3|https://media.thitsarparamisociety.com/mp3/SayaDaw%20U%20Dhammasara/000THILAPAY%20and%20WORK/B%20%282%29.mp3|၂၆၄။ အလုပ်ပေးတရားတော်(၇)
