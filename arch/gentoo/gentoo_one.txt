@@ -1,4 +1,15 @@
+
 could not find the root block device in UUID means
+
+https://forums.gentoo.org/viewtopic-t-1052630-start-0.html
+thx for the fast reply!
+
+as mentioned the bug was initramfs related
+
+typed the following:
+root # rm initramfs..
+root # genkernel --install --real-root=/dev/sda2 initramfs
+
 https://stackoverflow.com/questions/4073152/how-to-get-complete-dependency-list-of-kernel-modules-at-runtime
 https://linuxconfig.org/obtain-linux-kernel-module-information-with-modinfo
 
@@ -379,7 +390,8 @@ nano -w /etc/fstab
 /dev/sda1       /boot       ext2        defaults,noatime       0 2
 /dev/sda2       /           ext4        noatime                0 1
 
-genkernel --install initramfs
+#genkernel --install initramfs
+genkernel --install --real-root=/dev/sda2 initramfs
 ls /boot/initramfs*
 
 emerge --ask --verbose sys-boot/grub:2
@@ -460,3 +472,45 @@ mount --make-rslave /mnt/gentoo/dev
 chroot /mnt/gentoo /bin/bash
 source /etc/profile
 export PS1="(chroot) ${PS1}"
+
+
+https://wiki.gentoo.org/wiki/Genkernel/en
+
+/boot/grub/grub.conf
+
+# This is a sample grub.conf for use with Genkernel, per the Gentoo handbook 
+# http://www.gentoo.org/doc/en/handbook/handbook-x86.xml?part=1&chap=10#doc_chap2 
+# If you are not using Genkernel and you need help creating this file, you 
+# should consult the handbook. Alternatively, consult the grub.conf.sample that 
+# is included with the Grub documentation. 
+  
+default 0 
+timeout 5
+splashimage=(hd1,0)/boot/grub/splash.xpm.gz 
+   
+title Gentoo Linux 
+root (hd0,6) 
+kernel /boot/kernel initrd=/dev/ram0 root=/dev/sda7 rootfstype=ext4  
+initrd /boot/initramfs
+  
+title Gentoo Linux old kernel 
+root (hd0,6) 
+kernel /boot/kernel.old initrd=/dev/ram0 root=/dev/sda7 rootfstype=ext4 
+initrd /boot/initramfs.old
+
+Getting SMBIOS data from sysfs.
+SMBIOS 2.7 present.
+
+Handle 0x0001, DMI type 1, 27 bytes
+System Information
+        Manufacturer: VMware, Inc.
+        Product Name: VMware Virtual Platform
+        Version: None
+        Serial Number: VMware-56 4d 5b 35 6c ad e6 db-df 1e b6 b5 92 b6 84 0c
+        UUID: 355b4d56-ad6c-dbe6-df1e-b6b592b6840c
+        Wake-up Type: Power Switch
+        SKU Number: Not Specified
+        Family: Not Specified
+
+        
+        

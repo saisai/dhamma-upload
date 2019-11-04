@@ -1,3 +1,17 @@
+https://forums.gentoo.org/viewtopic-t-1052630-start-0.html
+thx for the fast reply!
+
+as mentioned the bug was initramfs related
+
+typed the following:
+root # rm initramfs..
+root # genkernel --install --real-root=/dev/sda4 initramfs
+
+everything works fine now! what a nice forum, definetly great!
+
+looking forward to dive deeper into gentoo now 
+
+
 https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Kernel
 https://www.youtube.com/watch?v=NTeDepdX9YY&feature=youtu.be
 
@@ -226,3 +240,7 @@ From http://www.gentoo.org/news/en/gwn/20040301-newsletter.xml
 https://wiki.archlinux.org/index.php/Reset_lost_root_password
 
 
+
+
+root # rm initramfs..
+root # genkernel --install --real-root=/dev/sda4 initramfs
