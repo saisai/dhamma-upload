@@ -1,0 +1,462 @@
+could not find the root block device in UUID means
+https://stackoverflow.com/questions/4073152/how-to-get-complete-dependency-list-of-kernel-modules-at-runtime
+https://linuxconfig.org/obtain-linux-kernel-module-information-with-modinfo
+
+http://www.linuxfromscratch.org/lfs/view/stable/chapter02/hostreqs.html
+
+https://linoxide.com/linux-how-to/few-command-helps-to-get-linux-hardware-details/
+https://diego.assencio.com/?index=649b7a71b35fc7ad41e03b6d0e825f07
+https://www.poftut.com/linux-lspci-command-tutorial-with-examples/
+
+https://unix.stackexchange.com/questions/121357/is-there-any-substitute-for-lspci
+cut -f1,2,18 /proc/bus/pci/devices
+
+http://fibrevillage.com/sysadmin/75-lspci-useful-examples
+lspci -k shows the kernel driver that is being used to handle the respective PCI device.
+sudo lspci -m
+lspci -vvv
+
+///
+lspci -mm
+00:00.0 "Host bridge" "Intel Corporation" "440BX/ZX/DX - 82443BX/ZX/DX Host bridge" -r01 "VMware" "Virtual Machine Chipset"
+00:01.0 "PCI bridge" "Intel Corporation" "440BX/ZX/DX - 82443BX/ZX/DX AGP bridge" -r01 "" ""
+00:07.0 "ISA bridge" "Intel Corporation" "82371AB/EB/MB PIIX4 ISA" -r08 "VMware" "Virtual Machine Chipset"
+00:07.1 "IDE interface" "Intel Corporation" "82371AB/EB/MB PIIX4 IDE" -r01 -p8a "VMware" "Virtual Machine Chipset"
+00:07.3 "Bridge" "Intel Corporation" "82371AB/EB/MB PIIX4 ACPI" -r08 "VMware" "Virtual Machine Chipset"
+00:07.7 "System peripheral" "VMware" "Virtual Machine Communication Interface" -r10 "VMware" "Virtual Machine Communication Interface"
+00:0f.0 "VGA compatible controller" "VMware" "SVGA II Adapter" "VMware" "SVGA II Adapter"
+00:10.0 "SCSI storage controller" "Broadcom / LSI" "53c1030 PCI-X Fusion-MPT Dual Ultra320 SCSI" -r01 "VMware" "LSI Logic Parallel SCSI Controller"
+00:11.0 "PCI bridge" "VMware" "PCI bridge" -r02 -p01 "" ""
+00:15.0 "PCI bridge" "VMware" "PCI Express Root Port" -r01 "" ""
+02:00.0 "USB controller" "VMware" "USB1.1 UHCI Controller" "VMware" "USB1.1 UHCI Controller"
+02:01.0 "Ethernet controller" "Intel Corporation" "82545EM Gigabit Ethernet Controller (Copper)" -r01 "VMware" "PRO/1000 MT Single Port Adapter"
+02:02.0 "Multimedia audio controller" "Ensoniq" "ES1371/ES1373 / Creative Labs CT2518" -r02 "Ensoniq" "Audio PCI 64V/128/5200 / Creative CT4810/CT5803/CT5806 [Sound Blaster PCI]"
+02:03.0 "USB controller" "VMware" "USB2 EHCI Controller" -p20 "VMware" "USB2 EHCI Controller"
+02:05.0 "SATA controller" "VMware" "SATA AHCI controller" -p01 "VMware" "SATA AHCI controller"
+
+lspci -mv
+Device: 00:00.0
+Class:  Host bridge
+Vendor: Intel Corporation
+Device: 440BX/ZX/DX - 82443BX/ZX/DX Host bridge
+SVendor:        VMware
+SDevice:        Virtual Machine Chipset
+Rev:    01
+
+Device: 00:01.0
+Class:  PCI bridge
+Vendor: Intel Corporation
+Device: 440BX/ZX/DX - 82443BX/ZX/DX AGP bridge
+Rev:    01
+
+Device: 00:07.0
+Class:  ISA bridge
+Vendor: Intel Corporation
+Device: 82371AB/EB/MB PIIX4 ISA
+SVendor:        VMware
+SDevice:        Virtual Machine Chipset
+Rev:    08
+
+Device: 00:07.1
+Class:  IDE interface
+Vendor: Intel Corporation
+Device: 82371AB/EB/MB PIIX4 IDE
+SVendor:        VMware
+SDevice:        Virtual Machine Chipset
+Rev:    01
+ProgIf: 8a
+
+Device: 00:07.3
+Class:  Bridge
+Vendor: Intel Corporation
+Device: 82371AB/EB/MB PIIX4 ACPI
+SVendor:        VMware
+SDevice:        Virtual Machine Chipset
+Rev:    08
+
+Device: 00:07.7
+Class:  System peripheral
+Vendor: VMware
+Device: Virtual Machine Communication Interface
+SVendor:        VMware
+SDevice:        Virtual Machine Communication Interface
+Rev:    10
+
+Device: 00:0f.0
+Class:  VGA compatible controller
+Vendor: VMware
+Device: SVGA II Adapter
+SVendor:        VMware
+SDevice:        SVGA II Adapter
+
+Device: 00:10.0
+Class:  SCSI storage controller
+Vendor: Broadcom / LSI
+Device: 53c1030 PCI-X Fusion-MPT Dual Ultra320 SCSI
+SVendor:        VMware
+SDevice:        LSI Logic Parallel SCSI Controller
+Rev:    01
+
+Device: 00:11.0
+Class:  PCI bridge
+Vendor: VMware
+Device: PCI bridge
+Rev:    02
+ProgIf: 01
+
+Device: 02:00.0
+Class:  USB controller
+Vendor: VMware
+Device: USB1.1 UHCI Controller
+SVendor:        VMware
+SDevice:        USB1.1 UHCI Controller
+
+Device: 02:01.0
+Class:  Ethernet controller
+Vendor: Intel Corporation
+Device: 82545EM Gigabit Ethernet Controller (Copper)
+SVendor:        VMware
+SDevice:        PRO/1000 MT Single Port Adapter
+Rev:    01
+
+Device: 02:02.0
+Class:  Multimedia audio controller
+Vendor: Ensoniq
+Device: ES1371/ES1373 / Creative Labs CT2518
+SVendor:        Ensoniq
+SDevice:        Audio PCI 64V/128/5200 / Creative CT4810/CT5803/CT5806 [Sound Blaster PCI]
+Rev:    02
+
+Device: 02:03.0
+Class:  USB controller
+Vendor: VMware
+Device: USB2 EHCI Controller
+SVendor:        VMware
+SDevice:        USB2 EHCI Controller
+ProgIf: 20
+
+Device: 02:05.0
+Class:  SATA controller
+Vendor: VMware
+Device: SATA AHCI controller
+SVendor:        VMware
+SDevice:        SATA AHCI controller
+ProgIf: 01
+
+
+lspci -nv
+00:00.0 0600: 8086:7190 (rev 01)
+        Subsystem: 15ad:1976
+        Flags: bus master, medium devsel, latency 0
+
+00:01.0 0604: 8086:7191 (rev 01) (prog-if 00 [Normal decode])
+        Flags: bus master, 66MHz, medium devsel, latency 0
+        Bus: primary=00, secondary=01, subordinate=01, sec-latency=64
+        I/O behind bridge: None
+        Memory behind bridge: None
+        Prefetchable memory behind bridge: None
+
+00:07.0 0601: 8086:7110 (rev 08)
+        Subsystem: 15ad:1976
+        Flags: bus master, medium devsel, latency 0
+
+00:07.1 0101: 8086:7111 (rev 01) (prog-if 8a [ISA Compatibility mode controller, supports both channels switched to PCI native mode, supports bus mastering])
+        Subsystem: 15ad:1976
+        Flags: bus master, medium devsel, latency 64
+        [virtual] Memory at 000001f0 (32-bit, non-prefetchable) [size=8]
+        [virtual] Memory at 000003f0 (type 3, non-prefetchable)
+        [virtual] Memory at 00000170 (32-bit, non-prefetchable) [size=8]
+        [virtual] Memory at 00000370 (type 3, non-prefetchable)
+        I/O ports at 1060 [size=16]
+        Kernel driver in use: ata_piix
+        Kernel modules: ata_piix, pata_acpi, ata_generic
+
+00:07.3 0680: 8086:7113 (rev 08)
+        Subsystem: 15ad:1976
+        Flags: medium devsel, IRQ 9
+
+00:07.7 0880: 15ad:0740 (rev 10)
+        Subsystem: 15ad:0740
+        Flags: medium devsel, IRQ 9
+        I/O ports at 1080 [size=64]
+        Memory at febfe000 (64-bit, non-prefetchable) [size=8K]
+        Capabilities: [40] MSI: Enable- Count=1/1 Maskable- 64bit+
+        Capabilities: [58] MSI-X: Enable- Count=2 Masked-
+
+00:0f.0 0300: 15ad:0405 (prog-if 00 [VGA controller])
+        Subsystem: 15ad:0405
+        Flags: medium devsel, IRQ 9
+        I/O ports at 1070 [size=16]
+        Memory at e8000000 (32-bit, prefetchable) [size=128M]
+        Memory at fe000000 (32-bit, non-prefetchable) [size=8M]
+        [virtual] Expansion ROM at 000c0000 [disabled] [size=128K]
+        Capabilities: [40] Vendor Specific Information: Len=00 <?>
+        Capabilities: [44] PCI Advanced Features
+
+00:10.0 0100: 1000:0030 (rev 01)
+        Subsystem: 15ad:1976
+        Flags: bus master, medium devsel, latency 64, IRQ 17
+        I/O ports at 1400 [size=256]
+        Memory at feba0000 (64-bit, non-prefetchable) [size=128K]
+        Memory at febc0000 (64-bit, non-prefetchable) [size=128K]
+        [virtual] Expansion ROM at c0008000 [disabled] [size=16K]
+        Capabilities: [f8] PCI Advanced Features
+        Kernel driver in use: mptspi
+        Kernel modules: mptspi
+
+00:11.0 0604: 15ad:0790 (rev 02) (prog-if 01 [Subtractive decode])
+        Flags: bus master, medium devsel, latency 64
+        Bus: primary=00, secondary=02, subordinate=02, sec-latency=68
+        I/O behind bridge: 00002000-00003fff [size=8K]
+        Memory behind bridge: fd500000-fdffffff [size=11M]
+        Prefetchable memory behind bridge: 00000000e7b00000-00000000e7ffffff [size=5M]
+        Capabilities: [40] Subsystem: 15ad:0790
+
+00:15.0 0604: 15ad:07a0 (rev 01) (prog-if 00 [Normal decode])
+        Flags: bus master, fast devsel, latency 0, IRQ 24
+        Bus: primary=00, secondary=03, subordinate=03, sec-latency=0
+        I/O behind bridge: 00004000-00004fff [size=4K]
+        Memory behind bridge: fd400000-fd4fffff [size=1M]
+        Prefetchable memory behind bridge: 00000000e7a00000-00000000e7afffff [size=1M]
+        Capabilities: [40] Subsystem: 15ad:07a0
+        Capabilities: [48] Power Management version 3
+        Capabilities: [50] Express Root Port (Slot+), MSI 00
+        Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+        Kernel driver in use: pcieport
+
+00:15.1 0604: 15ad:07a0 (rev 01) (prog-if 00 [Normal decode])
+        Flags: bus master, fast devsel, latency 0, IRQ 25
+        Bus: primary=00, secondary=04, subordinate=04, sec-latency=0
+        I/O behind bridge: 00008000-00008fff [size=4K]
+        Memory behind bridge: fd000000-fd0fffff [size=1M]
+        Prefetchable memory behind bridge: 00000000e7600000-00000000e76fffff [size=1M]
+        Capabilities: [40] Subsystem: 15ad:07a0
+        Capabilities: [48] Power Management version 3
+        Capabilities: [50] Express Root Port (Slot+), MSI 00
+        Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+        Kernel driver in use: pcieport
+        
+00:18.7 0604: 15ad:07a0 (rev 01) (prog-if 00 [Normal decode])
+        Flags: bus master, fast devsel, latency 0, IRQ 55
+        Bus: primary=00, secondary=22, subordinate=22, sec-latency=0
+        I/O behind bridge: None
+        Memory behind bridge: fb500000-fb5fffff [size=1M]
+        Prefetchable memory behind bridge: 00000000e5b00000-00000000e5bfffff [size=1M]
+        Capabilities: [40] Subsystem: 15ad:07a0
+        Capabilities: [48] Power Management version 3
+        Capabilities: [50] Express Root Port (Slot+), MSI 00
+        Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable+ 64bit+
+        Kernel driver in use: pcieport
+
+02:00.0 0c03: 15ad:0774 (prog-if 00 [UHCI])
+        Subsystem: 15ad:1976
+        Flags: bus master, medium devsel, latency 64, IRQ 18
+        I/O ports at 2080 [size=32]
+        Capabilities: [40] PCI Advanced Features
+        Kernel driver in use: uhci_hcd
+        Kernel modules: uhci_hcd
+
+02:01.0 0200: 8086:100f (rev 01)
+        Subsystem: 15ad:0750
+        Flags: bus master, 66MHz, medium devsel, latency 0, IRQ 19
+        Memory at fd5c0000 (64-bit, non-prefetchable) [size=128K]
+        Memory at fdff0000 (64-bit, non-prefetchable) [size=64K]
+        I/O ports at 2000 [size=64]
+        [virtual] Expansion ROM at fd500000 [disabled] [size=64K]
+        Capabilities: [dc] Power Management version 2
+        Capabilities: [e4] PCI-X non-bridge device
+        Kernel driver in use: e1000
+        Kernel modules: e1000
+
+02:02.0 0401: 1274:1371 (rev 02)
+        Subsystem: 1274:1371
+        Flags: bus master, medium devsel, latency 64, IRQ 16
+        I/O ports at 2040 [size=64]
+        Capabilities: [40] PCI Advanced Features
+        Kernel driver in use: snd_ens1371
+        Kernel modules: snd_ens1371
+
+02:03.0 0c03: 15ad:0770 (prog-if 20 [EHCI])
+        Subsystem: 15ad:0770
+        Flags: bus master, fast devsel, latency 64, IRQ 17
+        Memory at fd5ef000 (32-bit, non-prefetchable) [size=4K]
+        Capabilities: [40] PCI Advanced Features
+        Kernel driver in use: ehci-pci
+        Kernel modules: ehci_pci
+
+02:05.0 0106: 15ad:07e0 (prog-if 01 [AHCI 1.0])
+        Subsystem: 15ad:07e0
+        Flags: bus master, 66MHz, fast devsel, latency 64, IRQ 56
+        Memory at fd5ee000 (32-bit, non-prefetchable) [size=4K]
+        [virtual] Expansion ROM at fd510000 [disabled] [size=64K]
+        Capabilities: [40] Power Management version 3
+        Capabilities: [48] MSI: Enable+ Count=1/1 Maskable- 64bit+
+        Capabilities: [60] SATA HBA v1.0
+        Capabilities: [70] PCI Advanced Features
+        Kernel driver in use: ahci
+        Kernel modules: ahci
+        
+
+
+////
+
+mkfs.ext2 /dev/sda1
+mkfs.ext4 /dev/sda2
+
+
+mount /dev/sda2 /mnt/gentoo 
+mkdir /mnt/gentoo/boot
+mount /dev/sda1 /mnt/gentoo/boot
+cd /mnt/gentoo
+
+
+rsync -avzz -P stage3-amd64-* root@192.168.153.158:/mnt/gentoo/
+
+tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner
+
+mirrorselect -i -o >> /mnt/gentoo/etc/portage/make.conf
+
+
+cp --dereference /etc/resolv.conf /mnt/gentoo/etc/
+
+
+mount --types proc /proc /mnt/gentoo/proc
+mount --rbind /sys /mnt/gentoo/sys
+mount --make-rslave /mnt/gentoo/sys
+mount --rbind /dev /mnt/gentoo/dev
+mount --make-rslave /mnt/gentoo/dev
+
+chroot /mnt/gentoo /bin/bash
+source /etc/profile
+export PS1="(chroot) ${PS1}"
+
+emerge-webrsync
+
+
+ls /usr/share/zoneinfo
+echo "Asia/Bangkok" > /etc/timezone
+emerge --config sys-libs/timezone-data
+
+
+nano -w /etc/locale.gen
+en_US ISO-8859-1
+en_US.UTF-8 UTF-8
+
+locale-gen
+
+locale -a # To verify that the selected locales are now available, run locale -a
+
+eselect locale list
+
+eselect locale set 6 # utf8
+
+env-update && source /etc/profile && export PS1="(chroot) ${PS1}"
+
+emerge --ask sys-kernel/gentoo-sources
+emerge --ask sys-kernel/linux-firmware
+
+emerge --ask sys-kernel/genkernel
+emerge --ask --autounmask-write sys-kernel/genkernel
+
+dispatch-conf yes
+choose u (use-new)
+
+emerge --ask sys-kernel/genkernel
+
+
+
+cd /usr/src/linux
+
+make menuconfig
+
+make -j2 
+make modules_install
+make install
+
+
+
+nano -w /etc/fstab
+/dev/sda1       /boot       ext2        defaults,noatime       0 2
+/dev/sda2       /           ext4        noatime                0 1
+
+genkernel --install initramfs
+ls /boot/initramfs*
+
+emerge --ask --verbose sys-boot/grub:2
+
+grub-install /dev/sda
+
+ls -1 /boot/grub/
+
+grub-mkconfig -o /boot/grub/grub.cfg
+
+
+emerge --ask sys-apps/mlocate
+emerge --ask net-misc/dhcpcd
+emerge --ask sys-apps/pciutils
+emerge --ask sys-apps/pcmciautils
+
+emerge --ask app-admin/sysklogd
+rc-update add sysklogd default
+
+emerge --ask sys-process/cronie
+rc-update add cronie default
+
+emerge --ask open-vm-tools
+emerge --ask --autounmask-write open-vm-tools
+dispatch-conf
+# choose u for use-new
+emerge --ask open-vm-tools
+
+https://wiki.gentoo.org/wiki/Vim
+vim editor
+emerge --ask app-editors/vim
+
+
+# visudo
+emerge --ask app-admin/sudo
+
+
+emerge --ask sys-process/lsof
+emerge --ask dev-vcs/git
+emerge --ask app-text/tree 
+
+https://packages.gentoo.org/packages/dev-vcs/git
+
+useradd -m -G users,cdrom,portage,cron,wheel -s /bin/bash john
+passwd john 
+
+passwd root
+
+/etc/default/grub
+GRUB_CMDLINE_LINUX_DEFAULT="ipv6.disable=1 net.ifnames=0 quiet"
+
+grub-install /dev/sda
+
+ls -1 /boot/grub/
+
+grub-mkconfig -o /boot/grub/grub.cfg
+
+
+rc-update add sshd default
+
+exit
+cd
+umount -l /mnt/gentoo/dev{/shm,/pts,}
+umount -R /mnt/gentoo
+reboot
+
+
+///
+mount /dev/sda2 /mnt/gentoo 
+mount /dev/sda1 /mnt/gentoo/boot
+
+mount --types proc /proc /mnt/gentoo/proc
+mount --rbind /sys /mnt/gentoo/sys
+mount --make-rslave /mnt/gentoo/sys
+mount --rbind /dev /mnt/gentoo/dev
+mount --make-rslave /mnt/gentoo/dev
+
+chroot /mnt/gentoo /bin/bash
+source /etc/profile
+export PS1="(chroot) ${PS1}"

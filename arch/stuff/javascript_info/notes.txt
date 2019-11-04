@@ -1,0 +1,20 @@
+Comments before and after scripts.
+<script type="text/javascript"><!--
+    ...
+//--></script>
+
+
+External scripts
+<script src="/path/to/script.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.2.0/lodash.js"></script>
+
+If src is set, the script content is ignored.
+
+A single <script> tag can’t have both the src attribute and code inside.
+
+This won’t work:
+
+           
+<script src="file.js">
+  alert(1); // the content is ignored, because src is set
+</script>
