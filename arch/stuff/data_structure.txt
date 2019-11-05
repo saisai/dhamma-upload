@@ -6,3 +6,6 @@ Mon 04 Nov 2019
     https://github.com/jwasham/coding-interview-university#prerequisite-knowledge
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
     javascript.info
+    
+Tue 05 Nov 2019
+    https://github.com/jwasham/coding-interview-university#algorithmic-complexity--big-o--asymptotic-analysis    

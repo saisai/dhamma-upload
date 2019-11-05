@@ -1,3 +1,4 @@
+https://wiki.gentoo.org/wiki/Initramfs/Guide
 
 could not find the root block device in UUID means
 
@@ -321,7 +322,7 @@ mount /dev/sda1 /mnt/gentoo/boot
 cd /mnt/gentoo
 
 
-rsync -avzz -P stage3-amd64-* root@192.168.153.158:/mnt/gentoo/
+rsync -avzz -P stage3-amd64-* root@192.168.153.174:/mnt/gentoo/
 
 tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner
 
@@ -364,7 +365,7 @@ eselect locale set 6 # utf8
 env-update && source /etc/profile && export PS1="(chroot) ${PS1}"
 
 emerge --ask sys-kernel/gentoo-sources
-emerge --ask sys-kernel/linux-firmware
+
 
 emerge --ask sys-kernel/genkernel
 emerge --ask --autounmask-write sys-kernel/genkernel
@@ -390,8 +391,29 @@ nano -w /etc/fstab
 /dev/sda1       /boot       ext2        defaults,noatime       0 2
 /dev/sda2       /           ext4        noatime                0 1
 
+
+# /dev/sda1
+UUID=eded6749-c4c5-4373-b236-e65f37f27f1f       /               ext4            rw,relatime,data=ordered        0 1
+
+# /dev/mapper/vg-home
+UUID=7c4c3f40-da93-49d3-b38c-d305096e7d7a       /home           ext4            rw,relatime,data=ordered        0 2
+
+
+UUID=f8ac2e47-70a2-46ba-90b9-f9e08eca7bf9       /               ext4            rw,relatime,data=ordered        0 1
+
+# /dev/mapper/vg-home
+UUID=20a9f7c4-1f1f-44c0-9b86-d930151aaea7       /boot          ext2            rw,relatime,data=ordered        0 2
+
+
+/dev/sda1: UUID="20a9f7c4-1f1f-44c0-9b86-d930151aaea7" TYPE="ext2" PARTUUID="66ca74a7-01"
+/dev/sda2: UUID="f8ac2e47-70a2-46ba-90b9-f9e08eca7bf9" TYPE="ext4" PARTUUID="66ca74a7-02"
+
+
+
 #genkernel --install initramfs
 genkernel --install --real-root=/dev/sda2 initramfs
+genkernel --install --no-ramdisk-modules initramfs
+genkernel --install --disklabel initramfs
 ls /boot/initramfs*
 
 emerge --ask --verbose sys-boot/grub:2
@@ -446,7 +468,7 @@ GRUB_CMDLINE_LINUX_DEFAULT="ipv6.disable=1 net.ifnames=0 quiet"
 grub-install /dev/sda
 
 ls -1 /boot/grub/
-
+# genkernel --install --real-root=/dev/sda2 initramfs
 grub-mkconfig -o /boot/grub/grub.cfg
 
 
