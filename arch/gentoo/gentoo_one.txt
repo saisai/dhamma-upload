@@ -472,7 +472,46 @@ ls -1 /boot/grub/
 grub-mkconfig -o /boot/grub/grub.cfg
 
 
+emerge --ask app-admin/sudo
+visudo
+
+
 rc-update add sshd default
+
+
+useradd -m -G users,cdrom,portage,cron,wheel -s /bin/bash john
+passwd john 
+
+passwd root
+
+To update portage, run 'emerge --oneshot portage' now.
+
+
+emerge --ask --noreplace net-misc/netifrc
+
+#/etc/conf.d/net Static IP definition
+cat > /etc/conf.d/net << "EOF"
+# Begin 
+
+config_eth0="192.168.1.200 netmask 255.255.255.0 brd 192.168.1.255"
+routes_eth0="default via 192.168.1.1"
+
+# End
+
+EOF
+
+cd /etc/init.d
+ln -s net.lo net.eth0
+rc-update add net.eth0 default
+
+cd /etc 
+echo "127.0.0.1 gen.local gen localhost" > hosts
+sed -i -e 's/hostname.*/hostname="gen"/' conf.d/hostname
+hostname gen
+hostname -f
+#result gen.local
+
+lsof / | egrep -i 'del.*libpam\.so'
 
 exit
 cd

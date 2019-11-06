@@ -1,0 +1,34 @@
+https://wiki.gentoo.org/wiki/Kernel
+emerge --search "%@^sys-kernel/.*sources"
+
+make menuconfig
+
+make -j2 
+make modules_install
+make install
+
+genkernel --install initramfs
+
+grub-install /dev/sda
+
+grub-mkconfig -o /boot/grub/grub.cfg
+
+
+
+
+mount /dev/sda2 /mnt/gentoo 
+mount /dev/sda1 /mnt/gentoo/boot
+
+mount --types proc /proc /mnt/gentoo/proc
+mount --rbind /sys /mnt/gentoo/sys
+mount --make-rslave /mnt/gentoo/sys
+mount --rbind /dev /mnt/gentoo/dev
+mount --make-rslave /mnt/gentoo/dev
+
+chroot /mnt/gentoo /bin/bash
+source /etc/profile
+export PS1="(chroot) ${PS1}"
+
+
+https://wiki.gentoo.org/wiki/Kernel/Gentoo_Kernel_Configuration_Guide
+https://www.dedoimedo.com/linux.html
