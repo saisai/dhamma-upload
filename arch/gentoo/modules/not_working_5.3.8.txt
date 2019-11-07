@@ -34,6 +34,7 @@ INSTALL drivers/ata/sata_svw.ko
 INSTALL drivers/ata/sata_sx4.ko
 INSTALL drivers/ata/sata_uli.ko
 INSTALL drivers/ata/sata_via.ko
+INSTALL drivers/ata/sata_vsc.ko
 INSTALL drivers/cdrom/cdrom.ko
 INSTALL drivers/ide/ide-core.ko
 INSTALL drivers/ide/ide-gd_mod.ko
@@ -70,4 +71,4 @@ INSTALL net/netfilter/xt_MASQUERADE.ko
 INSTALL net/netfilter/xt_addrtype.ko
 INSTALL net/netfilter/xt_mark.ko
 INSTALL net/netfilter/xt_nat.ko
-
+DEPMOD  5.3.8

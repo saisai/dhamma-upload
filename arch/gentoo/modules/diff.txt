@@ -1,18 +1,9 @@
 
-INSTALL lib/xxhash.ko
-INSTALL net/netfilter/nf_nat_ftp.ko
-INSTALL net/ipv4/netfilter/nf_nat_ipv4.ko
-INSTALL lib/raid6/raid6_pq.ko
-INSTALL net/netfilter/nf_nat_sip.ko
-INSTALL crypto/xor.ko
-DEPMOD  4.19.72-gentoo
-INSTALL net/netfilter/nf_nat_irc.ko
 INSTALL net/netfilter/nf_nat.ko
-INSTALL lib/zstd/zstd_compress.ko
+DEPMOD  4.19.72-gentoo
+INSTALL net/ipv4/netfilter/nf_nat_ipv4.ko
 INSTALL drivers/thermal/x86_pkg_temp_thermal.ko
-INSTALL lib/libcrc32c.ko
-INSTALL drivers/misc/vmw_vmci/vmw_vmci.ko
+INSTALL net/netfilter/nf_nat_sip.ko
 INSTALL net/ipv4/netfilter/ipt_MASQUERADE.ko
-INSTALL lib/zstd/zstd_decompress.ko
-INSTALL fs/btrfs/btrfs.ko
-INSTALL drivers/ata/sata_vsc.ko
+INSTALL net/netfilter/nf_nat_irc.ko
+INSTALL net/netfilter/nf_nat_ftp.ko
