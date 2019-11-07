@@ -1,3 +1,5 @@
 pata_acpi              16384  0
 libata                196608  51 pata_ns87415,pata_sil680,pata_amd,sata_qstor,ata_piix,libahci,pata_optidma,pata_netcell,pata_hpt366,sata_promise,pata_marvell,sata_uli,pata_via,pata_pdc2027x,pata_hpt3x2n,pata_sl82c105,sata_sil,pata_ali,ahci,pata_opti,pata_it821x,sata_via,pata_acpi,pata_cmd64x,sata_vsc,ata_generic,pata_hpt37x,pata_rz1000,pata_jmicron,pata_it8213,pata_efar,pdc_adma,sata_sil24,pata_pcmcia,pata_hpt3x3,pata_sis,pata_artop,sata_svw,sata_sx4,pata_ns87410,pata_radisys,pata_mpiix,sata_nv,sata_sis,libsas,sata_mv,pata_triflex,pata_serverworks,pata_pdc202xx_old,sata_inic162x,pata_atiixp
+
+https://github.com/torvalds/linux/blob/master/Documentation/virt/uml/UserModeLinux-HOWTO.txt
   

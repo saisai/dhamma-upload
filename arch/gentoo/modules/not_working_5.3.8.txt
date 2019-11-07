@@ -1,3 +1,4 @@
+INSTALL crypto/xor.ko
 INSTALL drivers/ata/acard-ahci.ko
 INSTALL drivers/ata/ahci.ko
 INSTALL drivers/ata/ahci_platform.ko
@@ -36,6 +37,8 @@ INSTALL drivers/ata/sata_via.ko
 INSTALL drivers/cdrom/cdrom.ko
 INSTALL drivers/ide/ide-core.ko
 INSTALL drivers/ide/ide-gd_mod.ko
+INSTALL drivers/misc/mic/bus/mic_bus.ko
+INSTALL drivers/misc/vmw_vmci/vmw_vmci.ko
 INSTALL drivers/phy/broadcom/phy-bcm-kona-usb2.ko
 INSTALL drivers/phy/marvell/phy-pxa-28nm-hsic.ko
 INSTALL drivers/phy/marvell/phy-pxa-28nm-usb2.ko
@@ -46,11 +49,17 @@ INSTALL drivers/scsi/sg.ko
 INSTALL drivers/scsi/sr_mod.ko
 INSTALL drivers/thermal/intel/x86_pkg_temp_thermal.ko
 INSTALL drivers/usb/storage/usb-storage.ko
+INSTALL fs/btrfs/btrfs.ko
 INSTALL fs/efivarfs/efivarfs.ko
 INSTALL fs/ext2/ext2.ko
 INSTALL fs/ext4/ext4.ko
 INSTALL fs/jbd2/jbd2.ko
 INSTALL fs/mbcache.ko
+INSTALL lib/libcrc32c.ko
+INSTALL lib/raid6/raid6_pq.ko
+INSTALL lib/xxhash.ko
+INSTALL lib/zstd/zstd_compress.ko
+INSTALL lib/zstd/zstd_decompress.ko
 INSTALL net/ipv4/netfilter/iptable_nat.ko
 INSTALL net/ipv4/netfilter/nf_log_arp.ko
 INSTALL net/ipv4/netfilter/nf_log_ipv4.ko
@@ -61,3 +70,4 @@ INSTALL net/netfilter/xt_MASQUERADE.ko
 INSTALL net/netfilter/xt_addrtype.ko
 INSTALL net/netfilter/xt_mark.ko
 INSTALL net/netfilter/xt_nat.ko
+
