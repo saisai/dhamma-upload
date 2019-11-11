@@ -1,0 +1,232 @@
+
+<header id="page-header">
+<div id="header-top">
+<div class="wrapper clearfix">
+<div id="logo-image">
+<a href="https://www.thitsarparamisociety.com"><img src="https://www.thitsarparamisociety.com/wp-content/uploads/2017/03/Banner-1.jpg" alt="Thitsarparami Buddhist Society | Dhamma mp3 Download"></a>
+</div>
+<div id="header-left" class="clearfix">
+<ul class="socials-link clearfix">
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="header-bottom">
+<div class="wrapper clearfix">
+<nav id="main-nav">
+<ul id="main-menu" class="menu clearfix sf-js-enabled sf-arrows"><li class="menu-home-item"><a data-icon="" href="https://www.thitsarparamisociety.com"></a></li><li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-34"><a href="https://www.thitsarparamisociety.com/">မူလစာမျက်နှာ</a></li>
+<li id="menu-item-18227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18227"><a href="#" class="sf-with-ul">သစ္စာပါရမီ</a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayadaw-biography/">သစ္စာပါရမီ ဆရာတော် ထေရုပ္ပတ္တိ</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://www.thitsarparamisociety.com/thitsarparami/">စင်္ကာပူနိုင်ငံ၊ သစ္စာပါရမီရိပ်သာ မိုးကုတ်ဝိပဿနာ ပြည်ပအဖွဲ့ခွဲ (၁) ဖြစ်ပေါ်လာခြင်းအကြောင်း</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="https://www.thitsarparamisociety.com/dr-ashinjayatissa-thitsarparami-sayadaw/">သစ္စာပါရမီဆရာတော် mp3 တရားတော်များ</a></li>
+<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayardaw-tayardaw-video/">သစ္စာပါရမီဆရာတော် ရုပ်သံ တရားတော်များ</a></li>
+<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayadaw-ebooks/">သစ္စာပါရမီဆရာတော် ဓမ္မစာအုပ်များ</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="https://www.thitsarparamisociety.com/mogoke-sayadawgyi-biography/">ကျေးဇူးတော်ရှင် မိုးကုတ်ဆရာတော်ဘုရားကြီး၏ ထေရုပ္ပတ္တိအကျဉ်း</a></li>
+</ul>
+</li>
+<li id="menu-item-17946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17946"><a href="#" class="sf-with-ul">တရားတော်များ</a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-17947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17947"><a href="https://www.thitsarparamisociety.com/mp3-tayardaw/">MP3 တရားတော်များ</a></li>
+<li id="menu-item-17950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17950"><a href="https://www.thitsarparamisociety.com/video-tayardaw/">ရုပ်သံ တရားတော်များ</a></li>
+</ul>
+</li>
+<li id="menu-item-17952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17952"><a href="#" class="sf-with-ul">တရားစာအုပ်များ</a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-13132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13132"><a href="http://www.thitsarparamisociety.com/?p=35">တရား စာအုပ်များ</a></li>
+<li id="menu-item-1312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1312"><a href="https://www.thitsarparamisociety.com/buddh-history/">ရုပ်စုံဗုဒ္ဓသာသနာဝင်</a></li>
+</ul>
+</li>
+<li id="menu-item-6462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6462"><a href="https://www.thitsarparamisociety.com/24hrs-radio/">၂၄နာရီ ရေဒီယို</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://www.thitsarparamisociety.com/mirror-of-good-deeds/">ကုသိုလ် ပုံရိပ်များ</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="https://www.thitsarparamisociety.com/contact/">ဆက်သွယ်ရန်</a></li>
+</ul><div id="mobile-menu" class="menu-%e1%80%9e%e1%80%85%e1%80%b9%e1%80%85%e1%80%ac%e1%80%95%e1%80%ab%e1%80%9b%e1%80%99%e1%80%ae-container"><span>Menu</span><ul id="toggle-view-menu"><li class="clearfix"><h3><a href="https://www.thitsarparamisociety.com">Home</a></h3></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-34 clearfix"><h3><a href="https://www.thitsarparamisociety.com/">မူလစာမျက်နှာ</a></h3></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18227 clearfix"><h3><a href="#">သစ္စာပါရမီ</a></h3>
+<span>+</span><div class="clear"></div><div class="menu-panel clearfix"><ul> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayadaw-biography/">သစ္စာပါရမီ ဆရာတော် ထေရုပ္ပတ္တိ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://www.thitsarparamisociety.com/thitsarparami/">စင်္ကာပူနိုင်ငံ၊ သစ္စာပါရမီရိပ်သာ မိုးကုတ်ဝိပဿနာ ပြည်ပအဖွဲ့ခွဲ (၁) ဖြစ်ပေါ်လာခြင်းအကြောင်း</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="https://www.thitsarparamisociety.com/dr-ashinjayatissa-thitsarparami-sayadaw/">သစ္စာပါရမီဆရာတော် mp3 တရားတော်များ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayardaw-tayardaw-video/">သစ္စာပါရမီဆရာတော် ရုပ်သံ တရားတော်များ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayadaw-ebooks/">သစ္စာပါရမီဆရာတော် ဓမ္မစာအုပ်များ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="https://www.thitsarparamisociety.com/mogoke-sayadawgyi-biography/">ကျေးဇူးတော်ရှင် မိုးကုတ်ဆရာတော်ဘုရားကြီး၏ ထေရုပ္ပတ္တိအကျဉ်း</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17946 clearfix"><h3><a href="#">တရားတော်များ</a></h3>
+<span>+</span><div class="clear"></div><div class="menu-panel clearfix"><ul> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17947"><a href="https://www.thitsarparamisociety.com/mp3-tayardaw/">MP3 တရားတော်များ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17950"><a href="https://www.thitsarparamisociety.com/video-tayardaw/">ရုပ်သံ တရားတော်များ</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17952 clearfix"><h3><a href="#">တရားစာအုပ်များ</a></h3>
+<span>+</span><div class="clear"></div><div class="menu-panel clearfix"><ul> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13132"><a href="http://www.thitsarparamisociety.com/?p=35">တရား စာအုပ်များ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1312"><a href="https://www.thitsarparamisociety.com/buddh-history/">ရုပ်စုံဗုဒ္ဓသာသနာဝင်</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6462 clearfix"><h3><a href="https://www.thitsarparamisociety.com/24hrs-radio/">၂၄နာရီ ရေဒီယို</a></h3></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108 clearfix"><h3><a href="https://www.thitsarparamisociety.com/mirror-of-good-deeds/">ကုသိုလ် ပုံရိပ်များ</a></h3></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107 clearfix"><h3><a href="https://www.thitsarparamisociety.com/contact/">ဆက်သွယ်ရန်</a></h3></li>
+</ul></div>
+</nav>
+
+<div class="search-box clearfix">
+</div>
+
+</div>
+
+</div>
+
+</header>
+
+<div id="main-content">
+<div class="wrapper clearfix">
+<div class="col-a">
+<div id="page-11910" class="elements-box post-11910 page type-page status-publish hentry">
+<h5 style="color: #666666;"><span style="color: #339966;">အရှင်ဉာဏောဘာသ (အေးစေတီ၊ မင်ဘူး) ဆရာတော် ဟောကြားတော်မူသော တရားတော်များ စုစည်းမှု (MP3)</span></h5>
+<p>&nbsp;</p>
+<p><span style="color: #00ffff;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/6-12-2015/Thilapay.mp3" target="_blank"><span style="color: #00ffff;">(၈)ပါးသီလ</span></a></span></p>
+<p>&nbsp;</p>
+<p><span style="color: #008000;"><strong>တရားထိုင်စဉ် ဟောကြားတော်မူသော အလုပ်ပေးတရားတော်များ</strong></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/20-12-2015/20-12-2015-1.mp3" target="_blank"><span style="color: #ffcc00;"><span style="color: #ffcc00;">၁၄။ <span style="color: #ffcc00;"><span style="color: #ffcc00;">အလုပ်ပေးတရားတော် (၂၀.၁၂.၂၀၁၅) စင်ကာပူ</span></span></span></span></a></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/13-12-2015/1.mp3" target="_blank"><span style="color: #ffcc00;">၁၃။ <span style="color: #ffcc00;"><span style="color: #ffcc00;">အလုပ်ပေးတရားတော် (၁၃.၁၂.၂၀၁၅) စင်ကာပူ</span></span></span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/6-12-2015/Alotepay-tayartaw-6-12-2015.mp3" target="_blank"><span style="color: #ffcc00;">၁၂။ <span style="color: #ffcc00;"><span style="color: #ffcc00;">အလုပ်ပေးတရားတော် (၆.၁၂.၂၀၁၅) စင်ကာပူ</span></span></span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/29-11-15/Alotepay.mp3" target="_blank"><span style="color: #ffcc00;">၁၁။ အလုပ်ပေးတရားတော် (၂၉.၁၁.၂၀၁၅) စင်ကာပူ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/Alotepay.mp3" target="_blank"><span style="color: #ffcc00;">၁၀။ အလုပ်ပေးတရားတော် (၂၂.၁၁.၂၀၁၅) စင်ကာပူ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/karyar-nu-pa-thanar.mp3" target="_blank"><span style="color: #ffcc00;">၉။ ကာယာနုပဿနာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Saittar-nu-pa-thanar-1.mp3" target="_blank"><span style="color: #ffcc00;">၈။ စိတ္တာနုပဿနာ (ပ)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Saittar-nu-pa-thanar-2.mp3" target="_blank"><span style="color: #ffcc00;">၇။ စိတ္တာနုပဿနာ (ဒု)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/dokkha-wadanar-nu-pa-thanar.mp3" target="_blank"><span style="color: #ffcc00;">၆။ ဒုက္ခဝေဒနာနုပဿနာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/wai-danar-nu-pa-thanar.mp3" target="_blank"><span style="color: #ffcc00;">၅။ ဝေဒနာနုပဿနာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Dhamma-nu-pa-thanar.mp3" target="_blank"><span style="color: #ffcc00;">၄။ ဓမ္မာနုပဿနာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Zan-mha-wipathanar.mp3" target="_blank"><span style="color: #ffcc00;">၃။ ဈာန်မှဝိပဿနာသို့</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/aw-warda-.mp3" target="_blank"><span style="color: #ffcc00;">၂။ ဖွင့်ပွဲဩဝါဒ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/win-lay-ti-alotepay.mp3" target="_blank"><span style="color: #ffcc00;">၁။ ဝင်လေသိအလုပ်ပေး</span></a></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong><span style="color: #339966;">ပဋိစ္စသမုပ္ပါဒ်သင်တန်းတရားနှင့် အထူးတရားတော်များ</span></strong></p>
+<p><span style="color: #ff9900;"><a href="https://thitsarparamisociety.com/wp-content/uploads/Dr%20Ashin%20Jayatissa/MP3/Sayadaw%20047_03092014.mp3"><span style="color: #ff9900;">၂၇ ။ </span></a><a href="https://thitsarparamisociety.com/wp-content/uploads/Dr%20Ashin%20Jayatissa/MP3/Sayadaw%20047_03092014.mp3"><span style="color: #ff9900;">(၉.၀၃.၂၀၁၄)</span></a> <a href="https://thitsarparamisociety.com/wp-content/uploads/Dr%20Ashin%20Jayatissa/MP3/Sayadaw%20047_03092014.mp3"><span style="color: #ff9900;">တခုတည်းရယ်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/20-12-2015/20-12-2015-3.mp3" target="_blank"><span style="color: #ffcc00;">၂၆။ ကံလမ်းသွားနှင့် ဉာဏ်လမ်းသွားတရားတော် (၂၀.၁၂.၂၀၁၅) စင်ကာပူ</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/20-12-2015/20-12-2015-2.mp3" target="_blank"><span style="color: #ffcc00;">၂၅။ ပဋိစ္စသမုပ္ပါဒ် သင်တန်းတရားတော် (၂၀.၁၂.၂၀၁၅)စင်ကာပူ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/13-12-2015/3.mp3" target="_blank"><span style="color: #ffcc00;">၂၄။ ခေါင်းဆောင်စိတ်ထား (၁၃.၁၂.၂၀၁၅)စင်ကာပူ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/13-12-2015/2.mp3" target="_blank"><span style="color: #ffcc00;">၂၃။ ပဋိစ္စသမုပ္ပါဒ် သင်တန်းတရားတော် (၁၃.၁၂.၂၀၁၅)စင်ကာပူ</span></a></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/6-12-2015/lawka-ko-nyan-ne-kyi-tayarwaw.mp3" target="_blank"><span style="color: #ffcc00;">၂၂။ လောကကို ဉာဏ်နဲ့ကြည့် တရားတော် (၆.၁၂.၂၀၁၅)စင်ကာပူ</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/6-12-2015/thin-tan-tayar-6.12.2015.mp3" target="_blank"><span style="color: #ffcc00;">၂၁။ ပဋိစ္စသမုပ္ပါဒ် သင်တန်းတရားတော် (၆.၁၂.၂၀၁၅)စင်ကာပူ</span></a></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/29-11-15/29-11-15-2.mp3" target="_blank"><span style="color: #ffcc00;">၂၀။ နောင်တ တဖန် မပူပန်ပါစေနှင့် တရားတော် (၂၉.၁၁.၂၀၁၅) စင်ကာပူ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/29-11-15/Alotepay-1.mp3" target="_blank"><span style="color: #ffcc00;">၁၉။ ပဋိစ္စသမုပ္ပါဒ် သင်တန်းတရားတော် (၂၉.၁၁.၂၀၁၅)စင်ကာပူ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/267-1.mp3" target="_blank"><span style="color: #ffcc00;">၁၈။ စိတ်ထင်ရာမလုပ်နဲ့ တရားတော် (၂၂.၁၁.၂၀၁၅)စင်ကာပူ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/267-2.mp3" target="_blank"><span style="color: #ffcc00;">၁၇။ ပဋိစ္စသမုပ္ပါဒ် သင်တန်းတရားတော် (၂၂.၁၁.၂၀၁၅)စင်ကာပူ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/kuyudhamma-tayardaw.mp3" target="_blank"><span style="color: #ffcc00;">၁၆။ ကုရုဓမ္မတရားတော်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Khandar-5par.mp3" target="_blank"><span style="color: #ffcc00;">၁၅။ ခန္ဓာငါးပါး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/khandar-nit-sap-thitsar.mp3" target="_blank"><span style="color: #ffcc00;">၁၄။ ခန္ဓာနှင့်စပ် သစ္စာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/SaitHla-youte-Hla-2.mp3" target="_blank"><span style="color: #ffcc00;">၁၃။ စိတ်လှရုပ်လှ (ဒု)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/SaitHla-youte-Hla-1.mp3" target="_blank"><span style="color: #ffcc00;">၁၂။ စိတ်လှရုပ်လှ(ပ)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/pyittsoappan-myar-nay.mp3" target="_blank"><span style="color: #ffcc00;">၁၁။ ပစ္စုပ္ပန်မှာနေ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Buddhawin-1.mp3" target="_blank"><span style="color: #ffcc00;">၁၀။ ဗုဒ္ဓဝင် (ပ)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Buddhawin-2.mp3" target="_blank"><span style="color: #ffcc00;">၀၉။ ဗုဒ္ဓဝင် (ဒု)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Buddhawin-3.mp3" target="_blank"><span style="color: #ffcc00;">၀၈။ ဗုဒ္ဓဝင် (တ)</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/win-lay-ti-.mp3" target="_blank"><span style="color: #ffcc00;">၀၇။ ဝင်လေသိထွက်လေသိ</span></a></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Thanga-rakhita.mp3" target="_blank"><span style="color: #ffcc00;">၀၆။ သံဃရက္ခိတ တူ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Thu-taung-sar-6-yout.mp3" target="_blank"><span style="color: #ffcc00;">၀၅။ သူတောင်းစား၆ ယောက်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/atwin-lu-soe-khwe-tha-khoe.mp3" target="_blank"><span style="color: #ffcc00;">၀၄။ အတွင်းလူဆိုး ခွေသူခိုး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/kaw-li-wi-tha-thaw-na.mp3" target="_blank"><span style="color: #ffcc00;">၀၃။ ကောဠိဝိသသောဏ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/khaung-nyaint-khaung-khar.mp3" target="_blank"><span style="color: #ffcc00;">၀၂။ ခေါင်းညိတ်ခေါင်းခါတတ်ပါစေ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/wai-danar.mp3" target="_blank"><span style="color: #ffcc00;">၀၁။ ဝဒနာ</span></a></span></p>
+<p>&nbsp;</p>
+</div>
+<div class="border-box">
+<div class="wrap-page-links clearfix">
+<div class="page-links">
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+
+<div class="sidebar col-b widget-area-2">
+</div>
+
+<div class="clear"></div>
+</div> 
+</div> 
+<div id="bottom-sidebar">
+<div class="wrapper">
+<header>
+<div id="bottom-logo">
+<a href="https://www.thitsarparamisociety.com">
+Thitsarparami Buddhist Society | Dhamma mp3 Download </a>
+</div>
+<p id="back-top">
+<a href="#top"></a>
+</p>
+
+</header>
+<div class="row-fluid">
+<div class="span3">
+<div id="text-7" class="widget widget_text"><h3 class="widget-title">ဓမ္မဆုံးမစာများ</h3> <div class="textwidget"><p>မကောင်းမှုရှောင်၊ ကောင်းမှုဆောင်၊ ဖြူအာင် စိတ်ကိုထား၊<br>
+ဘုရားအဆူဆူ၊ မိန့်တော်မူ၊ အတူတူ ထိုတရား...<br>
+<br><a href="http://www.thitsarparamisociety.com/%E1%80%93%E1%80%99%E1%81%BC-%E1%80%86%E1%80%B6%E1%80%AF%E1%80%B8%E1%80%99%E1%80%85%E1%80%AC%E1%80%99%E1%80%BA%E1%80%AC%E1%80%B8/">ဆက်လက်ဖတ်ရှုရန်</a></p>
+</div>
+</div> </div>
+<div class="span3">
+<div id="kopa_widget_text-44" class="widget kopa_widget_text"><h3 class="widget-title">ဗုဒ္ဓဘာသာခြေခံ</h3> <p>*အမည်- (သိဒ္ဓတ္ထ) ဂေါတမ</p>
+<p>*ခမည်းတော် – သုဒ္ဓေါဒန ဂေါတမ မင်းကြီး</p>
+<p>*မယ်တော် – မိဖုရား မဟာ မာယာ (မွေးဖွားပြီး ခုနှစ်ရက်အကြာတွင်သေဆုံးသည်)<br>
+<br><a href="http://www.thitsarparamisociety.com/general-knowledge-for-buddhism/">ဆက်လက်ဖတ်ရှုရန်</a></p>
+</div> </div>
+<div class="span3">
+<div id="kopa_widget_text-57" class="widget kopa_widget_text"><h3 class="widget-title">Thitsarparami App</h3> <span style="color: #ffffff;">သစ္စာပါရမီ Andorid App အသစ်အား Play Store အကောင့်မရှိသူများ ဒေါင်းလိုပါက အောက်ပါပုံအားနှိပ်ပါ 
+<a href="https://www.thitsarparamisociety.com/wp-content/uploads/2018/06/DhammaThitsar-release.apk"><img src="https://www.thitsarparamisociety.com/wp-content/uploads/2018/06/get-it-on-android.png"></a>
+</span></div> </div>
+<div class="span3">
+<div id="search-2" class="widget widget_search"><h3 class="widget-title">ရှာဖွေရန်</h3><form action="https://www.thitsarparamisociety.com" class="search-form clearfix" method="get">
+<input type="text" onblur="if (this.value == '')
+        this.value = this.defaultValue;" onfocus="if (this.value == this.defaultValue)
+        this.value = '';" value="Enter keyworks" name="s" class="search-text">
+<input type="submit" value="Go" class="search-submit">
+</form></div> </div>
+</div>
+
+</div>
+
+</div>
+
+<footer id="page-footer">
+<div class="wrapper clearfix">
+<div id="copyright"><p>Copyright 2014 – Thitsarparami Society. All Rights Reserved.</p>
+</div>
+</div>
+
+</footer>
+
+<script type="text/javascript">
+    var pluginUrl = 'https://www.thitsarparamisociety.com/wp-content/plugins/contus-video-gallery/';
+	</script>
+<input type="hidden" id="kopa_set_view_count_wpnonce" name="kopa_set_view_count_wpnonce" value="e87c89f179"><input type="hidden" id="kopa_set_user_rating_wpnonce" name="kopa_set_user_rating_wpnonce" value="ac037ff848"><link rel="stylesheet" id="wpad_style_front-css" href="https://www.thitsarparamisociety.com/wp-content/plugins/wp-advance-comment/css/frontend-style.css?ver=5.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="wpad-ui-jquery-css" href="https://www.thitsarparamisociety.com/wp-content/plugins/wp-advance-comment/css/jquery-ui.css?ver=1.0.0" type="text/css" media="">
+<link rel="stylesheet" id="wpad-ui-css" href="https://www.thitsarparamisociety.com/wp-content/plugins/wp-advance-comment/css/jquery-dialog.css?ver=1.0.0" type="text/css" media="">
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/superfish.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/retina.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/bootstrap.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/tweetable.jquery.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.timeago.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.carouFredSel-6.0.4-packed.js?ver=6.0.4"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.exposure.js?ver=1.0.1"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.form.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/modernizr-transitions.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/set-view-count.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var kopa_custom_front_localization = {"validate":{"form":{"submit":"Submit","sending":"Sending..."},"name":{"required":"Please enter your name.","minlength":"At least {0} characters required."},"email":{"required":"Please enter your email.","email":"Please enter a valid email."},"url":{"required":"Please enter your url.","url":"Please enter a valid url."},"message":{"required":"Please enter a message.","minlength":"At least {0} characters required."}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/custom.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-includes/js/comment-reply.min.js?ver=5.2.4"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-includes/js/wp-embed.min.js?ver=5.2.4"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/plugins/wp-advance-comment/js/jquery-ui.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/plugins/contus-video-gallery/js/playlist.min.js?ver=5.2.4"></script>
+

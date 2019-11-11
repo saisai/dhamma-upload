@@ -1,0 +1,829 @@
+
+<header id="page-header">
+<div id="header-top">
+<div class="wrapper clearfix">
+<div id="logo-image">
+<a href="https://www.thitsarparamisociety.com"><img src="https://www.thitsarparamisociety.com/wp-content/uploads/2017/03/Banner-1.jpg" alt="Thitsarparami Buddhist Society | Dhamma mp3 Download"></a>
+</div>
+<div id="header-left" class="clearfix">
+<ul class="socials-link clearfix">
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="header-bottom">
+<div class="wrapper clearfix">
+<nav id="main-nav">
+<ul id="main-menu" class="menu clearfix sf-js-enabled sf-arrows"><li class="menu-home-item"><a data-icon="" href="https://www.thitsarparamisociety.com"></a></li><li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-34"><a href="https://www.thitsarparamisociety.com/">မူလစာမျက်နှာ</a></li>
+<li id="menu-item-18227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18227"><a href="#" class="sf-with-ul">သစ္စာပါရမီ</a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayadaw-biography/">သစ္စာပါရမီ ဆရာတော် ထေရုပ္ပတ္တိ</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://www.thitsarparamisociety.com/thitsarparami/">စင်္ကာပူနိုင်ငံ၊ သစ္စာပါရမီရိပ်သာ မိုးကုတ်ဝိပဿနာ ပြည်ပအဖွဲ့ခွဲ (၁) ဖြစ်ပေါ်လာခြင်းအကြောင်း</a></li>
+<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="https://www.thitsarparamisociety.com/dr-ashinjayatissa-thitsarparami-sayadaw/">သစ္စာပါရမီဆရာတော် mp3 တရားတော်များ</a></li>
+<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayardaw-tayardaw-video/">သစ္စာပါရမီဆရာတော် ရုပ်သံ တရားတော်များ</a></li>
+<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayadaw-ebooks/">သစ္စာပါရမီဆရာတော် ဓမ္မစာအုပ်များ</a></li>
+<li id="menu-item-72" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="https://www.thitsarparamisociety.com/mogoke-sayadawgyi-biography/">ကျေးဇူးတော်ရှင် မိုးကုတ်ဆရာတော်ဘုရားကြီး၏ ထေရုပ္ပတ္တိအကျဉ်း</a></li>
+</ul>
+</li>
+<li id="menu-item-17946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17946"><a href="#" class="sf-with-ul">တရားတော်များ</a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-17947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17947"><a href="https://www.thitsarparamisociety.com/mp3-tayardaw/">MP3 တရားတော်များ</a></li>
+<li id="menu-item-17950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17950"><a href="https://www.thitsarparamisociety.com/video-tayardaw/">ရုပ်သံ တရားတော်များ</a></li>
+</ul>
+</li>
+<li id="menu-item-17952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17952"><a href="#" class="sf-with-ul">တရားစာအုပ်များ</a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-13132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13132"><a href="http://www.thitsarparamisociety.com/?p=35">တရား စာအုပ်များ</a></li>
+<li id="menu-item-1312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1312"><a href="https://www.thitsarparamisociety.com/buddh-history/">ရုပ်စုံဗုဒ္ဓသာသနာဝင်</a></li>
+</ul>
+</li>
+<li id="menu-item-6462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6462"><a href="https://www.thitsarparamisociety.com/24hrs-radio/">၂၄နာရီ ရေဒီယို</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://www.thitsarparamisociety.com/mirror-of-good-deeds/">ကုသိုလ် ပုံရိပ်များ</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="https://www.thitsarparamisociety.com/contact/">ဆက်သွယ်ရန်</a></li>
+</ul><div id="mobile-menu" class="menu-%e1%80%9e%e1%80%85%e1%80%b9%e1%80%85%e1%80%ac%e1%80%95%e1%80%ab%e1%80%9b%e1%80%99%e1%80%ae-container"><span>Menu</span><ul id="toggle-view-menu"><li class="clearfix"><h3><a href="https://www.thitsarparamisociety.com">Home</a></h3></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-34 clearfix"><h3><a href="https://www.thitsarparamisociety.com/">မူလစာမျက်နှာ</a></h3></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18227 clearfix"><h3><a href="#">သစ္စာပါရမီ</a></h3>
+<span>+</span><div class="clear"></div><div class="menu-panel clearfix"><ul> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayadaw-biography/">သစ္စာပါရမီ ဆရာတော် ထေရုပ္ပတ္တိ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://www.thitsarparamisociety.com/thitsarparami/">စင်္ကာပူနိုင်ငံ၊ သစ္စာပါရမီရိပ်သာ မိုးကုတ်ဝိပဿနာ ပြည်ပအဖွဲ့ခွဲ (၁) ဖြစ်ပေါ်လာခြင်းအကြောင်း</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="https://www.thitsarparamisociety.com/dr-ashinjayatissa-thitsarparami-sayadaw/">သစ္စာပါရမီဆရာတော် mp3 တရားတော်များ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayardaw-tayardaw-video/">သစ္စာပါရမီဆရာတော် ရုပ်သံ တရားတော်များ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="https://www.thitsarparamisociety.com/thitsarparami-sayadaw-ebooks/">သစ္စာပါရမီဆရာတော် ဓမ္မစာအုပ်များ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72"><a href="https://www.thitsarparamisociety.com/mogoke-sayadawgyi-biography/">ကျေးဇူးတော်ရှင် မိုးကုတ်ဆရာတော်ဘုရားကြီး၏ ထေရုပ္ပတ္တိအကျဉ်း</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17946 clearfix"><h3><a href="#">တရားတော်များ</a></h3>
+<span>+</span><div class="clear"></div><div class="menu-panel clearfix"><ul> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17947"><a href="https://www.thitsarparamisociety.com/mp3-tayardaw/">MP3 တရားတော်များ</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17950"><a href="https://www.thitsarparamisociety.com/video-tayardaw/">ရုပ်သံ တရားတော်များ</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17952 clearfix"><h3><a href="#">တရားစာအုပ်များ</a></h3>
+<span>+</span><div class="clear"></div><div class="menu-panel clearfix"><ul> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13132"><a href="http://www.thitsarparamisociety.com/?p=35">တရား စာအုပ်များ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1312"><a href="https://www.thitsarparamisociety.com/buddh-history/">ရုပ်စုံဗုဒ္ဓသာသနာဝင်</a></li>
+</ul></div>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6462 clearfix"><h3><a href="https://www.thitsarparamisociety.com/24hrs-radio/">၂၄နာရီ ရေဒီယို</a></h3></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108 clearfix"><h3><a href="https://www.thitsarparamisociety.com/mirror-of-good-deeds/">ကုသိုလ် ပုံရိပ်များ</a></h3></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107 clearfix"><h3><a href="https://www.thitsarparamisociety.com/contact/">ဆက်သွယ်ရန်</a></h3></li>
+</ul></div>
+</nav>
+
+<div class="search-box clearfix">
+</div>
+
+</div>
+
+</div>
+
+</header>
+
+<div id="main-content">
+<div class="wrapper clearfix">
+<div class="col-a">
+<div id="page-745" class="elements-box post-745 page type-page status-publish hentry">
+<h5><span style="color: #339966;">ဓမ္မဒူတ(သိမ်ဇရပ်) ဆရာတော် အရှင်ပညာဝရ ဟောကြားတော်မူသော တရားတော်များ စုစည်းမှု (MP3)</span></h5>
+<h3><span style="color: #ff9900;"> </span></h3>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/001.mp3"><span style="color: #ff9900;">၀၀၁။ အန္တရယ်ကင်းပရိတ်ကြီး-၁၁သုတ်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/002.mp3"><span style="color: #ff9900;">၀၀၂။ တစ်ရက်ရှုပွားအကျိုးများ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/003.mp3"><span style="color: #ff9900;">၀၀၃။ ကိုယ်သာနာ၍စိတ်မနာစေနဲ့</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/004.mp3"><span style="color: #ff9900;">၀၀၄။ မီးလောင်အိမ်ပမာဤခန္ဓာ-၁</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/005.mp3"><span style="color: #ff9900;">၀၀၅။ မီးလောင်အိမ်ပမာဤခန္ဓာ-၂</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/006.mp3"><span style="color: #ff9900;">၀၀၆။ ဘုရားကိုယ့်အတွက်ပွင့်ပါစေ</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/007.mp3"><span style="color: #ff9900;">၀၀၇။ ရန်သူနှင့်သာပေါင်းနေသည်-၁</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/008.mp3"><span style="color: #ff9900;">၀၀၈။ ရန်သူနှင့်သာပေါင်းနေသည်-၂</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/009.mp3"><span style="color: #ff9900;">၀၀၉။ ရန်သူနှင့်သာပေါင်းနေသည်-၃</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/010.mp3"><span style="color: #ff9900;">၀၁၀။ အလှူခံမြတ်ကကျိုးကြီးရ-၁</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/011.mp3"><span style="color: #ff9900;">၀၁၁။ အလှူခံမြတ်ကကျိုးကြီးရ-၂</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/012.mp3"><span style="color: #ff9900;">၀၁၂။ အလှနှစ်မျိုး-၁</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/013.mp3"><span style="color: #ff9900;">၀၁၃။ အလှနှစ်မျိုး-၂</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/014.mp3"><span style="color: #ff9900;">၀၁၄။ ဝိပဿနာဆိုတာဘာလဲ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/015.mp3"><span style="color: #ff9900;">၀၁၅။ တံခါးမှူးငါးဦး</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/016.mp3"><span style="color: #ff9900;">၀၁၆။ ငါဘယ်လမ်းကိုလျှောက်နေလဲ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/017.mp3"><span style="color: #ff9900;">၀၁၇။ အလှူဒါနကျိုးဖလ-၁</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/018.mp3"><span style="color: #ff9900;">၀၁၈။ အလှူဒါနကျိုးဖလ-၂</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/019.mp3"><span style="color: #ff9900;">၀၁၉။ စိတ်ရောင်စုံ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/020.mp3"><span style="color: #ff9900;">၀၂၀။ ကြောက်တတ်သူများမြဲရှုပွား</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/021.mp3"><span style="color: #ff9900;">၀၂၁။ တရားနှင့်နေလေ့ရှိသူ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/022.mp3"><span style="color: #ff9900;">၀၂၂။ ဘာကိုလှူကဘယ်ကျိုးရ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/023.mp3"><span style="color: #ff9900;">၀၂၃။ တရားဘယ်သူရနိုင်လဲ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/024.mp3"><span style="color: #ff9900;">၀၂၄။ အလှနှစ်မျိုးအနုမောဒနာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/025.mp3"><span style="color: #ff9900;">၀၂၅။ ဘဝပန်းတိုင်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/026.mp3"><span style="color: #ff9900;">၀၂၆။ ချမ်းသာလေးပါး</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/027.mp3"><span style="color: #ff9900;">၀၂၇။ ဗြဟ္မစိုရ်နှင့်မိဘ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/028.mp3"><span style="color: #ff9900;">၀၂၈။ သောတာပန်နှင့်တူသောကုသိုလ်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/029.mp3"><span style="color: #ff9900;">၀၂၉။ အထင်နှင့်အမြင်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/030.mp3"><span style="color: #ff9900;">၀၃၀။ အပူဘေးမှကင်းဝေးပါစေ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/031.mp3"><span style="color: #ff9900;">၀၃၁။ သြဃလွန်မှနိဗ္ဗာန်ရ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/032.mp3"><span style="color: #ff9900;">၀၃၂။ အလှူသင်တန်းအနုမောဒနာ-၁</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/033.mp3"><span style="color: #ff9900;">၀၃၃။ အလှူသင်တန်းအနုမောဒနာ-၂</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/034.mp3"><span style="color: #ff9900;">၀၃၄။ ခေါင်းဆောင်နောက်လိုက်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/035.mp3"><span style="color: #ff9900;">၀၃၅။ လွတ်မြောက်ရေးခွန်အား</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/036.mp3"><span style="color: #ff9900;">၀၃၆။ သေသူရည်မှန်းဆွမ်းလှူဒါန်း</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/037.mp3"><span style="color: #ff9900;">၀၃၇။ ခြင်္သေ့ပမာကျင့်လေပါ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/038.mp3"><span style="color: #ff9900;">၀၃၈။ ပုထုဇဉ်ဘဝကြောက်ဘွယ်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/039.mp3"><span style="color: #ff9900;">၀၃၉။ အမတသုခအနုမောဒနာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/040.mp3"><span style="color: #ff9900;">၀၄၀။ လိုရာဆန္ဒပြည့်ဝကြောင်း</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/041.mp3"><span style="color: #ff9900;">၀၄၁။ ဗုဒ္ဓဘာသာကောင်းတစ်ယောက်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/042.mp3"><span style="color: #ff9900;">၀၄၂။ အေးမြသည့်ရင်ခွင်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/043.mp3"><span style="color: #ff9900;">၀၄၃။ တရားခံဘယ်သူလဲ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/044.mp3"><span style="color: #ff9900;">၀၄၄။ ဝန်တိုခြင်းဘေးကင်းဝေးပါစေ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/045.mp3"><span style="color: #ff9900;">၀၄၅။ တရားချစ်သူ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/046.mp3"><span style="color: #ff9900;">၀၄၆။ ဘဝသံသရာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/047.mp3"><span style="color: #ff9900;">၀၄၇။ အချိန်မီသူနှင့်နောက်ကျသူ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/048.mp3"><span style="color: #ff9900;">၀၄၈။ မဂ္ဂင်ထိုက်အောင်ရှုမှတ်ပါ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/049.mp3"><span style="color: #ff9900;">၀၄၉။ ကမ္မသတ္တိမြင်အောင်ကြည့်</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/050.mp3"><span style="color: #ff9900;">၀၅၀။ အရှုးမီးဝိုင်းတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/051.mp3"><span style="color: #ff9900;">၀၅၁။ အဓိဌာန်စိတ်ထား</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/052.mp3"><span style="color: #ff9900;">၀၅၂။ အားထုတ်သူမှာအခွင့်သာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/053.mp3"><span style="color: #ff9900;">၀၅၃။ တစ်ကြိမ်တရားနာရကျိုးဖလ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/054.mp3"><span style="color: #ff9900;">၀၅၄။ တန်ဘိုးရှိအောင်အသုံးချပါ</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/055.mp3"><span style="color: #ff9900;">၀၅၅။ လပြည့်ညလေးဖြစ်ပါစေ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/056.mp3"><span style="color: #ff9900;">၀၅၆။ ပါရမီကုသိုလ်တရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/057.mp3"><span style="color: #ff9900;">၀၅၇။ ပစ္စုပ္ပန်မှာရှုနေပါ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/058.mp3"><span style="color: #ff9900;">၀၅၈။ ရုပ်နာမ်ကြောင်းကျိုးတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/059.mp3"><span style="color: #ff9900;">၀၅၉။ တရားမှတ်စု</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/060.mp3"><span style="color: #ff9900;">၀၆၀။ ကုသိုလ်သည်သာအားကိုးရာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/061.mp3"><span style="color: #ff9900;">၀၆၁။ သီရိဂေဟာတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/062.mp3"><span style="color: #ff9900;">၀၆၂။ ပြစ်ကင်းချမ်းသာတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/063.mp3"><span style="color: #ff9900;">၀၆၃။ စရိုက်ခြောက်ပါးတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/064.mp3"><span style="color: #ff9900;">၀၆၄။ ပုဂ္ဂိုလ်လေးမျိုးတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/065.mp3"><span style="color: #ff9900;">၀၆၅။ ယုံကြည်ချက်နှင့်အလုပ်လုပ်ပါ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/066.mp3"><span style="color: #ff9900;">၀၆၆။ အာသဝပယ်နည်းတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/067.mp3"><span style="color: #ff9900;">၀၆၇။ သမ္ပတ္တိလေးပါးတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/068.mp3"><span style="color: #ff9900;">၀၆၈။ ကောင်းမှုပြုရာလယ်ပမာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/069.mp3"><span style="color: #ff9900;">၀၆၉။ အဆိုးဆုံးနှင့်အကောင်းဆုံး</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/070.mp3"><span style="color: #ff9900;">၀၇၀။ ဒါနနှင့်နိဗ္ဗာန်အနုမောဒနာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/071.mp3"><span style="color: #ff9900;">၀၇၁။ ဘာဝနာခြုံရင်လုံပါတယ်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/072.mp3"><span style="color: #ff9900;">၀၇၂။ မမှီမလှုပ်မှီကလှုပ်တရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/073.mp3"><span style="color: #ff9900;">၀၇၃။ သတိပဌာန်အကျိုးငါးမျိုး</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/074.mp3"><span style="color: #00ffff;"><span style="color: #ff9900;">၀၇၄။ ကုသိုလ်ကိုအထင်မသေးနှ</span>င့်</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/075.mp3"><span style="color: #ff9900;">၀၇၅။ ဝဋ်ကြွေးဟူကပေးဆပ်ရ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/076.mp3"><span style="color: #ff9900;">၀၇၆။ ကုသိုလ်ရှိရင်ဘုရားမြင်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/077.mp3"><span style="color: #ff9900;">၀၇၇။ ကိုယ်နှင့်ခန္ဓာခွဲသိပါ</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/078.mp3"><span style="color: #ff9900;">၀၇၈။ ဘေးမဲ့ရာသွားမဂ်ရထား</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/079.mp3"><span style="color: #ff9900;">၀၇၉။ ရှိတိုင်းသိတာဝိပဿနာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/080.mp3"><span style="color: #ff9900;">၀၈၀။ ဘဝတဏှာလှည့်စားရာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/081.mp3"><span style="color: #ff9900;">၀၈၁။ အကျင့်နှင့်အသိတရားတော်</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/082.mp3"><span style="color: #ff9900;">၀၈၂။ ငြိမ်းအေးသောဘဝပိုင်ရှင်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/083.mp3"><span style="color: #ff9900;">၀၈၃။ သံဃာ့ဂုဏ်ရည်တရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/084.mp3"><span style="color: #ff9900;">၀၈၄။ ခရီးသွားနှင့်ခရီးနား</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/085.mp3"><span style="color: #ff9900;">၀၈၅။ အပ္ပမာဒတရားတော်-၁</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/086.mp3"><span style="color: #ff9900;">၀၈၆။ အပ္ပမာဒတရားတော်-၂</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/087.mp3"><span style="color: #ff9900;">၀၈၇။ အပြန်လမ်းတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/088.mp3"><span style="color: #ff9900;">၀၈၈။ သင်္ခါရနှင့်လက္ခဏာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/089.mp3"><span style="color: #ff9900;">၀၈၉။ သမီးလိမ္မာသုမနာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/090.mp3"><span style="color: #ff9900;">၀၉၀။ လမ်းလျှောက်ရင်းလမ်းပျောက်သူ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/091.mp3"><span style="color: #ff9900;">၀၉၁။ ကောင်းဆိုးကြောင်းရင်း</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/092.mp3"><span style="color: #ff9900;">၀၉၂။ တရားနှင့်နေလေ့ရှိသူ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/093.mp3"><span style="color: #ff9900;">၀၉၃။ လသာတုန်းမှာဗိုင်းငင်ပါ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/094.mp3"><span style="color: #ff9900;">၀၉၄။ နိဗ္ဗာန်နီးရန်အကျင့်မှန်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/095.mp3"><span style="color: #ff9900;">၀၉၅။ ဓမ္မစြင်္ကာတရားတော်-၁</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/096.mp3"><span style="color: #ff9900;">၀၉၆။ ဓမ္မစြင်္ကာတရားတော်-၂</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/097.mp3"><span style="color: #ff9900;">၀၉၇။ ဓမ္မစြင်္ကာတရားတော်-၃</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/098.mp3"><span style="color: #ff9900;">၀၉၈။ ဓမ္မစြင်္ကာတရားတော်-၄</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/099.mp3"><span style="color: #ff9900;">၀၉၉။ ဓမ္မစြင်္ကာတရားတော်-၅</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/100.mp3"><span style="color: #ff9900;">၁၀၀။ ဓမ္မစြင်္ကာတရားတော်-၆</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/101.mp3"><span style="color: #ff9900;">၁၀၁။ တစ်သက်နှင့်တစ်ရက်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/102.mp3"><span style="color: #ff9900;">၁၀၂။ အပ္ပမာဒအနုမောဒနာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/103.mp3"><span style="color: #ff9900;">၁၀၃။ သာသနာသုံးရပ်အနုမောဒနာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/104.mp3"><span style="color: #ff9900;">၁၀၄။ အမြတ်ဒါနတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/105.mp3"><span style="color: #ff9900;">၁၀၅။ လေးဘွဲ့ရသာမဏေကျော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/106.mp3"><span style="color: #ff9900;">၁၀၆။ ကျောင်းအနုမောဒနာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/107.mp3"><span style="color: #ff9900;">၁၀၇။ အများချစ်ကြောင်းတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/108.mp3"><span style="color: #ff9900;">၁၀၈။ သပ္ပါယ၄ပါး၊ သပ္ပါယ၇ပါး</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/109.mp3"><span style="color: #ff9900;">၁၀၉။ မသိဘေးနှင့်အမှားဘေး</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/110.mp3"><span style="color: #ff9900;">၁၁၀။ အလှူခံထိုက်သူတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/111.mp3"><span style="color: #ff9900;">၁၁၁။ အနတ္တလက္ခဏာတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/112.mp3"><span style="color: #ff9900;">၁၁၂။ အမြတ်ဆုံးအလှူတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/113.mp3"><span style="color: #ff9900;">၁၁၃။ ကံ ဉာဏ် ဝီရိယ တရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/114.mp3"><span style="color: #ff9900;">၁၁၄။ သစ္စာသုံးမျိုးအလုပ်ပေး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/115.mp3"><span style="color: #ff9900;">၁၁၅။ ရှုဉာဏ်နှင့်ပေါ်ဉာဏ်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/116.mp3"><span style="color: #ff9900;">၁၁၆။ ဥပဿကာကျင့်ဝတ်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/117.mp3"><span style="color: #ff9900;">၁၁၇။ နှိမ့်မြင့်သံသရာကျင်လည်ရှာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/118.mp3"><span style="color: #ff9900;">၁၁၈။ သုံးဆယ့်တစ်ဘုံနွားသတ်ရုံ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/119.mp3"><span style="color: #ff9900;">၁၁၉။ အသက်တန်ဘိုး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/120.mp3"><span style="color: #ff9900;">၁၂၀။ လက္ခဏာရေးသုံးပါး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/121.mp3"><span style="color: #ff9900;">၁၂၁။ စေတနာသုံးတန်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/122.mp3"><span style="color: #ff9900;">၁၂၂။ လှူတတ်လေမှအမြတ်ရ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/123.mp3"><span style="color: #ff9900;">၁၂၃။ မီးလှူဒါန်းရကျိုးဖလ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/124.mp3"><span style="color: #ff9900;">၁၂၄။ ဘဝလက်ကျန်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/125.mp3"><span style="color: #ff9900;">၁၂၅။ သူတော်ကောင်းအလှူ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/126.mp3"><span style="color: #ff9900;">၁၂၆။ ဘဝခုံရုံး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/127.mp3"><span style="color: #ff9900;">၁၂၇။ အမှောင်ထဲမှာမနေပါနဲ့</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/128.mp3"><span style="color: #ff9900;">၁၂၈။ သံသရာလမ်းညွန်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/129.mp3"><span style="color: #ff9900;">၁၂၉။ မရဏသတိတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/130.mp3"><span style="color: #ff9900;">၁၃၀။ ရုပ်နာမ်လက္ခဏာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/131.mp3"><span style="color: #ff9900;">၁၃၁။ နေဝင်ချိန်မှာမီးထွန်းပါ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/132.mp3"><span style="color: #ff9900;">၁၃၂။ သာသနာ့လမ်းစဉ်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/133.mp3"><span style="color: #ff9900;">၁၃၃။ သာသနာ့အမွေ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/134.mp3"><span style="color: #ff9900;">၁၃၄။ လက်ရာထင်အောင်ရှုမှတ်ပါ</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/135.mp3"><span style="color: #ff9900;">၁၃၅။ အိမ်တွင်းဋိစ္စသမုပ္ပာဒ်</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/136.mp3"><span style="color: #ff9900;">၁၃၆။ မာရ်စစ်သည်ဆယ်ပါး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/137.mp3"><span style="color: #ff9900;">၁၃၇။ ဗုဒ္ဓခေတ်မြတ်တွေ့ကျိုးနပ်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/138.mp3"><span style="color: #ff9900;">၁၃၈။ တစ်ပါးသီလ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/139.mp3"><span style="color: #ff9900;">၁၃၉။ နောက်ကြောင်းပြန်တွေးစိတ်မလေးနှင့်</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/140.mp3"><span style="color: #ff9900;">၁၄၀။ အမြင်ရှင်းမှရှုရအဆင်ပြေ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/141.mp3"><span style="color: #ff9900;">၁၄၁။ ပေါ်ခိုက်ရှုမှနိဗ္ဗာန်ရ</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/142.mp3"><span style="color: #ff9900;">၁၄၂။ ဉာဏ်နှင့်ဆပ်မှကြွေးကျေရ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/143.mp3"><span style="color: #ff9900;">၁၄၃။ တစ်မှတ်တန်ဘိုး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/144.mp3"><span style="color: #ff9900;">၁၄၄။ မရင့်ကျက်သေးတဲ့စိတ်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/145.mp3"><span style="color: #ff9900;">၁၄၅။ လက္ခဏာရေးသုံးပါး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/146.mp3"><span style="color: #ff9900;">၁၄၆။ နေရေးထက်သေရေးခက်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/147.mp3"><span style="color: #ff9900;">၁၄၇။ အပေးအယူတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/148.mp3"><span style="color: #ff9900;">၁၄၈။ ပါရမီဆယ်ပါး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/149.mp3"><span style="color: #ff9900;">၁၄၉။ အဓိပ္ပါယ်ရှိသောဘဝ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/150.mp3"><span style="color: #ff9900;">၁၅၀။ အမြဲကောင်းလေးပါး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/151.mp3"><span style="color: #ff9900;">၁၅၁။ နောက်ဆုံးအချိန်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/152.mp3"><span style="color: #ff9900;">၁၅၂။ သုံးဆယ့်တစ်ဘုံနွားသတ်ရုံ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/153.mp3"><span style="color: #ff9900;">၁၅၃။ ဝဋ်သုံးပါးတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/154.mp3"><span style="color: #ff9900;">၁၅၄။ စက်လေးပါးတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/155.mp3"><span style="color: #ff9900;">၁၅၅။ ပဋိစ္စသမုပ္ပာဒ်ဆိုတာဘာလဲ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/156.mp3"><span style="color: #ff9900;">၁၅၆။ ကမ်းသို့ရောက်မှစိတ်ချရ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/157.mp3"><span style="color: #ff9900;">၁၅၇။ အိမ်ရှင်ခန္ဓာနှင့်ဧည့်သည်ခန္ဓာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/158.mp3"><span style="color: #ff9900;">၁၅၈။ သာသနလမ်းစဉ်-၁</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/159.mp3"><span style="color: #ff9900;">၁၅၉။ သာသနလမ်းစဉ်-၂</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/160.mp3"><span style="color: #ff9900;">၁၆၀။ အေးကွက်ကိုရှာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/161.mp3"><span style="color: #ff9900;">၁၆၁။ မိုက်မဲမှုနှင့်ဆင်းရဲမှု</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/162.mp3"><span style="color: #ff9900;">၁၆၂။ သံသရာဘေး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/163.mp3"><span style="color: #ff9900;">၁၆၃။ သံယောဇဉ်ဆယ်ပါး</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/164.mp3"><span style="color: #ff9900;">၁၆၄။ ဥပဿကာကျင့်ဝတ်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/165.mp3"><span style="color: #ff9900;">၁၆၅။ ဝိပဿနာမခက်ဒါနခက်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/166.mp3"><span style="color: #ff9900;">၁၆၆။ ခန္ဓာလှေတရားတော်</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/167.mp3"><span style="color: #ff9900;">၁၆၇။ နိဗ္ဗာန်ဆုတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/168.mp3"><span style="color: #ff9900;">၁၆၈။ ကုသိုလ်နှင့်အကုသိုလ်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/169.mp3"><span style="color: #ff9900;">၁၆၉။ သူတော်ကောင်းလက္ခဏာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/170.mp3"><span style="color: #ff9900;">၁၇၀။ ခန္ဓာဝန်ထမ်းခရီးကြမ်း</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/171.mp3"><span style="color: #ff9900;">၁၇၁။ ဗုဒ္ဓနေ့တရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/172.mp3"><span style="color: #ff9900;">၁၇၂။ ပဋိစ္စသမုပ္ပာဒ်တရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/173.mp3"><span style="color: #ff9900;">၁၇၃။ လက်ဦးမှုကိုရယူပါ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/174.mp3"><span style="color: #ff9900;">၁၇၄။ လက်ရာထင်အောင်ရှုမှတ်ပါ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/175.mp3"><span style="color: #ff9900;">၁၇၅။ ရုပ်နာမ်နှစ်ဖြာရှုစရာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/176.mp3"><span style="color: #ff9900;">၁၇၆။ ဓါတ်ခံကောင်းဘို့လိုပါတယ်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/177.mp3"><span style="color: #ff9900;">၁၇၇။ မွေခံထိုက်စေတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/178.mp3"><span style="color: #ff9900;">၁၇၈။ ကြိုက်ရာရွေးတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/179.mp3"><span style="color: #ff9900;">၁၇၉။ ရေအလှူအကျိုး-၁၇မျိုး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/180.mp3"><span style="color: #ff9900;">၁၈၀။ ဒုလ္လဘငါးပါးတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/181.mp3"><span style="color: #ff9900;">၁၈၁။ အိမ်ရှင်ခန္ဓာနှင့် ဧည့်သည်ခန္ဓာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/182.mp3"><span style="color: #ff9900;">၁၈၂။ သူတော်ကောင်းအလှူ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/183.mp3"><span style="color: #ff9900;">၁၈၃။ ဘာကိုဘယ်လိုရှုပွားမလဲ-၁</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/184.mp3"><span style="color: #ff9900;">၁၈၄။ ဘာကိုဘယ်လိုရှုပွားမလဲ-၂</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/185.mp3"><span style="color: #ff9900;">၁၈၅။ ကုသိုလ်သုံးမျိုး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/186.mp3"><span style="color: #ff9900;">၁၈၆။ ဘုရားပေးတဲ့တရားဆေး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/187.mp3"><span style="color: #ff9900;">၁၈၇။ နိဗ္ဗာန်ဆုတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/188.mp3"><span style="color: #ff9900;">၁၈၈။ အချိန်ရှိခိုက်လုံ့လစိုက်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/189.mp3"><span style="color: #ff9900;">၁၈၉။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၁</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/190.mp3"><span style="color: #ff9900;">၁၉၀။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၂</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/191.mp3"><span style="color: #ff9900;">၁၉၁။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၃</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/192.mp3"><span style="color: #ff9900;">၁၉၂။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၄</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/193.mp3"><span style="color: #ff9900;">၁၉၃။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၅</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/194.mp3"><span style="color: #ff9900;">၁၉၄။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၆</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/195.mp3"><span style="color: #ff9900;">၁၉၅။ လူရှစ်မျိုးတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/196.mp3"><span style="color: #ff9900;">၁၉၆။ ရှုပွားနည်းအလုပ်ပေး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/197.mp3"><span style="color: #ff9900;">၁၉၇။ ပညတ်ပရမတ်မကွဲရင်ထုပွဲ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/198.mp3"><span style="color: #ff9900;">၁၉၈။ တရားစောင့်သူကိုတရားကစောင့်သည်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/199.mp3"><span style="color: #ff9900;">၁၉၉။ အိပ်ပျော်သူနှင့်နိုးကြားသူ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/200.mp3"><span style="color: #ff9900;">၂၀၀။ ဆုံးဖြတ်ဖို့အချိန်တန်ပြီ</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/201.mp3"><span style="color: #ff9900;">၂၀၁။ ကုသိုလ်ပြုနည်းတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/202.mp3"><span style="color: #ff9900;">၂၀၂။ ဟိရိသြတ္တပတရားတော်</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/203.mp3"><span style="color: #ff9900;">၂၀၃။ ဝိပဿနာမခက်ဒါနခက်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/204.mp3"><span style="color: #ff9900;">၂၀၄။ အလှူခံတစ်ကျိပ်လေး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/205.mp3"><span style="color: #ff9900;">၂၀၅။ ကုသိုလ်လေးမျိုးတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/206.mp3"><span style="color: #ff9900;">၂၀၆။ ခန္ဓာသွားလမ်း</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/207.mp3"><span style="color: #ff9900;">၂၀၇။ ကံလေးမျိုးတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/208.mp3"><span style="color: #ff9900;">၂၀၈။ နိဗ္ဗာန်ဆော်ကုသိုလ်</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/209.mp3"><span style="color: #ff9900;">၂၀၉။ ဘဝလမ်းခွဲတရားတော်</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/210.mp3"><span style="color: #ff9900;">၂၁၀။ ဖန်ဆင်းရှင်ဘယ်သူလဲ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/211.mp3"><span style="color: #ff9900;">၂၁၁။ အလှူပေးသူဌေးဖြစ်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/212.mp3"><span style="color: #ff9900;">၂၁၂။ အခုလည်းပျော်နောင်လည်းပျော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/213.mp3"><span style="color: #ff9900;">၂၁၃။ အပါယ်မကျမြတ်သုည</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/214.mp3"><span style="color: #ff9900;">၂၁၄။ တရားဆုတ်ယုတ်ကြောင်း</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/215.mp3"><span style="color: #ff9900;">၂၁၅။ ဓမ္မစြင်္ကာတရားတော်-၁</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/216.mp3"><span style="color: #ff9900;">၂၁၆။ ဓမ္မစြင်္ကာတရားတော်-၂</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/217.mp3"><span style="color: #ff9900;">၂၁၇။ ဓမ္မစြင်္ကာတရားတော်-၃</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/218.mp3"><span style="color: #ff9900;">၂၁၈။ ဓမ္မစြင်္ကာတရားတော်-၄</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/219.mp3"><span style="color: #ff9900;">၂၁၉။ ဓမ္မစြင်္ကာတရားတော်-၅</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/220.mp3"><span style="color: #ff9900;">၂၂၀။ ဓမ္မစြင်္ကာတရားတော်-၆</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/221.mp3"><span style="color: #ff9900;">၂၂၁။ ပညတ်နှင့်ပရမတ်</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/222.mp3"><span style="color: #ff9900;">၂၂၂။ သင်္ခါရနှင့်လက္ခူဏာ</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/223.mp3"><span style="color: #ff9900;">၂၂၃။ ဝဋ်ကြွေးဟူကပေးဆပ်ရ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/224.mp3"><span style="color: #ff9900;">၂၂၄။ အားထုတ်သူနှင့်အားမထုတ်သူ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/225.mp3"><span style="color: #ff9900;">၂၂၅။ နှလုံးသွင်းကောင်းတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/226.mp3"><span style="color: #ff9900;">၂၂၆။ ကံလေးမျိုးတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/227.mp3"><span style="color: #ff9900;">၂၂၇။ သိကြားမင်းကရှိခိုးရသူများ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/228.mp3"><span style="color: #ff9900;">၂၂၈။ ကုသိုလ်စုံမှဘုံကောင်းရ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/229.mp3"><span style="color: #ff9900;">၂၂၉။ အရှိအတိုင်းသာကြည့်နေပါ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/230.mp3"><span style="color: #ff9900;">၂၃၀။ မှားခဲ့တဲ့သံသရာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/231.mp3"><span style="color: #ff9900;">၂၃၁။ တပည့်လိမ္မာစူဠသုဘဒ္ဒါ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/232.mp3"><span style="color: #ff9900;">၂၃၂။ ဆုံးမရှုမှတရားရ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/233.mp3"><span style="color: #ff9900;">၂၃၃။ အလှူခြောက်မျိုးတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/234.mp3"><span style="color: #ff9900;">၂၃၄။ အိန္ဒြေထက်ကြောင်း</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/235.mp3"><span style="color: #ff9900;">၂၃၅။ ကုသိုလ်စုံမှဘုံကောင်းရ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/236.mp3"><span style="color: #ff9900;">၂၃၆။ သူမြတ်ကျင့်စဉ်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/237.mp3"><span style="color: #ff9900;">၂၃၇။ ကံလေးမျိုး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/238.mp3"><span style="color: #ff9900;">၂၃၈။ သမုဒ္ဒရာဤခန္ဓာ-၁</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/239.mp3"><span style="color: #ff9900;">၂၃၉။ သမုဒ္ဒရာဤခန္ဓာ-၂</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/240.mp3"><span style="color: #ff9900;">၂၄၀။သမုဒ္ဒရာဤခန္ဓာ-၃</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/241.mp3"><span style="color: #ff9900;">၂၄၁။ညီညွတ်ခြင်းနှင့်ချမ်းသာခြင်း</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/242.mp3"><span style="color: #ff9900;">၂၄၂။ကာလဒါနတရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/243.mp3"><span style="color: #ff9900;">၂၄၃။ချမ်းသာလိုလားကုသိုလ်ပွား</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/244.mp3"><span style="color: #ff9900;">၂၄၄။နည်းနည်းလှူကများများရ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/245.mp3"><span style="color: #ff9900;">၂၄၅။နိဗ္ဗာန်နှင့်ဝိပဿနာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/246.mp3"><span style="color: #ff9900;">၂၄၆။အမှောင်နှင့်အလင်း</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/247.mp3"><span style="color: #ff9900;">၂၄၇။မိန်းမလေးမျိုး</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/248.mp3"><span style="color: #ff9900;">၂၄၈။အိန္ဒြေညီမှတရားရ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/249.mp3"><span style="color: #ff9900;">၂၄၉။အပ်ဝင်ပုဆိန်ထွက်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/250.mp3"><span style="color: #ff9900;">၂၅၀။အလှူကျိုးကြီးခြင်းမကြီးခြင်း</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/251.mp3"><span style="color: #ff9900;">၂၅၁။သေမင်းနှင့်စစ်ခင်းပွဲ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/252.mp3"><span style="color: #ff9900;">၂၅၂။သိသူကထွက်မသိသူကဖျက်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/253.mp3"><span style="color: #ff9900;">၂၅၃။အမြဲတမ်းသာရှုနေပါ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/254.mp3"><span style="color: #ff9900;">၂၅၄။အနှေးနဲ့အမြန်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/255.mp3"><span style="color: #ff9900;">၂၅၅။အမြတ်ခြောက်ပါး</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/256.mp3"><span style="color: #ff9900;">၂၅၆။အိန္ဒြေထက်ကြောင်း</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/257.mp3"><span style="color: #ff9900;">၂၅၇။အမြတ်လေးပါး</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/258.mp3"><span style="color: #ff9900;">၂၅၈။ဝီစိကိစ္ဆာယုံမှားရာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/259.mp3"><span style="color: #ff9900;">၂၅၉။လူ့ဘဝရဲ့အလင်းရောင်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/260.mp3"><span style="color: #ff9900;">၂၆၀။အိမ်တွင်းသာသနာ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/261.mp3"><span style="color: #ff9900;">၂၆၁။ခန္ဓာရှိလို့ပါ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/262.mp3"><span style="color: #ff9900;">၂၆၂။ချမ်းသာလေးမျိုး</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/263.mp3"><span style="color: #ff9900;">၂၆၃။ဒဏ်ဆယ်ပါး</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/264.mp3"><span style="color: #ff9900;">၂၆၄။အာစိဏ္ဏကံကုသိုလ်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/265.mp3"><span style="color: #ff9900;">၂၆၅။ရှာသော်လည်းမတွေ့ကြာသော်လည်းမမေ့</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/266.mp3"><span style="color: #ff9900;">၂၆၆။ကုသိုလ်ဖြင့်ဘဝကိုတည်ဆောက်ခြင်း</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/267.mp3"><span style="color: #ff9900;">၂၆၇။တရားရခွင့်တရားတော်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/268.mp3"><span style="color: #ff9900;">၂၆၈။မရေရာခြင်းနှင့်ရေရာခြင်း</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/269.mp3"><span style="color: #ff9900;">၂၆၉။အားထုတ်သင့်ရာချိန်အခါ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/270.mp3"><span style="color: #ff9900;">၂၇၀။အတ္တပြုတ်မှနိဗ္ဗာန်ရ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/271.mp3"><span style="color: #ff9900;">၂၇၁။စောလေကောင်းလေ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/272.mp3"><span style="color: #ff9900;">၂၇၂။ဖြစ်ပျက်ဆုံးမှနိဗ္ဗာန်ရ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/273.mp3"><span style="color: #ff9900;">၂၇၃။ကိုယ့်ကိုယ်ကိုကြည့်ပါ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/274.mp3"><span style="color: #ff9900;">၂၇၄။နာဖျားဝင်စဉ်သတိယှဉ်</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/275.mp3"><span style="color: #ff9900;">၂၇၅။ဓမ္မ န္တရာယ်ကာကွယ်ရေး</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/276.mp3"><span style="color: #ff9900;">၂၇၆။ချမ်းသာလိုလားကုသိုလ်ပွား</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/277.mp3"><span style="color: #ff9900;">၂၇၇။ဝိပဿနာလမ်းရှင်း</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/278.mp3"><span style="color: #ff9900;">၂၇၈။အဆင့်ဆင့်မြင့်တဲ့သူ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/279.mp3"><span style="color: #ff9900;">၂၇၉။ပေါ်ခိုက်ရှုမှနိဗ္ဗာန်ရ</span></a></span></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/280.mp3"><span style="color: #ff9900;">၂၈၀။သင်္ခါရဓမ္မတာမြင်အောင်ကြည့်ပါ</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/281.mp3"><span style="color: #ff9900;">၂၈၁။သာသနကျက်သရေဆောင်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/282.mp3"><span style="color: #ff9900;">၂၈၂။ဆုံးမရှုမှတရားရ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/283.mp3"><span style="color: #ff9900;">၂၈၃။သာသနာပြုကြစို့</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/284.mp3"><span style="color: #ff9900;">၂၈၄။သေသူရည်မှန်းဆွမ်းလှူဒါန်း</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/285.mp3"><span style="color: #ff9900;">၂၈၅။ရွှေအိုးမြုပ်ပါ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/286.mp3"><span style="color: #ff9900;">၂၈၆။ရှုပွားနည်းအချုပ်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/287.mp3"><span style="color: #ff9900;">၂၈၇။သံသရာမှာအားကိုးရာ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/288.mp3"><span style="color: #ff9900;">၂၈၈။လက္ခဏာယာဉ်စီးမှနိဗ္ဗာန်ရ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/289.mp3"><span style="color: #ff9900;">၂၈၉။ကြောင်ခြေထောက်သူဌေး</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/290.mp3"><span style="color: #ff9900;">၂၉၀။နာဖျားဝင်စဉ်သတိယှဉ်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/291.mp3"><span style="color: #ff9900;">၂၉၁။ရှင်သာရိပုတ္တရာစိတ်နေစိတ်ထား</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/292.mp3"><span style="color: #ff9900;">၂၉၂။တရားဆုတ်ယုတ်ကြောင်း</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/293.mp3"><span style="color: #ff9900;">၂၉၃။မဲ့သေပြုံးသေ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/294.mp3"><span style="color: #ff9900;">၂၉၄။ဖြစ်ပျက်ဆုံးမှနိဗ္ဗာန်ရ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/295.mp3"><span style="color: #ff9900;">၂၉၅။ပြိတ္တာဖြစ်မှအမြင်မှန်ရ</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/296.mp3"><span style="color: #ff9900;">၂၉၆။ကံမြင့် ကံပွင့် ကံဆင့်</span></a></p>
+<p><span style="color: #ff9900;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/297.mp3"><span style="color: #ff9900;">၂၉၇။ကထိန်အကြောင်း</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/298.mp3"><span style="color: #ff9900;">၂၉၈။နှစ်ဘက်ကြည့်ပါတရားတော်</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/299.mp3"><span style="color: #ff9900;">၂၉၉။စိတ်ကောင်းနဲ့မိတ်ကောင်း</span></a></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/300.mp3"><span style="color: #ff9900;">၃၀၀။အနီးအဝေးတရားတော်</span></a></p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline; color: #339966;"><strong>(၄၂)ကြိမ်မြောက် (၇)ရက်နေ့တရားစခန်း (၁၆.၁၀.၂၀၁၃)မှ (၂၂.၁၀.၂၀၁၃)ထိ</strong></span></p>
+<p><span style="text-decoration: underline; color: #339966;"><strong>ဟောကြားတော်မူခဲ့သော ဝိပဿနာတရားတော်များ</strong></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/01%20-%20Nibban%20Hnint%20Wipassana%20Tayadaw%20-%202013-10-16%20-%20Afternoon.mp3"><span style="color: #ffcc00;">(၁)နိဗ္ဗာန်နှင့် ဝိပဿနာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/02%20-%20Eindayae%20Nyi%20Mya%20Tayar%20Ya%20-%202013-10-17%20-%20Afternoon.mp3"><span style="color: #ffcc00;">(၂)ဣန္ဒြေညီမျှ တရားရ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/03%20-%20Ahmaung%20Hnint%20Ahlin%20-%202013-10-18%20-%20Afternoon.mp3"><span style="color: #ffcc00;"> (၃)အမှောင်နှင့် အလင်း</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/04%20-%20Anartta%20Latt%20Khanar%20-%202013-10-19%20-%20Afternoon.mp3"><span style="color: #ffcc00;"> (၄) အနတ္တ လက္ခဏာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/05%20-%20Thay%20Min%20Hnint%20Sit%20Khin%20Pwe%20-%202013-10-20%20-%20Afternoon.mp3"><span style="color: #ffcc00;">(၅) သေမင်းနှင့် စစ်ခင်းပွဲ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/06%20-%20Lat%20Yar%20Htin%20Aung%20Shu%20Mart%20Par%20-%202013-10-21%20-%20Afternoon.mp3"><span style="color: #ffcc00;"> (၆) လက်ရာထင်အောင် ရှုမှတ်ပါ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/07%20-%20Ah%20Myae%20Tan%20Thar%20Shu%20Nay%20Par%20-%202013-10-22%20-%20Afternoon.mp3"><span style="color: #ffcc00;"> (၇) အမြဲတမ်းသာ ရှုနေပါ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/08%20-%20Chanthar%20Lolar%20Kutho%20Pwar%20-%202013-10-16%20-%20Evening.mp3"><span style="color: #ffcc00;"> (၈) ချမ်းသာလိုလား ကုသိုလ်ပွား</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/09%20-%20Thumyat%20Kyint%20Sin%20-%202013-10-17%20-%20Evening.mp3"><span style="color: #ffcc00;"> (၉) သူမြတ်ကျင့်စဉ်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/10%20-%20Ahnee%20Ahway%20-%202013-10-18%20-%20Evening.mp3"><span style="color: #ffcc00;"> (၁၀) အနီးအဝေး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/11%20-%20Kutho%20Sone%20Hma%20Bon%20Kaung%20Ya%20-%202013-10-19%20-%20Evening.mp3"><span style="color: #ffcc00;"> (၁၁) ကုသိုလ်စုံမှ ဘုံကောင်းရ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/12%20-%20Nyi%20Nyut%20Chin%20Hnint%20Chan%20Thar%20Chin%20%28Myo%20Saunt%20U%20Paday%20Shin%20Lin%20Chat%29%20-%202013-10-20%20-%20Evening.mp3"><span style="color: #ffcc00;"> (၁၁) ညီညွတ်ခြင်းနှင့် ချမ်းသာခြင်း</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/13%20-%20Ah%20Myat%20%284%29%20Par%20-%202013-10-21%20-%20Evening.mp3"><span style="color: #ffcc00;"> (၁၂ )အမြတ် (၄) ပါး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/14%20-%20Ah%20Lu%20%286%29%20Myo%20-%202013-10-22%20-%20Evening.mp3"><span style="color: #ffcc00;">(၁၃) အလှူ (၆) မျိုး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/15%20-%20Tayar%20Htai%20Sin%20Alote%20Pay%20-%202013-10-16.mp3"><span style="color: #ffcc00;"> (၁၄) တရားထိုင်စဉ် အလုပ်ပေး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a title="တရားထိုင်စဉ် အလုပ်ပေး (၂)" href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/17%20-%20Alu%20Shin%20-%202013-10-16.mp3" target="_blank"><span style="color: #ffcc00;">(၁၅) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၁)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/18%20-%20Alu%20Shin%20-%202013-10-17.mp3" target="_blank"><span style="color: #ffcc00;">(၁၆) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၂)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/19%20-%20Alu%20Shin%20-%202013-10-18.mp3" target="_blank"><span style="color: #ffcc00;">(၁၇) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၃)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/20%20-%20Alu%20Shin%20-%202013-10-19.mp3" target="_blank"><span style="color: #ffcc00;">(၁၈) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၄)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/21%20-%20Alu%20Shin%20-%202013-10-20.mp3" target="_blank"><span style="color: #ffcc00;">(၁၉) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၅)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/22%20-%20Alu%20Shin%20-%202013-10-21.mp3" target="_blank"><span style="color: #ffcc00;">(၂၀) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၆)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/23%20-%20Alu%20Shin%20-%202013-10-22.mp3" target="_blank"><span style="color: #ffcc00;">(၂၁) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၇)</span></a></span></p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><strong>ဓမာနုပဿနာ သတိပဌာန်နှင့် သုတ္တန်တရားတော်များ</strong></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/01%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%281%29.mp3"><span style="color: #ffcc00;">၁) ဓမ္မစြင်္ကာ တရားတော် အမှတ်(၁)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/02%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%282%29.mp3"><span style="color: #ffcc00;">၂) ဓမ္မစြင်္ကာ တရားတော် အမှတ်(၂)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/03%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%283%29.mp3"><span style="color: #ffcc00;">၃) ဓမ္မစြင်္ကာ တရားတော် အမှတ်(၃)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/04%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%284%29.mp3"><span style="color: #ffcc00;">၄) ဓမ္မစြင်္ကာ တရားတော် အမှတ်(၄)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/05%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%285%29.mp3"><span style="color: #ffcc00;">၅) ဓမ္မစြင်္ကာ တရားတော် အမှတ်(၅)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/06%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%286%29.mp3"><span style="color: #ffcc00;">၆) ဓမ္မစြင်္ကာ တရားတော် အမှတ်(၆)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/07%20-%20Ah%20Khu%20Lae%20Pyaw%20Naung%20Lae%20Pyaw.mp3"><span style="color: #ffcc00;">၇) အခုလည်းပျော် နောင်လည်းပျော်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/08%20-%20Bawa%20Lan%20Kwe.mp3"><span style="color: #ffcc00;">၈) ဘဝလမ်းခွဲ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/09%20-%20Ein%20Shin%20Khandar%20Hnin%20Ei%20The%20Khandar.mp3"><span style="color: #ffcc00;">၉) အိမ်ရှင်ခန္ဓာနှင့် ဧည့်သည်ခန္ဓာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/10%20-%20Kan%20%284%29%20Myo.mp3"><span style="color: #ffcc00;">၁၀) ကံ(၄)မျိုး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/11%20-%20Nibban%20Saw%20Kutho.mp3"><span style="color: #ffcc00;">၁၁) နိဗ္ဗာန်ဆော်ကုသိုလ်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/12%20-%20Phan%20Sin%20Shin%20Bae%20Thu%20Lal.mp3"><span style="color: #ffcc00;">၁၂) ဖန်ဆင်းရှင် ဘယ်သူလဲ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/13%20-%20Tapar%20Thila.mp3"><span style="color: #ffcc00;">၁၃) တပါးသီလ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/14%20-%20Thar%20Tha%20Na%20Lanzin%20%281%29.mp3"><span style="color: #ffcc00;">၁၄) သာသနာ့လမ်းစဉ် အမှတ်(၁)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/15%20-%20Thar%20Tha%20Na%20Lanzin%20%282%29.mp3"><span style="color: #ffcc00;">၁၅) သာသနာ့လမ်းစဉ် အမှတ်(၂)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-01%20-%20Shu%20Pwar%20Nee%20Ah%20Lote%20Pay.mp3"><span style="color: #ffcc00;">၁၆) ရှုမှတ်နည်းအလုပ်ပေး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-02%20-%20Pyit%20Nyart%20Paramart%20Ma%20Kwe%20Yin%20Htu%20Pwe.mp3"><span style="color: #ffcc00;">၁၇) ပညတ်ပရမတ်မကွဲ ရင်ထုပွဲ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-03%20-%20Tayar%20Sount%20Thu%20Ko%20Tayar%20Ka%20Sount%20The.mp3"><span style="color: #ffcc00;">၁၈) တရားစောင့်သူကို တရားကစောင့်သည်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-04%20-%20Eit%20Pway%20Thu%20Hnint%20No%20Kyar%20Thu.mp3"><span style="color: #ffcc00;">၁၉) အိပ်ပျော်သူနှင့် နိုးကြားသူ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-05%20-%20Sone%20Pyart%20Pho%20Ah%20Chain%20Tan%20Pyi.mp3"><span style="color: #ffcc00;">၂၀) ဆုံးဖြတ်ဘို့ အချိန်တန်ပြီ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-06%20-%20Kutho%20Pyu%20Nee.mp3"><span style="color: #ffcc00;">၂၁) ကုသိုလ်ပြုနည်း</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-07%20-%20Hiri%20U%20Tapa%20Tayartaw.mp3"><span style="color: #ffcc00;">၂၂) ဟီရိသြတ္တပ္ပတရား</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-08%20-%20Wipathanar%20Ma%20Khet%20Dhana%20Khet.mp3"><span style="color: #ffcc00;">၂၃) ဝိပဿနာမခက် ဒါနခက်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-09%20-%20Ah%20Lu%20Khan%20Ta%20Kyait%20Lay.mp3"><span style="color: #ffcc00;">၂၄) အလှူခံတကျိပ်လေး</span></a></span></p>
+<p>&nbsp;</p>
+<p>CD1</p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/01%2020110420%201ParThiLa%20MyitTarNyunt.mp3"><span style="color: #ffcc00;">၁) တပါးသီလ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/02%2020110115%20NawtSoneAChain%20SanChaung.mp3"><span style="color: #ffcc00;">၂) နောက်ဆုံးအချိန်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20AHluKhanMyatHmaKyoeKyeeYa%201.mp3"><span style="color: #ffcc00;">၃) အလှူခံမြတ်မှ ကျိုးကြီးရ အမှတ်(၁)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20AHluKhanMyatHmaKyoeKyeeYa%202.mp3"><span style="color: #ffcc00;">၄) အလှူခံမြတ်မှ ကျိုးကြီးရ အမှတ်(၂)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20BuddhaBarTharKaung1Yawt.mp3"><span style="color: #ffcc00;">၅) ဗုဒ္ဓဘာသာကောင်းတစ်ယောက်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20KoTharNarSateMaNarSayNelt.mp3"><span style="color: #ffcc00;">၆) ကိုယ်သာနာ စိတ်မနာစေနဲ့</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20MeeLaungEainPaMarEiKhanDar%201.mp3"><span style="color: #ffcc00;">၇) မီးလောင်အိမ်ပမာ ဤခန္ဓာ အမှတ်(၁)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20MeeLaungEainPaMarEiKhanDar%202.mp3"><span style="color: #ffcc00;">၈) မီးလောင်အိမ်ပမာ ဤခန္ဓာ အမှတ်(၂)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20PhaYarKoeTwetPwintParSay.mp3"><span style="color: #ffcc00;">၉) ဘုရားကိုယ့်အတွက် ပွင့်ပါစေ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20YoteThayPaMarThatTaWar.mp3"><span style="color: #ffcc00;">၁0) ရုပ်သေးပမာ သတ္တဝါ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19990000%20AHla2Myo%201.mp3"><span style="color: #ffcc00;">၁၁) အလှူနှစ်မျိုး အမှတ်(၁)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19990000%20AHla2Myo%202.mp3"><span style="color: #ffcc00;">၁၂) အလှူနှစ်မျိုး အမှတ်(၂)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19990000%20NgarBalLanKoShoutNayLe.mp3"><span style="color: #ffcc00;">၁၃) ငါဘယ်လမ်းကို လျှောက်နေလဲ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19990000%20TaGarHmu5Oo.mp3"><span style="color: #ffcc00;">၁၄) တံခါးမှူး (၅)ဦး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19990000%20VipassanaSoTarBarLe.mp3"><span style="color: #ffcc00;">၁၅) ဝိပဿနာဆိုတာဘာလဲ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20AHluThinTanANuMawDaNar%201.mp3"><span style="color: #ffcc00;">၁၆) အလှူသင်တန်း အနုမောဒနာ အမှတ်(၁)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20AHluThinTanANuMawDaNar%202.mp3"><span style="color: #ffcc00;">၁၇) အလှူသင်တန်း အနုမော်ဒနာ အမှတ်(၂)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20AHtinHnintAMyin.mp3"><span style="color: #ffcc00;">၁၈) အထင်နှင့် အမြင်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20APuBayHmaKinWayParSay.mp3"><span style="color: #ffcc00;">၁၉) အပူဘေးမှ ကင်းဝေးပါစေ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20AwGaLunHmaNateBanYa.mp3"><span style="color: #ffcc00;">၂၀) သြဃလွန်မှ နိဗ္ဗာန်ရ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20BarKoHluKaBalKyoeYa.mp3"><span style="color: #ffcc00;">၂၁) ဘာကိုလှူက ဘယ်အကျိုးရ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20ByaMaSoHnintMiBa.mp3"><span style="color: #ffcc00;">၂၂) ဗြဟ္မစိုရ်နှင့် မိဘ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20EainTwinPaTateSaThaMotePa.mp3"><span style="color: #ffcc00;">၂၃) အိမ်တွင်း ပဋိစ္စသမုပ္ပါဒ်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20TaYarBalThuYaNaingLe.mp3"><span style="color: #ffcc00;">၂၄) တရားဘယ်သူရနိုင်လဲ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20TaYarHnintNayLaeShiThu.mp3"><span style="color: #ffcc00;">၂၅) တရားနှင့် နေလေ့ရှိသူ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20YoneHmarSinHmaPalMaKya.mp3"><span style="color: #ffcc00;">၂၆) ယုံမှားစင်က ပါယ်မကျ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20AHluThinTan.mp3"><span style="color: #ffcc00;">၂၇) အလှူသင်တန်း</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20ByaMaSoHnintMiBa.mp3"><span style="color: #ffcc00;">၂၈) ဗြဟ္မစိုရ်နှင့် မိဘ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20ChanThar4Par.mp3"><span style="color: #ffcc00;">၂၉) ချမ်းသာလေးပါး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20ChinThaePaMarKyintLayPar.mp3"><span style="color: #ffcc00;">၃၀) ခြင်္သေ့ပမာကျင့်လေပါ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20GaungSaungNawtLite.mp3"><span style="color: #ffcc00;">၃၁) ခေါင်းဆောင်နောက်လိုက်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20KhanDarWunHtanKhaYeeKyan.mp3"><span style="color: #ffcc00;">၃၂) ခန္ဓာဝန်ထမ်း ခရီးကြမ်း</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20LutMyawtYayKhunArr.mp3"><span style="color: #ffcc00;">၃၃) လွတ်မြောက်ရေးခွန်အား</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20NyanHnintSutHmaKyaeKyayYa.mp3"><span style="color: #ffcc00;">၃၄) ဉာဏ်နှင့်စွန့်မှ ကြွေးကျေရ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20PuHtuZinBaWaKyawtPhwal.mp3"><span style="color: #ffcc00;">၃၅) ပုထုဇဉ်ဘဝကြောက်ဖွယ်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20ThawTarPanHintTuThawKuTho.mp3"><span style="color: #ffcc00;">၃၆) သောတပန်နှင့် တူသောကုသိုလ်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20ThayThuYiHmanSwanHluDan.mp3"><span style="color: #ffcc00;">၃၇) သေသူရည်မှန်း ဆွမ်းလှူဒါန်း</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20011000%20BaWaPanTine.mp3"><span style="color: #ffcc00;">၃၈) ဘဝပန်းတိုင်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20AChainHmiThuHnintNawtKyaThu.mp3"><span style="color: #ffcc00;">၃၉) အချိန်မှီသူနှင့် နောက်ကျသူ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20ADateHtanSateHtar.mp3"><span style="color: #ffcc00;">၄၀) အဓိဌာန်စိတ်ထား</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20AMaTaThuKhaANuMawDaNar.mp3"><span style="color: #ffcc00;">၄၁) အမတသုခ အနုမောဒနာ</span></a></span></p>
+<p><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20AMyat4Par.mp3"><span style="color: #ffcc00;">၄၂) အမြတ်လေးပါး</span></a></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20ArrHtoteThuHmarAKhwintThar.mp3"><span style="color: #ffcc00;">၄၃) အားထုတ်သူမှာ အခွင့်သာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20AyeMyaThiYinKhwin.mp3"><span style="color: #ffcc00;">၄၄) အေးမြသည့်ရင်ခွင်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20AYuMeeWine.mp3"><span style="color: #ffcc00;">၄၅) အရူးမီးဝိုင်း</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20ArrHtoteThuHmarAKhwintThar.mp3"><span style="color: #ffcc00;">၄၆) ဘဝသံသရာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20BuddhaBarTharKaungTaYawt.mp3"><span style="color: #ffcc00;">၄၇) ဗုဒ္ဓဘာသာကောင်းတစ်ယောက်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20KanMaThatTiMyinAungKyi.mp3"><span style="color: #ffcc00;">၄၈) ကမ္မသတ္တိမြင်အောင်ကြည့်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20LoYarSanDaPyaeWaKyaung.mp3"><span style="color: #ffcc00;">၄၉) လိုရာဆန္ဒပြည့်ဝကြောင်း</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20MegginHtikeAungShuHmatPar.mp3"><span style="color: #ffcc00;">၅၀) မဂ္ဂင်ထိုက်အောင် ရှုမှတ်ပါ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20PaYeitGyi11Thote.mp3"><span style="color: #ffcc00;">၅၁) ပရိတ်ကြီး (၁၁)သုတ်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20ShiTineThuTarVipassana.mp3"><span style="color: #ffcc00;">၅၂) ရှိတိုင်းသိတာ ဝိပဿနာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20TaYarChitThu.mp3"><span style="color: #ffcc00;">၅၃) တရားချစ်သူ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20TaYarKhanBalThuLe.mp3"><span style="color: #ffcc00;">၅၄) တရားခံဘယ်သူလဲ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20ThanSanEainMinThar%201.mp3"><span style="color: #ffcc00;">၅၅) သံစံအိမ်မင်းသား အမှတ်(၁)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20ThanSanEainMinThar%202.mp3"><span style="color: #ffcc00;">၅၆) သံစံအိမ်မင်းသား အမှတ်(၂)</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20WunToChinBayKinWayParSay.mp3"><span style="color: #ffcc00;">၅၇) ဝန်တိုခြင်းဘေး ကင်းဝေးပါစေ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%201KyeinTaYarNarYaKyoPhaLa.mp3"><span style="color: #ffcc00;">၅၈) တကြိမ် တရားနာရ ကျိုးဖလ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20AMyeKaung4Par.mp3"><span style="color: #ffcc00;">၅၉) အမြဲကောင်းလေးပါး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20ASoon2Par.mp3"><span style="color: #ffcc00;">၆၀) အစွန်းနှစ်ပါး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20KyaukTatThuMyarMyeShuPwar.mp3"><span style="color: #ffcc00;">၆၁) ကြောက်တက်သူများ မြဲရှုပွား</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20LaPyaeNyaLayPhyitParSay.mp3"><span style="color: #ffcc00;">၆၂) လပြည့်ညလေးဖြစ်ပါစေ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20MaRaNatThaTi.mp3"><span style="color: #ffcc00;">၆၃) မရဏဿတိ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20NayYayHtetThayYayKhet.mp3"><span style="color: #ffcc00;">၆၄) နေရေးထက် သေရေးခက်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20ParamiKuTho.mp3"><span style="color: #ffcc00;">၆၅) ပါရမီ ကုသိုလ်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20SayTaNar3Tan.mp3"><span style="color: #ffcc00;">၆၆) စေတနာသုံးတန်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20TanPhoeShiAungAThoneChaPar.mp3"><span style="color: #ffcc00;">၆၇) တန်ဖိုးရှိအောင် အသုံးချပါ။</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20TaYarHmatSu.mp3"><span style="color: #ffcc00;">၆၈) တရားမှတ်စု</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20ThaMoteTaYarEiKhanDar.mp3"><span style="color: #ffcc00;">၆၉) သမုဒ္ဒယာ ဤခန္ဓာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20YoteNanLetKhaNar.mp3"><span style="color: #ffcc00;">၇၀) ရုပ်နာမ်လက္ခဏာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20ArThaWaPalNee.mp3"><span style="color: #ffcc00;">၇၁) အာသဝ ပယ်နည်း</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20ASoeSoneHnintAKaungSone.mp3"><span style="color: #ffcc00;">၇၂) အဆိုးဆုံးနှင့် အကောင်းဆုံး</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20BaWaTaHnarHleSarYar.mp3"><span style="color: #ffcc00;">၇၃) ဘဝတဏှာ လှည့်စားရာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20BuddhaKhitMyatTwaeKyoNut.mp3"><span style="color: #ffcc00;">၇၄) ဗုဒ္ဓခေတ်မြတ် တွေ့ကျိုးနပ်</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20DarNaHnintNateBanANuMawDaNar.mp3"><span style="color: #ffcc00;">၇၅) ဒါနနှင့် နိဗ္ဗာန် အနုမောဒနာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KaungHmuPyuYarLalPaMar.mp3"><span style="color: #ffcc00;">၇၆) ကောင်းမှုပြုရာ လယ်ပမာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KuThoThiTharArrKoeYar.mp3"><span style="color: #ffcc00;">၇၇) ကုသိုလ်သည်သာ အားကိုးရာ</span></a></span></p>
+<p><span style="color: #ffcc00;"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KyaikYarY
+</p>
+    </div>
+
+    <div class=" border-box"="">
+</a></span></p><div class="wrap-page-links clearfix"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KyaikYarY
+</p>
+    </div>
+
+    <div class=" border-box"="">
+<div class="page-links">
+</div>
+</a></div><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KyaikYarY
+</p>
+    </div>
+
+    <div class=" border-box"="">
+<div class="clear"></div>
+</a></div><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KyaikYarY
+</p>
+    </div>
+
+    <div class=" border-box"="">
+</a></div><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KyaikYarY
+</p>
+    </div>
+
+    <div class=" border-box"="">
+
+<div class="sidebar col-b widget-area-2">
+<div id="text-17" class="widget widget_text"><h3 class="widget-title">Feed Back</h3> <div class="textwidget"><p align="justify">ဓမ္မမိတ်ဆွေ အပေါင်းတို့ မိမိတို့၏ တရားစခန်း အခက်အခဲများ၊ နာကြား အကြံပြု လိုသော တရားဓမ္မများ ၊ မေးမြန်းလိုသော ဓမ္မမေးခွန်းများ ၊ website ကြည့်ရှုနာကြားရာ ၌ အခက်အခဲများ ဖြစ်ပေါ်ပါက အောက်ပါ Form တွင် ဖြည့်စွက်၍ ပေးပို့ အကြံပြုကြပါရန် မေတ္တာရပ်ခံအပ်ပါသည်။</p>
+
+<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			
+		jQuery("#preloader-yruubh").fadeOut(1500, function () {
+			jQuery("#ecf-form-yruubh").fadeIn(300);
+			});
+			
+			$( '.ladda-button' ).ladda( 'bind' );
+
+			$(function() {
+				
+						
+				// Validation
+				$("#form-yruubh").validate(
+				{					
+					// Rules for form validation
+					rules:
+					{
+					name0:{required: true},email1:{required: true,email: true},message2:{required: true,minlength: 10},
+							
+									
+					},
+										
+					// Messages for form validation
+					messages:
+					{
+					name0:{required: "This field is required"},email1:{required: "This field is required"},message2:{required: "This field is required"}					},					
+					// Do not change code below
+					errorPlacement: function(error, element) {
+						error.insertAfter(element.parent());
+						},
+						
+					submitHandler: function (form) {
+										 ecf_onsubmit(jQuery('.form-yruubh'));
+						 
+						 						 
+						 },
+						 
+					invalidHandler: function (form) {	
+					  	$.ladda( 'stopAll' );
+					 	},
+						 
+					onkeyup: false,
+					onfocusout: false,
+					onclick: false
+					
+				});
+			});	
+			
+			
+			/* Form Submit ( Ajax ) */
+			function ecf_onsubmit(form){	
+
+				if(form.attr('action')=='#'){
+					
+					data = {};
+					eldat = [];
+					data['action'] = 'ecf_deliver_mail';
+					data['formid'] = '12786';
+					data['security'] = 'd55957b8e8';
+		
+		
+						
+					jQuery('input, textarea', form).each(function(key){
+						
+						items = {};
+						
+						if (typeof $(this).data('type') === 'undefined') { return true; }
+						
+
+						
+						items['type'] = $(this).data('type');
+						items['label'] = $(this).data('label');
+						items['value'] = this.value;
+						items['name'] = this.name;
+
+						eldat.push(items);
+							
+						}); // END  form).each(function(key){
+							
+
+													
+
+						data['allelmnt'] = JSON.stringify(eldat);
+
+						submitForm();
+				
+					return false;
+					
+				} // End if(form.attr('action')=='#'){
+				
+			} // End ecf_onsubmit 
+			
+			// Start submitForm		
+			  function submitForm() {
+				  
+				jQuery.ajax({
+					url: 'https://www.thitsarparamisociety.com/wp-admin/admin-ajax.php', 
+					type: 'POST',
+					dataType: 'json',
+					data: data, 
+					success: function(data) {
+				
+						if(data.Ok==true) {
+									// success
+							$("#form-yruubh").get(0).reset();	
+								
+							if(data.msg == 'redirect') {
+								window.location = "http://";
+								} else {
+									notifyme('Your Message Submitted Successfully', 'n', 'success', 'left middle');
+									}
+		
+							}
+							else {
+								$("#form-yruubh").get(0).reset();
+								notifyme(data.msg, 'n', 'error', 'left middle');
+								}
+								
+							$.ladda( 'stopAll' );	
+									
+							}
+						});
+						
+										
+					} // End submitForm
+	
+					
+			// Notify	
+			  function notifyme(msg, b, typ, pos) {
+				  if (b == 'n') {
+					  b = 'cf-submittedyruubh';
+				  } else {
+					 b = 'atcyruubh';
+				  }
+				  
+				  $("#"+b).gnotify(msg,{
+					  style: "nbootstrap",
+					  elementPosition: pos,
+					  className: typ
+					  });
+					  
+					  msg = null;
+					  typ = null;
+					  
+					}
+
+		});		
+		</script>
+
+
+<div id="preloader-yruubh" class="ecfpreloader" style="display: none;"></div>
+<div id="ecf-form-yruubh" class="ecf-body" style="">
+<form method="post" enctype="multipart/form-data" action="#" id="form-yruubh" class="ecf-form form-yruubh" novalidate="novalidate">
+<header>အကြံပြုစာ</header> <fieldset>
+<section><label class="label">Name</label><label class="input"><input data-type="name" data-label="Name" id="name0" type="text" name="name0"></label></section><section><label class="label">Email</label><label class="input"><input data-type="email" data-label="Email" id="email1" type="text" name="email1"></label></section><section><label class="label">Message</label><label class="textarea"><textarea data-type="message" data-label="Message" id="message2" name="message2" rows="7"></textarea></label></section>
+</fieldset>
+<footer>
+<button data-style="slide-down" id="cf-submittedyruubh" class="ecfbutton ladda-button" type="submit" name="cf-submittedyruubh"><span class="ladda-label">SEND</span><span class="ladda-spinner"></span></button>
+</footer>
+</form>
+</div>
+
+</div>
+</div></div>
+
+<div class="clear"></div>
+</a></div><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KyaikYarY
+</p>
+    </div>
+
+    <div class=" border-box"=""> 
+</a></div><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KyaikYarY
+</p>
+    </div>
+
+    <div class=" border-box"=""> 
+</a><div id="bottom-sidebar"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KyaikYarY
+</p>
+    </div>
+
+    <div class=" border-box"="">
+</a><div class="wrapper"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KyaikYarY
+</p>
+    </div>
+
+    <div class=" border-box"="">
+</a><header><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KyaikYarY
+</p>
+    </div>
+
+    <div class=" border-box"="">
+</a><div id="bottom-logo"><a href="https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KyaikYarY
+</p>
+    </div>
+
+    <div class=" border-box"="">
+</a><a href="https://www.thitsarparamisociety.com">
+Thitsarparami Buddhist Society | Dhamma mp3 Download </a>
+</div>
+<p id="back-top">
+<a href="#top"></a>
+</p>
+
+</header>
+<div class="row-fluid">
+<div class="span3">
+<div id="text-7" class="widget widget_text"><h3 class="widget-title">ဓမ္မဆုံးမစာများ</h3> <div class="textwidget"><p>မကောင်းမှုရှောင်၊ ကောင်းမှုဆောင်၊ ဖြူအာင် စိတ်ကိုထား၊<br>
+ဘုရားအဆူဆူ၊ မိန့်တော်မူ၊ အတူတူ ထိုတရား...<br>
+<br><a href="http://www.thitsarparamisociety.com/%E1%80%93%E1%80%99%E1%81%BC-%E1%80%86%E1%80%B6%E1%80%AF%E1%80%B8%E1%80%99%E1%80%85%E1%80%AC%E1%80%99%E1%80%BA%E1%80%AC%E1%80%B8/">ဆက်လက်ဖတ်ရှုရန်</a></p>
+</div>
+</div> </div>
+<div class="span3">
+<div id="kopa_widget_text-44" class="widget kopa_widget_text"><h3 class="widget-title">ဗုဒ္ဓဘာသာခြေခံ</h3> <p>*အမည်- (သိဒ္ဓတ္ထ) ဂေါတမ</p>
+<p>*ခမည်းတော် – သုဒ္ဓေါဒန ဂေါတမ မင်းကြီး</p>
+<p>*မယ်တော် – မိဖုရား မဟာ မာယာ (မွေးဖွားပြီး ခုနှစ်ရက်အကြာတွင်သေဆုံးသည်)<br>
+<br><a href="http://www.thitsarparamisociety.com/general-knowledge-for-buddhism/">ဆက်လက်ဖတ်ရှုရန်</a></p>
+</div> </div>
+<div class="span3">
+<div id="kopa_widget_text-57" class="widget kopa_widget_text"><h3 class="widget-title">Thitsarparami App</h3> <span style="color: #ffffff;">သစ္စာပါရမီ Andorid App အသစ်အား Play Store အကောင့်မရှိသူများ ဒေါင်းလိုပါက အောက်ပါပုံအားနှိပ်ပါ 
+<a href="https://www.thitsarparamisociety.com/wp-content/uploads/2018/06/DhammaThitsar-release.apk"><img src="https://www.thitsarparamisociety.com/wp-content/uploads/2018/06/get-it-on-android.png"></a>
+</span></div> </div>
+<div class="span3">
+<div id="search-2" class="widget widget_search"><h3 class="widget-title">ရှာဖွေရန်</h3><form action="https://www.thitsarparamisociety.com" class="search-form clearfix" method="get">
+<input type="text" onblur="if (this.value == '')
+        this.value = this.defaultValue;" onfocus="if (this.value == this.defaultValue)
+        this.value = '';" value="Enter keyworks" name="s" class="search-text">
+<input type="submit" value="Go" class="search-submit">
+</form></div> </div>
+</div>
+
+</div>
+
+</div>
+
+<footer id="page-footer">
+<div class="wrapper clearfix">
+<div id="copyright"><p>Copyright 2014 – Thitsarparami Society. All Rights Reserved.</p>
+</div>
+</div>
+
+</footer>
+
+<script type="text/javascript">
+    var pluginUrl = 'https://www.thitsarparamisociety.com/wp-content/plugins/contus-video-gallery/';
+	</script>
+<input type="hidden" id="kopa_set_view_count_wpnonce" name="kopa_set_view_count_wpnonce" value="e87c89f179"><input type="hidden" id="kopa_set_user_rating_wpnonce" name="kopa_set_user_rating_wpnonce" value="ac037ff848"><link rel="stylesheet" id="wpad_style_front-css" href="https://www.thitsarparamisociety.com/wp-content/plugins/wp-advance-comment/css/frontend-style.css?ver=5.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="wpad-ui-jquery-css" href="https://www.thitsarparamisociety.com/wp-content/plugins/wp-advance-comment/css/jquery-ui.css?ver=1.0.0" type="text/css" media="">
+<link rel="stylesheet" id="wpad-ui-css" href="https://www.thitsarparamisociety.com/wp-content/plugins/wp-advance-comment/css/jquery-dialog.css?ver=1.0.0" type="text/css" media="">
+<link rel="stylesheet" id="ecf-frontend-css-css" href="https://www.thitsarparamisociety.com/wp-content/plugins/contact-form-lite/css/frontend.css?ver=1.0.99" type="text/css" media="all">
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/superfish.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/retina.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/bootstrap.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.flexslider-min.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/tweetable.jquery.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.timeago.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.carouFredSel-6.0.4-packed.js?ver=6.0.4"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.exposure.js?ver=1.0.1"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.form.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/modernizr-transitions.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/set-view-count.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var kopa_custom_front_localization = {"validate":{"form":{"submit":"Submit","sending":"Sending..."},"name":{"required":"Please enter your name.","minlength":"At least {0} characters required."},"email":{"required":"Please enter your email.","email":"Please enter a valid email."},"url":{"required":"Please enter your url.","url":"Please enter a valid url."},"message":{"required":"Please enter a message.","minlength":"At least {0} characters required."}}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/themes/musica/js/custom.js"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-includes/js/comment-reply.min.js?ver=5.2.4"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-includes/js/wp-embed.min.js?ver=5.2.4"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/plugins/wp-advance-comment/js/jquery-ui.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/plugins/contact-form-lite/js/jquery/jquery.validate.min.js?ver=1.0.99"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/plugins/contact-form-lite/js/jquery/ladda/spin.js?ver=1.0.99"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/plugins/contact-form-lite/js/jquery/notify.min.js?ver=1.0.99"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/plugins/contact-form-lite/js/jquery/ladda/ladda.min.js?ver=1.0.99"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/plugins/contact-form-lite/js/jquery/ladda/ladda.jquery.js?ver=1.0.99"></script>
+<script type="text/javascript" src="https://www.thitsarparamisociety.com/wp-content/plugins/contus-video-gallery/js/playlist.min.js?ver=5.2.4"></script>
+

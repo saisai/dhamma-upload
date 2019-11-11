@@ -1,0 +1,423 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/001.mp3|၁။ အန္တရယ်ကင်းပရိတ်ကြီး-၁၁သုတ်
+002.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/002.mp3|၂။ တစ်ရက်ရှုပွားအကျိုးများ
+003.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/003.mp3|၃။ ကိုယ်သာနာ၍စိတ်မနာစေနဲ့
+004.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/004.mp3|၄။ မီးလောင်အိမ်ပမာဤခန္ဓာ-၁
+005.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/005.mp3|၅။ မီးလောင်အိမ်ပမာဤခန္ဓာ-၂
+006.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/006.mp3|၆။ ဘုရားကိုယ့်အတွက်ပွင့်ပါစေ
+007.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/007.mp3|၇။ ရန်သူနှင့်သာပေါင်းနေသည်-၁
+008.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/008.mp3|၈။ ရန်သူနှင့်သာပေါင်းနေသည်-၂
+009.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/009.mp3|၉။ ရန်သူနှင့်သာပေါင်းနေသည်-၃
+010.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/010.mp3|၁၀။ အလှူခံမြတ်ကကျိုးကြီးရ-၁
+011.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/011.mp3|၁၁။ အလှူခံမြတ်ကကျိုးကြီးရ-၂
+012.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/012.mp3|၁၂။ အလှနှစ်မျိုး-၁
+013.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/013.mp3|၁၃။ အလှနှစ်မျိုး-၂
+014.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/014.mp3|၁၄။ ဝိပဿနာဆိုတာဘာလဲ
+015.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/015.mp3|၁၅။ တံခါးမှူးငါးဦး
+016.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/016.mp3|၁၆။ ငါဘယ်လမ်းကိုလျှောက်နေလဲ
+017.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/017.mp3|၁၇။ အလှူဒါနကျိုးဖလ-၁
+018.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/018.mp3|၁၈။ အလှူဒါနကျိုးဖလ-၂
+019.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/019.mp3|၁၉။ စိတ်ရောင်စုံ
+020.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/020.mp3|၂၀။ ကြောက်တတ်သူများမြဲရှုပွား
+021.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/021.mp3|၂၁။ တရားနှင့်နေလေ့ရှိသူ
+022.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/022.mp3|၂၂။ ဘာကိုလှူကဘယ်ကျိုးရ
+023.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/023.mp3|၂၃။ တရားဘယ်သူရနိုင်လဲ
+024.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/024.mp3|၂၄။ အလှနှစ်မျိုးအနုမောဒနာ
+025.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/025.mp3|၂၅။ ဘဝပန်းတိုင်
+026.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/026.mp3|၂၆။ ချမ်းသာလေးပါး
+027.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/027.mp3|၂၇။ ဗြဟ္မစိုရ်နှင့်မိဘ
+028.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/028.mp3|၂၈။ သောတာပန်နှင့်တူသောကုသိုလ်
+029.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/029.mp3|၂၉။ အထင်နှင့်အမြင်
+030.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/030.mp3|၃၀။ အပူဘေးမှကင်းဝေးပါစေ
+031.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/031.mp3|၃၁။ သြဃလွန်မှနိဗ္ဗာန်ရ
+032.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/032.mp3|၃၂။ အလှူသင်တန်းအနုမောဒနာ-၁
+033.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/033.mp3|၃၃။ အလှူသင်တန်းအနုမောဒနာ-၂
+034.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/034.mp3|၃၄။ ခေါင်းဆောင်နောက်လိုက်
+035.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/035.mp3|၃၅။ လွတ်မြောက်ရေးခွန်အား
+036.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/036.mp3|၃၆။ သေသူရည်မှန်းဆွမ်းလှူဒါန်း
+037.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/037.mp3|၃၇။ ခြင်္သေ့ပမာကျင့်လေပါ
+038.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/038.mp3|၃၈။ ပုထုဇဉ်ဘဝကြောက်ဘွယ်
+039.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/039.mp3|၃၉။ အမတသုခအနုမောဒနာ
+040.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/040.mp3|၄၀။ လိုရာဆန္ဒပြည့်ဝကြောင်း
+041.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/041.mp3|၄၁။ ဗုဒ္ဓဘာသာကောင်းတစ်ယောက်
+042.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/042.mp3|၄၂။ အေးမြသည့်ရင်ခွင်
+043.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/043.mp3|၄၃။ တရားခံဘယ်သူလဲ
+044.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/044.mp3|၄၄။ ဝန်တိုခြင်းဘေးကင်းဝေးပါစေ
+045.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/045.mp3|၄၅။ တရားချစ်သူ
+046.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/046.mp3|၄၆။ ဘဝသံသရာ
+047.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/047.mp3|၄၇။ အချိန်မီသူနှင့်နောက်ကျသူ
+048.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/048.mp3|၄၈။ မဂ္ဂင်ထိုက်အောင်ရှုမှတ်ပါ
+049.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/049.mp3|၄၉။ ကမ္မသတ္တိမြင်အောင်ကြည့်
+050.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/050.mp3|၅၀။ အရှုးမီးဝိုင်းတရားတော်
+051.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/051.mp3|၅၁။ အဓိဌာန်စိတ်ထား
+052.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/052.mp3|၅၂။ အားထုတ်သူမှာအခွင့်သာ
+053.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/053.mp3|၅၃။ တစ်ကြိမ်တရားနာရကျိုးဖလ
+054.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/054.mp3|၅၄။ တန်ဘိုးရှိအောင်အသုံးချပါ
+055.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/055.mp3|၅၅။ လပြည့်ညလေးဖြစ်ပါစေ
+056.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/056.mp3|၅၆။ ပါရမီကုသိုလ်တရားတော်
+057.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/057.mp3|၅၇။ ပစ္စုပ္ပန်မှာရှုနေပါ
+058.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/058.mp3|၅၈။ ရုပ်နာမ်ကြောင်းကျိုးတရားတော်
+059.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/059.mp3|၅၉။ တရားမှတ်စု
+060.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/060.mp3|၆၀။ ကုသိုလ်သည်သာအားကိုးရာ
+061.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/061.mp3|၆၁။ သီရိဂေဟာတရားတော်
+062.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/062.mp3|၆၂။ ပြစ်ကင်းချမ်းသာတရားတော်
+063.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/063.mp3|၆၃။ စရိုက်ခြောက်ပါးတရားတော်
+064.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/064.mp3|၆၄။ ပုဂ္ဂိုလ်လေးမျိုးတရားတော်
+065.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/065.mp3|၆၅။ ယုံကြည်ချက်နှင့်အလုပ်လုပ်ပါ
+066.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/066.mp3|၆၆။ အာသဝပယ်နည်းတရားတော်
+067.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/067.mp3|၆၇။ သမ္ပတ္တိလေးပါးတရားတော်
+068.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/068.mp3|၆၈။ ကောင်းမှုပြုရာလယ်ပမာ
+069.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/069.mp3|၆၉။ အဆိုးဆုံးနှင့်အကောင်းဆုံး
+070.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/070.mp3|၇၀။ ဒါနနှင့်နိဗ္ဗာန်အနုမောဒနာ
+071.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/071.mp3|၇၁။ ဘာဝနာခြုံရင်လုံပါတယ်
+072.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/072.mp3|၇၂။ မမှီမလှုပ်မှီကလှုပ်တရားတော်
+073.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/073.mp3|၇၃။ သတိပဌာန်အကျိုးငါးမျိုး
+074.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/074.mp3|၇၄။ ကုသိုလ်ကိုအထင်မသေးနှင့်
+075.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/075.mp3|၇၅။ ဝဋ်ကြွေးဟူကပေးဆပ်ရ
+076.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/076.mp3|၇၆။ ကုသိုလ်ရှိရင်ဘုရားမြင်
+077.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/077.mp3|၇၇။ ကိုယ်နှင့်ခန္ဓာခွဲသိပါ
+078.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/078.mp3|၇၈။ ဘေးမဲ့ရာသွားမဂ်ရထား
+079.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/079.mp3|၇၉။ ရှိတိုင်းသိတာဝိပဿနာ
+080.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/080.mp3|၈၀။ ဘဝတဏှာလှည့်စားရာ
+081.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/081.mp3|၈၁။ အကျင့်နှင့်အသိတရားတော်
+082.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/082.mp3|၈၂။ ငြိမ်းအေးသောဘဝပိုင်ရှင်
+083.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/083.mp3|၈၃။ သံဃာ့ဂုဏ်ရည်တရားတော်
+084.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/084.mp3|၈၄။ ခရီးသွားနှင့်ခရီးနား
+085.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/085.mp3|၈၅။ အပ္ပမာဒတရားတော်-၁
+086.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/086.mp3|၈၆။ အပ္ပမာဒတရားတော်-၂
+087.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/087.mp3|၈၇။ အပြန်လမ်းတရားတော်
+088.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/088.mp3|၈၈။ သင်္ခါရနှင့်လက္ခဏာ
+089.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/089.mp3|၈၉။ သမီးလိမ္မာသုမနာ
+090.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/090.mp3|၉၀။ လမ်းလျှောက်ရင်းလမ်းပျောက်သူ
+091.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/091.mp3|၉၁။ ကောင်းဆိုးကြောင်းရင်း
+092.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/092.mp3|၉၂။ တရားနှင့်နေလေ့ရှိသူ
+093.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/093.mp3|၉၃။ လသာတုန်းမှာဗိုင်းငင်ပါ
+094.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/094.mp3|၉၄။ နိဗ္ဗာန်နီးရန်အကျင့်မှန်
+095.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/095.mp3|၉၅။ ဓမ္မစြင်္ကာတရားတော်-၁
+096.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/096.mp3|၉၆။ ဓမ္မစြင်္ကာတရားတော်-၂
+097.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/097.mp3|၉၇။ ဓမ္မစြင်္ကာတရားတော်-၃
+098.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/098.mp3|၉၈။ ဓမ္မစြင်္ကာတရားတော်-၄
+099.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/099.mp3|၉၉။ ဓမ္မစြင်္ကာတရားတော်-၅
+100.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/100.mp3|၁၀၀။ ဓမ္မစြင်္ကာတရားတော်-၆
+101.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/101.mp3|၁၀၁။ တစ်သက်နှင့်တစ်ရက်
+102.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/102.mp3|၁၀၂။ အပ္ပမာဒအနုမောဒနာ
+103.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/103.mp3|၁၀၃။ သာသနာသုံးရပ်အနုမောဒနာ
+104.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/104.mp3|၁၀၄။ အမြတ်ဒါနတရားတော်
+105.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/105.mp3|၁၀၅။ လေးဘွဲ့ရသာမဏေကျော်
+106.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/106.mp3|၁၀၆။ ကျောင်းအနုမောဒနာ
+107.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/107.mp3|၁၀၇။ အများချစ်ကြောင်းတရားတော်
+108.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/108.mp3|၁၀၈။ သပ္ပါယ၄ပါး၊ သပ္ပါယ၇ပါး
+109.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/109.mp3|၁၀၉။ မသိဘေးနှင့်အမှားဘေး
+110.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/110.mp3|၁၁၀။ အလှူခံထိုက်သူတရားတော်
+111.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/111.mp3|၁၁၁။ အနတ္တလက္ခဏာတရားတော်
+112.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/112.mp3|၁၁၂။ အမြတ်ဆုံးအလှူတရားတော်
+113.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/113.mp3|၁၁၃။ ကံ ဉာဏ် ဝီရိယ တရားတော်
+114.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/114.mp3|၁၁၄။ သစ္စာသုံးမျိုးအလုပ်ပေး
+115.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/115.mp3|၁၁၅။ ရှုဉာဏ်နှင့်ပေါ်ဉာဏ်
+116.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/116.mp3|၁၁၆။ ဥပဿကာကျင့်ဝတ်
+117.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/117.mp3|၁၁၇။ နှိမ့်မြင့်သံသရာကျင်လည်ရှာ
+118.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/118.mp3|၁၁၈။ သုံးဆယ့်တစ်ဘုံနွားသတ်ရုံ
+119.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/119.mp3|၁၁၉။ အသက်တန်ဘိုး
+120.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/120.mp3|၁၂၀။ လက္ခဏာရေးသုံးပါး
+121.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/121.mp3|၁၂၁။ စေတနာသုံးတန်
+122.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/122.mp3|၁၂၂။ လှူတတ်လေမှအမြတ်ရ
+123.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/123.mp3|၁၂၃။ မီးလှူဒါန်းရကျိုးဖလ
+124.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/124.mp3|၁၂၄။ ဘဝလက်ကျန်
+125.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/125.mp3|၁၂၅။ သူတော်ကောင်းအလှူ
+126.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/126.mp3|၁၂၆။ ဘဝခုံရုံး
+127.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/127.mp3|၁၂၇။ အမှောင်ထဲမှာမနေပါနဲ့
+128.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/128.mp3|၁၂၈။ သံသရာလမ်းညွန်
+129.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/129.mp3|၁၂၉။ မရဏသတိတရားတော်
+130.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/130.mp3|၁၃၀။ ရုပ်နာမ်လက္ခဏာ
+131.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/131.mp3|၁၃၁။ နေဝင်ချိန်မှာမီးထွန်းပါ
+132.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/132.mp3|၁၃၂။ သာသနာ့လမ်းစဉ်
+133.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/133.mp3|၁၃၃။ သာသနာ့အမွေ
+134.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/134.mp3|၁၃၄။ လက်ရာထင်အောင်ရှုမှတ်ပါ
+135.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/135.mp3|၁၃၅။ အိမ်တွင်းဋိစ္စသမုပ္ပာဒ်
+136.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/136.mp3|၁၃၆။ မာရ်စစ်သည်ဆယ်ပါး
+137.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/137.mp3|၁၃၇။ ဗုဒ္ဓခေတ်မြတ်တွေ့ကျိုးနပ်
+138.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/138.mp3|၁၃၈။ တစ်ပါးသီလ
+139.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/139.mp3|၁၃၉။ နောက်ကြောင်းပြန်တွေးစိတ်မလေးနှင့်
+140.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/140.mp3|၁၄၀။ အမြင်ရှင်းမှရှုရအဆင်ပြေ
+141.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/141.mp3|၁၄၁။ ပေါ်ခိုက်ရှုမှနိဗ္ဗာန်ရ
+142.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/142.mp3|၁၄၂။ ဉာဏ်နှင့်ဆပ်မှကြွေးကျေရ
+143.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/143.mp3|၁၄၃။ တစ်မှတ်တန်ဘိုး
+144.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/144.mp3|၁၄၄။ မရင့်ကျက်သေးတဲ့စိတ်
+145.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/145.mp3|၁၄၅။ လက္ခဏာရေးသုံးပါး
+146.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/146.mp3|၁၄၆။ နေရေးထက်သေရေးခက်
+147.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/147.mp3|၁၄၇။ အပေးအယူတရားတော်
+148.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/148.mp3|၁၄၈။ ပါရမီဆယ်ပါး
+149.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/149.mp3|၁၄၉။ အဓိပ္ပါယ်ရှိသောဘဝ
+150.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/150.mp3|၁၅၀။ အမြဲကောင်းလေးပါး
+151.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/151.mp3|၁၅၁။ နောက်ဆုံးအချိန်
+152.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/152.mp3|၁၅၂။ သုံးဆယ့်တစ်ဘုံနွားသတ်ရုံ
+153.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/153.mp3|၁၅၃။ ဝဋ်သုံးပါးတရားတော်
+154.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/154.mp3|၁၅၄။ စက်လေးပါးတရားတော်
+155.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/155.mp3|၁၅၅။ ပဋိစ္စသမုပ္ပာဒ်ဆိုတာဘာလဲ
+156.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/156.mp3|၁၅၆။ ကမ်းသို့ရောက်မှစိတ်ချရ
+157.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/157.mp3|၁၅၇။ အိမ်ရှင်ခန္ဓာနှင့်ဧည့်သည်ခန္ဓာ
+158.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/158.mp3|၁၅၈။ သာသနလမ်းစဉ်-၁
+159.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/159.mp3|၁၅၉။ သာသနလမ်းစဉ်-၂
+160.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/160.mp3|၁၆၀။ အေးကွက်ကိုရှာ
+161.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/161.mp3|၁၆၁။ မိုက်မဲမှုနှင့်ဆင်းရဲမှု
+162.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/162.mp3|၁၆၂။ သံသရာဘေး
+163.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/163.mp3|၁၆၃။ သံယောဇဉ်ဆယ်ပါး
+164.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/164.mp3|၁၆၄။ ဥပဿကာကျင့်ဝတ်
+165.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/165.mp3|၁၆၅။ ဝိပဿနာမခက်ဒါနခက်
+166.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/166.mp3|၁၆၆။ ခန္ဓာလှေတရားတော်
+167.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/167.mp3|၁၆၇။ နိဗ္ဗာန်ဆုတရားတော်
+168.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/168.mp3|၁၆၈။ ကုသိုလ်နှင့်အကုသိုလ်
+169.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/169.mp3|၁၆၉။ သူတော်ကောင်းလက္ခဏာ
+170.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/170.mp3|၁၇၀။ ခန္ဓာဝန်ထမ်းခရီးကြမ်း
+171.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/171.mp3|၁၇၁။ ဗုဒ္ဓနေ့တရားတော်
+172.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/172.mp3|၁၇၂။ ပဋိစ္စသမုပ္ပာဒ်တရားတော်
+173.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/173.mp3|၁၇၃။ လက်ဦးမှုကိုရယူပါ
+174.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/174.mp3|၁၇၄။ လက်ရာထင်အောင်ရှုမှတ်ပါ
+175.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/175.mp3|၁၇၅။ ရုပ်နာမ်နှစ်ဖြာရှုစရာ
+176.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/176.mp3|၁၇၆။ ဓါတ်ခံကောင်းဘို့လိုပါတယ်
+177.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/177.mp3|၁၇၇။ မွေခံထိုက်စေတရားတော်
+178.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/178.mp3|၁၇၈။ ကြိုက်ရာရွေးတရားတော်
+179.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/179.mp3|၁၇၉။ ရေအလှူအကျိုး-၁၇မျိုး
+180.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/180.mp3|၁၈၀။ ဒုလ္လဘငါးပါးတရားတော်
+181.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/181.mp3|၁၈၁။ အိမ်ရှင်ခန္ဓာနှင့် ဧည့်သည်ခန္ဓာ
+182.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/182.mp3|၁၈၂။ သူတော်ကောင်းအလှူ
+183.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/183.mp3|၁၈၃။ ဘာကိုဘယ်လိုရှုပွားမလဲ-၁
+184.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/184.mp3|၁၈၄။ ဘာကိုဘယ်လိုရှုပွားမလဲ-၂
+185.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/185.mp3|၁၈၅။ ကုသိုလ်သုံးမျိုး
+186.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/186.mp3|၁၈၆။ ဘုရားပေးတဲ့တရားဆေး
+187.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/187.mp3|၁၈၇။ နိဗ္ဗာန်ဆုတရားတော်
+188.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/188.mp3|၁၈၈။ အချိန်ရှိခိုက်လုံ့လစိုက်
+189.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/189.mp3|၁၈၉။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၁
+190.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/190.mp3|၁၉၀။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၂
+191.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/191.mp3|၁၉၁။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၃
+192.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/192.mp3|၁၉၂။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၄
+193.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/193.mp3|၁၉၃။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၅
+194.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/194.mp3|၁၉၄။ သုံးဆယ်နှစ်ဖြာလက္ခဏာ-၆
+195.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/195.mp3|၁၉၅။ လူရှစ်မျိုးတရားတော်
+196.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/196.mp3|၁၉၆။ ရှုပွားနည်းအလုပ်ပေး
+197.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/197.mp3|၁၉၇။ ပညတ်ပရမတ်မကွဲရင်ထုပွဲ
+198.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/198.mp3|၁၉၈။ တရားစောင့်သူကိုတရားကစောင့်သည်
+199.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/199.mp3|၁၉၉။ အိပ်ပျော်သူနှင့်နိုးကြားသူ
+200.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/200.mp3|၂၀၀။ ဆုံးဖြတ်ဖို့အချိန်တန်ပြီ
+201.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/201.mp3|၂၀၁။ ကုသိုလ်ပြုနည်းတရားတော်
+202.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/202.mp3|၂၀၂။ ဟိရိသြတ္တပတရားတော်
+203.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/203.mp3|၂၀၃။ ဝိပဿနာမခက်ဒါနခက်
+204.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/204.mp3|၂၀၄။ အလှူခံတစ်ကျိပ်လေး
+205.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/205.mp3|၂၀၅။ ကုသိုလ်လေးမျိုးတရားတော်
+206.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/206.mp3|၂၀၆။ ခန္ဓာသွားလမ်း
+207.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/207.mp3|၂၀၇။ ကံလေးမျိုးတရားတော်
+208.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/208.mp3|၂၀၈။ နိဗ္ဗာန်ဆော်ကုသိုလ်
+209.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/209.mp3|၂၀၉။ ဘဝလမ်းခွဲတရားတော်
+210.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/210.mp3|၂၁၀။ ဖန်ဆင်းရှင်ဘယ်သူလဲ
+211.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/211.mp3|၂၁၁။ အလှူပေးသူဌေးဖြစ်
+212.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/212.mp3|၂၁၂။ အခုလည်းပျော်နောင်လည်းပျော်
+213.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/213.mp3|၂၁၃။ အပါယ်မကျမြတ်သုည
+214.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/214.mp3|၂၁၄။ တရားဆုတ်ယုတ်ကြောင်း
+215.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/215.mp3|၂၁၅။ ဓမ္မစြင်္ကာတရားတော်-၁
+216.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/216.mp3|၂၁၆။ ဓမ္မစြင်္ကာတရားတော်-၂
+217.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/217.mp3|၂၁၇။ ဓမ္မစြင်္ကာတရားတော်-၃
+218.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/218.mp3|၂၁၈။ ဓမ္မစြင်္ကာတရားတော်-၄
+219.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/219.mp3|၂၁၉။ ဓမ္မစြင်္ကာတရားတော်-၅
+220.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/220.mp3|၂၂၀။ ဓမ္မစြင်္ကာတရားတော်-၆
+221.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/221.mp3|၂၂၁။ ပညတ်နှင့်ပရမတ်
+222.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/222.mp3|၂၂၂။ သင်္ခါရနှင့်လက္ခူဏာ
+223.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/223.mp3|၂၂၃။ ဝဋ်ကြွေးဟူကပေးဆပ်ရ
+224.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/224.mp3|၂၂၄။ အားထုတ်သူနှင့်အားမထုတ်သူ
+225.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/225.mp3|၂၂၅။ နှလုံးသွင်းကောင်းတရားတော်
+226.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/226.mp3|၂၂၆။ ကံလေးမျိုးတရားတော်
+227.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/227.mp3|၂၂၇။ သိကြားမင်းကရှိခိုးရသူများ
+228.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/228.mp3|၂၂၈။ ကုသိုလ်စုံမှဘုံကောင်းရ
+229.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/229.mp3|၂၂၉။ အရှိအတိုင်းသာကြည့်နေပါ
+230.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/230.mp3|၂၃၀။ မှားခဲ့တဲ့သံသရာ
+231.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/231.mp3|၂၃၁။ တပည့်လိမ္မာစူဠသုဘဒ္ဒါ
+232.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/232.mp3|၂၃၂။ ဆုံးမရှုမှတရားရ
+233.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/233.mp3|၂၃၃။ အလှူခြောက်မျိုးတရားတော်
+234.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/234.mp3|၂၃၄။ အိန္ဒြေထက်ကြောင်း
+235.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/235.mp3|၂၃၅။ ကုသိုလ်စုံမှဘုံကောင်းရ
+236.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/236.mp3|၂၃၆။ သူမြတ်ကျင့်စဉ်
+237.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/237.mp3|၂၃၇။ ကံလေးမျိုး
+238.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/238.mp3|၂၃၈။ သမုဒ္ဒရာဤခန္ဓာ-၁
+239.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/239.mp3|၂၃၉။ သမုဒ္ဒရာဤခန္ဓာ-၂
+240.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/240.mp3|၂၄၀။သမုဒ္ဒရာဤခန္ဓာ-၃
+241.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/241.mp3|၂၄၁။ညီညွတ်ခြင်းနှင့်ချမ်းသာခြင်း
+242.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/242.mp3|၂၄၂။ကာလဒါနတရားတော်
+243.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/243.mp3|၂၄၃။ချမ်းသာလိုလားကုသိုလ်ပွား
+244.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/244.mp3|၂၄၄။နည်းနည်းလှူကများများရ
+245.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/245.mp3|၂၄၅။နိဗ္ဗာန်နှင့်ဝိပဿနာ
+246.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/246.mp3|၂၄၆။အမှောင်နှင့်အလင်း
+247.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/247.mp3|၂၄၇။မိန်းမလေးမျိုး
+248.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/248.mp3|၂၄၈။အိန္ဒြေညီမှတရားရ
+249.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/249.mp3|၂၄၉။အပ်ဝင်ပုဆိန်ထွက်
+250.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/250.mp3|၂၅၀။အလှူကျိုးကြီးခြင်းမကြီးခြင်း
+251.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/251.mp3|၂၅၁။သေမင်းနှင့်စစ်ခင်းပွဲ
+252.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/252.mp3|၂၅၂။သိသူကထွက်မသိသူကဖျက်
+253.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/253.mp3|၂၅၃။အမြဲတမ်းသာရှုနေပါ
+254.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/254.mp3|၂၅၄။အနှေးနဲ့အမြန်
+255.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/255.mp3|၂၅၅။အမြတ်ခြောက်ပါး
+256.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/256.mp3|၂၅၆။အိန္ဒြေထက်ကြောင်း
+257.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/257.mp3|၂၅၇။အမြတ်လေးပါး
+258.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/258.mp3|၂၅၈။ဝီစိကိစ္ဆာယုံမှားရာ
+259.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/259.mp3|၂၅၉။လူ့ဘဝရဲ့အလင်းရောင်
+260.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/260.mp3|၂၆၀။အိမ်တွင်းသာသနာ
+261.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/261.mp3|၂၆၁။ခန္ဓာရှိလို့ပါ
+262.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/262.mp3|၂၆၂။ချမ်းသာလေးမျိုး
+263.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/263.mp3|၂၆၃။ဒဏ်ဆယ်ပါး
+264.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/264.mp3|၂၆၄။အာစိဏ္ဏကံကုသိုလ်
+265.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/265.mp3|၂၆၅။ရှာသော်လည်းမတွေ့ကြာသော်လည်းမမေ့
+266.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/266.mp3|၂၆၆။ကုသိုလ်ဖြင့်ဘဝကိုတည်ဆောက်ခြင်း
+267.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/267.mp3|၂၆၇။တရားရခွင့်တရားတော်
+268.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/268.mp3|၂၆၈။မရေရာခြင်းနှင့်ရေရာခြင်း
+269.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/269.mp3|၂၆၉။အားထုတ်သင့်ရာချိန်အခါ
+270.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/270.mp3|၂၇၀။အတ္တပြုတ်မှနိဗ္ဗာန်ရ
+271.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/271.mp3|၂၇၁။စောလေကောင်းလေ
+272.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/272.mp3|၂၇၂။ဖြစ်ပျက်ဆုံးမှနိဗ္ဗာန်ရ
+273.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/273.mp3|၂၇၃။ကိုယ့်ကိုယ်ကိုကြည့်ပါ
+274.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/274.mp3|၂၇၄။နာဖျားဝင်စဉ်သတိယှဉ်
+275.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/275.mp3|၂၇၅။ဓမ္မ န္တရာယ်ကာကွယ်ရေး
+276.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/276.mp3|၂၇၆။ချမ်းသာလိုလားကုသိုလ်ပွား
+277.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/277.mp3|၂၇၇။ဝိပဿနာလမ်းရှင်း
+278.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/278.mp3|၂၇၈။အဆင့်ဆင့်မြင့်တဲ့သူ
+279.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/279.mp3|၂၇၉။ပေါ်ခိုက်ရှုမှနိဗ္ဗာန်ရ
+280.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/280.mp3|၂၈၀။သင်္ခါရဓမ္မတာမြင်အောင်ကြည့်ပါ
+281.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/281.mp3|၂၈၁။သာသနကျက်သရေဆောင်
+282.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/282.mp3|၂၈၂။ဆုံးမရှုမှတရားရ
+283.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/283.mp3|၂၈၃။သာသနာပြုကြစို့
+284.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/284.mp3|၂၈၄။သေသူရည်မှန်းဆွမ်းလှူဒါန်း
+285.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/285.mp3|၂၈၅။ရွှေအိုးမြုပ်ပါ
+286.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/286.mp3|၂၈၆။ရှုပွားနည်းအချုပ်
+287.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/287.mp3|၂၈၇။သံသရာမှာအားကိုးရာ
+288.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/288.mp3|၂၈၈။လက္ခဏာယာဉ်စီးမှနိဗ္ဗာန်ရ
+289.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/289.mp3|၂၈၉။ကြောင်ခြေထောက်သူဌေး
+290.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/290.mp3|၂၉၀။နာဖျားဝင်စဉ်သတိယှဉ်
+291.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/291.mp3|၂၉၁။ရှင်သာရိပုတ္တရာစိတ်နေစိတ်ထား
+292.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/292.mp3|၂၉၂။တရားဆုတ်ယုတ်ကြောင်း
+293.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/293.mp3|၂၉၃။မဲ့သေပြုံးသေ
+294.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/294.mp3|၂၉၄။ဖြစ်ပျက်ဆုံးမှနိဗ္ဗာန်ရ
+295.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/295.mp3|၂၉၅။ပြိတ္တာဖြစ်မှအမြင်မှန်ရ
+296.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/296.mp3|၂၉၆။ကံမြင့် ကံပွင့် ကံဆင့်
+297.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/297.mp3|၂၉၇။ကထိန်အကြောင်း
+298.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/298.mp3|၂၉၈။နှစ်ဘက်ကြည့်ပါတရားတော်
+299.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/299.mp3|၂၉၉။စိတ်ကောင်းနဲ့မိတ်ကောင်း
+300.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/FOR%20DONATE%20STICKS-ORIGINAL%20LAUNCH-S.PNWR-32kbps-300nos/300.mp3|၃၀၀။အနီးအဝေးတရားတော်
+301.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/01%20-%20Nibban%20Hnint%20Wipassana%20Tayadaw%20-%202013-10-16%20-%20Afternoon.mp3|၃၀၁။(၁)နိဗ္ဗာန်နှင့် ဝိပဿနာ
+302.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/02%20-%20Eindayae%20Nyi%20Mya%20Tayar%20Ya%20-%202013-10-17%20-%20Afternoon.mp3|၃၀၂။(၂)ဣန္ဒြေညီမျှ တရားရ
+303.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/03%20-%20Ahmaung%20Hnint%20Ahlin%20-%202013-10-18%20-%20Afternoon.mp3|၃၀၃။(၃)အမှောင်နှင့် အလင်း
+304.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/04%20-%20Anartta%20Latt%20Khanar%20-%202013-10-19%20-%20Afternoon.mp3|၃၀၄။(၄) အနတ္တ လက္ခဏာ
+305.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/05%20-%20Thay%20Min%20Hnint%20Sit%20Khin%20Pwe%20-%202013-10-20%20-%20Afternoon.mp3|၃၀၅။(၅) သေမင်းနှင့် စစ်ခင်းပွဲ
+306.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/06%20-%20Lat%20Yar%20Htin%20Aung%20Shu%20Mart%20Par%20-%202013-10-21%20-%20Afternoon.mp3|၃၀၆။(၆) လက်ရာထင်အောင် ရှုမှတ်ပါ
+307.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/07%20-%20Ah%20Myae%20Tan%20Thar%20Shu%20Nay%20Par%20-%202013-10-22%20-%20Afternoon.mp3|၃၀၇။(၇) အမြဲတမ်းသာ ရှုနေပါ
+308.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/08%20-%20Chanthar%20Lolar%20Kutho%20Pwar%20-%202013-10-16%20-%20Evening.mp3|၃၀၈။(၈) ချမ်းသာလိုလား ကုသိုလ်ပွား
+309.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/09%20-%20Thumyat%20Kyint%20Sin%20-%202013-10-17%20-%20Evening.mp3|၃၀၉။(၉) သူမြတ်ကျင့်စဉ်
+310.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/10%20-%20Ahnee%20Ahway%20-%202013-10-18%20-%20Evening.mp3|၃၁၀။(၁၀) အနီးအဝေး
+311.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/11%20-%20Kutho%20Sone%20Hma%20Bon%20Kaung%20Ya%20-%202013-10-19%20-%20Evening.mp3|၃၁၁။(၁၁) ကုသိုလ်စုံမှ ဘုံကောင်းရ
+312.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/12%20-%20Nyi%20Nyut%20Chin%20Hnint%20Chan%20Thar%20Chin%20%28Myo%20Saunt%20U%20Paday%20Shin%20Lin%20Chat%29%20-%202013-10-20%20-%20Evening.mp3|၃၁၂။(၁၁) ညီညွတ်ခြင်းနှင့် ချမ်းသာခြင်း
+313.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/13%20-%20Ah%20Myat%20%284%29%20Par%20-%202013-10-21%20-%20Evening.mp3|၃၁၃။(၁၂ )အမြတ် (၄) ပါး
+314.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/14%20-%20Ah%20Lu%20%286%29%20Myo%20-%202013-10-22%20-%20Evening.mp3|၃၁၄။(၁၃) အလှူ (၆) မျိုး
+315.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/15%20-%20Tayar%20Htai%20Sin%20Alote%20Pay%20-%202013-10-16.mp3|၃၁၅။(၁၄) တရားထိုင်စဉ် အလုပ်ပေး
+316.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/17%20-%20Alu%20Shin%20-%202013-10-16.mp3|၃၁၆။(၁၅) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၁)
+317.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/18%20-%20Alu%20Shin%20-%202013-10-17.mp3|၃၁၇။(၁၆) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၂)
+318.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/19%20-%20Alu%20Shin%20-%202013-10-18.mp3|၃၁၈။(၁၇) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၃)
+319.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/20%20-%20Alu%20Shin%20-%202013-10-19.mp3|၃၁၉။(၁၈) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၄)
+320.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/21%20-%20Alu%20Shin%20-%202013-10-20.mp3|၃၂၀။(၁၉) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၅)
+321.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/22%20-%20Alu%20Shin%20-%202013-10-21.mp3|၃၂၁။(၂၀) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၆)
+322.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2023/23%20-%20Alu%20Shin%20-%202013-10-22.mp3|၃၂၂။(၂၁) နေ့စဉ်အလှူရှင်များ မေတ္တာပို့ အမျှဝေ အမှတ်(၇)
+323.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/01%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%281%29.mp3|၃၂၃။၁) ဓမ္မစင်္ကြာတရားတော် အမှတ်(၁)
+324.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/02%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%282%29.mp3|၃၂၄။၂) ဓမ္မစင်္ကြာတရားတော် အမှတ်(၂)
+325.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/03%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%283%29.mp3|၃၂၅။၃) ဓမ္မစင်္ကြာ တရားတော် အမှတ်(၃)
+326.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/04%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%284%29.mp3|၃၂၆။၄)ဓမ္မစင်္ကြာ တရားတော် အမှတ်(၄)
+327.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/05%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%285%29.mp3|၃၂၇။၅) ဓမ္မစင်္ကြာတရားတော် အမှတ်(၅)
+328.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/06%20-%20Dhama%20Set%20Kyar%20Tayartaw%20%286%29.mp3|၃၂၈။၆)ဓမ္မစင်္ကြာတရားတော် အမှတ်(၆)
+329.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/07%20-%20Ah%20Khu%20Lae%20Pyaw%20Naung%20Lae%20Pyaw.mp3|၃၂၉။၇) အခုလည်းပျော် နောင်လည်းပျော်
+330.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/08%20-%20Bawa%20Lan%20Kwe.mp3|၃၃၀။၈) ဘဝလမ်းခွဲ
+331.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/09%20-%20Ein%20Shin%20Khandar%20Hnin%20Ei%20The%20Khandar.mp3|၃၃၁။၉) အိမ်ရှင်ခန္ဓာနှင့် ဧည့်သည်ခန္ဓာ
+332.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/10%20-%20Kan%20%284%29%20Myo.mp3|၃၃၂။၁၀) ကံ(၄)မျိုး
+333.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/11%20-%20Nibban%20Saw%20Kutho.mp3|၃၃၃။၁၁) နိဗ္ဗာန်ဆော်ကုသိုလ်
+334.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/12%20-%20Phan%20Sin%20Shin%20Bae%20Thu%20Lal.mp3|၃၃၄။၁၂) ဖန်ဆင်းရှင် ဘယ်သူလဲ
+335.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/13%20-%20Tapar%20Thila.mp3|၃၃၅။၁၃) တပါးသီလ
+336.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/14%20-%20Thar%20Tha%20Na%20Lanzin%20%281%29.mp3|၃၃၆။၁၄) သာသနာ့လမ်းစဉ် အမှတ်(၁)
+337.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/15%20-%20Thar%20Tha%20Na%20Lanzin%20%282%29.mp3|၃၃၇။၁၅) သာသနာ့လမ်းစဉ် အမှတ်(၂)
+338.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-01%20-%20Shu%20Pwar%20Nee%20Ah%20Lote%20Pay.mp3|၃၃၈။၁၆) ရှုမှတ်နည်းအလုပ်ပေး
+339.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-02%20-%20Pyit%20Nyart%20Paramart%20Ma%20Kwe%20Yin%20Htu%20Pwe.mp3|၃၃၉။၁၇) ပညတ်ပရမတ်မကွဲ ရင်ထုပွဲ
+340.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-03%20-%20Tayar%20Sount%20Thu%20Ko%20Tayar%20Ka%20Sount%20The.mp3|၃၄၀။၁၈) တရားစောင့်သူကို တရားကစောင့်သည်
+341.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-04%20-%20Eit%20Pway%20Thu%20Hnint%20No%20Kyar%20Thu.mp3|၃၄၁။၁၉) အိပ်ပျော်သူနှင့် နိုးကြားသူ
+342.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-05%20-%20Sone%20Pyart%20Pho%20Ah%20Chain%20Tan%20Pyi.mp3|၃၄၂။၂၀) ဆုံးဖြတ်ဘို့ အချိန်တန်ပြီ
+343.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-06%20-%20Kutho%20Pyu%20Nee.mp3|၃၄၃။၂၁) ကုသိုလ်ပြုနည်း
+344.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-07%20-%20Hiri%20U%20Tapa%20Tayartaw.mp3|၃၄၄။၂၂) ဟီရိသြတ္တပ္ပတရား
+345.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-08%20-%20Wipathanar%20Ma%20Khet%20Dhana%20Khet.mp3|၃၄၅။၂၃) ဝိပဿနာမခက် ဒါနခက်
+346.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%2024/16-09%20-%20Ah%20Lu%20Khan%20Ta%20Kyait%20Lay.mp3|၃၄၆။၂၄) အလှူခံတကျိပ်လေး
+347.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/01%2020110420%201ParThiLa%20MyitTarNyunt.mp3|၃၄၇။၁) တပါးသီလ
+348.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/02%2020110115%20NawtSoneAChain%20SanChaung.mp3|၃၄၈။၂) နောက်ဆုံးအချိန်
+349.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20AHluKhanMyatHmaKyoeKyeeYa%201.mp3|၃၄၉။၃) အလှူခံမြတ်မှ ကျိုးကြီးရ အမှတ်(၁)
+350.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20AHluKhanMyatHmaKyoeKyeeYa%202.mp3|၃၅၀။၄) အလှူခံမြတ်မှ ကျိုးကြီးရ အမှတ်(၂)
+351.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20BuddhaBarTharKaung1Yawt.mp3|၃၅၁။၅) ဗုဒ္ဓဘာသာကောင်းတစ်ယောက်
+352.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20KoTharNarSateMaNarSayNelt.mp3|၃၅၂။၆) ကိုယ်သာနာ စိတ်မနာစေနဲ့
+353.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20MeeLaungEainPaMarEiKhanDar%201.mp3|၃၅၃။၇) မီးလောင်အိမ်ပမာ ဤခန္ဓာ အမှတ်(၁)
+354.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20MeeLaungEainPaMarEiKhanDar%202.mp3|၃၅၄။၈) မီးလောင်အိမ်ပမာ ဤခန္ဓာ အမှတ်(၂)
+355.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20PhaYarKoeTwetPwintParSay.mp3|၃၅၅။၉) ဘုရားကိုယ့်အတွက် ပွင့်ပါစေ
+356.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19980000%20YoteThayPaMarThatTaWar.mp3|၃၅၆။၁0) ရုပ်သေးပမာ သတ္တဝါ
+357.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19990000%20AHla2Myo%201.mp3|၃၅၇။၁၁) အလှူနှစ်မျိုး အမှတ်(၁)
+358.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19990000%20AHla2Myo%202.mp3|၃၅၈။၁၂) အလှူနှစ်မျိုး အမှတ်(၂)
+359.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19990000%20NgarBalLanKoShoutNayLe.mp3|၃၅၉။၁၃) ငါဘယ်လမ်းကို လျှောက်နေလဲ
+360.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19990000%20TaGarHmu5Oo.mp3|၃၆၀။၁၄) တံခါးမှူး (၅)ဦး
+361.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/19990000%20VipassanaSoTarBarLe.mp3|၃၆၁။၁၅) ဝိပဿနာဆိုတာဘာလဲ
+362.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20AHluThinTanANuMawDaNar%201.mp3|၃၆၂။၁၆) အလှူသင်တန်း အနုမောဒနာ အမှတ်(၁)
+363.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20AHluThinTanANuMawDaNar%202.mp3|၃၆၃။၁၇) အလှူသင်တန်း အနုမော်ဒနာ အမှတ်(၂)
+364.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20AHtinHnintAMyin.mp3|၃၆၄။၁၈) အထင်နှင့် အမြင်
+365.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20APuBayHmaKinWayParSay.mp3|၃၆၅။၁၉) အပူဘေးမှ ကင်းဝေးပါစေ
+366.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20AwGaLunHmaNateBanYa.mp3|၃၆၆။၂၀) သြဃလွန်မှ နိဗ္ဗာန်ရ
+367.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20BarKoHluKaBalKyoeYa.mp3|၃၆၇။၂၁) ဘာကိုလှူက ဘယ်အကျိုးရ
+368.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20ByaMaSoHnintMiBa.mp3|၃၆၈။၂၂) ဗြဟ္မစိုရ်နှင့် မိဘ
+369.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20EainTwinPaTateSaThaMotePa.mp3|၃၆၉။၂၃) အိမ်တွင်း ပဋိစ္စသမုပ္ပါဒ်
+370.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20TaYarBalThuYaNaingLe.mp3|၃၇၀။၂၄) တရားဘယ်သူရနိုင်လဲ
+371.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20TaYarHnintNayLaeShiThu.mp3|၃၇၁။၂၅) တရားနှင့် နေလေ့ရှိသူ
+372.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20000000%20YoneHmarSinHmaPalMaKya.mp3|၃၇၂။၂၆) ယုံမှားစင်က ပါယ်မကျ
+373.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20AHluThinTan.mp3|၃၇၃။၂၇) အလှူသင်တန်း
+374.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20ByaMaSoHnintMiBa.mp3|၃၇၄။၂၈) ဗြဟ္မစိုရ်နှင့် မိဘ
+375.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20ChanThar4Par.mp3|၃၇၅။၂၉) ချမ်းသာလေးပါး
+376.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20ChinThaePaMarKyintLayPar.mp3|၃၇၆။၃၀) ခြင်္သေ့ပမာကျင့်လေပါ
+377.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20GaungSaungNawtLite.mp3|၃၇၇။၃၁) ခေါင်းဆောင်နောက်လိုက်
+378.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20KhanDarWunHtanKhaYeeKyan.mp3|၃၇၈။၃၂) ခန္ဓာဝန်ထမ်း ခရီးကြမ်း
+379.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20LutMyawtYayKhunArr.mp3|၃၇၉။၃၃) လွတ်မြောက်ရေးခွန်အား
+380.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20NyanHnintSutHmaKyaeKyayYa.mp3|၃၈၀။၃၄) ဉာဏ်နှင့်စွန့်မှ ကြွေးကျေရ
+381.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20PuHtuZinBaWaKyawtPhwal.mp3|၃၈၁။၃၅) ပုထုဇဉ်ဘဝကြောက်ဖွယ်
+382.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20ThawTarPanHintTuThawKuTho.mp3|၃၈၂။၃၆) သောတပန်နှင့် တူသောကုသိုလ်
+383.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20010000%20ThayThuYiHmanSwanHluDan.mp3|၃၈၃။၃၇) သေသူရည်မှန်း ဆွမ်းလှူဒါန်း
+384.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20011000%20BaWaPanTine.mp3|၃၈၄။၃၈) ဘဝပန်းတိုင်
+385.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20AChainHmiThuHnintNawtKyaThu.mp3|၃၈၅။၃၉) အချိန်မှီသူနှင့် နောက်ကျသူ
+386.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20ADateHtanSateHtar.mp3|၃၈၆။၄၀) အဓိဌာန်စိတ်ထား
+387.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20AMaTaThuKhaANuMawDaNar.mp3|၃၈၇။၄၁) အမတသုခ အနုမောဒနာ
+388.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20AMyat4Par.mp3|၃၈၈။၄၂) အမြတ်လေးပါး
+389.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20ArrHtoteThuHmarAKhwintThar.mp3|၃၈၉။၄၃) အားထုတ်သူမှာ အခွင့်သာ
+390.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20AyeMyaThiYinKhwin.mp3|၃၉၀။၄၄) အေးမြသည့်ရင်ခွင်
+391.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20AYuMeeWine.mp3|၃၉၁။၄၅) အရူးမီးဝိုင်း
+392.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20BaWaThanThaYar.mp3|၃၉၂။၄၆) ဘဝသံသရာ
+393.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20BuddhaBarTharKaungTaYawt.mp3|၃၉၃။၄၇) ဗုဒ္ဓဘာသာကောင်းတစ်ယောက်
+394.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20KanMaThatTiMyinAungKyi.mp3|၃၉၄။၄၈) ကမ္မသတ္တိမြင်အောင်ကြည့်
+395.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20LoYarSanDaPyaeWaKyaung.mp3|၃၉၅။၄၉) လိုရာဆန္ဒပြည့်ဝကြောင်း
+396.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20MegginHtikeAungShuHmatPar.mp3|၃၉၆။၅၀) မဂ္ဂင်ထိုက်အောင် ရှုမှတ်ပါ
+397.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20PaYeitGyi11Thote.mp3|၃၉၇။၅၁) ပရိတ်ကြီး (၁၁)သုတ်
+398.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20ShiTineThuTarVipassana.mp3|၃၉၈။၅၂) ရှိတိုင်းသိတာ ဝိပဿနာ
+399.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20TaYarChitThu.mp3|၃၉၉။၅၃) တရားချစ်သူ
+400.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20TaYarKhanBalThuLe.mp3|၄၀၀။၅၄) တရားခံဘယ်သူလဲ
+401.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20ThanSanEainMinThar%201.mp3|၄၀၁။၅၅) သံစံအိမ်မင်းသား အမှတ်(၁)
+402.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20ThanSanEainMinThar%202.mp3|၄၀၂။၅၆) သံစံအိမ်မင်းသား အမှတ်(၂)
+403.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20020000%20WunToChinBayKinWayParSay.mp3|၄၀၃။၅၇) ဝန်တိုခြင်းဘေး ကင်းဝေးပါစေ
+404.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%201KyeinTaYarNarYaKyoPhaLa.mp3|၄၀၄။၅၈) တကြိမ် တရားနာရ ကျိုးဖလ
+405.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20AMyeKaung4Par.mp3|၄၀၅။၅၉) အမြဲကောင်းလေးပါး
+406.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20ASoon2Par.mp3|၄၀၆။၆၀) အစွန်းနှစ်ပါး
+407.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20KyaukTatThuMyarMyeShuPwar.mp3|၄၀၇။၆၁) ကြောက်တက်သူများ မြဲရှုပွား
+408.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20LaPyaeNyaLayPhyitParSay.mp3|၄၀၈။၆၂) လပြည့်ညလေးဖြစ်ပါစေ
+409.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20MaRaNatThaTi.mp3|၄၀၉။၆၃) မရဏဿတိ
+410.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20NayYayHtetThayYayKhet.mp3|၄၁၀။၆၄) နေရေးထက် သေရေးခက်
+411.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20ParamiKuTho.mp3|၄၁၁။၆၅) ပါရမီ ကုသိုလ်
+412.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20SayTaNar3Tan.mp3|၄၁၂။၆၆) စေတနာသုံးတန်
+413.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20TanPhoeShiAungAThoneChaPar.mp3|၄၁၃။
+414.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20TaYarHmatSu.mp3|၄၁၄။၆၈) တရားမှတ်စု
+415.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20ThaMoteTaYarEiKhanDar.mp3|၄၁၅။၆၉) သမုဒ္ဒယာ ဤခန္ဓာ
+416.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20030000%20YoteNanLetKhaNar.mp3|၄၁၆။၇၀) ရုပ်နာမ်လက္ခဏာ
+417.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20ArThaWaPalNee.mp3|၄၁၇။၇၁) အာသဝ ပယ်နည်း
+418.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20ASoeSoneHnintAKaungSone.mp3|၄၁၈။၇၂) အဆိုးဆုံးနှင့် အကောင်းဆုံး
+419.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20BaWaTaHnarHleSarYar.mp3|၄၁၉။၇၃) ဘဝတဏှာ လှည့်စားရာ
+420.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20BuddhaKhitMyatTwaeKyoNut.mp3|၄၂၀။၇၄) ဗုဒ္ဓခေတ်မြတ် တွေ့ကျိုးနပ်
+421.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20DarNaHnintNateBanANuMawDaNar.mp3|၄၂၁။၇၅) ဒါနနှင့် နိဗ္ဗာန် အနုမောဒနာ
+422.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KaungHmuPyuYarLalPaMar.mp3|၄၂၂။၇၆) ကောင်းမှုပြုရာ လယ်ပမာ
+423.mp3|https://media.thitsarparamisociety.com/mp3/U%20Pyin%20Nyar%20Wa%20Ya/CD%20184/20040000%20KuThoThiTharArrKoeYar.mp3|၄၂၃။၇၇) ကုသိုလ်သည်သာ အားကိုးရာ

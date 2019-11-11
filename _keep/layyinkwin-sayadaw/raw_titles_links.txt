@@ -1,0 +1,319 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/2019/sunday-talk/2019/452-LAYYINKWIN/452-27-07-19-PM2-LAYYINKWIN.mp3|တရား ထိုင္စဥ္ေဟာၾကားေသာအလုပ္ေပး တရားေတာ္ (၂၇.၀၇.၂၀၁၉) ေန႔လည္ (၂:၀၀) အခ်ိန္
+002.mp3|https://media.thitsarparamisociety.com/mp3/2019/sunday-talk/2019/452-LAYYINKWIN/452-27-07-19-PM5-LAYYINKWIN.mp3|အလုပ္ေပး တရားေတာ္ (၂၇.၀၇.၂၀၁၉) ညေန (၅:၀၀) အခ်ိန္
+003.mp3|https://media.thitsarparamisociety.com/mp3/2019/sunday-talk/2019/452-LAYYINKWIN/452-28-07-19-AM8-LAYYINKWIN.mp3|သီလေပး အလုပ္ေပးတရားေတာ္(၂၈.၀၇.၂၀၁၉) နံနက္ (၁၀) နာရီအခ်ိန္
+004.mp3|https://media.thitsarparamisociety.com/mp3/2019/sunday-talk/2019/452-LAYYINKWIN/452-28-07-19-PM2-LAYYINKWIN.mp3|အလုပ္ေပး တရားေတာ္ (၂၈.၀၇.၂၀၁၉) ေန႔လည္ (၁:၀၀) အခ်ိန္
+005.mp3|https://media.thitsarparamisociety.com/mp3/2019/sunday-talk/2019/452-LAYYINKWIN/452-28-07-19-PM5-LAYYINKWIN.mp3|အလုပ္ေပး တရားေတာ္ (၂၈.၁၇.၂၀၁၈) ညေန (၄:၀၀) အခ်ိန္
+006.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/417-LAYYINKWIN/417-271018PM1.mp3|အလုပ္ေပး တရားေတာ္ ေန႔လည္ (၁:၀၀) အခ်ိန္
+007.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/417-LAYYINKWIN/417-271018PM4.mp3|ဓမၼသုခက်င့္စဥ္ ေန႔လည္ (၄:၀၀) အခ်ိန္
+008.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/417-LAYYINKWIN/417-271018PM7.mp3|အကုသိုလ္ကံ အက်ိဳးမေပး ခင္ ဉာဏ္ဦးေအာင္ ႀကိဳးစားၾက တရားေတာ္
+009.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/404-LAYYINKWIN-WARSO/404-220718AM10MP3.mp3|ဝါဆို အႏုေမာဒနာ တရားေတာ္ (၂၂.၀၇.၁၈)နံနက္ (၁၀) နာရီအခ်ိန္
+010.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/404-LAYYINKWIN-WARSO/404-220718PM2.mp3|အလုပ္ေပးတရားေတာ္ (၂၂.၀၇.၂၀၁၈) ေန႔လည္ (၂:၀၀) အခ်ိန္
+011.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/404-LAYYINKWIN-WARSO/404-220718PM7.mp3|အလုပ္ေပး တရားေတာ္ (၂၂.၀၇.၂၀၁၈) ညခ်မ္း (၆:၃၀) အခ်ိန္
+012.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/404-LAYYINKWIN-WARSO/404-210718PM2MP3.mp3|အလုပ္ေပးတရားေတာ္ (၂၁.၀၇.၂၀၁၈) ေန႔လ
+013.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/404-LAYYINKWIN-WARSO/404-210718PM7MP3.mp3|အလုပ္ေပး တရားေတာ္ (၂၁.၀၇.၂၀၁၈) ညခ်မ္း (၆:၃၀) အခ်ိန္
+014.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/403-LAYYINKWIN-SAYARDAW/403-150718PM10.mp3|သီလေပး အလုပ္ေပးတရားေတာ္(၁၅.၀၇.၂၀၁၈) နံနက္ (၁၀) နာရီအခ်ိန္
+015.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/403-LAYYINKWIN-SAYARDAW/403-150718PM2PM3.mp3|အလုပ္ေပးတရားေတာ္ (၁၅.၀၇.၂၀၁၈) ေန႔လည္ (၁:၀၀) အခ်ိန္
+016.mp3|https://media.thitsarparamisociety.com/mp3/2018/sunday-talk/403-LAYYINKWIN-SAYARDAW/403-150718PM4PM3.mp3|အလုပ္ေပးတရားေတာ္ (၁၅.၀၇.၂၀၁၈) ညေန (၄:၀၀) အခ်ိန္
+017.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/387-LAYYINKWIN/MP3/30318-10AM-387.mp3|သီလေပး အလုပ္ေပးတရားေတာ္(၃၀.၀၃.၂၀၁၈) နံနက္ (၁၀) နာရီအခ်ိန္
+018.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/387-LAYYINKWIN/MP3/30318-1PM-387.mp3|အလုပ္ေပး တရားေတာ္ (၃၀.၀၃.၂၀၁၈) ေန႔လည္ (၁:၀၀) အခ်ိန္
+019.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/387-LAYYINKWIN/MP3/30318-3PM-387.mp3|အလုပ္ေပး တရားေတာ္ (၃၀.၁၃.၂၀၁၈) ညေန (၄:၀၀) အခ်ိန္
+020.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/387-LAYYINKWIN/MP3/31318-2PM-387%20MP3.pds.mp3|အလုပ္ေပး တရားေတာ္ (၃၁.၀၃.၂၀၁၈) ေန႔လည္ (၂:၀၀) အခ်ိန္
+021.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/387-LAYYINKWIN/MP3/31318-7PM-387%20MP3.pds.mp3|အလုပ္ေပး တရားေတာ္ (၃၁.၁၃.၂၀၁၈) ညခ်မ္း (၇:၀၀) အခ်ိန္
+022.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/387-LAYYINKWIN/MP3/1.04.18AM10-387.mp3|တရား ထိုင္စဥ္ေဟာၾကားေသာအလုပ္ေပး တရားေတာ္ (၁.၀၄.၂၀၁၈) နံနက္ (၁၀) နာရီအခ်ိန္
+023.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/387-LAYYINKWIN/MP3/1.4.18PM2-387.mp3|အလုပ္ေပး တရားေတာ္ (၁.၀၄.၂၀၁၈) ေန႔လည္ (၂:၀၀) အခ်ိန္
+024.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/387-LAYYINKWIN/MP3/1.4.18PM6-387.mp3|အလုပ္ေပး တရားေတာ္ (၁.၁၄.၂၀၁၈) ညေန (၆:၀၀) အခ်ိန္
+025.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/387-LAYYINKWIN/MP3/1.4.18PM6-387THITSARPARAMI.mp3|တရားစခန္း သိမ္း အႏုေမာဒနာ တရား (သစၥာပါရမီဆရာေတာ္)
+026.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/375%20LAYYINKWIN/MP3/301217375AM10.mp3|သီလေပး အလုပ္ေပးတရားေတာ္(၃၀.၁၂.၂၀၁၇) နံနက္ (၁၀) နာရီအခ်ိန္
+027.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/375%20LAYYINKWIN/MP3/301217375PM2.mp3|အလုပ္ေပး တရားေတာ္ (၃၀.၁၂.၂၀၁၇) ေန႔လည္ (၂:၀၀) အခ်ိန္
+028.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/375%20LAYYINKWIN/MP3/301217375PM7.mp3|အလုပ္ေပး တရားေတာ္ (၃၀.၁၂.၂၀၁၇) ညခ်မ္း (၇:၀၀) အခ်ိန္
+029.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/375%20LAYYINKWIN/MP3/311217375AM10.mp3|သီလေပး အလုပ္ေပးတရားေတာ္(၃၁.၁၂.၂၀၁၇) နံနက္ (၁၀) နာရီအခ်ိန္
+030.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/375%20LAYYINKWIN/MP3/311217375PM1.mp3|အလုပ္ေပး တရားေတာ္ (၃၁.၁၂.၂၀၁၇) ေန႔လည္ (၂:၀၀) အခ်ိန္
+031.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/375%20LAYYINKWIN/MP3/311217375PM3.mp3|အလုပ္ေပး တရားေတာ္ (၃၁.၁၂.၂၀၁၇) ညေန (၅:၀၀) အခ်ိန္
+032.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/375%20LAYYINKWIN/MP3/311217375PM7.mp3|အလုပ္ေပး တရားေတာ္ (၃၁.၁၂.၂၀၁၇) ညခ်မ္း (၇:၀၀) အခ်ိန္
+033.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/375%20LAYYINKWIN/MP3/010118375PM1.mp3|သီလေပး အလုပ္ေပးတရားေတာ္(၀၁.၀၁.၂၀၁၈) နံနက္ (၁၀) နာရီအခ်ိန္
+034.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/375%20LAYYINKWIN/MP3/010118375PM7.mp3|အလုပ္ေပး တရားေတာ္ (၀၁.၀၁.၂၀၁၈) ညခ်မ္း (၇:၀၀) အခ်ိန္
+035.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/368%20LAYYINKWIN/MP3/051117AM10368EDIT.mp3|သီလေပး အလုပ္ေပးတရားေတာ္ နံနက္ (၁၀) နာရီအခ်ိန္
+036.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/368%20LAYYINKWIN/MP3/0511173PM368EDIT.mp3|တရား ထိုင္စဥ္ ေဟာၾကားေသာအလုပ္ေပး တရားေတာ္ ေန႔လည္ (၂:၀၀) အခ်ိန္
+037.mp3|https://media.thitsarparamisociety.com/mp3/sunday-talk/368%20LAYYINKWIN/MP3/051117PM7368EDIT.mp3|အလုပ္ေပး တရားေတာ္ ညခ်မ္း (၇:၀၀) အခ်ိန္
+038.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/3DAY359THITSARPARAMI%20SEPTEMBER%202017/MP3/1091710AM359.mp3|သီလေပး အလုပ္ေပးတရားေတာ္(၁.၀၉.၂၀၁၇) နံနက္ (၁၀) နာရီအခ်ိန္
+039.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/3DAY359THITSARPARAMI%20SEPTEMBER%202017/MP3/109172PM359.mp3|အလုပ္ေပး တရားေတာ္ (၁.၀၉.၂၀၁၇) ေန႔လည္ (၂:၀၀) အခ်ိန္
+040.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/3DAY359THITSARPARAMI%20SEPTEMBER%202017/MP3/109173PM359.mp3|အလုပ္ေပး တရားေတာ္ (၁.၀၉.၂၀၁၇) ညေန (၅:၀၀) အခ်ိန္
+041.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/3DAY359THITSARPARAMI%20SEPTEMBER%202017/MP3/109177PM359.mp3|အလုပ္ေပး တရားေတာ္ (၁.၀၉.၂၀၁၇) ညခ်မ္း (၇:၀၀) အခ်ိန္
+042.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/3DAY359THITSARPARAMI%20SEPTEMBER%202017/MP3/209172PM359.mp3|အလုပ္ေပး တရားေတာ္ (၂.၀၉.၂၀၁၇) ေန႔လည္ (၂:၀၀) အခ်ိန္
+043.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/3DAY359THITSARPARAMI%20SEPTEMBER%202017/MP3/209177PM359.mp3|အလုပ္ေပး တရားေတာ္ (၂.၀၉.၂၀၁၇) ညေန (၆:၃၀) အခ်ိန္
+044.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/3DAY359THITSARPARAMI%20SEPTEMBER%202017/MP3/3091710AM359.mp3|သီလေပး အလုပ္ေပးတရားေတာ္(၃.၀၉.၂၀၁၇) နံနက္ (၁၀) နာရီအခ်ိန္
+045.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/3DAY359THITSARPARAMI%20SEPTEMBER%202017/MP3/309172PM359.mp3|အလုပ္ေပး တရားေတာ္ (၃.၀၉.၂၀၁၇) ေန႔လည္ (၂:၀၀) အခ်ိန္
+046.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/3DAY359THITSARPARAMI%20SEPTEMBER%202017/MP3/309175PM359.mp3|အလုပ္ေပး တရားေတာ္ (၃.၀၉.၂၀၁၇) ညေန (၅:၀၀) အခ်ိန္
+047.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/3DAY359THITSARPARAMI%20SEPTEMBER%202017/MP3/309176PM359LAY2.mp3|တရားစခန္း သိမ္းပြဲ အႏုေမာဒနာတရား (ေလယာဥ္ကြင္းဆရာေတာ္ ဦးေဇာတိက)
+048.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/3DAY359THITSARPARAMI%20SEPTEMBER%202017/MP3/309176PM359THIT.mp3|တရားစခန္း သိမ္းပြဲ အႏုေမာဒနာတရား (သစၥာပါရမီဆရာေတာ္ေဒါက္တာအရွင္ေဇယ်တိႆ )
+049.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/350MP3/20717PM2350MP3.mp3|အလုပ္ေပး တရားေတာ္ (၂.၀၇.၂၀၁၇) ေန႔လည္ (၂:၃၀) အခ်ိန္
+050.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/350MP3/20717PM5350MP3.mp3|အလုပ္ေပး တရားေတာ္ (၂.၀၇.၂၀၁၇) ညေန (၅:၃၀) အခ်ိန္
+051.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2017JUN349/240617PM2.mp3|အလုပ္ေပး တရားေတာ္ (၂၄.၀၆.၂၀၁၇) ေန႔လည္ (၂:၃၀) အခ်ိန္
+052.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2017JUN349/240617PM5.mp3|အလုပ္ေပး တရားေတာ္ (၂၄.၀၆.၂၀၁၇) ညေန (၅:၃၀) အခ်ိန္
+053.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2017JUN349/240617PM7.mp3|အလုပ္ေပး တရားေတာ္ (၂၄.၀၆.၂၀၁၇) ညခ်မ္း (၇:၀၀) အခ်ိန္
+054.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2017JUN349/250617PM2.mp3|အလုပ္ေပး တရားေတာ္ (၂၅.၀၆.၂၀၁၇) ေန႔လည္ (၂:၃၀) အခ်ိန္
+055.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2017JUN349/250617PM5.mp3|အလုပ္ေပး တရားေတာ္ (၂၅.၀၆.၂၀၁၇) ညေန (၅:၃၀) အခ်ိန္
+056.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2017JUN349/260617PM2.mp3|အလုပ္ေပး တရားေတာ္ (၂၆.၀၆.၂၀၁၇) ေန႔လည္ (၂:၃၀) အခ်ိန္
+057.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2017JUN349/260617PM7.mp3|အလုပ္ေပး တရားေတာ္ (၂၆.၀၆.၂၀၁၇) ညေန (၅:၃၀) အခ်ိန္
+058.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/1STDAY%20MP3/290117%20AM9%201ST.mp3.mp3|သီလေပးတရားေတာ္ နံနက္ပိုင္း (၉:၃၀) အခိ်န္ ေဟာၾကားေသာတရားေတာ္
+059.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/1STDAY%20MP3/290117%20AM1030%20%201ST.mp3.mp3|အလုပ္ေပးတရားေတာ္ နံနက္ပိုင္(၁၀:၃၀) အခ်ိန္ တရားထိုင္စဥ္ေဟာၾကားေသာတရားေတာ္
+060.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/1STDAY%20MP3/290117%20PM%20130%201ST.mp3.mp3|အလုပ္ေပးတရားေတာ္ ေနလည္ (၁:၀၀) နာရီအခ်ိန္ေဟာၾကားေသာတရားေတာ္
+061.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/1STDAY%20MP3/290117%20PM%20230%201ST.mp3.mp3|ရ႒ာပူရိႆ သုတၱန္ အပိုင္း (၁) ေနလည္ (၂:၃၀) အခ်ိန္ ေဟာၾကားေသာတရားေတာ္
+062.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/1STDAY%20MP3/290117%20PM7%201ST.mp3.mp3|အလုပ္ေပးတရားေတာ္ ညခ်မ္း (၇:၀၀) အခ်ိန္ ေဟာၾကားေသာတရားေတာ္
+063.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/2NDDAYMP3/3001172ND9AM.mp3|သီလေပးတရားေတာ္ နံနက္ပိုင္း (၉:၃၀) အခိ်န္ ေဟာၾကားေသာတရားေတာ္
+064.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/2NDDAYMP3/3001172ND130PM.mp3|အလုပ္ေပးတရားေတာ္ ေနလည္ (၁:၀၀) နာရီအခ်ိန္ တရားထိုင္စဥ္ေဟာၾကားေသာတရားေတာ္
+065.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/2NDDAYMP3/3001172ND230PM.mp3|ရ႒ာပူရိႆ သုတၱန္ အပိုင္း (၂) ေနလည္ (၂:၃၀) အခ်ိန္ ေဟာၾကားေသာတရားေတာ္
+066.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/2NDDAYMP3/3001172ND7PM.mp3|ရ႒ာပူရိႆ သုတၱန္ အပိုင္း (၃) ညခ်မ္း (၇:၀၀) အခ်ိန္ ေဟာၾကားေသာတရားေတာ္
+067.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/3RDDAYMP3/3101173RD930AM.mp3|သီလေပးတရားေတာ္ နံနက္ပိုင္း (၉:၃၀) အခိ်န္ ေဟာၾကားေသာတရားေတာ္
+068.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/3RDDAYMP3/3101173RD1PM.mp3|ရ႒ာပူရိႆ သုတၱန္ အပိုင္း (၄) ေနလည္ (၁:၀၀) အခ်ိန္ ေဟာၾကားေသာတရားေတာ္
+069.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/CNY%202017%20THITSARPARAMI/3RDDAYMP3/3101173RD5PM.mp3|အလုပ္ေပးတရား တရားေတာ္ ညေနပိုင္း (၅:၀၀) အခ်ိန္ ေဟာၾကားေသာတရားေတာ္
+070.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/21-12-2016-1.mp3|အလုပ္ေပးတရားေတာ္ (၂၁.၁၂.၁၆)
+071.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/21-12-2016-2.mp3|တရားထိုင္စဥ္ေဟာၾကားေသာအလုပ္ေပးတရားေတာ္ (၂၁.၁၂.၁၆)
+072.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/21-12-2016-3.mp3|အလုပ္ေပးတရားေတာ္ (၂၁.၁၂.၁၆) ညေန
+073.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/21-12-2016-4.mp3|တရားထိုင္စဥ္ေဟာၾကားေသာအလုပ္ေပးတရားေတာ္ (၂၁.၁၂.၁၆)
+074.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/22-12-2016-1.mp3|တရားထိုင္စဥ္ေဟာၾကားေသာအလုပ္ေပးတရားေတာ္ (၂၂.၁၂.၁၆)
+075.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/22-12-2016-2.mp3|အလုပ္ေပးတရားေတာ္ (၂၂.၁၂.၁၆) နံနက္ပိုင္း
+076.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/22-12-2016-3.mp3|တရားထိုင္စဥ္ေဟာၾကားေသာအလုပ္ေပးတရားေတာ္ (၂၂.၁၂.၁၆)
+077.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/22-12-2016-4.mp3|အလုပ္ေပးတရားေတာ္ (၂၂.၁၂.၁၆)
+078.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/23-12-2016-1.mp3|တရားထိုင္စဥ္ေဟာၾကားေသာအလုပ္ေပးတရားေတာ္ (၂၃.၁၂.၁၂.၁၆)
+079.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/23-12-2016-2.mp3|အလုပ္ေပးတရားေတာ္ (၂၃.၁၂.၁၆)
+080.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/23-12-2016-3.mp3|တရားထိုင္စဥ္ေဟာၾကားေသာအလုပ္ေပးတရားေတာ္ (၂၃.၁၂.၁၂.၁၆)
+081.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/23-12-2016-4.mp3|အလုပ္ေပးတရားေတာ္ (၂၃.၁၂.၁၆)
+082.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/Dec-2016/23-12-2016-5.mp3|တရားထိုင္စဥ္ေဟာၾကားေသာအလုပ္ေပးတရားေတာ္ (၂၃.၁၂.၁၂.၁၆)
+083.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/316%2051116/51116AM9316.mp3|သီလေပးအလုပ္ေပးတရားေတာ္ (၅.၁၁.၁၆) (9am)
+084.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/316%2051116/51116AM11%20316.mp3|တရားထိုင္စဥ္ ေဟာၾကားေသာ အလုပ္ေပး တရားေတာ္ (၅.၁၁.၂၀၁၆)(11am)
+085.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/316%2051116/51116PM2%20316.mp3|တရားထိုင္စဥ္ ေဟာၾကားေသာ အလုပ္ေပး တရားေတာ္ (၅.၁၁.၂၀၁၆)(2:30pm)
+086.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/316%2051116/51116PM5%20316.mp3|ညခ်မ္း အလုပ္ေပး တရားေတာ္ (၅.၁၁.၂၀၁၆)(5pm)
+087.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/41116/41116PM3%20YAWGIYINSIN.mp3|ေယာဂီ က်င့္စဥ္တရားေတာ္ (၄.၁၁.၁၆) (3pm)
+088.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/41116/41116PM4SITTING.mp3|တရားထိုင္စဥ္ ေဟာၾကားေသာ အလုပ္ေပး တရားေတာ္ (၄.၁၁.၂၀၁၆)(4am)
+089.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/41116/41116%20PM5%20SITTING.mp3|တရားထိုင္စဥ္ ေဟာၾကားေသာ အလုပ္ေပး တရားေတာ္ (၄.၁၁.၂၀၁၆)(5am)
+090.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/41116/41116%20PM%207.mp3|ညခ်မ္း အလုပ္ေပး တရားေတာ္ (၄.၁၁.၂၀၁၆)(7 pm)
+091.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/315%20291016/291016%20AM10315.mp3|သီလေပးအလုပ္ေပးတရားေတာ္ (၂၉.၁၀.၁၆) (9am)
+092.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/315%20291016/291016PM2315.mp3|တရားထိုင္စဥ္ ေဟာၾကားေသာ အလုပ္ေပး တရားေတာ္ (၂၉.၁၀.၂၀၁၆)(1pm)
+093.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/315%20291016/291016PM330315.mp3|တရားထိုင္စဥ္ ေဟာၾကားေသာ အလုပ္ေပး တရားေတာ္ (၂၉.၁၀.၂၀၁၆)(2:30pm)
+094.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/315%20291016/291016pm8315.mp3|ညခ်မ္း အလုပ္ေပး တရားေတာ္ (၂၉.၁၀.၂၀၁၆)(7pm)
+095.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/315%20301016/301016AM9315.mp3|သီလေပးအလုပ္ေပးတရားေတာ္ (၃၀.၁၀.၁၆) (9am)
+096.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/315%20301016/301016AM1130%20315.mp3|တရားထိုင္စဥ္ ေဟာၾကားေသာ အလုပ္ေပး တရားေတာ္ (၃၀.၁၀.၂၀၁၆)(11am)
+097.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/315%20301016/301016PM2%20315.mp3|တရားထိုင္စဥ္ ေဟာၾကားေသာ အလုပ္ေပး တရားေတာ္ (၃၀.၁၀.၂၀၁၆)(2pm)
+098.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/315%20301016/301016PM630%20315.mp3|တရားထိုင္စဥ္ ေဟာၾကားေသာ အလုပ္ေပး တရားေတာ္ (၃၀.၁၀.၂၀၁၆)(6:30pm)
+099.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/THITSARPARAMI2016/315%20301016/301016PM7%20%20315.mp3|အလုပ္ေပး တရားေတာ္ (၃၀.၁၀.၂၀၁၆)(7pm)
+100.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/singapore-2016/july/01.mp3|၁။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၁) (၈.၇.၂၀၁၆)
+101.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/singapore-2016/july/02.mp3|၂။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂) (၈.၇.၂၀၁၆)
+102.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/singapore-2016/july/03.mp3|၃။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၃) (၈.၇.၂၀၁၆)
+103.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/singapore-2016/july/04.mp3|၄။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၄) (၉.၇.၂၀၁၆)
+104.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/singapore-2016/july/05.mp3|၅။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၅) (၉.၇.၂၀၁၆)
+105.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/singapore-2016/july/06.mp3|၆။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၆) (၉.၇.၂၀၁၆)
+106.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/singapore-2016/july/07.mp3|၇။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၇) (၁၀.၇.၂၀၁၆)
+107.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/singapore-2016/july/08.mp3|၈။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၈) (၁၀.၇.၂၀၁၆)
+108.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/singapore-2016/july/09.mp3|၉။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၉) (၁၀.၇.၂၀၁၆)
+109.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/singapore-2016/july/chanthar%20say%20%20a%20kyint%204%20kyint.mp3|၁၀။ ခ်မ္း သာ ေစ တတ္ တဲ့ အက်င့္ ေလး က်င့္ (၁၃.၇.၂၀၁၆) (ေန လည္ ပိုင္း)
+110.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2016-sydney/U-Zaw-TiKa-Pakkokku-LayYinKwin-Sayadaw-01-06-2016-Sydney.mp3|၁။ တရားေတာ္ အပိုင္း(၁) – Sydney (၀၁.၀၆.၂၀၁၆)
+111.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2016-sydney/U-Zaw-TiKa-Pakkokku-LayYinKwin-Sayadaw-02-06-2016-Sydney.mp3|၂။ တရားေတာ္ အပိုင္း(၂) – Sydney (၀၂.၀၆.၂၀၁၆)
+112.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2016-sydney/U-Zaw-TiKa-Pakkokku-LayYinKwin-Sayadaw-03-06-2016-Sydney.mp3|၃။ တရားေတာ္ အပိုင္း(၃) – Sydney (၀၃.၀၆.၂၀၁၆)
+113.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2016-sydney/U-Zaw-TiKa-Pakkokku-LayYinKwin-Sayadaw-04-06-2016-Sydney.mp3|၄။ တရားေတာ္ အပိုင္း(၄) – Sydney (၀၄.၀၆.၂၀၁၆)
+114.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2016-sydney/U-Zaw-TiKa-Pakkokku-LayYinKwin-Sayadaw-05-06-2016-Sydney.mp3|၅။ တရားေတာ္ အပိုင္း(၁) – Sydney (၀၅.၀၆.၂၀၁၆)
+115.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2016-sydney/U-Zaw-TiKa-Pakkokku-LayYinKwin-Sayadaw-07-06-2016-Sydney.mp3|၆။ တရားေတာ္ အပိုင္း(၆) – Sydney (၀၇.၀၆.၂၀၁၆)
+116.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/SG/1st%20day%202pm%20thin%20dan%20tayar%205.3.16.mp3|၁။ သင္တန္း တရားေတာ္ (၂၅.၃.၂၀၁၆)
+117.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/SG/1st%20day%20evening%20-taya%20khan%20a%20shar%20mhar%20mar%20soe%20tal%20tayar-25.3.16.mp3|၂။ တရားခံ အရွာမွားမွာစိုးတယ္ တရားေတာ္ (၂၅.၃.၂၀၁၆)
+118.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/SG/1st%20day%20morning-a%20lote%20pay%20tayar%20%281%29-%2025.3.16.mp3|၃။ အလုပ္ေပး တရားေတာ္ (၂၅.၃.၂၀၁၆)
+119.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/SG/2nd%20%20day%20morning%20-%20a%20lote%20pay%20tayar%20%282%29-26.3.16.mp3|၄။ အလုပ္ေပး တရားေတာ္ (၂၆.၃.၂၀၁၆)
+120.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/SG/2nd%20day%202pm%20thin%20dan%20tayar%20-26.3.16.mp3|၅။ သင္တန္း တရားေတာ္ (၂၆.၃.၂၀၁၆)
+121.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/SG/2nd%20day%20evening-%20a%20hlu%20shin%20hnit%20a%20hlu%20khan%20tayar%20-26.3.16.mp3|၆။ အလွဴရွင္ႏွင့္ အလွဴခံ တရားေတာ္ (၂၆.၃.၂၀၁၆)
+122.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/SG/3rd%20day%202pm%20thin%20dan%20tayar%2026.3.16.mp3|၇။ သင္တန္း တရားေတာ္ (၂၇.၃.၂၀၁၆)
+123.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/SG/3rd%20day%20evening%20bay%20u%20pat%20an%20da%20yal%20kin%20nee%20tayar%2027.3.16.mp3|၈။ ေဘးဥပါဒ္အႏၱရာယ္ကင္းနည္း တရားေတာ္ (၂၇.၃.၂၀၁၆)
+124.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/SG/3rd%20day%20morning%20a%20lote%20pay%20tayar%2026.3.16.mp3|၉။ အလုပ္ေပး တရားေတာ္ (၂၇.၃.၂၀၁၆)
+125.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0120%20-%205.2.2016%209AM.mp3|၁။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၅.၂.၂၀၁၆)
+126.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0121%20-%205.2.2016%202PM.mp3|၂။ က်င့္စဥ္အလုပ္ေပးတရားေတာ္ (၅.၂.၂၀၁၆)
+127.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0122%20-%205.2.2016%205PM.mp3|၃။ လူခ်စ္လူခင္မ်ားေအာင္ေနၾကတရားေတာ္ (၅.၂.၂၀၁၆)
+128.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0123%20-%206.2.2016%209AM.mp3|၄။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၆.၂.၂၀၁၆)
+129.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0124%20-%206.2.2016%202PM.mp3|၅။ က်င့္စဥ္အလုပ္ေပးတရားေတာ္ (၆.၂.၂၀၁၆)
+130.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0125%20-%206.2.2016%205PM.mp3|၆။ ဒုကၡသစၥာေၾကာင္းတရားေတာ္ (၆.၂.၂၀၁၆)
+131.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0126%20-%207.2.2016%209AM.mp3|၇။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၇.၂.၂၀၁၆)
+132.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0127%20-%207.2.2016%202PM.mp3|၈။ က်င့္စဥ္အလုပ္ေပးတရားေတာ္ (၇.၂.၂၀၁၆)
+133.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0128%20-%207.2.2016%205PM.mp3|၉။ ဒိ႒ိျဖဳတ္တရားေတာ္
+134.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0129%20-%208.2.2016%209AM.mp3|၁၀။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၈.၂.၂၀၁၆)
+135.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0130%20-%208.2.2016%202PM.mp3|၁၁။ က်င့္စဥ္အလုပ္ေပးတရားေတာ္ (၈.၂.၂၀၁၆)
+136.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0131%20-%208.2.2016%205PM.mp3|၁၂။ ေလာင္စာႏွင့္မီးတရားေတာ္(၈.၂.၂၀၁၆)
+137.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0132%20-%209.2.2016%209AM.mp3|၁၃။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၉.၂.၂၀၁၆)
+138.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0133%20-%209.2.2016%202PM.mp3|၁၄။ က်င့္စဥ္အလုပ္ေပးတရားေတာ္ (၉.၂.၂၀၁၆)
+139.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0134%20-%209.2.2016%205PM.mp3|၁၅။ ေမြ႔ေလ်ာ္တပ္မက္မူကိုပယ္စြန္႔ျခင္းတရားေတာ္ (၉.၂.၂၀၁၆)
+140.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2015-sydney/U-Zaw-TiKa-Pakkokku-LayYinKwin-Sayadaw-01-06-2015-Sydney.mp3|၁။ တရားေတာ္ အပိုင္း(၁) – Sydney (၀၁.၀၆.၂၀၁၅)
+141.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2015-sydney/U-Zaw-TiKa-Pakkokku-LayYinKwin-Sayadaw-03-06-2015-Sydney.mp3|၂။ တရားေတာ္ အပိုင္း(၂) – Sydney (၀၃.၀၆.၂၀၁၅)
+142.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/2015-sydney/U-Zaw-TiKa-Pakkokku-LayYinKwin-Sayadaw-31-05-2015-Sydney.mp3|၃။ တရားေတာ္ အပိုင္း(၃) – Sydney (၃၁.၀၅.၂၀၁၆)
+143.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0087%20-%20%205.2.2015%201st%20day%20opening%20tayar.mp3|၁။ တရားစခန္းအဖြင့္ၾသ၀ါဒတရားေတာ္ (၅.၂.၂၀၁၅)
+144.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0088%20-%206.2.2015%20%202nd%20day%20thila%20pay%20-%20a%20lote%20pay%20tayar.mp3|၂။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၆.၂.၂၀၁၅)
+145.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0089%20-%206.2.2015%20%202nd%20day%20thin%20dan%20tayar.mp3|၃။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၆.၂.၂၀၁၅)
+146.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0090%20-%206.2.2015%20%202nd%20day%20thit%20sar%20thi%20aung%20kyo%20sar%20par.mp3|၄။ သစၥာသိေအာင္ၾကိဳးစားပါတရားေတာ္ (၆.၂.၂၀၁၅)
+147.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0091-%207.2.2015%20%203rd%20day%20thila%20pay%20-%20alote%20pay.mp3|၅။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၇.၂.၂၀၁၅)
+148.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0092%20-%207.2.2015%20%203rd%20day%20thindan%20tayar.mp3|၆။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၇.၂.၂၀၁၅)
+149.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0093%20-%207.2.2015%20%203rd%20day-yadanar%20a%20sit%20ko%20thi%20par%20say.mp3|၇။ ရတနာစစ္ကိုသိပါေစတရားေတာ္ (၇.၂.၂၀၁၅)
+150.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0094%20-%208.2.2015%20%204th%20day%20thila%20pay%20-%20alote%20pay.mp3|၈။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၈.၂.၂၀၁၅)
+151.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0095%20-%208.2.2015%20%204th%20day%20thindan%20tayar.mp3|၉။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၈.၂.၂၀၁၅)
+152.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0096%20-%208.2.2015%20%204th%20day-night%20a%20lote%20pay%20tayar.mp3|၁၀။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္္ (၈.၂.၂၀၁၅)
+153.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0097%20-%209.2.2015%20%205th%20day%20-morning%20a%20lote%20pay%20tayar.mp3|၁၁။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၉.၂.၂၀၁၅)
+154.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0098%20-%209.2.2015%20%205th%20day%20thilapay-%20a%20lote%20pay%20tayar.mp3|၁၂။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၉.၂.၂၀၁၅)
+155.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0099%20-%209.2.2015%205th%20day%20thin%20dan%20tyar.mp3|၁၃။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၉.၂.၂၀၁၅)
+156.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0100%20-%209.2.2015%205th%20day-night%20a%20lote%20pay%20tayar.mp3|၁၄။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၉.၂.၂၀၁၅)
+157.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0101%20-%2010.2.2015%206th%20day%20-a%20har%20ya%20a%20lote%20pay%20tayar.mp3|၁၅။ အာဟာသံုးေဆာင္စဥ္႐ႈမွတ္နည္းတရားေတာ္ (၁၀.၂.၂၀၁၅)
+158.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0102-%2010.2.2015%206th%20day%20morning%20a%20lote%20pay.mp3|၁၆။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၁၀.၂.၂၀၁၅)
+159.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0103-%2010.2.2015%206th%20day%20-pal%20ya%20mel%20ki%20lay%20thar%20thone%20myo%20tayar.mp3|၁၇။ ပယ္ရမယ့္ကိေလသာသံုးမ်ိဳးတရားေတာ္ (၁၀.၂.၂၀၁၅)
+160.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0105%20-%2010.2.2015%20%206th%20day-thin%20dan%20tayar.mp3|၁၈။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၁၀.၂.၂၀၁၅)
+161.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0106%20-%2011.2.2015%207th%20day%20morning%20a%20lote%20pay.mp3|၁၉။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၁၁.၂.၂၀၁၅)
+162.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0107%20-%2011.2.2015%207th%20day-a%20kyo%20myar%20say%20thaw%20thar%20tha%20nar.mp3|၂၀။ အက်ိဳးမ်ားေစေသာသာသနာတရားေတာ္ (၁၁.၂.၂၀၁၅)
+163.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0108%20-%2024.9.2015%20day%201%204pm%20a%20lote%20pay%20tayar1.mp3|၂၁။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂၄.၉.၂၀၁၅)
+164.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0109%20%20-%2024.9.2015%20day%201%205pm-a%20lote%20pay%20tayar2.mp3|၂၂။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂၄.၉.၂၀၁၅)
+165.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0110%20%20-%2024.9.2015%20day1%20%20night-%20lu%20chit%20lu%20khin%20paw%20aung%20nay%20nee.mp3|၂၃။ လူခ်စ္လူခင္ေပါေအာင္ေနနည္းတရားေတာ္ (၂၄.၉.၂၀၁၅)
+166.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0111%20-%2025.9.2015%202day%202pm%20a%20lote%20pay%20tayar.mp3|၂၄။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂၅.၉.၂၀၁၅)
+167.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0112%20%20-%2025.9.2015%202day%20night%20thin%20dan%20tayar..mp3|၂၅။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၂၅.၉.၂၀၁၅)
+168.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0113%20-%2026.9.2015%203rd%20day%202pm%20a%20lote%20pay%20tayar.mp3|၂၆။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂၆.၉.၂၀၁၅)
+169.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0114%20%20-%2026.9.2015%203rd%20day%204%20pm%20thin%20dan%20tayar.mp3|၂၇။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၂၆.၉.၂၀၁၅)
+170.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0115%20%20-%2026.9.2015%203rd%20day%20night.mp3|၂၈။ သူေတာ္ေကာင္းေတြရဲ႕တရားအလွဴေတာ္ (၂၆.၉.၂၀၁၅)
+171.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0116%20%20-%2027.9.2015%204th%20day%20mornig.mp3|၂၉။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂၇.၉.၂၀၁၅)
+172.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0117%20-%2027.9.2015%204day%202pm%20a%20lote%20pay%20tayar.mp3|၃၀။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂၇.၉.၂၀၁၅)
+173.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0118%20-%2027.9.2015%204th%20day%204pm--thin%20dan%20tayar.mp3|၃၁ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၂၇.၉.၂၀၁၅)
+174.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-2/0119%20-%2027.9.2015%204th%20day%20dhamma%20question%20and%20answers.mp3|၃၂။ ဓမၼအေမးအေျဖမ်ား တရားေတာ္ (၂၇.၉.၂၀၁၅)
+175.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0032-30.1.2014-day1-7pm.mp3|၁။ တရားစခန္းအဖြင့္ၾသ၀ါဒတရားေတာ္ (၃၀.၁.၂၀၁၄)
+176.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0033-31.1.2014-day1-430am.mp3|၂။ အလုပ္ေပးတရားေတာ္ (၃၁.၁.၂၀၁၄)
+177.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0034-31.1.2014-day1-7am.mp3|၃။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၃၁.၁.၂၀၁၄)
+178.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0035-31.1.2014-day1-930am.mp3|၄။ အလုပ္ေပးတရားေတာ္ (၃၁.၁.၂၀၁၄)
+179.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0036-31.1.2014-day1-2pm.mp3|၅။ အလုပ္ေပးတရားေတာ္ (၃၁.၁.၂၀၁၄)
+180.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0037-31.1.2014-day1-330pm.mp3|၆။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၃၁.၁.၂၀၁၄)
+181.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0038-31.1.2014-day1-5pm.mp3|၇။ အလုပ္ေပးတရားေတာ္ (၃၁.၁.၂၀၁၄)
+182.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0039-1.2.2014-day2-430am.mp3|၈။ အလုပ္ေပးတရားေတာ္ (၁.၂.၂၀၁၄)
+183.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0040-1.2.2014-day2-7am.mp3|၉။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၁.၂.၂၀၁၄)
+184.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0041-1.2.2014-day2-930am.mp3|၁၀။ အလုပ္ေပးတရားေတာ္ (၁.၂.၂၀၁၄)
+185.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0042-1.2.2014-day2-2pm.mp3|၁၁။ အလုပ္ေပးတရားေတာ္ (၁.၂.၂၀၁၄)
+186.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0043-1.2.2014-day2-330pm.mp3|၁၂။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၃၁.၁.၂၀၁၄)
+187.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0044-2.2.2014-day3-430am.mp3|၁၃။ အလုပ္ေပးတရားေတာ္ (၂.၂.၂၀၁၄)
+188.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0045-2.2.2014-day3-730am.mp3|၁၄။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၂.၂.၂၀၁၄)
+189.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0046-2.2.2014-day3-930am.mp3|၁၅။ အလုပ္ေပးတရားေတာ္ (၂.၂.၂၀၁၄)
+190.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0047-2.2.2014-day3-2pm.mp3|၁၆။ အလုပ္ေပးတရားေတာ္ (၂.၂.၂၀၁၄)
+191.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0048-2.2.2014-day3-330pm.mp3|၁၇။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂.၂.၂၀၁၄)
+192.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0049-2.2.2014-day3-5pm.mp3|၁၈။ အလုပ္ေပးတရားေတာ္ (၂.၂.၂၀၁၄)
+193.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0050-3.2.2014-day4-430am.mp3|၁၉။ အလုပ္ေပးတရားေတာ္ (၃.၂.၂၀၁၄)
+194.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0051-3.2.2014-day4-7am.mp3|၂၀။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၃.၂.၂၀၁၄)
+195.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0052-3.2.2014-day4-930am.mp3|၂၁။ အလုပ္ေပးတရားေတာ္ (၃.၂.၂၀၁၄)
+196.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0053-3.2.2014-day4-2pm.mp3|၂၂။ အလုပ္ေပးတရားေတာ္ (၃.၂.၂၀၁၄)
+197.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0054-3.2.2014-day4-330pm.mp3|၂၃။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၃.၂.၂၀၁၄)
+198.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0055-4.2.2014-day5-430am.mp3|၂၄။ အလုပ္ေပးတရားေတာ္ (၄.၂.၂၀၁၄)
+199.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0056-4.2.2014-7am.mp3|၂၅။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၄.၂.၂၀၁၄)
+200.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0057-4.2.2014-day5-930am.mp3|၂၆။ အလုပ္ေပးတရားေတာ္ (၄.၂.၂၀၁၄)
+201.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0058-4.2.2014-day5-2pm.mp3|၂၇။ အလုပ္ေပးတရားေတာ္ (၄.၂.၂၀၁၄)
+202.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0059-4.2.2014-day5-330Pm.mp3|၂၈။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၄.၂.၂၀၁၄)
+203.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0060-5.2.2014-day6-430am.mp3|၂၉။ အလုပ္ေပးတရားေတာ္ (၅.၂.၂၀၁၄)
+204.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0061-5.2.2014-day6-7am.mp3|၃၀။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၅.၂.၂၀၁၄)
+205.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0062-5.2.2014-day6-930am.mp3|၃၁။ အလုပ္ေပးတရားေတာ္ (၅.၂.၂၀၁၄)
+206.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0063-5.2.2014-day6-2pm.mp3|၃၂။ အလုပ္ေပးတရားေတာ္ (၅.၂.၂၀၁၄)
+207.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0064-5.2.2014-day6-330pm.mp3|၃၃။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၅.၂.၂၀၁၄)
+208.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0065-5.2.2014-day6-5pm.mp3|၃၄။ အလုပ္ေပးတရားေတာ္ (၅.၂.၂၀၁၄)
+209.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0066-6.2.2014-day7-430am.mp3|၃၅။ အလုပ္ေပးတရားေတာ္ (၅.၂.၂၀၁၄)
+210.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0067-6.2.2014-day7-7am.mp3|၃၆။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၅.၂.၂၀၁၄)
+211.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0068-6.2.2014-day7-930am.mp3|၃၇။ အလုပ္ေပးတရားေတာ္ (၅.၂.၂၀၁၄)
+212.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0069-6.2.2014-day7-230pm.mp3|၃၈။ စခန္းသိမ္းၾသ၀ါဒတရားေတာ္ (၅.၂.၂၀၁၄)
+213.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0070-22.10.20142pm.mp3|၃၉။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂၂.၁၀.၂၀၁၄)
+214.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0071-22.10.20144pm.mp3|၄၀။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂၂.၁၀.၂၀၁၄)
+215.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0072-22.10.20145pm.mp3|၄၁။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၂၂.၁၀.၂၀၁၄)
+216.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0073-22.10.2014night.mp3|၄၂။ က်င္႔သုံးဖြယ္ရာ နည္းသုံးျဖာ တရားေတာ္ (၂၂.၁၀.၂၀၁၄)
+217.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0074-23.10.20142pm.mp3|၄၃။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂၃.၁၀.၂၀၁၄)
+218.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0075-23.10.20145pm.mp3|၄၄။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၂၃.၁၀.၂၀၁၄)
+219.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0076-23.10.2014night.mp3|၄၅။ သစၥာတရားေတာ္ (၂၃.၁၀.၂၀၁၄)
+220.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0077-24.10.20142pm.mp3|၄၆။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂၄.၁၀.၂၀၁၄)
+221.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0078-24.10.20144pm.mp3|၄၇။ အလုပ္ေပးတရားေတာ္ (၂၄.၁၀.၂၀၁၄)
+222.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0079-24.10.20145pm.mp3|၄၈။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၂၄.၁၀.၂၀၁၄)
+223.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0080-24.10.2014night.mp3|၄၉။ သစၥာတရားေတာ္ (၂၄.၁၀.၂၀၁၄)
+224.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0081-25.10.20142pm.mp3|၅၀။ ၀ိပႆနာအလုပ္ေပးတရားေတာ္ (၂၅.၁၀.၂၀၁၄)
+225.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0082-25.10.20145pm.mp3|၅၁။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၂၅.၁၀.၂၀၁၄)
+226.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0083-25.10.20148pm.mp3|၅၂။ သစၥာတရားေတာ္ (၂၅.၁၀.၂၀၁၄)
+227.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0085-26.10.20142pm.mp3|၅၄။ ပဋိစၥသမုပၸါဒ္သင္တန္းတရားေတာ္ (၂၆.၁၀.၂၀၁၄)
+228.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0086-26.10.20145pm.mp3|၅၅။ သစၥာတရားေတာ္ (၂၆.၁၀.၂၀၁၄)
+229.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0001-5July2013-5pm-part1-PaTakeSaThaMotePart_R1.mp3|၁။ ပဋိစၥသမုပၸါဒ္တရားေတာ္ (၅.၇.၂၀၁၃)
+230.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0002-6July2013-2pm-PaTakeSaThaMotePart_R1.mp3|၂။ ပဋိစၥသမုပၸါဒ္တရားေတာ္ (၆.၇.၂၀၁၃)
+231.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0003-7July2013-3.30pm-ALotePayTaYar_R1.mp3|၃။ အလုပ္ေပးတရားေတာ္ (၇.၇.၂၀၁၃)
+232.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0004-7July2013-5pm-PaTakeSaThaMotePart-AhWakeZarTaNar_R1.mp3|၄။ ပဋိစၥသမုပၸါဒ္ အ၀ိဇၨာတဏွာ တရားေတာ္ (၇.၇.၂၀၁၃)
+233.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0005-13July2013-2.15pm-DarNaKuTho_R1.mp3|၅။ ဒါနကုသိုလ္တရားေတာ္္ (၁၃.၇.၂၀၁၃)
+234.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0006-13July2013-3.41pm-ALotePayTaYar_R1.mp3|၆။ အလုပ္ေပးတရားေတာ္ (၁၃.၇.၂၀၁၃)
+235.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0007-14July2013-2.20pm-ChanTharChin5Myo_R1.mp3|၇။ ခ်မ္းသာျခင္း(၅)မ်ိဳးတရားေတာ္ (၁၄.၇.၂၀၁၃)
+236.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0008-14July2013-5.05pm-DarNa3MyoandWaiDaNarShuKwekMyar_R1.mp3|၈။ ဒါန(၃)မ်ိဳးႏွင့္ေ၀ဒနာ႐ႈကြက္မ်ားတရားေတာ္ (၁၄.၇.၂၀၁၃)
+237.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0009-20July2013-2.20pm-PaTakeSaThaMotePart-SinYeYaChinAKyaungYin_R1.mp3|၉။ ဆင္းရဲရျခင္းအေၾကာင္းရင္းတရားေတာ္ (၂၀.၃.၂၀၁၃)
+238.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0010-20July2013-3.30pm-ALotePayTaYar_R1.mp3|၁၀။ အလုပ္ေပးတရားေတာ္ (၂၀.၃.၂၀၁၃)
+239.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0011-20July2013-5pm-PaTakeSaThaMotePart-AKyaungTaYarThonePar.Part1_R1.mp3|၁၁။ အေၾကာင္းတရားသံုးပါးတရားေတာ္ (၂၀.၃.၂၀၁၃)
+240.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0012-23July2013-2.28pm-ANarGatBayNgarParMaSauntYanandWutThoneWaPhyatYan_R1.mp3|၁၂။ အနာဂတ္ေဘး(၅)ပါးမေစာင့္ရန္ႏွင့္၀ဋ္သံုး၀ျပတ္ရန္တရားေတာ္ (၂၃.၇.၂၀၁၃)
+241.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0013-23July2013-3.45pm-ALotePayTaYar_R1.mp3|၁၃။ အလုပ္ေပးတရား (၂၃.၇.၂၀၁၃)
+242.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0014-23July2013-5.11pm-TharThaNarTwinTaYar_R1.mp3|၁၄။ သာသနာတြင္းတရား (၂၃.၇.၂၀၁၃)
+243.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0015-26July2013-2.10pm-KywekLayMyo_R1.mp3|၁၅။ ၾကြက္ေလးမ်ိဳးတရားေတာ္ (၂၆.၇.၂၀၁၆)
+244.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0016-26July2013-3.30pm-ALotePayTaYar_R1.mp3|၁၆။ အလုပ္ေပးတရား (၂၆.၇.၂၀၁၃)
+245.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0017-26July2013-5pm-YogiKyintSaYar_R1.mp3|၁၇။ ေယာဂီက်င့္စရာတရားေတာ္ (၂၆.၇.၂၀၁၃)
+246.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0018-27July2013-2.10pm-LoneLoneNaeHmanHmanKyint-Part.1_R1.mp3|၁၈။ သီလလံုလံုနဲ႔မွန္မွန္က်င့္တရားေတာ္ အပိုင္း(၁) (၂၇.၇.၂၀၁၃)
+247.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0019-27July2013-3.45pm-ALotePayTaYar_R1.mp3|၁၉။ အလုပ္ေပးတရား (၂၇.၇.၂၀၁၃)
+248.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0020-27July2013-5pm-LoneLoneNaeHmanHmanKyint-Part.2_R2.mp3|၂၀။ သီလလံုလံုနဲ႔မွန္မွန္က်င့္တရားေတာ္ အပိုင္း(၂) (၂၇.၇.၂၀၁၃)
+249.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0021-28July2013-2pm-MaKaungLayChatShaungNaingPhoeThaTiTaYarLetKaingHtar_Rev01.mp3|၂၁။ မေကာင္းေလးခ်က္ေရွာင္ႏိုင္ဖို႔သတိတရားလက္ကိုင္ထားတရားေတာ္ (၂၈.၇.၂၀၁၃)
+250.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0022-28July2013-5pm-MettaTaYar_Rev01.mp3|၂၂။ ေမတၱာတရား (၂၈.၇.၂၀၁၃)
+251.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0023-ALotePayTaYar-ThaTiPaHtan_R1.mp3|၂၃။ အလုပ္ေပးတရား – သတိပဌာန္
+252.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0024-DhammaTalkatArenaCountryClub_R1.mp3|၂၄။ ႀကီးပြားေၾကာင္းတရားေတာ္
+253.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0025-DokeKhaPhyitKyaung-Part.1_R1.mp3|၂၅။ ဒုကၡျဖစ္ေၾကာင္းတရားေတာ္ အပိုင္း(၁)
+254.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0026-DokeKhaPhyitKyaung-Part.2_R1.mp3|၂၆။ ဒုကၡျဖစ္ေၾကာင္းတရားေတာ္ အပိုင္း(၂)
+255.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0027-KarYaMeManALotePayTaYar_R1.mp3|၂၇။ အလုပ္ေပးတရားေတာ္
+256.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0028-MatGinNgarParHnintMatGinShitPar_R1.mp3|၂၈။ မဂၢင္ငါးပါးႏွင့္မဂၢင္ရွစ္ပါးတရားေတာ္
+257.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0029-MyatThawAHluKhan(WaSoMorningSession)_R1.mp3|၂၉။ ျမတ္ေသာအလွဴခံတရားေတာ္
+258.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0030-PaTakeSaThaMotePart-ASupThonePar_R1.mp3|၃၀။ ပဋိစၥသမုပၸါဒ္ အဆက္သံုးပါးတရားေတာ္
+259.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/UZTK%20MP3-1/0031-PaTakeSaThaMotePart-AKyaungTaYarThonePar.Part2_R1.mp3|၃၁။ ပဋိစၥသမုပၸါဒ္ အေၾကာင္းတရားသံုးပါးတရားေတာ္
+260.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/047-201304251926_UZTK-AhPhyuNAhPhyuPyet%20%281%29.mp3|၃၂။အျဖဴနဲ့အျဖဴပ်က္ ( ၂၅-၀၄-၂၀၁၃)
+261.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/048-201304261930_UZTK-MaTiKhinToneKaAMharKoCLoteMiHmarBe%20%282%29.mp3|၃၃။မသိခင္တုန္းကေတာ့အမွားလုပ္မိမွာဘဲ ( ၂၆-၀၄-၂၀၁၃)
+262.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/049-201304271930_UZTK-DhammaLetSintKernPwe%20%283%29.mp3|၃၄။ ဓမၼ လက္ဆင့္ကမ္းပြဲ ( ၂၇-၀၄-၂၀၁၃)
+263.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/050-201304281930_UZTK-KuThoBeLoLoteYaMei%20%284%29.mp3|၃၅။ ကုသိုလ္ဘယ္လိုလုပ္ရမယ္ ( ၂၈-၀၄-၂၀၁၃)
+264.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/051-201304291930_UZTK-TanTaYarSoDarGaungPyaungTeAhLote%20%285%29.mp3|၃၆။ သံသရာဆိုတာေခါင္းေျပာင္းတဲ့အလုပ္ ( ၂၉-၀၄-၂၀၁၃)
+265.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/052-201304301930_UZTK-KhanDar%20HnintPartWinKyin%20%286%29.mp3|၃၇။ ခႏၶာႏွင့္ပတ္ဝန္းက်င္ (၃၀-၀၄-၂၀၁၃)
+266.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/053-201305011930_UZTK-SoneMaAuWarDaPwe%20%287%29.mp3|၃၈။ (၀၁-၀၅-၂၀၁၃)
+267.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/054-201305021930_UZTK-ChitThuMoneThuMaShiAungNay%20%288%29.mp3|၃၉။ ခ်စ္သူမုန္းသူမရွိေအာင္ေန (၀၂-၀၅-၂၀၁၃)
+268.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/055-201305031930_UZTK-BayYanKingKwarTetTarnShayNee%20%289%29.mp3|၄၀။ ေဘးရန္ကင္းကြာသက္တမ္းရွည္နည္း (၀၃-၀၅-၂၀၁၃)
+269.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/056-201305041930_UZTK-KaungMyat%20Te%20AhMhyay%20%2810%29.mp3|၄၁။ေကာင္းျမတ္တဲ့အေမြ (၀၄-၀၅-၂၀၁၃)
+270.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/057-201305051930_UZTK-MaHmateMaThonKhine2Mar2HmanYarKoYoneKyiMei%20%2811%29.mp3|၄၂။ မမိွတ္မသုန္ခိုင္ခိုင္မာမာမွန္ရာကိုယံုႀကည္မယ္ (၀၅-၀၅-၂၀၁၃)
+271.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/058-201305061930_UZTK-PhaYarYeiWarDa%20%2812%29.mp3|၄၃။ ဘုရားရဲ့ ဝါဒ (၀၆ -၀၅-၂၀၁၃)
+272.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/059-201305071930_UZTK-BaWaSeeSar%2813%29.mp3|၄၄။ ဘဝဆည္းဆာ (၀၇-၀၅-၂၀၁၃)
+273.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/060-201305081930_UZTK-TaYarTaBaw%20%2814%29.mp3|၄၅။ တရားသေဘာ (၀၈-၀၅-၂၀၁၃)
+274.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/001-1U_Zawthika_%28Pakkouku%29-WayYarWitSa_ASoneAMa-16-JAN-2010-8.45pm.mp3|၁။ ေဝယ်ာဝစၥ အဆံုးအမ (၁၆.၀၁.၂၀၁၀)
+275.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/002-1U_Zawthika_%28Pakkouku%29-ACheinHnintNyanLePa-17-JAN-2010-9.00am.mp3|၂။ အခ်ိန္ႏွင့္ ဥာဏ္လွည့္ပါ (၁၇.၀၁.၂၀၁၀)
+276.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/003-2U_Zawthika_%28Pakkouku%29-Tayar_Nar_Nee-17-JAN-2010-3.00pm.mp3|၃။ တရားနာနည္း (၁၇.၀၁.၂၀၁၀)
+277.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/004-3U_Zawthika_%28Pakkouku%29-ThaPuYiThaDaNa-17-JAN-2010-7.00pm.mp3|၄။ သပူရိသဓန (၁၇.၀၁.၂၀၁၀)
+278.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/005-1U_Zawthika_%28Pakkouku%29-PaTateSaThaMotePartNautKyaungPyan-18-JAN-2010-9.00am.mp3|၅။ ပဋိစၥသမုပၸါဒ္ေနာက္ေၾကာင္းျပန္ (၁၈.၀၁.၂၀၁၀)
+279.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/006-2U_Zawthika_%28Pakkouku%29-AlotePayTaYar-18-JAN-2010-1.00pm.mp3|၆။ အလုပ္ေပးတရား (၁၈.၀၁.၂၀၁၀)
+280.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/007-3U_Zawthika_%28Pakkouku%29-PaTateSaThaMotePartAhHtarATho-18-JAN-2010-3.00pm.mp3|၇။ ပဋိစၥသမုပၸါဒ္အထားအသို (၁၈.၀၁.၂၀၁၀)
+281.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/008-4U_Zawthika_%28Pakkouku%29-ChanTharChin5Myo-18-JAN-2010-7.00pm.mp3|၈။ ခ်မ္းသာျခင္း (၅)မ်ဳိး (၁၈.၀၁.၂၀၁၀)
+282.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/009-1U_Zawthika_%28Pakkouku%29-YogiKyintPhweThila6Par-19-JAN-2010-9.00am.mp3|၉။ ေယာဂီက်င့္ဖြယ္သီလ (၆)ပါး (၁၉.၀၁.၂၀၁၀)
+283.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/010-2U_Zawthika_%28Pakkouku%29-KhandarPhyitSin-19-JAN-2010-3.00pm.mp3|၁၀။ ခႏၱာျဖစ္စဥ္ (၁၉.၀၁.၂၀၁၀)
+284.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20(117)/011-3U_Zawthika_(Pakkouku)-DukkhaEiLetDe-19-JAN-2010-7.00pm.mp3|၁၁။ ဒုကၡ (၁၉.၀၁.၂၀၁၀)
+285.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/012-1U_Zawthika_%28Pakkouku%29-PaTateSaThaMotePartANuLorMa-20-JAN-2010-9.00am.mp3|၁၂။ ပဋိစၥသမုပၸါဒ္ (၂၀.၀၁.၂၀၁၀)
+286.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/013-2U_Zawthika_%28Pakkouku%29-ThitSar2Khu-20-JAN-2010-3.00pm.mp3|၁၃။ သစၥာ(၂)ခု (၂၀.၀၁.၂၀၁၀)
+287.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/014-3U_Zawthika_%28Pakkouku%29-AKyaungHnintAKyoe-20-JAN-2010-7.00pm.mp3|၁၄။ အေၾကာင္းအက်ိဳး (၂၀.၀၁.၂၀၁၀)
+288.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/015-1U_Zawthika_%28Pakkouku%29-AharYaThoneSaungNee-21-JAN-2010-9.00am.mp3|၁၅။ အဟာရသံုးေဆာင္နည္း (၂၁.၀၁.၂၀၁၀)
+289.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/016-2U_Zawthika_%28Pakkouku%29-AkyaungAkyoe%28TawYiYaOoPaMa%29-21-JAN-2010-3.00pm.mp3|၁၆။ အေၾကာင္းအက်ိဳး (ေတာ္ရိယဥပမာ) (၂၁.၀၁.၂၀၁၀)
+290.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/017-3U_Zawthika_%28Pakkouku%29-PyoneTaeMegTae-21-JAN-2010-7.00pm.mp3|၁၇။ ၿပံဳးတယ္မဲ့တယ္ (၂၁.၀၁.၂၀၁၀)
+291.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/018-1U_Zawthika_%28Pakkouku%29-SinYeChinYeLetThe-22-JAN-2010-9.00am.mp3|၁၈။ ဆင္းရဲျခင္းရဲ႕ လက္သည္ (၂၂.၀၁.၂၀၁၀)
+292.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/019-2U_Zawthika_%28Pakkouku%29-BaWaAungMyinYeNeeLan-22-JAN-2010-1.30pm.mp3|၁၉။ ဘဝေအာင္ျမင္ေရးနည္းလမ္း( ၂၂-၀၁-၂၀၁၀)
+293.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/020-3U_Zawthika_%28Pakkouku%29-OoPyitSeDaDeitHtiPheKhan-22-JAN-2010-7.00pm.mp3|၂၀။ ဥပေစၧဒဒတၳိဖယ္ခန္း ( ၂၂-၀၁-၂၀၁၀)
+294.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/021-1U_Zawthika_%28Pakkouku%29-DarNaSoDaAShuKhan-02-02-2010-7.00pm.mp3|၂၁။ ဒါနဆိုတဲ့အရႈခံ ( ၀၂-၀၂-၂၀၁၀)
+295.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/022-1U_Zawthika_%28Pakkouku%29-WayDaNarShuPwarNee-03-02-2010-7.mp3|၂၂။ ေဝဒနာရႈပြားနည္း ( ၀၃-၀၂-၂၀၁၀)
+296.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/023-1U_Zawthika_%28Pakkouku%29OrGaLayPhyarThanTaYar-04-02-2010-7.00pm.mp3|၂၃။ ေအာဂါေလးျဖာသန္းတစ္ရာ ( ၀၄-၀၂-၂၀၁၀)
+297.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/024-1U_Zawthika_%28Pakkouku%29-AlotePayTayar-05-02-2010-8.30am.mp3|၂၄။ အလုပ္ေပးတရား ( ၀၅-၀၂-၂၀၁၀)
+298.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/025-2U_Zawthika_%28Pakkouku%29-WutThoneParHnintKyaeZuTayar-05-02-2010-7.00pm.mp3|၂၅။ ဝ၌သံုးပါးႏွင့္ေက်းဇူးတရား ( ၀၅-၀၂-၂၀၁၀)
+299.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/026-1U_Zawthika_%28Pakkouku%29-AlotePayTayar-06-02-2010-8.30am.mp3|၂၆။အလုပ္ေပးတရား ( ၀၆-၀၂-၂၀၁၀)
+300.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20(117)/027-2U_Zawthika_(Pakkouku)-PateteSaAshoneAnaing-06-02-2010-7.00pm.mp3|၂၇။ ပတီတိစအရံႈးအႏိုင္( ၀၆-၀၂-၂၀၁၀)
+301.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/028-1U_Zawthika_%28Pakkouku%29-AlotePayTayar-07-02-2010-8.30am.mp3|၂၈။ အလုပ္ေပးတရား ( ၀၇-၀၂-၂၀၁၀)
+302.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/029-2U_Zawthika_%28Pakkouku%29-ChitLyinMyatYeeKyaYaMe-07-02-2010-7.00pm.mp3|၂၉။ ခ်စ္ရင္မ်က္ရည္က်ရမယ္ ( ၀၇-၀၂-၂၀၁၀)
+303.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/030-1U_Zawthika_%28Pakkouku%29-AlotePayTayar-08-02-2010-8.30am.mp3|၃၀။ အလုပ္ေပးတရား ( ၀၈-၀၂-၂၀၁၀)
+304.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/031-2U_Zawthika_%28Pakkouku%29-TayarNarPyiTae%28Kyint%29Nee-08-02-2010-7.00pm.mp3|၃၁။ တရားနာျပီးတဲ့(က်င့္)နည္း ( ၀၈-၀၂-၂၀၁၀)
+305.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/032-20110302_192112_UZawTiKa%28PakkoukuLayYinKwin%29_KuThoMaPyiSoneKaNaungDaYa.mp3|၃၂။ကုသိုလ္မျပည့္စံုကေနာင္တရ ( ၀၂-၀၃-၂၀၁၁)
+306.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/033-20110303_191308_UZawTiKa%28PakkoukuLayYinKwin%29_ANhyoPyaeTayar.mp3|၃၃။ အျငိဳးေျပတရား ( ၀၃-၀၃-၂၀၁၁)
+307.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/034-20110304_190949_UZawTiKa%28PakkoukuLayYinKwin%29_PokeKo10Myo.mp3|၃၄။ ပုဂၢိဳလ္၁၀မ်ိဳး ( ၀၄-၀၃-၂၀၁၁)
+308.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/035-20110305_190616_UZawTiKa%28PakkoukuLayYinKwin%29_LawKaDan.mp3|၃၅။ ေလာကဒဏ္ ( ၀၅-၀၃-၂၀၁၁)
+309.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/036-20110306_190810_UZawTiKa%28PakkoukuLayYinKwin%29_LutMyautYarLutMyautKyaungAChaeKhanTayar5Par.mp3|၃၆။ လြတ္ေျမာက္ရာလြတ္ေျမာက္ေႀကာင္းအျဖည့္ခံတရား ( ၀၆-၀၃-၂၀၁၁)
+310.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/037-20110307_190922_UZawTiKa%28PakkoukuLayYinKwin%29_AMaeATwatTayarDaPote.mp3|၃၇။ အေမ့အတြက္တရား ( ၀၇-၀၃-၂၀၁၁)
+311.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/038-20110308_191404_UZawTiKa%28PakkoukuLayYinKwin%29_KaHtainTayar.mp3|၃၈။ ကထိန္တရား ( ၀၈-၀၃-၂၀၁၁)
+312.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/039-20110309_190813_UZawTiKa%28PakkoukuLayYinKwin%29_TawTarPanSitTan.mp3|၃၉။ ေသာတာပန္စစ္တမ္း ( ၀၉-၀၃-၂၀၁၁)
+313.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/040-20110310_190644_UZawTiKa%28PakkoukuLayYinKwin%29_SarTatYinTanTaYarPyatDe.mp3|၄၀။ စာတတ္ရင္သံသရာပ်က္တယ္ ( ၁၀-၀၃-၂၀၁၁)
+314.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/041-20110311_190943_UZawTiKa%28PakkoukuLayYinKwin%29_AhKoSayarASitShar.mp3|၄၁။ အားကိုးစရာအစစ္ရွာ ( ၁၁-၀၃-၂၀၁၁)
+315.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/042-20110312_191805_UZawTiKa%28PakkoukuLayYinKwin%29_AungMyinChinYeTawChat.mp3|၄၂။ ေအာင္ျမင္ျခင္းရဲ့ေတာ္ခ်က္ ( ၁၂-၀၃-၂၀၁၁)
+316.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/043-20110313_192533_UZawTiKa%28PakkoukuLayYinKwin%29_BuddhaNeeKyaTayarNarNee.mp3|၄၃။ ဗုဒၶနည္းက်တရားနာနည္း ( ၁၃-၀၃-၂၀၁၁)
+317.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/044-20110314_191225_UZawTiKa%28PakkoukuLayYinKwin%29_PuHtuSinTaeNee3Nee.mp3|၄၄။ ပုထုစင္တဲ့နည္းသံုးနည္း ( ၁၄-၀၃-၂၀၁၁)
+318.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/045-20110315_191308_UZawTiKa%28PakkoukuLayYinKwin%29_TaHnarTatChinLyinWayDaNaShu.mp3|၄၅။ တဏွာတက္ခ်င္လွ်င္ေဝဒနာရႈ ( ၁၅-၀၃-၂၀၁၁)
+319.mp3|https://media.thitsarparamisociety.com/mp3/Layyinkwin-Sayadaw/DVD%20%28117%29/046-20110316_191134_UZawTiKa%28PakkoukuLayYinKwin%29_YaHtarWiNiTaToteTan-2.mp3|၄၆။ ယထာဝီနိတ သုတ္တံ ( ၁၆-၀၃-၂၀၁၁)

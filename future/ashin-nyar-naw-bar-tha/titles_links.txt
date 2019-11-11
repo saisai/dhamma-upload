@@ -1,0 +1,42 @@
+001.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/6-12-2015/Thilapay.mp3|၁။(၈)ပါးသီလ
+002.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/20-12-2015/20-12-2015-1.mp3|၂။ အလုပ်ပေးတရားတော် (၂၀.၁၂.၂၀၁၅) စင်ကာပူ
+003.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/13-12-2015/1.mp3|၃။ အလုပ်ပေးတရားတော် (၁၃.၁၂.၂၀၁၅) စင်ကာပူ
+004.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/6-12-2015/Alotepay-tayartaw-6-12-2015.mp3|၄။ အလုပ်ပေးတရားတော် (၆.၁၂.၂၀၁၅) စင်ကာပူ
+005.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/29-11-15/Alotepay.mp3|၅။ အလုပ်ပေးတရားတော် (၂၉.၁၁.၂၀၁၅) စင်ကာပူ
+006.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/Alotepay.mp3|၆။ အလုပ်ပေးတရားတော် (၂၂.၁၁.၂၀၁၅) စင်ကာပူ
+007.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/karyar-nu-pa-thanar.mp3|၇။ ကာယာနုပဿနာ
+008.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Saittar-nu-pa-thanar-1.mp3|၈။ စိတ္တာနုပဿနာ (ပ)
+009.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Saittar-nu-pa-thanar-2.mp3|၉။ စိတ္တာနုပဿနာ (ဒု)
+010.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/dokkha-wadanar-nu-pa-thanar.mp3|၁၀။ ဒုက္ခဝေဒနာနုပဿနာ
+011.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/wai-danar-nu-pa-thanar.mp3|၁၁။ ဝေဒနာနုပဿနာ
+012.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Dhamma-nu-pa-thanar.mp3|၁၂။ ဓမ္မာနုပဿနာ
+013.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Zan-mha-wipathanar.mp3|၁၃။ ဈာန်မှဝိပဿနာသို့
+014.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/aw-warda-.mp3|၁၄။ ဖွင့်ပွဲဩဝါဒ
+015.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/win-lay-ti-alotepay.mp3|၁၅။ ဝင်လေသိအလုပ်ပေး
+016.mp3|https://thitsarparamisociety.com/wp-content/uploads/Dr%20Ashin%20Jayatissa/MP3/Sayadaw%20047_03092014.mp3|၁၆။ (၉.၀၃.၂၀၁၄) တခုတည်းရယ်
+017.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/20-12-2015/20-12-2015-3.mp3|၁၇။ ကံလမ်းသွားနှင့် ဉာဏ်လမ်းသွားတရားတော် (၂၀.၁၂.၂၀၁၅) စင်ကာပူ
+018.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/20-12-2015/20-12-2015-2.mp3|၁၈။ ပဋိစ္စသမုပ္ပါဒ် သင်တန်းတရားတော် (၂၀.၁၂.၂၀၁၅)စင်ကာပူ
+019.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/13-12-2015/3.mp3|၁၉။ ခေါင်းဆောင်စိတ်ထား (၁၃.၁၂.၂၀၁၅)စင်ကာပူ
+020.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/13-12-2015/2.mp3|၂၀။ ပဋိစ္စသမုပ္ပါဒ် သင်တန်းတရားတော် (၁၃.၁၂.၂၀၁၅)စင်ကာပူ
+021.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/6-12-2015/lawka-ko-nyan-ne-kyi-tayarwaw.mp3|၂၁။ လောကကို ဉာဏ်နဲ့ကြည့် တရားတော် (၆.၁၂.၂၀၁၅)စင်ကာပူ
+022.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/6-12-2015/thin-tan-tayar-6.12.2015.mp3|၂၂။ ပဋိစ္စသမုပ္ပါဒ် သင်တန်းတရားတော် (၆.၁၂.၂၀၁၅)စင်ကာပူ
+023.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/29-11-15/29-11-15-2.mp3|၂၃။ နောင်တ တဖန် မပူပန်ပါစေနှင့် တရားတော် (၂၉.၁၁.၂၀၁၅) စင်ကာပူ
+024.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/29-11-15/Alotepay-1.mp3|၂၄။ ပဋိစ္စသမုပ္ပါဒ် သင်တန်းတရားတော် (၂၉.၁၁.၂၀၁၅)စင်ကာပူ
+025.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/267-1.mp3|၂၅။ စိတ်ထင်ရာမလုပ်နဲ့ တရားတော် (၂၂.၁၁.၂၀၁၅)စင်ကာပူ
+026.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/267-2.mp3|၂၆။ ပဋိစ္စသမုပ္ပါဒ် သင်တန်းတရားတော် (၂၂.၁၁.၂၀၁၅)စင်ကာပူ
+027.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/kuyudhamma-tayardaw.mp3|၂၇။ ကုရုဓမ္မတရားတော်
+028.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Khandar-5par.mp3|၂၈။ ခန္ဓာငါးပါး
+029.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/khandar-nit-sap-thitsar.mp3|၂၉။ ခန္ဓာနှင့်စပ် သစ္စာ
+030.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/SaitHla-youte-Hla-2.mp3|၃၀။ စိတ်လှရုပ်လှ (ဒု)
+031.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/SaitHla-youte-Hla-1.mp3|၃၁။ စိတ်လှရုပ်လှ(ပ)
+032.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/pyittsoappan-myar-nay.mp3|၃၂။ ပစ္စုပ္ပန်မှာနေ
+033.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Buddhawin-1.mp3|၃၃။ ဗုဒ္ဓဝင် (ပ)
+034.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Buddhawin-2.mp3|၃၄။ ဗုဒ္ဓဝင် (ဒု)
+035.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Buddhawin-3.mp3|၃၅။ ဗုဒ္ဓဝင် (တ)
+036.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/win-lay-ti-.mp3|၃၆။ ဝင်လေသိထွက်လေသိ
+037.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Thanga-rakhita.mp3|၃၇။ သံဃရက္ခိတ တူ
+038.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/Thu-taung-sar-6-yout.mp3|၃၈။ သူတောင်းစား၆ ယောက်
+039.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/atwin-lu-soe-khwe-tha-khoe.mp3|၃၉။ အတွင်းလူဆိုး ခွေသူခိုး
+040.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/kaw-li-wi-tha-thaw-na.mp3|၄၀။ ကောဠိဝိသသောဏ
+041.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/khaung-nyaint-khaung-khar.mp3|၄၁။ ခေါင်းညိတ်ခေါင်းခါတတ်ပါစေ
+042.mp3|https://media.thitsarparamisociety.com/mp3/Ashin-Nyar-Naw-Bar-Tha/new/wai-danar.mp3|၄၂။ ဝဒနာ
