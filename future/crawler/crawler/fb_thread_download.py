@@ -67,7 +67,7 @@ class Converter(Thread):
         if not os.path.isfile(self.finished):
             lines = []
         else:
-            lines = [f.strip('\n').split('|')[1] for f in open(self.finished, 'r')]
+            lines = [f.strip('\n').split('|')[1] for f in open(self.finished, encoding='utf8')]
 
         if line.split('|')[1] in lines:
 

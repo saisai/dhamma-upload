@@ -39,7 +39,7 @@ from crawler import (get_html_mp4, check_duplicate,
 
 #check_duplicate('raw_titles_links.txt') #titles_links.txt
 #update_raw_titles_links('raw_titles_links.txt', 'titles_links.txt', 1)
-convert_myanmar_number_option('raw_titles_links.txt', 'titles_links.txt', 1)
+#convert_myanmar_number_option('raw_titles_links.txt', 'titles_links.txt', 1)
 
 
 #breaker_in_order(get_results('titles_links_desc.txt'))
@@ -59,7 +59,7 @@ def get_json_new():
 
 #get_json_new()
 #thread_upload_test_title('raw_json_title.txt')
-
+thread_download('titles_links.txt', 3)
 
 
 

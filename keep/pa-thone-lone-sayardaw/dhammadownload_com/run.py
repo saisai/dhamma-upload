@@ -58,10 +58,6 @@ def get_json_new():
 
 
 #get_json_new()
-thread_upload_test_title('raw_json_title.txt')
-
-
-
-
-
+#thread_upload_test_title('raw_json_title.txt')
+thread_download('titles_links.txt', 3)
 

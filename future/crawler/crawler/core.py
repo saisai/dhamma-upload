@@ -647,7 +647,7 @@ def check_duplicate(file_in):
     file_in = running_from_path+file_in
     
     
-    urls = [url.split('|')[1] for url in open(file_in)]
+    urls = [url.split('|')[1] for url in open(file_in, encoding='utf8')]
     
     total = 0
     for key, val in collections.Counter(urls).items():

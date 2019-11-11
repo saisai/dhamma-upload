@@ -64,7 +64,7 @@ get_json('titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, d
 '''
 
 
-thread_download('results.txt', 2)
+thread_download('results.txt', 3)
 #thread_download('titles_links.txt', 1)
 #thread_upload_test('raw_json_title.txt')
 #thread_upload_test_title('raw_json_title.txt')

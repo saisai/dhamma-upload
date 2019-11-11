@@ -55,9 +55,9 @@ source='\nsource from https://www.thitsarparamisociety.com/'
 get_json_files_in_same('titles_links.txt', 'titles_links.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 '''
 #get_json('raw_titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
-#thread_download('raw_titles_links.txt', 3)
+thread_download('titles_links.txt', 3)
 #thread_upload_test('raw_json_title.txt')
-thread_upload_test_title('raw_json_title.txt')
+#thread_upload_test_title('raw_json_title.txt')
 #thread_upload('raw_json_title.txt', 1)
 
 

@@ -50,10 +50,12 @@ class Converter(Thread):
         """Download file"""
 
             
-        t_start = time.clock()
-        t_elapsed = time.clock() - t_start
-        
-        print("* Thread: {} Download {} in {} seconds.".format(self.name, mp3file, str(t_elapsed)))   
+        #t_start = time.clock()
+        #t_elapsed = time.clock() - t_start
+        #perf_counter
+        #t_start = time.perf_counter()
+        #t_elapsed = time.perf_counter() - t_start        
+        #print("* Thread: {} Download {} in {} seconds.".format(self.name, mp3file, str(t_elapsed)))   
 
         filename = (mp3file.split('|')[0])
         url = (mp3file.split('|')[1])
@@ -102,7 +104,7 @@ def thread_download(file_in, threads=1):
 
     file_in = running_from_path + file_in
     
-    mp3s = [f.strip('\n') for f in open(file_in)]
+    mp3s = [f.strip('\n') for f in open(file_in, encoding='utf8')]
 
     convert_manager = ConvertManager(running_from_path, mp3s, threads)
     convert_manager.begin_convert()

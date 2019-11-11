@@ -58,7 +58,7 @@ get_json('titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, d
 
 #thread_download('raw_titles_links.txt', 3)
 #thread_upload_test('raw_json_title.txt')
-thread_upload_test_title('raw_json_title.txt')
+#thread_upload_test_title('raw_json_title.txt')
 #thread_upload('raw_json_title.txt', 1)
 
 
@@ -81,5 +81,7 @@ thread_upload_remote('raw_json_title.txt', running_from_path,
 
 
 #thread_convert_mp3_to_mp4_with_text('convert.txt', 2)
+thread_download('titles_links.txt', 3)
+
 
 
