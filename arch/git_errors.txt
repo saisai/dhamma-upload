@@ -1,0 +1,5 @@
+! [rejected]        master -> master (non-fast-forward)
+
+git push -f origin master
+
+https://code-examples.net/en/q/b278a7
