@@ -42,23 +42,23 @@ from crawler import (get_html_mp4, check_duplicate,
 #convert_myanmar_number_option('raw_titles_links.txt', 'titles_links.txt', 1)
 
 
-breaker_in_order(get_results('desc.txt'))
+#breaker_in_order(get_results('desc.txt'))
 
 #convert_myanmar_number('titles_links.txt', 'description.txt') # titles_links.txt description.txt
 
 def get_json_new():    
     
-    playlist = 'အရွင္ဣႏၵာစာရာဘိဝံသ ေဟာႀကားေတာ္မူေသာတရားေတာ္မ်ား'
-    description_title = 'အရွင္ဣႏၵာစာရာဘိဝံသ ေဟာႀကားေတာ္မူေသာတရားေတာ္မ်ား'
-    source='\nsource from http://www.dhammadownload.com' 
-    get_json_files_in_same('titles_links.txt', 'titles_links.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
-    #get_json('titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+    playlist = 'မုံလယ်ဆရာတော် ဦးသံဝရ ဟောကြားတော်မူသော တရားတော်များ'
+    description_title = 'ကျေးဇူးတော်ရှင် အဂ္ဂမဟာကမ္မဋ္ဌာနာစရိယ -မိုးကုတ်ဝိပဿနာ ကမ္မဋ္ဌာနာစရိယ မုံလယ်တောရ ဆရာတော်ဘုရားကြီး  ဦးသံဝရ ဟောကြားတော်မူသော တရားတော်များ'
+    source='\nsource from https://www.thitsarparamisociety.com/' 
+    #get_json_files_in_same('titles_links.txt', 'titles_links.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+    get_json('titles_links.txt', 'description.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
 
 
 
 #get_json_new()
-#thread_upload_test_title('raw_json_title.txt')
+thread_upload_test_title('raw_json_title.txt')
 
 
 

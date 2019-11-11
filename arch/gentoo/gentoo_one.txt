@@ -1,3 +1,16 @@
+https://wiki.gentoo.org/wiki/Systemd/Installing_Gnome3_from_scratch
+
+GRUB_CMDLINE_LINUX="rootfstype=ext4 real_init=/usr/lib/systemd/systemd dolvm domdadm"
+
+
+https://wiki.gentoo.org/wiki/Systemd
+
+https://wiki.sabayon.org/index.php?title=HOWTO:_Setup_VMWare-server
+
+https://devicehunt.com/search/type/usb/vendor/0E9B/device/any
+https://cateee.net/lkddb/web-lkddb/SATA_AHCI.html
+https://cateee.net/lkddb/web-lkddb/SCSI_SAS_ATTRS.html
+
 https://wiki.gentoo.org/wiki/Initramfs/Guide
 
 could not find the root block device in UUID means
@@ -512,6 +525,8 @@ hostname -f
 #result gen.local
 
 lsof / | egrep -i 'del.*libpam\.so'
+
+mount: mounting /dev/sda2 on /newroot invalid
 
 exit
 cd

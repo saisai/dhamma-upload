@@ -9,12 +9,14 @@ make install
 
 genkernel --install initramfs
 
+genkernel --install --real-root=/dev/sda2 initramfs
+
 grub-install /dev/sda
 
 grub-mkconfig -o /boot/grub/grub.cfg
 
 
-
+* Linux Kernel 5.3.8 for x86_64...
 
 mount /dev/sda2 /mnt/gentoo 
 mount /dev/sda1 /mnt/gentoo/boot
