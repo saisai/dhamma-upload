@@ -1,0 +1,163 @@
+https://wiki.archlinux.org/index.php/Kernel
+
+fdisk -l /dev/sda
+fdisk -t dos /dev/sda
+
+n 
+
+boot +10G
+/    rest
+
+mkfs.ext2 /dev/sda1 # /boot
+mkfs.ext4 /dev/sda2 # / (root file system)
+
+mkfs.ext2 /dev/sda1
+mkfs.ext4 /dev/sda2
+
+
+mount -v /dev/sda2 /mnt
+mkdir /mnt/boot
+mount -v /dev/sda1 /mnt/boot
+
+pacstrap -i /mnt base base-devel linux-zen
+
+genfstab -U -p /mnt >> /mnt/etc/fstab
+
+arch-chroot /mnt
+
+pacman -S --noconfirm vim mc dnsutils traceroute net-tools openssh unace unarj unrar zip p7zip grub sudo os-prober git
+
+# after installation check and added for internet connection
+cat > /etc/resolv.conf << "EOF"
+nameserver 192.168.1.1
+EOF
+
+https://wiki.archlinux.org/index.php/Systemd-resolved
+# to add nameserver in /etc/resolv.conf 
+vim /etc/systemd/resolved.conf
+[Resolve]
+DNS=192.168.1.1 # add gateway
+#FallbackDNS=1.1.1.1 9.9.9.10 8.8.8.8 2606:4700:4700::1111 2620:fe::10 2001:4860:4860::8888
+#Domains=
+#LLMNR=yes
+#MulticastDNS=yes
+#DNSSEC=allow-downgrade
+#DNSOverTLS=no
+#Cache=yes
+#DNSStubListener=yes
+#ReadEtcHosts=yes
+
+
+systemctl enable systemd-resolved
+
+
+
+
+cat > /etc/hosts << "EOF"
+127.0.0.1       localhost.localdomain   localhost user.local
+
+EOF
+
+rm -rfv /etc/localtime
+
+ln -s /usr/share/zoneinfo/Asia/Bangkok /etc/localtime
+
+hwclock --systohc --utc
+
+sed -i 's@#en_US\.U@en_US\.U@' /etc/locale.gen
+
+locale-gen
+
+echo LANG=en_US.UTF-8 > /etc/locale.conf
+
+export LANG=en_US.UTF-8
+
+cat > /etc/systemd/network/eth0.network << "EOF"
+# Begin /etc/systemd/network/eth0.network
+[Match]
+Name=eth0
+
+[Network]
+Address=192.168.1.150/24
+Gateway=192.168.1.1
+DNS=8.8.8.8
+DNS=8.8.4.4
+
+# End /etc/systemd/network/eth0.network
+EOF
+
+
+grep -n ^GRUB_CMDLINE_LINUX_DEFAULT /etc/default/grub
+
+Go to /etc/default/grub and find 4:GRUB_CMDLINE_LINUX_DEFAULT="quiet"
+
+replaced with GRUB_CMDLINE_LINUX_DEFAULT="ipv6.disable=1 net.ifnames=0 quiet"
+
+vim /etc/mkinitcpio.conf
+
+Added usr in /etc/mkinitcpio.conf if /usr used in partition
+HOOKS=(base udev autodetect modconf block filesystems keyboard usr fsck)
+HOOKS=(base udev autodetect modconf block keyboard keymap resume filesystems fsck) # from installing manjaro.org
+
+cd /boot
+mkinitcpio -p linux-zen
+
+grub-install --target=i386-pc --recheck /dev/sda
+grub-mkconfig -o /boot/grub/grub.cfg
+
+
+#Root login
+vim /etc/ssh/sshd_config
+
+#PermitRootLogin prohibit-password
+PermitRootLogin yes
+
+
+# To preventing mounting automatically if wanted
+systemctl mask tmp.mount
+
+# set the current time
+timedatectl set-ntp true
+
+
+Added user
+useradd -m -g users -G audio,lp,optical,storage,video,games,power,scanner,wheel -s /bin/bash user
+useradd -m -g users -G audio,lp,optical,storage,video,games,power,scanner,wheel -s /bin/bash snp
+passwd user
+
+passwd root
+
+
+# To give user root access 
+visduo
+
+%wheel ALL=(ALL) ALL
+
+#To start network
+systemctl enable systemd-networkd
+systemctl enable sshd
+
+exit
+
+umount -l /mnt
+reboot
+
+# after installation check and added for internet connection
+# if you can not ping other
+vim /etc/resolv.conf
+nameserver 192.168.1.1
+
+
+
+ip route show
+default via 192.168.1.1 dev eth0 proto static
+192.168.1.0/24 dev eth0 proto kernel scope link src 192.168.1.150
+
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+2: eth0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 00:0c:29:5d:8c:91 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.1.150/24 brd 192.168.1.255 scope global eth0
+       valid_lft forever preferred_lft forever
