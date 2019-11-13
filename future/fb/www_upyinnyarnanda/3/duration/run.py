@@ -124,11 +124,11 @@ def main():
     while True:
         if not os.path.isfile(cur_dir +'/duration.txt') and os.path.isfile(cur_dir +'/finished.txt'):
             print('first time')
-            get_fb_duration('links.txt', 'duration.txt', 'finished.txt', '../../geckodriver', threads)    
+            get_fb_duration('links.txt', 'duration.txt', 'finished.txt', '../geckodriver', threads)    
 
         elif not os.path.isfile(cur_dir +'/duration.txt') and not os.path.isfile(cur_dir +'/finished.txt'):
             print('second time')
-            get_fb_duration('links.txt', 'duration.txt', 'finished.txt', '../../geckodriver', threads)
+            get_fb_duration('links.txt', 'duration.txt', 'finished.txt', '../geckodriver', threads)
             
         elif os.path.isfile(cur_dir +'/duration.txt') and os.path.isfile(cur_dir +'/finished.txt'):
             print('compare links.txt and finished.txt')
@@ -138,7 +138,7 @@ def main():
                 print('test')
                 if not os.path.isfile(cur_dir +'/redo.txt'):
                     print('work')
-                    get_fb_duration('links.txt', 'duration.txt', 'finished.txt', '../../geckodriver', threads)
+                    get_fb_duration('links.txt', 'duration.txt', 'finished.txt', '../geckodriver', threads)
                     
                     # If there are NoneType in duration.txt
                     redo = cur_dir +'/redo.txt'
@@ -149,7 +149,7 @@ def main():
                     time.sleep(1) # sleep for 1 second  
                 else:
                     time.sleep(1)
-                    get_fb_duration('redo.txt', 'duration.txt', 'finished.txt', '../../geckodriver', threads)
+                    get_fb_duration('redo.txt', 'duration.txt', 'finished.txt', '../geckodriver', threads)
 
                     get_nonetype = cur_dir + '/duration.txt'
 
@@ -183,7 +183,7 @@ def main():
         elif os.path.isfile(cur_dir +'/duration.txt') and os.path.isfile(cur_dir +'/finished.txt') and os.path.isfile(cur_dir +'/redo.txt'):
             print('redo')
             time.sleep(1)
-            get_fb_duration('redo.txt', 'duration.txt', 'finished.txt', '../../geckodriver', threads)
+            get_fb_duration('redo.txt', 'duration.txt', 'finished.txt', '../geckodriver', threads)
 
             get_nonetype = cur_dir + '/duration.txt'
 

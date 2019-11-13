@@ -4,7 +4,7 @@ import os
 
 from crawler import (get_fb_title, rearrange_urls, download_fb, 
                     get_json_fb, thread_upload_test, copy_to_remote, convert_myanmar_number,
-                    update_raw_titles_links, get_json_fb,
+                    update_raw_titles_links, get_json_fb_2,
                     get_splited_lines, download_fb, thread_upload,
                     thread_upload_test_title)
 
@@ -41,14 +41,9 @@ def get_json():
 	playlist = 'မဟာမင္းထင္ေက်ာင္းတိုက္ ဓမၼဒီပေက်ာင္းဆရာေတာ္ page မွာ videos မ်ား'
 	description_title = 'မဟာမင္းထင္ေက်ာင္းတိုက္ ဓမၼဒီပေက်ာင္းဆရာေတာ္ page မွာ videos မ်ား'
 	source='\nsource from https://www.facebook.com/pg/www.upyinnyarnanda/videos/'
-	get_json_fb('edit_title.txt', 'edit_result.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+	get_json_fb_2('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
     
 #get_json()    
-#get_splited_lines('links.txt', 30)
-
-#download_fb('links.txt', 3)
-#thread_upload('raw_json_title.txt', 1)
-#thread_upload_test('raw_json_title.txt')
-#thread_upload_test_title('raw_json_title.txt')
+thread_upload_test_title('raw_json_title.txt')
 
