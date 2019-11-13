@@ -1,3 +1,6 @@
 find . -type f -name raw_json_title.txt -exec rm -rfv {} \; | grep -v future
 find . -type f -name raw_json_title.txt -exec du -sh {} \; | grep -v future | grep -v tube_play_list
 
+# Find and delete folder named moved_mp3
+find . -type d -name 'moved_mp3' -exec rm -rfv {} \;
+
