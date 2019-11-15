@@ -21,29 +21,20 @@ function myStopFunction() {
   clearInterval(myVar);
 }
 '''
-rearrange_urls('raw_url.txt', 'links.txt')
+#rearrange_urls('raw_url.txt', 'links.txt')
 #get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver.exe')
 #download_fb('du.txt', 1)
 #copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote)
 
-'''
-remote_username = 'u0_a97'
-remote_pass = 'snp'
-remote_hostname = '192.168.1.36'
-escaped_remote = '/data/data/com.termux/files/home/storage/external-1/PahtamagyiGrade/'
-remote_port = 8022
-#copy_to_remote('*.pdf',
-copy_to_remote('AshinTayzaniya-YamakaAhLinYaung-for-Pahtamagyigrade.pdf',
-                remote_username, remote_pass, remote_hostname, remote_port, escaped_remote
-                )
-'''  
+
 def get_json():
-	playlist = 'မဟာမင္းထင္ေက်ာင္းတိုက္ ဓမၼဒီပေက်ာင္းဆရာေတာ္ page မွာ videos မ်ား'
-	description_title = 'မဟာမင္းထင္ေက်ာင္းတိုက္ ဓမၼဒီပေက်ာင္းဆရာေတာ္ page မွာ videos မ်ား'
-	source='\nsource from https://www.facebook.com/pg/www.upyinnyarnanda/videos/'
+	playlist = 'ဇဗ္ဗူသီရိဗိမ္မာန်တော်တရားပွဲခန်းမ page မှ တရားတော်များ'
+	description_title = 'ဇဗ္ဗူသီရိဗိမ္မာန်တော်တရားပွဲခန်းမ page မှ တရားတော်များ'
+	source='\nsource from https://www.facebook.com/ဇဗ္ဗူသီရိဗိမ္မာန်တော်တရားပွဲခန်းမ-402591810325961/'
 	get_json_fb_2('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+	#get_json_fb('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
     
 #get_json()    
-#thread_upload_test_title('raw_json_title.txt')
+thread_upload_test_title('raw_json_title.txt')
 
