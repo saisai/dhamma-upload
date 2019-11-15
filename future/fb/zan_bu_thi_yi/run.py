@@ -31,7 +31,8 @@ def get_json():
 	playlist = 'ဇဗ္ဗူသီရိဗိမ္မာန်တော်တရားပွဲခန်းမ page မှ တရားတော်များ'
 	description_title = 'ဇဗ္ဗူသီရိဗိမ္မာန်တော်တရားပွဲခန်းမ page မှ တရားတော်များ'
 	source='\nsource from https://www.facebook.com/ဇဗ္ဗူသီရိဗိမ္မာန်တော်တရားပွဲခန်းမ-402591810325961/'
-	get_json_fb_2('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+	#get_json_fb_2('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+	get_json_fb('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 	#get_json_fb('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
     

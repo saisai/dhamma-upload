@@ -34,7 +34,7 @@ from crawler.thread_upload import thread_upload, thread_upload_test, thread_uplo
 
 from crawler.get_fb_title import get_fb_title, rearrange_urls
 
-from crawler.get_fb_duration import get_fb_duration
+from crawler.get_fb_duration import get_fb_duration, get_fb_duration_result
 
 from crawler.fb_thread_download import download_fb
 

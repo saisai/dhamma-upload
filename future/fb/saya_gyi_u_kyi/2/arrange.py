@@ -23,10 +23,11 @@ files = [f.strip('\n') for f in open('results.txt', encoding='utf-8')]
 for f in sorted(files, key=natural_keys):
     #tt = '{:03d}.mp3'.format(count)
     #dest = 'edit/{}'.format(tt)
+    #print(f)
     #print(tt)
     #print(dest)
-    print('{}|{}|{}'.format(f.split('|')[1],f.split('|')[2],f.split('|')[3]))
-    #print(f.split('|')[1:])
+    #print('{}|{}|{}'.format(f.split('|')[1],f.split('|')[2],f.split('|')[3]))
+    print(f.split('|')[2])
     #print('|'.join(f.split('|')[1:]))
     #copy(f, dest)
     #count += 1

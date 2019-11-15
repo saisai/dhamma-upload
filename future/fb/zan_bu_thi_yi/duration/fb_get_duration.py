@@ -18,20 +18,6 @@ from crawler import (get_fb_title, rearrange_urls, download_fb,
                     thread_upload_test_title,
    get_fb_duration, check_duplicate)
 
-def atoi(text):
-    return int(text) if text.isdigit() else text
-
-def natural_keys(text):
-    #print(text.split('|')[0])
-    return [ atoi(c) for c in re.split('(\d+)', text) ]
-    #results = []
-    #for c in re.split('(\d+)', text.split('|')[0]):
-        #print(atoi(c))
-        #print(c)
-        #results.append('{}|{}'.format(atoi(c),text.split('|')[1]))
-    #return results
-    
-
 def get_new_result(cur_dir):
     # To remove the NoneType from the file
     duration = [f.strip('\n') for f in open(cur_dir+'/duration.txt')]
@@ -108,15 +94,6 @@ def get_none_type():
         if count_NoneType != 0:
             return False
         return True
-        
-            
-    
-    
-    
-        
-
-
-print(os.getcwd())
 
 def main():
     
