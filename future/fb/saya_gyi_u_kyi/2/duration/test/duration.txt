@@ -1,0 +1,12 @@
+001.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/107061567222151/?type=2&video_source=user_video_tab|-29:25
+002.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/107201940541447/?type=2&video_source=user_video_tab|-28:10
+003.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/107277623867212/?type=2&video_source=user_video_tab|-30:01
+004.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/107310740530567/?type=2&video_source=user_video_tab|-30:17
+006.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/107351927193115/?type=2&video_source=user_video_tab|NoneType
+005.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/107325563862418/?type=2&video_source=user_video_tab|-31:44
+008.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/107409257187382/?type=2&video_source=user_video_tab|-29:10
+007.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/107378593857115/?type=2&video_source=user_video_tab|-30:29
+009.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/108426433752331/?type=2&video_source=user_video_tab|-28:11
+010.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/108436197084688/?type=2&video_source=user_video_tab|-29:43
+011.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/108444403750534/?type=2&video_source=user_video_tab|-31:06
+012.mp4|https://www.facebook.com/100037549250042/videos/vb.100037549250042/108455060416135/?type=2&video_source=user_video_tab|-31:50

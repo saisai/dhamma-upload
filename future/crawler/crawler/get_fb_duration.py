@@ -248,7 +248,7 @@ def compare_files(link, finished):
         return False
     return True
 
-def get_none_type():
+def get_none_type(cur_dir):
     get_nonetype = cur_dir + '/duration.txt'
 
     with open(get_nonetype) as f:
