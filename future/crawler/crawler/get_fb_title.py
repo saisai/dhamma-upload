@@ -72,7 +72,9 @@ class Converter(Thread):
             driver = webdriver.Firefox(firefox_options=opts, executable_path=exec_path)
             #driver = webdriver.Firefox(executable_path=r'your\path\geckodriver.exe')
             #driver = webdriver.Firefox(firefox_options=opts)
-            driver.get(mp3file.split('|')[1])
+            #driver.get(mp3file.split('|')[1])
+            replace = mp3file.split('|')[1].replace("www", "m", 1) 
+            driver.get(replace)
             #print(driver.title)
             #print(driver)
             html = driver.page_source
@@ -84,22 +86,18 @@ class Converter(Thread):
             with open(self.file_out, 'a') as f:
                 print(mp3file)
                 try:
-
-                    #f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-2], soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text() ))
-                    #f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-1], soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text() ))
-                    f.write('{}|{}'.format(mp3file, soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text() ))
+                    #f.write('{}|{}'.format(mp3file, soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text() ))
+                    f.write('{}|{}'.format(mp3file, soup.find('div', attrs={"class": "story_body_container"}).find('p').get_text() ))
                     f.write('\n')
                     f.flush()
-                except AttributeError as err:
-                    #f.write('{')
-                    #f.write('{}|{}|{}'.format(mp3file.split('|')[0], mp3file.split('|')[1].split('/')[-2], 'NoneType'))
+                except AttributeError as err:                    
                     f.write('{}|{}'.format(mp3file, 'NoneType'))
                     f.write('\n')
                     f.flush()        
-                    # AttributeError: 'NoneType' object has no attribute 'get_text'
+                    
                     
             
-                #print(soup.find('div', attrs={'class': '_5pbx userContent _3576'}).get_text())        
+
             
             driver.close()
             
