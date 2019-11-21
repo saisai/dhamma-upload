@@ -33,10 +33,10 @@ def get_json():
 	description_title = 'အရိယဝံသ မိုးကုတ္ဝိပႆနာ မဂၢင္ဓမၼရိပ္သာ page မွ တရားေတာ္မ်ား'
 	source='\nsource from https://www.facebook.com/pg/အရိယဝံသ-မိုးကုတ္ဝိပႆနာ-မဂၢင္ဓမၼရိပ္သာ-257435104635888/videos//'
 	#get_json_fb_2('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
-	get_json_fb('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+	get_json_fb('new_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 	#get_json_fb('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
     
-#get_json()    
+get_json()    
 #thread_upload_test_title('raw_json_title.txt')
 

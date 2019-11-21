@@ -16,7 +16,7 @@ def natural_keys(text):
 
 #files = glob.glob('*.MP3')
 #files = [f.strip('\n') for f in open('fb_down_finished.txt')]
-files = [f.strip('\n') for f in open('results.txt', encoding='utf-8')]
+files = [f.strip('\n') for f in open('edit_titles.txt', encoding="utf8")]
 
 #count = 1
 #for f in sorted(files, key=natural_keys, reverse=True):
