@@ -1,0 +1,55 @@
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+Sound recording
+6:56 - 10:00
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute
+    
+100.mp4|https://www.facebook.com/thumingalarfoundation/videos/1437443882953677/
+
+ffmpeg -i 100.mp4 -ss 00:00:00 -t 0:06:00  -c copy 100_out_1.mp4
+ffmpeg -i 100.mp4 -ss 00:10:30 -c copy 100_out_2.mp4
+
+
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+Sound recording
+1:43 - 5:33
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries
+
+	
+
+    Remove song
+    File a dispute 
+    
+468.mp4|https://www.facebook.com/thumingalarfoundation/videos/1717391388292257/  
+ffmpeg -i 468.mp4 -ss 00:06:00 -c copy 468_out.mp4  
+
+
+ ช้าง ตา จี เมี๊ยะ ซั่ว พยา (34) 1 - หล่า เซ่ ผ่อง
+Sound recording
+2:22 - 6:17
+
+    Moindy Digital (MUSIC)
+    On behalf of: PM MUSIC STUDIO
+
+	
+
+    Blocked in all countries 
+631.mp4|https://www.facebook.com/thumingalarfoundation/videos/1862315600466501/
+ffmpeg -i 631.mp4 -ss 00:06:00 -c copy 631_out.mp4  
