@@ -1,0 +1,1228 @@
+<body background="images/canvas.jpg"><font face="Pyidaungsu">
+
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<!-- Start dhammadownload menu top and side bar -->
+
+<div style="position: absolute; width: 100px; height: 100px; z-index: 1; left: 7px; top: 4px;" id="layer21">
+	<img src="images/Top-button-wt.gif" border="0" height="132" width="680"></div>
+<div style="position: absolute; width: 506px; height: 56px; z-index: 2; left: 49px; top: 37px;" id="layer22" align="center">
+	<p style="margin-top: 0; margin-bottom: 0"><font size="5" color="#800080">
+	ဟဲသိမ်ပတ္တမြားတောင်</font></p><p style="margin-top: 0; margin-bottom: 0">
+	<font size="5" color="#800080">ဆရာတော်ဦးကောဝိဒ</font></p></div>
+<div style="position: absolute; width: 163px; height: 186px; z-index: 20; left: 598px; top: 4px" id="layer23">
+	<img border="0" src="images/HeTheinPaTaMyarTaung.gif"></div>
+	
+
+
+
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 143px;" id="layer1">
+       <a href="index.htm" target="_parent">
+       <img src="images/Side-button-wt.gif" border="0" height="54" width="182">
+    <p></p>
+</a></div><a href="index.htm" target="_parent">
+
+</a><div style="position: absolute; width: 157px; height: 37px; z-index: 1; left: 22px; top: 154px;" id="layer2" align="center"><a href="index.htm" target="_parent">
+    <font size="4">
+      </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="index.htm">Home Page</a>
+   </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 2; left: 8px; top: 201px" id="layer3">
+    <a href="AbhidhammaInEnglish.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" border="0" height="64" width="182">
+</a></div><a href="AbhidhammaInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 3; left: 19px; top: 208px;" id="layer4" align="center"><a href="AbhidhammaInEnglish.htm" target="_parent">
+    <font size="4">
+       </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInEnglish.htm">Abhidhamma in English</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; height: 58px; z-index: 4; left: 8px; top: 270px; width: 186px" id="layer5">
+    <a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" border="0" height="64" width="182">
+</a></div><a href="AbhidhammaInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 32px; z-index: 5; left: 20px; top: 276px;" id="layer6" align="center"><a href="AbhidhammaInMyanmar.htm" target="_parent">
+    <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AbhidhammaInMyanmar.htm">Abhidhamma in Myanmar</a>
+    </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 6; left: 8px; top: 339px;" id="layer7">
+    <a href="AudioInEnglish.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" border="0" height="54" width="182">
+</a></div><a href="AudioInEnglish.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 34px; z-index: 7; left: 20px; top: 350px;" id="layer8" align="center"><a href="AudioInEnglish.htm" target="_parent">
+     <font size="4">
+         </font></a><font size="4"><a target="_parent" href="AudioInEnglish.htm">Audio in English</a>
+     </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 8; left: 8px; top: 398px;" id="layer9">
+    <a href="AudioInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" border="0" height="54" width="182">
+</a></div><a href="AudioInMyanmar.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 160px; height: 33px; z-index: 9; left: 19px; top: 408px;" id="layer10" align="center"><a href="AudioInMyanmar.htm" target="_parent">
+      <font size="4">
+        </font></a><font size="4"><a target="_parent" style="text-decoration: none" href="AudioInMyanmar.htm">Audio in Myanmar</a>
+      </font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 10; left: 8px; top: 457px" id="layer11">
+    <a href="VideoInEnglish.htm" target="_parent">
+      <img src="images/Side-button-wt.gif" border="0" height="54" width="182">
+</a></div><a href="VideoInEnglish.htm" target="_parent">
+
+</a><div style="position: absolute; width: 156px; height: 30px; z-index: 11; left: 23px; top: 469px;" id="layer12" align="center"><a href="VideoInEnglish.htm" target="_parent">
+     <font size="4">
+        </font></a><font size="4"><a target="_parent" href="VideoInEnglish.htm">Video in English</a>
+     </font>
+</div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 12; left: 8px; top: 516px" id="layer13">
+    <a href="VideoInMyanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" border="0" height="54" width="182">
+</a></div><a href="VideoInMyanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 161px; height: 33px; z-index: 13; left: 18px; top: 527px;" id="layer14" align="center"><a href="VideoInMyanmar.htm" target="_parent">
+     <font size="4"></font></a><font size="4"><a href="VideoInMyanmar.htm">Video in Myanmar </a></font>
+</div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 14; left: 8px; top: 575px" id="layer15">
+    <a href="eBook-English.htm" target="_parent">
+    <img src="images/Side-button-wt.gif" border="0" height="54" width="182">
+</a></div><a href="eBook-English.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 159px; height: 31px; z-index: 15; left: 19px; top: 587px;" id="layer16" align="center"><a href="eBook-English.htm" target="_parent">
+    <font size="4">
+    </font>
+    <font size="4">
+    </font></a><font size="4"><a href="eBook-English.htm">eBook in English</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 16; left: 8px; top: 634px" id="layer17">
+     <a href="eBook-Myanmar.htm" target="_parent">
+     <img src="images/Side-button-wt.gif" border="0" height="54" width="182">
+</a></div><a href="eBook-Myanmar.htm" target="_parent">
+
+</a><div style="position: absolute; width: 154px; height: 32px; z-index: 17; left: 22px; top: 646px;" id="layer18" align="center"><a href="eBook-Myanmar.htm" target="_parent"><font size="4">
+	</font><font size="4">
+	</font></a><font size="4"><a href="eBook-Myanmar.htm">eBook in Myanmar</a></font></div>
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 18; left: 8px; top: 693px" id="layer19">
+    <a href="dhammadownload-news.htm" target="_parent">
+    <img style="top: 660px; height: 54px;" src="images/Side-button-wt.gif" border="0" width="182">
+</a></div><a href="dhammadownload-news.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 158px; height: 36px; z-index: 19; left: 22px; top: 705px;" id="layer20" align="center"><a href="dhammadownload-news.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="dhammadownload-news.htm">NEWS
+	သတင်းဏ္ဍ</a></font></div>
+
+
+<div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 993px" id="layer37">
+    <p style="margin-top: 3px; height: 54px;">
+    <a target="_parent" href="Contribute-to-dhammadownload.htm">
+    <img src="images/Side-button-wt.gif" border="0" height="64" width="182"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 933px" id="layer35"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="Suggestion-cbox.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" border="0" height="54" width="182">
+</p>
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 872px;" id="layer33"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><p style="margin-top: 3px; height: 54px;"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a target="_parent" href="contact.htm">
+    <img src="images/Side-button-wt.gif" border="0" height="54" width="182"></a><a href="Suggestion-cbox.htm" target="_parent">
+    </a></p><a href="Suggestion-cbox.htm" target="_parent">
+</a></div><a href="Suggestion-cbox.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 811px" id="layer31"><a href="Suggestion-cbox.htm" target="_parent">
+    </a><a href="usefullinks.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" border="0" height="54" width="182">
+</p>
+</a></div><a href="usefullinks.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 186px; height: 58px; z-index: 1; left: 8px; top: 750px" id="layer27"><a href="usefullinks.htm" target="_parent"> </a><a href="live.htm" target="_parent">
+    <p style="margin-top: 3px; height: 54px;">
+    <img src="images/Side-button-wt.gif" border="0" height="54" width="182">
+</p>
+</a></div><a href="live.htm" target="_parent">
+
+
+</a><div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 1010px;" id="layer38" align="center"><a href="live.htm" target="_parent">
+    <font size="4"></font></a><font size="4"><a href="Contribute-to-dhammadownload.htm">လှုဒါန်းရန်</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 946px;" id="layer36" align="center">
+    <font size="4"><a href="Suggestion-cbox.htm">အကြံပြုချက်များ</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 886px;" id="layer34" align="center">
+    <font size="4"><a href="contact.htm">Contact Us</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 825px;" id="layer32" align="center">
+    <font size="4"><a href="usefullinks.htm">Useful Link</a></font></div>
+
+
+
+<div style="position: absolute; width: 146px; height: 37px; z-index: 1; left: 24px; top: 762px;" id="layer28" align="center">
+    <font size="4"><a href="live.htm">LIVE Webcast</a></font></div>
+
+
+
+
+
+
+
+<div style="position: absolute; width: 171px; height: 64px; z-index: 23; left: 9px; top: 1074px; " id="layer39">
+<a href="https://www.facebook.com/groups/dhammadownload/?ref=br_rs#">
+<img border="0" src="images/facebook-logo.gif" width="159" height="59"></a></div>
+<!-- end dhammadownload menu top and side bar -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div style="position: absolute; width: 964px; height: 2070px; z-index: 21; left: 219px; top: 149px" id="layer24" font="" face="Pyidaungsu">
+								<p class="MsoTagline" style="MARGIN-TOP: 0px; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0px; TEXT-ALIGN: left">
+									&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font face="Pyidaungsu" size="4">
+								<br>
+								အဆုံးအမများ နှလုံးသားထဲ ကိန်းပါစေ။</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font face="Pyidaungsu" size="4">
+								<br>
+								</font><font size="5">ဟဲသိမ်ပတ္တမြားတောင် 
+								ဆရာတော်ဦးကောဝိဒ</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font face="Pyidaungsu" size="4"><br>
+								<br>
+								ရှမ်းပြည်တောင်ပိုင်း၊ကလောမြို့နယ်၊</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<font face="Pyidaungsu" size="4">ဟဲဟိုးမြို့ 
+								ဟဲသိမ်ပတ္တမြားတောင် ဓမ္မရိပ်သာကျောင်း<br>
+								<br>
+								ဆက်သွယ်ရန်ကျောင်းဖုန်း ။ ဝ၉၇ ၈၅၇၇ ၇၁၂ဝ<br>
+								<br>
+								ဟောကြားတော်မူသောတရားတော်များ<br>
+&nbsp;</font></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								&nbsp;</p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<b><font size="5">Dhamma Talk Audio - MP3</font></b></p>
+								<p class="MsoNormal" style="margin-top: 0; margin-bottom: 0">
+								<b>&nbsp;</b></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0; TEXT-ALIGN: left">
+								<font face="Pyidaungsu" size="4">
+								<br>
+								~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
+								&nbsp;</font></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0; TEXT-ALIGN: left">
+								&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0; TEXT-ALIGN: left">
+								&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0; TEXT-ALIGN: left">
+								&nbsp;
+								<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/001-HeTheinPaTaMyarTaung.mp3">	၀၁။ အောင်ဂါထာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/002-HeTheinPaTaMyarTaung.mp3">	၀၂။ ပါရမီ ဆယ်ပါး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/003-HeTheinPaTaMyarTaung.mp3">	၀၃။ တရားအားထုတ်မှု လမ်းစဉ်	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	သမာဓိထူထောင်နည်းများ	</b></u></font></p><br><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/004-HeTheinPaTaMyarTaung.mp3">	၀၄။ ဝင်လေ ထွက်လေ အတို အရှည်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/005-HeTheinPaTaMyarTaung.mp3">	၀၅။ ဝင်လေ ထွက်လေ မတူညီမှု အကဲခတ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/006-HeTheinPaTaMyarTaung.mp3">	၀၆။ ဝင်လေ ထွက်လေ အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/007-HeTheinPaTaMyarTaung.mp3">	၀၇။ ဝင်လေ ထွက်လေ အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/008-HeTheinPaTaMyarTaung.mp3">	၀၈။ သမာဓိ ထူထောင်နည်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/009-HeTheinPaTaMyarTaung.mp3">	၀၉။ သမာဓိ နည်း ၄ နည်း	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	(၁၀)ရက်တရားစခန်း အလုပ်ပေးဟော တရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/010-HeTheinPaTaMyarTaung.mp3">	၁၀။ သတိ၊ ဝင်လေ ထွက်လေ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/011-HeTheinPaTaMyarTaung.mp3">	၁၁။ ဝီရိယ၊ ဝင်လေသိ၊ ထွက်လေသိ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/012-HeTheinPaTaMyarTaung.mp3">	၁၂။ သမာဓိ၊ ဝင်လေသိပျက်၊ ထွက်လေသိပျက်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/013-HeTheinPaTaMyarTaung.mp3">	၁၃။ သမ္မာသင်္ကပ္ပ၊ စိတ္တာနုပဿနာကို သမ္မာသင်္ကပ္ပဖြင့် ရှုနည်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/014-HeTheinPaTaMyarTaung.mp3">	၁၄။ သမ္မာဒိဋ္ဌိ၊ ရုပ်နာမ်နှစ်ခုကို ဉာဏ်တစ်ခုဖြင့်ကြည့်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/015-HeTheinPaTaMyarTaung.mp3">	၁၅။ နှလုံးသွင်းမှန်မှန်နှင့် ရုပ်နာမ်ခန္ဓာကိုလက္ခဏာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/016-HeTheinPaTaMyarTaung.mp3">	၁၆။ စိတ်တ္တာနုပဿနာကို အနတ္တဉာဏ်ထင်အောင်ရှုနည်း	</a><br>
+	၁၇။ ရုပ်တရားကိုအခြေခံပြီး သိသည့်စိတ်ကို အကဲခတ်ခြင်း	<br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/018-HeTheinPaTaMyarTaung.mp3">	၁၈။ သစ္စာဒေသနာ အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/019-HeTheinPaTaMyarTaung.mp3">	၁၉။ သစ္စာလေးပါး အလုပ်ပေး တရား	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	(၁၀)ရက်တရားစခန်း အလုပ်ပေးဟော တရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/020-HeTheinPaTaMyarTaung.mp3">	၂၀။ သတိနှင့်ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/021-HeTheinPaTaMyarTaung.mp3">	၂၁။ ဝီရိယနှင့်ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/022-HeTheinPaTaMyarTaung.mp3">	၂၂။ သမာဓိနှင့်ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/023-HeTheinPaTaMyarTaung.mp3">	၂၃။ သမ္မာသင်္ကပ္ပနှင့်ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/024-HeTheinPaTaMyarTaung.mp3">	၂၄။ သမာဒိဋ္ဌိနှင့်ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/025-HeTheinPaTaMyarTaung.mp3">	၂၅။ အနိစ္စ၊ ဒုက္ခ နုပဿနာဉာဏ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/026-HeTheinPaTaMyarTaung.mp3">	၂၆။ အနတ္တနုပဿနာဉာဏ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/027-HeTheinPaTaMyarTaung.mp3">	၂၇။ ဝိညာဏက္ခန္ဓာနှင့်ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/028-HeTheinPaTaMyarTaung.mp3">	၂၈။ သင်္ခါရ၊ သဘာဝ၊ အနိစ္စတရားနှင့် ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/029-HeTheinPaTaMyarTaung.mp3">	၂၉။ ဝေဒနာနုပဿနာ၊ အနတ္တဒေသနာနှင့် ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/030-HeTheinPaTaMyarTaung.mp3">	၃၀။ သတိနှင့် ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/031-HeTheinPaTaMyarTaung.mp3">	၃၁။ ဝီရိယနှင့်ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/032-HeTheinPaTaMyarTaung.mp3">	၃၂။ သမာဓိနှင့် ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/033-HeTheinPaTaMyarTaung.mp3">	၃၃။ ဝိပဿနာနှင့် ဆက်စပ်သည့် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/034-HeTheinPaTaMyarTaung.mp3">	၃၄။ ဝိပဿနာ အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/035-HeTheinPaTaMyarTaung.mp3">	၃၅။ ဖြစ်ပျက်နှင့် မဂ် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/036-HeTheinPaTaMyarTaung.mp3">	၃၆။ ဖြစ် ပျက် မြင်အောင်အားထုတ်နည်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/037-HeTheinPaTaMyarTaung.mp3">	၃၇။ စိတ္တာနုပဿနာအလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/038-HeTheinPaTaMyarTaung.mp3">	၃၈။ အနတ္တနုပဿနာဉာဏ် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/039-HeTheinPaTaMyarTaung.mp3">	၃၉။ စိတ္တာ နုပဿနာဉာဏ် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/040-HeTheinPaTaMyarTaung.mp3">	၄၀။ သစ္စာလေးပါး အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/041-HeTheinPaTaMyarTaung.mp3">	၄၁။ သမ္မာဒိဋ္ဌိ ဉာဏ်အမြင် အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/042-HeTheinPaTaMyarTaung.mp3">	၄၂။ အနတ္တဒေသနာအလုပ်ပေး	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	(၁၀)ရက်တရားစခန်း နံနက်ခင်း ဟော အလုပ်ပေး	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/043-HeTheinPaTaMyarTaung.mp3">	၄၃။ (၁၀)ရက်တရားစခန်း နံနက်ခင်း ဟော အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/044-HeTheinPaTaMyarTaung.mp3">	၄၄။ (၁၀)ရက်တရားစခန်း နံနက်ခင်း ဟော အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/045-HeTheinPaTaMyarTaung.mp3">	၄၅။ (၁၀)ရက်တရားစခန်း နံနက်ခင်း ဟော အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/046-HeTheinPaTaMyarTaung.mp3">	၄၆။ (၁၀)ရက်တရားစခန်း နံနက်ခင်း ဟော အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/047-HeTheinPaTaMyarTaung.mp3">	၄၇။ (၁၀)ရက်တရားစခန်း နံနက်ခင်း ဟော အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/048-HeTheinPaTaMyarTaung.mp3">	၄၈။ (၁၀)ရက်တရားစခန်း နံနက်ခင်း ဟော အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/049-HeTheinPaTaMyarTaung.mp3">	၄၉။ (၁၀)ရက်တရားစခန်း နံနက်ခင်း ဟော အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/050-HeTheinPaTaMyarTaung.mp3">	၅၀။ (၁၀)ရက်တရားစခန်း နံနက်ခင်း ဟော အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/051-HeTheinPaTaMyarTaung.mp3">	၅၁။ (၁၀)ရက်တရားစခန်း နံနက်ခင်း ဟော အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/052-HeTheinPaTaMyarTaung.mp3">	၅၂။ (၁၀)ရက်တရားစခန်း နံနက်ခင်း ဟော အလုပ်ပေး	</a><br>
+		
+		
+<br><br><font size="4"><br> <u><b>	ဝိပဿနာ အလုပ်ပေးတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/053-HeTheinPaTaMyarTaung.mp3">	၅၃။ ဝိပဿနာရှုကွက်ရှာနည်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/054-HeTheinPaTaMyarTaung.mp3">	၅၄။ သမ္မာသင်္ကပ္ပ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/055-HeTheinPaTaMyarTaung.mp3">	၅၅။ ကာယာနုပဿနာ အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/056-HeTheinPaTaMyarTaung.mp3">	၅၆။ ဟဒယဝတ္ထုမှာ ကမ္မဌာန်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/057-HeTheinPaTaMyarTaung.mp3">	၅၇။ ကာယာနုပဿနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/058-HeTheinPaTaMyarTaung.mp3">	၅၈။ ကာယာနုပဿနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/059-HeTheinPaTaMyarTaung.mp3">	၅၉။ ကာယာနုပဿနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/060-HeTheinPaTaMyarTaung.mp3">	၆၀။ နိဗ္ဗေဒဉာဏ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/061-HeTheinPaTaMyarTaung.mp3">	၆၁။ ကာယာနုပဿနာမှ စိတ္တာနုပဿနာရှုနည်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/062-HeTheinPaTaMyarTaung.mp3">	၆၂။ ကာယာနုပဿနာမှ စိတ္တာနုပဿနာရှုနည်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/063-HeTheinPaTaMyarTaung.mp3">	၆၃။ စိတ္တာနုပဿနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/064-HeTheinPaTaMyarTaung.mp3">	၆၄။ စိတ္တာနုပဿနာ မနောဝိဉာဏ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/065-HeTheinPaTaMyarTaung.mp3">	၆၅။ ကာယာနုပဿနာမှ စိတ္တာနုပဿနာရှုနည်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/066-HeTheinPaTaMyarTaung.mp3">	၆၆။ အနတ္တ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/067-HeTheinPaTaMyarTaung.mp3">	၆၇။ အနတ္တဉာဏ်အမြင်မှ သစ္စာဆီသို့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/068-HeTheinPaTaMyarTaung.mp3">	၆၈။ စိတ္တာနုပဿနယ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/069-HeTheinPaTaMyarTaung.mp3">	၆၉။ ညှိယူနိုင်မှ ဉာဏ်စွမ်းဖြစ်ဖို့အဓိက	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/070-HeTheinPaTaMyarTaung.mp3">	၇၀။ ဝိပဿနာ အခက်အခဲမှား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/071-HeTheinPaTaMyarTaung.mp3">	၇၁။ ညှိယူနိုင်စွမ်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/072-HeTheinPaTaMyarTaung.mp3">	၇၂။ ဝိပဿနာမှာ သိစရာများ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/073-HeTheinPaTaMyarTaung.mp3">	၇၃။ ညှိယူနိုင်မှ သိမြင်နိုင်ခွင့်ရှိမယ်	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ဝိပဿနာမှာ သိမှတ်စရာများ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/074-HeTheinPaTaMyarTaung.mp3">	၇၄။ ဟဒယဝတ္ထုမှာ အိမ်သည် ကမ္မဋ္ဌာန်းထားပြီး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/075-HeTheinPaTaMyarTaung.mp3">	၇၅။ တရားအမေးအဖြေ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/076-HeTheinPaTaMyarTaung.mp3">	၇၆။ အရှုပ်မှ အရှင်းသို့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/077-HeTheinPaTaMyarTaung.mp3">	၇၇။ စိတ္တာနုပဿနာနှင့် ပဋိစ္စသမုပ္ပာဒ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/078-HeTheinPaTaMyarTaung.mp3">	၇၈။ သစ္စာလေးပါး တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/079-HeTheinPaTaMyarTaung.mp3">	၇၉။ ဝိပဿနာမှာ သိစရာများ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/080-HeTheinPaTaMyarTaung.mp3">	၈၀။ ဓာတ်လေးပါးတရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/081-HeTheinPaTaMyarTaung.mp3">	၈၁။ စိတ္တာနုပဿနာအလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/082-HeTheinPaTaMyarTaung.mp3">	၈၂။ လွတ်မြောက်ရေးအတွက် ရုန်းထွက်နိုင်ရမယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/083-HeTheinPaTaMyarTaung.mp3">	၈၃။ သံဝေဂနှင့်ဝိပဿနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/084-HeTheinPaTaMyarTaung.mp3">	၈၄။ မသေချင်ရင် သိအောင်လုပ်ရမယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/085-HeTheinPaTaMyarTaung.mp3">	၈၅။ ဒိဋ္ဌိပညတ်ခွာပြီး ပရမတ်ရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/086-HeTheinPaTaMyarTaung.mp3">	၈၆။ သစ္စာလေးဖြာ မြတ်ဒေသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/087-HeTheinPaTaMyarTaung.mp3">	၈၇။ အခက်အခဲဖြစ်မှ အပြောင်းအလဲတွေ့မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/088-HeTheinPaTaMyarTaung.mp3">	၈၈။ ဝေဒနာရှုနည်း အလုပ်ပေးတရား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/089-HeTheinPaTaMyarTaung.mp3">	၈၉။ တဏှာ သံဝေဂနှင့်မနော	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/090-HeTheinPaTaMyarTaung.mp3">	၉၀။ မြစိမ်းတောင်ဆရာတော်နှင့် ဟဲသိမ်ဆရာတော် (တရားဆွေးနွေးမှု မှတ်တမ်းဖိုင်)	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	(၂၀၁၈) သြင်္ကန်တွင်း တရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/091-HeTheinPaTaMyarTaung.mp3">	၉၁။ ဝိပဿနာ အလုပ်စဉ် တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/092-HeTheinPaTaMyarTaung.mp3">	၉၂။ ရခဲတဲ့ဘဝထဲမှာ မသေခင်သိအောင်လုပ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/093-HeTheinPaTaMyarTaung.mp3">	၉၃။ အကာပြစ်၍ အနှစ်ရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/094-HeTheinPaTaMyarTaung.mp3">	၉၄။ ဘဝထဲမှာ အနှစ်ရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/095-HeTheinPaTaMyarTaung.mp3">	၉၅။ ဘဝထဲရှာ အနှစ်ရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/096-HeTheinPaTaMyarTaung.mp3">	၉၆။ လွတ်မြောက်ရေး တရားတော်	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	တရားတော်ကောက်နုတ်ချက်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/097-HeTheinPaTaMyarTaung.mp3">	၉၇။ ဆရာကောင်းရှာပါ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/098-HeTheinPaTaMyarTaung.mp3">	၉၈။ ခန္ဓာ ကိလေသာ ဉာဏ် တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/099-HeTheinPaTaMyarTaung.mp3">	၉၉။ အဆုံးအမ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/100-HeTheinPaTaMyarTaung.mp3">	၁၀၀။ မဂ္ဂင်တို့၏ အလုပ်လုပ်ပုံ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/101-HeTheinPaTaMyarTaung.mp3">	၁၀၁။ မနောဝိဉာဏ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/102-HeTheinPaTaMyarTaung.mp3">	၁၀၂။ ဓမ္မနဲ့သာအဖော်ပြုပါ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/103-HeTheinPaTaMyarTaung.mp3">	၁၀၃။ တရားအားထုတ်မှု လမ်းစဉ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/104-HeTheinPaTaMyarTaung.mp3">	၁၀၄။ အနုမောဒနာတရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/105-HeTheinPaTaMyarTaung.mp3">	၁၀၅။ သစ္စာသိအောင်လုပ်ပါ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/106-HeTheinPaTaMyarTaung.mp3">	၁၀၆။ သေခြင်းရဲ့အကန့်အသန့်ရှိအောင်လုပ်ရမယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/107-HeTheinPaTaMyarTaung.mp3">	၁၀၇။ ဘဝအရှုပ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/108-HeTheinPaTaMyarTaung.mp3">	၁၀၈။ စိတ္တာနုပဿနာ အလုပ်ပေး)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/109-HeTheinPaTaMyarTaung.mp3">	၁၀၉။ ခန္ဓာ ကိလေသာ ဉာဏ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/110-HeTheinPaTaMyarTaung.mp3">	၁၁၀။ ဓမ္မနဲ့သာ အဖော်ပြုပါ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/111-HeTheinPaTaMyarTaung.mp3">	၁၁၁။ ဓာတ်လေးပါး တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/112-HeTheinPaTaMyarTaung.mp3">	၁၁၂။ သစ္စာလေးပါး တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/113-HeTheinPaTaMyarTaung.mp3">	၁၁၃။ သံဝေဂနှင့် ဝိပဿနာတရား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/114-HeTheinPaTaMyarTaung.mp3">	၁၁၄။ ခန္ဓာ့ဒုက္ခ တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/115-HeTheinPaTaMyarTaung.mp3">	၁၁၅။ စိတ္တာနုပတ္တနာကို မနောဝိညာဏ်ကနေရှုပါ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/116-HeTheinPaTaMyarTaung.mp3">	၁၁၆။ ငြိတွယ်မှုနှင့် လွတ်လပ်မှုတရားတော်	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	လွတ်မြောက်ရေး လမ်းစဉ် တရားတော်	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/117-HeTheinPaTaMyarTaung.mp3">	၁၁၇။ လွတ်မြောက်ရေး လမ်းစဉ် တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/118-HeTheinPaTaMyarTaung.mp3">	၁၁၈။ လွတ်မြောက်ရေး လမ်းစဉ် တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/119-HeTheinPaTaMyarTaung.mp3">	၁၁၉။ လွတ်မြောက်ရေး လမ်းစဉ် တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/120-HeTheinPaTaMyarTaung.mp3">	၁၂၀။ လွတ်မြောက်ရေး လမ်းစဉ် တရားတော်	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	၂၀၁၈ ညတရားပွဲ တရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/121-HeTheinPaTaMyarTaung.mp3">	၁၂၁။ ဘာသာတရားနှင့် လူသားစွမ်းအား တရားတော်(၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/122-HeTheinPaTaMyarTaung.mp3">	၁၂၂။ ဘာသာတရားနှင့် လူသားစွမ်းအား တရားတော်(၁၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/123-HeTheinPaTaMyarTaung.mp3">	၁၂၃။ အသိဝင်မှ အမြင်ပြောင်းမယ် တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/124-HeTheinPaTaMyarTaung.mp3">	၁၂၄။ အချိန်နှင့်ဘဝကို အသုံးချနိုင်မှ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/125-HeTheinPaTaMyarTaung.mp3">	၁၂၅။ သာသနာနှင့် မြတ်သံဃာ	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	၂၀၁၈ (ရန်ကုန်တရားစခန်း တရားတော်များ)	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/126-HeTheinPaTaMyarTaung.mp3">	၁၂၆။ ဘဝရေးရာ အဖြေရှာ (အပိုင်း-၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/127-HeTheinPaTaMyarTaung.mp3">	၁၂၇။ ဘဝရေးရာ အဖြေရှာ (အပိုင်း-၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/128-HeTheinPaTaMyarTaung.mp3">	၁၂၈။ ဘဝရေးရာ အဖြေရှာ (အပိုင်း-၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/129-HeTheinPaTaMyarTaung.mp3">	၁၂၉။ သစ္စာ ဒေနာ တရားတော် (၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/130-HeTheinPaTaMyarTaung.mp3">	၁၃၀။ သစ္စာဒေသနာ တရားတော်(၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/131-HeTheinPaTaMyarTaung.mp3">	၁၃၁။ သစ္စာဒေသနာ တရားတော်(၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/132-HeTheinPaTaMyarTaung.mp3">	၁၃၂။ သစ္စာဒေသနာ တရားတော်(၄)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/133-HeTheinPaTaMyarTaung.mp3">	၁၃၃။ သစ္စာဒေသနာ တရားတော်(၅)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/134-HeTheinPaTaMyarTaung.mp3">	၁၃၄။ သစ္စာဒေသနာ တရားတော်(၆)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/135-HeTheinPaTaMyarTaung.mp3">	၁၃၅။ သစ္စာဒေသနာ တရားတော်(၇)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/136-HeTheinPaTaMyarTaung.mp3">	၁၃၆။ သစ္စာဒေသနာ တရားတော်(၈)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/137-HeTheinPaTaMyarTaung.mp3">	၁၃၇။ သစ္စာဒေသနာ တရားတော်(၉)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/138-HeTheinPaTaMyarTaung.mp3">	၁၃၈။ သစ္စာဒေသနာ တရားတော်(၁၀)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/139-HeTheinPaTaMyarTaung.mp3">	၁၃၉။ သစ္စာဒေသနာ တရားတော်(၁၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/140-HeTheinPaTaMyarTaung.mp3">	၁၄၀။ အယူကင်း အမြင်ရှင်းမှ လွတ်မြောက်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/141-HeTheinPaTaMyarTaung.mp3">	၁၄၁။ စိတ္တာနုပဿနာ အလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/142-HeTheinPaTaMyarTaung.mp3">	၁၄၂။ လွတ်မြောက်ရေး ကျင့်စဉ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/143-HeTheinPaTaMyarTaung.mp3">	၁၄၃။ အမြင်ရှင်းစေရေး	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	၂၀၁၇ (ရန်ကုန်တရားစခန်း တရားတော်များ)	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/144-HeTheinPaTaMyarTaung.mp3">	၁၄၄။ ဓာတ်ကမ္မဌာန်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/145-HeTheinPaTaMyarTaung.mp3">	၁၄၅။ ဝေဒနာနုပသနာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/146-HeTheinPaTaMyarTaung.mp3">	၁၄၆။ ဝေဒနာနုပသနာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/147-HeTheinPaTaMyarTaung.mp3">	၁၄၇။ သာသနာ့အလင်းရောင် အမေးဖြေ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/148-HeTheinPaTaMyarTaung.mp3">	၁၄၈။ ဒိဋ္ဌိကင်းစင်အမှန်မြင်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/149-HeTheinPaTaMyarTaung.mp3">	၁၄၉။ ပညတ်ခွာပြီးပရမတ်ရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/150-HeTheinPaTaMyarTaung.mp3">	၁၅၀။ ဝိပဿနာအလုပ်စဉ်နှင့် အကြောင်းအရာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/151-HeTheinPaTaMyarTaung.mp3">	၁၅၁။ အလုပ်စဉ်နှင့်ဆက်စပ်သည့်အကြောင်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/152-HeTheinPaTaMyarTaung.mp3">	၁၅၂။ အလုပ်စဉ်နှင့်ဆက်စပ်သည့်အကြောင်း-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/153-HeTheinPaTaMyarTaung.mp3">	၁၅၃။ အလုပ်စဉ်နှင့်ဆက်စပ်သည့်အကြောင်း-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/154-HeTheinPaTaMyarTaung.mp3">	၁၅၄။ သစ္စာလေးပါး အလုပ်စဉ် တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/155-HeTheinPaTaMyarTaung.mp3">	၁၅၅။ အသေလွတ်ရာ လမ်းကြောင်းရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/156-HeTheinPaTaMyarTaung.mp3">	၁၅၆။ ညှိတတ်မှ ပီသမယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/157-HeTheinPaTaMyarTaung.mp3">	၁၅၇။ ရခဲတဲ့ဘဝထဲက ရွေးချယ်ခွင့်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/158-HeTheinPaTaMyarTaung.mp3">	၁၅၈။ ရခဲတဲ့ဘဝထဲက ရွေးချယ်ခွင့်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/159-HeTheinPaTaMyarTaung.mp3">	၁၅၉။ ရခဲတဲ့ဘဝထဲက ရွေးချယ်ခွင့်-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/160-HeTheinPaTaMyarTaung.mp3">	၁၆၀။ အချိန်ကာလနှင့် ဘဝထဲမှာ အနှစ်ရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/161-HeTheinPaTaMyarTaung.mp3">	၁၆၁။ အရှုပ်ကို ရှင်းနိုင်သူ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/162-HeTheinPaTaMyarTaung.mp3">	၁၆၂။ အရှုပ်ကို ရှင်းနိုင်သူ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/163-HeTheinPaTaMyarTaung.mp3">	၁၆၃။ အရှုပ်ကို ရှင်းနိုင်သူ-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/164-HeTheinPaTaMyarTaung.mp3">	၁၆၄။ အရှုပ်ကို ရှင်းနိုင်သူ-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/165-HeTheinPaTaMyarTaung.mp3">	၁၆၅။ ဆေးသောက်နိုင်မှ ရောဂါပျောက်မယ်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/166-HeTheinPaTaMyarTaung.mp3">	၁၆၆။ ဆေးသောက်နိုင်မှ ရောဂါပျောက်မယ်-၂	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	၂၀၁၆(ရန်ကုန်တရားစခန်း တရားတော်များ)	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/167-HeTheinPaTaMyarTaung.mp3">	၁၆၇။ ဖယ်ခွာစရာဒိဋ္ဌိကိလေသာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/168-HeTheinPaTaMyarTaung.mp3">	၁၆၈။ ဘဝပင်လယ်ကိုကျော်ဖြတ်ခြင်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/169-HeTheinPaTaMyarTaung.mp3">	၁၆၉။ အနတ္တဒေသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/170-HeTheinPaTaMyarTaung.mp3">	၁၇၀။ အနတ္တဒေသနာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/171-HeTheinPaTaMyarTaung.mp3">	၁၇၁။ စိတ်နှင့်ဆက်စပ်သည့်အကြောင်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/172-HeTheinPaTaMyarTaung.mp3">	၁၇၂။ သစ္စာနိဒါန်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/173-HeTheinPaTaMyarTaung.mp3">	၁၇၃။ ဒိဋ္ဌိအကြောင်း	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ဟဲသိမ်ပတ္တမြားတောင် ဝါတွင်းကာလ ရက်(၃၀) တရားစခန်းတရားတော်များ (၂၀၁၇)	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/174-HeTheinPaTaMyarTaung.mp3">	၁၇၄။ အခွင့်ရေးရှိသော လူ့ဘဝ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/175-HeTheinPaTaMyarTaung.mp3">	၁၇၅။ အခွင့်ရေးရှိသော လူ့ဘဝ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/176-HeTheinPaTaMyarTaung.mp3">	၁၇၆။ အခွင့်ရေးရှိသော လူ့ဘဝ-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/177-HeTheinPaTaMyarTaung.mp3">	၁၇၇။ ဘဝထဲမှာ လမ်းခွဲရှာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/178-HeTheinPaTaMyarTaung.mp3">	၁၇၈။ ဘဝထဲမှာ လမ်းခွဲရှာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/179-HeTheinPaTaMyarTaung.mp3">	၁၇၉။ ဘဝထဲမှာ လမ်းခွဲရှာ-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/180-HeTheinPaTaMyarTaung.mp3">	၁၈၀။ ဘဝထဲမှာ လမ်းခွဲရှာ-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/181-HeTheinPaTaMyarTaung.mp3">	၁၈၁။ ဘဝထဲမှာ လမ်းခွဲရှာ-၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/182-HeTheinPaTaMyarTaung.mp3">	၁၈၂။ သမ္မာဒိဋ္ဌိဉာဏ်နဲ့သိ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/183-HeTheinPaTaMyarTaung.mp3">	၁၈၃။ မဇ္ဈိမပဋိပဒါ လမ်းစဉ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/184-HeTheinPaTaMyarTaung.mp3">	၁၈၄။ အလုပ်စဉ် တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/185-HeTheinPaTaMyarTaung.mp3">	၁၈၅။ ဝိပဿနာ အလုပ်စဉ်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/186-HeTheinPaTaMyarTaung.mp3">	၁၈၆။ ဝိပဿနာ အလုပ်စဉ်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/187-HeTheinPaTaMyarTaung.mp3">	၁၈၇။ ဝိပဿနာ အလုပ်စဉ်-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/188-HeTheinPaTaMyarTaung.mp3">	၁၈၈။ ဝိပဿနာ အလုပ်စဉ်-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/189-HeTheinPaTaMyarTaung.mp3">	၁၈၉။ ဝိပဿနာ အလုပ်စဉ်-၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/190-HeTheinPaTaMyarTaung.mp3">	၁၉၀။ ဝိပဿနာ အလုပ်စဉ်-၆	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/191-HeTheinPaTaMyarTaung.mp3">	၁၉၁။ ဉာဏ်အမြင်ရှင်းမှ အနတ္တ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/192-HeTheinPaTaMyarTaung.mp3">	၁၉၂။ ဉာဏ်အမြင်ရှင်းမှ အနတ္တ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/193-HeTheinPaTaMyarTaung.mp3">	၁၉၃။ စိတ္တာနုပဿနာနှင့်ပဋိစ္စသမုပ္ပာဒ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/194-HeTheinPaTaMyarTaung.mp3">	၁၉၄။ အသေလွတ်ရာလမ်းကြောင်းရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/195-HeTheinPaTaMyarTaung.mp3">	၁၉၅။ သစ္စာနိဒါန်း တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/196-HeTheinPaTaMyarTaung.mp3">	၁၉၆။ သစ္စာဒေသနာ(၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/197-HeTheinPaTaMyarTaung.mp3">	၁၉၇။ သစ္စာဒေသနာ(၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/198-HeTheinPaTaMyarTaung.mp3">	၁၉၈။ သစ္စာဒေသနာ(၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/199-HeTheinPaTaMyarTaung.mp3">	၁၉၉။ သစ္စာဒေသနာ(၄)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/200-HeTheinPaTaMyarTaung.mp3">	၂၀၀။ သစ္စာဒေသနာ(၅)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/201-HeTheinPaTaMyarTaung.mp3">	၂၀၁။ သစ္စာဒေသနာ(၆)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/202-HeTheinPaTaMyarTaung.mp3">	၂၀၂။ လွတ်မြောက်ငြိမ်းအေးဆီသို့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/203-HeTheinPaTaMyarTaung.mp3">	၂၀၃။ ညှိယူနိုင်မှ သိမြင်နိုင်ခွင့်ရှိမယ်	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ဟဲသိမ်ပတ္တမြားတောင်(ရက်-၃၀) ၂၀၁၆ တရားစခန်း တရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/204-HeTheinPaTaMyarTaung.mp3">	၂၀၄။ မသေခင် သိအောင်လုပ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/205-HeTheinPaTaMyarTaung.mp3">	၂၀၅။ အမှန်သိဖို့ စင်ချဉ်ခြင်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/206-HeTheinPaTaMyarTaung.mp3">	၂၀၆။ ဒိဋ္ဌိကိလေသာအရင်ဖယ်ရမှာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/207-HeTheinPaTaMyarTaung.mp3">	၂၀၇။ ဒိဋ္ဌိကိလေသာအရင်ဖယ်ရမှာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/208-HeTheinPaTaMyarTaung.mp3">	၂၀၈။ ဒိဋ္ဌိကိလေသာအရင်ဖယ်ရမှာ-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/209-HeTheinPaTaMyarTaung.mp3">	၂၀၉။ ခန္ဓာအရှိကို ဉာဏ်နဲ့သိ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/210-HeTheinPaTaMyarTaung.mp3">	၂၁၀။ မဂ္ဂင်ပွားမှ မြင်မှန်ရ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/211-HeTheinPaTaMyarTaung.mp3">	၂၁၁။ အရှိကို အရှိအတိုင်းသိတာ ဝိပဿနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/212-HeTheinPaTaMyarTaung.mp3">	၂၁၂။ အရှိကို အရှိအတိုင်းသိတာ ဝိပဿနာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/213-HeTheinPaTaMyarTaung.mp3">	၂၁၃။ အရှိကို အရှိအတိုင်းသိတာ ဝိပဿနာ-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/214-HeTheinPaTaMyarTaung.mp3">	၂၁၄။ အရှိကို အရှိအတိုင်းသိတာ ဝိပဿနာ-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/215-HeTheinPaTaMyarTaung.mp3">	၂၁၅။ အရှိကို အရှိအတိုင်းသိတာ ဝိပဿနာ-၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/216-HeTheinPaTaMyarTaung.mp3">	၂၁၆။ အရှိကို အရှိအတိုင်းသိတာ ဝိပဿနာ-၆	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/217-HeTheinPaTaMyarTaung.mp3">	၂၁၇။ ဝိပဿနာနှင့်ဆက်စပ်သည့်အကြောင်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/218-HeTheinPaTaMyarTaung.mp3">	၂၁၈။ အရိုးဆုံးမြင်မှ အရှင်းဆုံးဖြစ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/219-HeTheinPaTaMyarTaung.mp3">	၂၁၉။ ဘာဝနာလေးဆယ်-၁ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/220-HeTheinPaTaMyarTaung.mp3">	၂၂၀။ ဘာဝနာလေးဆယ်-၂ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/221-HeTheinPaTaMyarTaung.mp3">	၂၂၁။ ဘာဝနာလေးဆယ်-၃ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/222-HeTheinPaTaMyarTaung.mp3">	၂၂၂။ ဘာဝနာလေးဆယ်-၄ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/223-HeTheinPaTaMyarTaung.mp3">	၂၂၃။ ဘာဝနာလေးဆယ်-၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/224-HeTheinPaTaMyarTaung.mp3">	၂၂၄။ ဘာဝနာလေးဆယ်-၆ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/225-HeTheinPaTaMyarTaung.mp3">	၂၂၅။ ဘာဝနာလေးဆယ်-၇	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/226-HeTheinPaTaMyarTaung.mp3">	၂၂၆။ ဘာဝနာလေးဆယ်-၈ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/227-HeTheinPaTaMyarTaung.mp3">	၂၂၇။ ဘာဝနာလေးဆယ်-၉	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/228-HeTheinPaTaMyarTaung.mp3">	၂၂၈။ ဘာဝနာလေးဆယ်- ၁၀ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/229-HeTheinPaTaMyarTaung.mp3">	၂၂၉။ ဘာဝနာလေးဆယ်-၁၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/230-HeTheinPaTaMyarTaung.mp3">	၂၃၀။ အနတ္တဒေသနာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/231-HeTheinPaTaMyarTaung.mp3">	၂၃၁။ အနတ္တဒေသနာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/232-HeTheinPaTaMyarTaung.mp3">	၂၃၂။ ပန်းတိုင်	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ဟဲသိမ်ပတ္တမြားတောင်(၄၅-ရက်)၂၀၁၅ တရားစခန်းတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/233-HeTheinPaTaMyarTaung.mp3">	၂၃၃။ ရခဲလို့ အလွဲမသုံးလိုက်ပါနဲ့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/234-HeTheinPaTaMyarTaung.mp3">	၂၃၄။ စီစစ်မှုဖြင့်ရှာဖွေခြင်း-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/235-HeTheinPaTaMyarTaung.mp3">	၂၃၅။ စီစစ်မှုဖြင့်ရှာဖွေခြင်း-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/236-HeTheinPaTaMyarTaung.mp3">	၂၃၆။ စီစစ်မှုဖြင့်ရှာဖွေခြင်း-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/237-HeTheinPaTaMyarTaung.mp3">	၂၃၇။ စီစစ်မှုဖြင့်ရှာဖွေခြင်း-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/238-HeTheinPaTaMyarTaung.mp3">	၂၃၈။ ပညတ်နဲ့ပရမတ်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/239-HeTheinPaTaMyarTaung.mp3">	၂၃၉။ ပညတ်နဲ့ပရမတ်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/240-HeTheinPaTaMyarTaung.mp3">	၂၄၀။ အမှန်တရားသိမြင်ရေး-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/241-HeTheinPaTaMyarTaung.mp3">	၂၄၁။ အမှန်တရားသိမြင်ရေး-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/242-HeTheinPaTaMyarTaung.mp3">	၂၄၂။ အမှန်တရားသိမြင်ရေး-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/243-HeTheinPaTaMyarTaung.mp3">	၂၄၃။ အမှန်တရားသိမြင်ရေး-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/244-HeTheinPaTaMyarTaung.mp3">	၂၄၄။ အမှန်တရားသိမြင်ရေး-၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/245-HeTheinPaTaMyarTaung.mp3">	၂၄၅။ အမှန်တရားသိမြင်ရေး-၆	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/246-HeTheinPaTaMyarTaung.mp3">	၂၄၆။ ဝိပ္ပလ္လာသ အကြောင်း-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/247-HeTheinPaTaMyarTaung.mp3">	၂၄၇။ ဝိပ္ပလ္လာသ အကြောင်း-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/248-HeTheinPaTaMyarTaung.mp3">	၂၄၈။ အကြောင်းအကျိုးဖြစ်စဉ်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/249-HeTheinPaTaMyarTaung.mp3">	၂၄၉။ အကြောင်းအကျိုးဖြစ်စဉ်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/250-HeTheinPaTaMyarTaung.mp3">	၂၅၀။ ရုပ်နာမ်တို့၏အကြောင်းအကျိုးဆက်ပုံ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/251-HeTheinPaTaMyarTaung.mp3">	၂၅၁။ ရုပ်နာမ်တို့၏အကြောင်းအကျိုးဆက်ပုံ-၂	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	သစ္စာအနက်(၁၆)ချက်တရားတော်	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/252-HeTheinPaTaMyarTaung.mp3">	၂၅၂။ သစ္စာအနက်(၁၆)ချက်နိဒါန်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/253-HeTheinPaTaMyarTaung.mp3">	၂၅၃။ ပီဋနတ္ထ(နှိပ်စက်ခြင်းအနက်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/254-HeTheinPaTaMyarTaung.mp3">	၂၅၄။ သင်္ခတတ္ထ( ပြုပြင်စီရင်အပ်တဲ့အနက်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/255-HeTheinPaTaMyarTaung.mp3">	၂၅၅။ သန္တာပတ္ထ(ပူလောင်ခြင်း အနက်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/256-HeTheinPaTaMyarTaung.mp3">	၂၅၆။ ဝိပရိဏာမတ္ထ( ဖောက်ပြန်ခြင်းအနက်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/257-HeTheinPaTaMyarTaung.mp3">	၂၅၇။ အာယူဟနတ္ထ(ဒုက္ခကိုဖြစ်စေခြင်း)-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/258-HeTheinPaTaMyarTaung.mp3">	၂၅၈။ အာယူဟနတ္ထ(ဒုက္ခကိုဖြစ်စေခြင်း)-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/259-HeTheinPaTaMyarTaung.mp3">	၂၅၉။ နိဒါနတ္ထ(အကြောင်း)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/260-HeTheinPaTaMyarTaung.mp3">	၂၆၀။ သံယောဂတ္ထ(ယှဉ်စေခြင်းအနက်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/261-HeTheinPaTaMyarTaung.mp3">	၂၆၁။ ပလိဗောဓတ္ထ(တားမြတ်ပိတ်ပင်ခြင်းအနက်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/262-HeTheinPaTaMyarTaung.mp3">	၂၆၂။ နိဿရဏတ္ထ(လွတ်မြောက်ခြင်းအနက်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/263-HeTheinPaTaMyarTaung.mp3">	၂၆၃။ ဝိဝေကတ္ထ( ကင်းစိတ်ခြင်းအနက်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/264-HeTheinPaTaMyarTaung.mp3">	၂၆၄။ အမတတ္ထ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/265-HeTheinPaTaMyarTaung.mp3">	၂၆၅။ အသင်္ခတ္ထ(မပြုပြင်အပ်သောအနက်)-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/266-HeTheinPaTaMyarTaung.mp3">	၂၆၆။ နိယျာနတ္ထ(သံသရာလွတ်မြောက်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/267-HeTheinPaTaMyarTaung.mp3">	၂၆၇။ ဟေတွတတ္ထ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/268-HeTheinPaTaMyarTaung.mp3">	၂၆၈။ ဒသနတ္ထ(မြင်ခြင်းအနက်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/269-HeTheinPaTaMyarTaung.mp3">	၂၆၉။ အဓိပတေတ္ထ(အစိုးရခြင်းအနက်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/270-HeTheinPaTaMyarTaung.mp3">	၂၇၀။ ကြားနာရလျှင်သိဉာဏ်ဝင်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/271-HeTheinPaTaMyarTaung.mp3">	၂၇၁။ အမှားဖယ်မှ အမှန်သိမယ် -၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/272-HeTheinPaTaMyarTaung.mp3">	၂၇၂။ အမှားဖယ်မှ အမှန်သိမယ် -၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/273-HeTheinPaTaMyarTaung.mp3">	၂၇၃။ အမှားဖယ်မှ အမှန်သိမယ် -၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/274-HeTheinPaTaMyarTaung.mp3">	၂၇၄။ အမှားဖယ်မှ အမှန်သိမယ် -၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/275-HeTheinPaTaMyarTaung.mp3">	၂၇၅။ အမှားဖယ်မှ အမှန်သိမယ် -၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/276-HeTheinPaTaMyarTaung.mp3">	၂၇၆။ အမှားဖယ်မှ အမှန်သိမယ် -၆	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/277-HeTheinPaTaMyarTaung.mp3">	၂၇၇။ အမှားဖယ်မှ အမှန်သိမယ် -၇	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/278-HeTheinPaTaMyarTaung.mp3">	၂၇၈။ အစွဲဖျက်မှကံပျက်မယ်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/279-HeTheinPaTaMyarTaung.mp3">	၂၇၉။ အစွဲဖျက်မှကံပျက်မယ်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/280-HeTheinPaTaMyarTaung.mp3">	၂၈၀။ ရုန်းထွက်နိုင်မှ လွတ်မြောက်မယ် -၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/281-HeTheinPaTaMyarTaung.mp3">	၂၈၁။ ရုန်းထွက်နိုင်မှ လွတ်မြောက်မယ်-၂	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ဟဲသိမ်ပတ္တမြားတောင်( ၉-ကြိမ်မြောက်)တရားစခန်းတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/282-HeTheinPaTaMyarTaung.mp3">	၂၈၂။ အရေးကြီးတာအရင်လုပ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/283-HeTheinPaTaMyarTaung.mp3">	၂၈၃။ စွမ်းဆောင်နိုင်မှ အောင်ပွဲရ -၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/284-HeTheinPaTaMyarTaung.mp3">	၂၈၄။ စွမ်းဆောင်နိုင်မှ အောင်ပွဲရ -၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/285-HeTheinPaTaMyarTaung.mp3">	၂၈၅။ အဆုံးအမရဲ့ တန်ဖိုး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/286-HeTheinPaTaMyarTaung.mp3">	၂၈၆။ သြဂလေးဖြာ လွတ်မြောက်ရာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/287-HeTheinPaTaMyarTaung.mp3">	၂၈၇။ အရှုပ်ထဲမှ ရှင်းအောင်နေ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/288-HeTheinPaTaMyarTaung.mp3">	၂၈၈။ ရှုပ်တာရှင်းမှ လွတ်လပ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/289-HeTheinPaTaMyarTaung.mp3">	၂၈၉။ သောကကင်းပြတ် အငြိမ်းဓာတ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/290-HeTheinPaTaMyarTaung.mp3">	၂၉၀။ သူလိုလူမှ လူချမ်းသာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/291-HeTheinPaTaMyarTaung.mp3">	၂၉၁။ တရားအားထုတ်တယ်ဆိုတာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/292-HeTheinPaTaMyarTaung.mp3">	၂၉၂။ အပါယ်တံခါးပိတ် နိဗ္ဗာန်တံခါးဖွင့်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/293-HeTheinPaTaMyarTaung.mp3">	၂၉၃။ ပညတ်ခွာ ပရမတ်ရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/294-HeTheinPaTaMyarTaung.mp3">	၂၉၄။ ဒိဋ္ဌိနှင့်ဆက်ဆပ်သည့် တရား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/295-HeTheinPaTaMyarTaung.mp3">	၂၉၅။ သမ္မာဒိဋ္ဌိနှင့်ဆက်စပ်သည့်တရား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/296-HeTheinPaTaMyarTaung.mp3">	၂၉၆။ နှလုံးသွင်းမှန်မှ ဉာဏ်ဖြစ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/297-HeTheinPaTaMyarTaung.mp3">	၂၉၇။ အသေလွတ်ရာလမ်းကြောင်းရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/298-HeTheinPaTaMyarTaung.mp3">	၂၉၈။ ခန္ဓာအရှိကိုဉာဏ်နဲ့သိ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/299-HeTheinPaTaMyarTaung.mp3">	၂၉၉။ သစ္စာလေးပါးမြတ်တရား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/300-HeTheinPaTaMyarTaung.mp3">	၃၀၀။ ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ဟဲသိမ်ပတ္တမြားတောင်( ၁၀-ကြိမ်မြောက်)တရားစခန်းတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/301-HeTheinPaTaMyarTaung.mp3">	၃၀၁။ ကံဇာတ်ဆရာ စေညွှန်းရာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/302-HeTheinPaTaMyarTaung.mp3">	၃၀၂။ ကံလမ်းမှသည် ဉာဏ်လမ်းဆီသို့- ၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/303-HeTheinPaTaMyarTaung.mp3">	၃၀၃။ ကံလမ်းမှသည် ဉာဏ်လမ်းဆီသို့-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/304-HeTheinPaTaMyarTaung.mp3">	၃၀၄။ ကံလမ်းမှသည် ဉာဏ်လမ်းဆီသို့ -၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/305-HeTheinPaTaMyarTaung.mp3">	၃၀၅။ လှည့်စားခြင်းမှ လွတ်မြောက်သူ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/306-HeTheinPaTaMyarTaung.mp3">	၃၀၆။ အခက်အခဲတွေ့မှ အပြေင်းအလဲဖြစ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/307-HeTheinPaTaMyarTaung.mp3">	၃၀၇။ တရားအားမထုတ်ခင်ကိလေသာကို မှာအရင်ပယ်ရမှာ ၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/308-HeTheinPaTaMyarTaung.mp3">	၃၀၈။တရားအားမထုတ်ခင်ကိလေသာကို မှာအရင်ပယ်ရမှာ -၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/309-HeTheinPaTaMyarTaung.mp3">	၃၀၉။ တရားအားမထုတ်ခင်ကိလေသာကို မှာအရင်ပယ်ရမှာ -၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/310-HeTheinPaTaMyarTaung.mp3">	၃၁၀။ ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/311-HeTheinPaTaMyarTaung.mp3">	၃၁၁။ အနတ္တ လမ်းစ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/312-HeTheinPaTaMyarTaung.mp3">	၃၁၂။ သံသရာစက်ရဟပ်အလည်ရပ်ဖို့	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ဟဲသိမ်ပတ္တမြားတောင်( ၁၁-ကြိမ်မြောက်)တရားစခန်းတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/313-HeTheinPaTaMyarTaung.mp3">	၃၁၃။ အနမတဂ္ဂသံသရာ သိစရာ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/314-HeTheinPaTaMyarTaung.mp3">	၃၁၄။ အမြင်မှားကို ဖယ်ရှားခြင်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/315-HeTheinPaTaMyarTaung.mp3">	၃၁၅။ ပညတ်ခွာပြီးပရမတ်ရှာ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/316-HeTheinPaTaMyarTaung.mp3">	၃၁၆။ နှလုံးသွင်းမှန်မှ အမှန်သိမယ် 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/317-HeTheinPaTaMyarTaung.mp3">	၃၁၇။ ပဋိစ္စသမုပ္ပာဒ် ဒေသနာ-၁ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/318-HeTheinPaTaMyarTaung.mp3">	၃၁၈။ ပဋိစ္စသမုပ္ပာဒ် ဒေသနာ-၂ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/319-HeTheinPaTaMyarTaung.mp3">	၃၁၉။ ပဋိစ္စသမုပ္ပာဒ် ဒေသနာ-၃ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/320-HeTheinPaTaMyarTaung.mp3">	၃၂၀။ အားကိုးရာရှာမလွဲကြစေနဲ့ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/321-HeTheinPaTaMyarTaung.mp3">	၃၂၁။ သစ္စာလေးပါး ဒေသနာ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/322-HeTheinPaTaMyarTaung.mp3">	၃၂၂။ လမ်းစဉ်မှသည် ပန်းတိုင်ဆီသို့ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/323-HeTheinPaTaMyarTaung.mp3">	၃၂၃။ ထေရ်မဟာနှင့်သာသနာ -၁ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/324-HeTheinPaTaMyarTaung.mp3">	၃၂၄။ ထေရ်မဟာနှင့် သာသနာ -၂ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/325-HeTheinPaTaMyarTaung.mp3">	၃၂၅။ ထေရ်မဟာနှင့် သာသနာ  ၃ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/326-HeTheinPaTaMyarTaung.mp3">	၃၂၆။ ထေရ်မဟာနှင့် သာသနာ  ၄ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/327-HeTheinPaTaMyarTaung.mp3">	၃၂၇။ ထေရ်မဟာနှင့် သာသနာ  ၅ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/328-HeTheinPaTaMyarTaung.mp3">	၃၂၈။ ထေရ်မဟာနှင့် သာသနာ  ၆	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/329-HeTheinPaTaMyarTaung.mp3">	၃၂၉။ လောဘကြီးက ရောဂါရ	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ဟဲသိမ်ပတ္တမြားတောင်( ၁၂-ကြိမ်မြောက်)တရားစခန်းတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/330-HeTheinPaTaMyarTaung.mp3">	၃၃၀။ သြဂလေးဖြာ လွတ်မြေက်ရာ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/331-HeTheinPaTaMyarTaung.mp3">	၃၃၁။ အရေးကြီးတာ အရင်လုပ် 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/332-HeTheinPaTaMyarTaung.mp3">	၃၃၂။ လွတ်လမ်းကိုသာ တွေ့အောင်ရှာ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/333-HeTheinPaTaMyarTaung.mp3">	၃၃၃။ မှန်တာသိချင်အမှားပြင်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/334-HeTheinPaTaMyarTaung.mp3">	၃၃၄။ အမှန်သိဖို့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/335-HeTheinPaTaMyarTaung.mp3">	၃၃၅။ ခန္ဓာ့ဒုက္ခသိမှ လွတ်မြောက်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/336-HeTheinPaTaMyarTaung.mp3">	၃၃၆။ ဉာဏ်အမြင်ရှင်းမှ အနတ္တ	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ဟဲသိမ်ပတ္တမြားတောင်( ၁၄-ကြိမ်မြောက်) ၂၀၁၈-တရားစခန်းတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/337-HeTheinPaTaMyarTaung.mp3">	၃၃၇။ ဘဝထဲမှာ လမ်းခွဲရှာ -၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/338-HeTheinPaTaMyarTaung.mp3">	၃၃၈။ ဘဝထဲမှာ လမ်းခွဲရှာ -၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/339-HeTheinPaTaMyarTaung.mp3">	၃၃၉။ ကိုယ်တိုင်သိမှ ချမ်းသာရ - ၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/340-HeTheinPaTaMyarTaung.mp3">	၃၄၀။ ကိုယ်တိုင်သိမှ ချမ်းသာရ - ၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/341-HeTheinPaTaMyarTaung.mp3">	၃၄၁။ လွတ်မြောက်ရာကို လမ်းညွှန်တာ စစ်မှန်တဲ့သာသနာ -၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/342-HeTheinPaTaMyarTaung.mp3">	၃၄၂။ လွတ်မြောက်ရာကို လမ်းညွှန်တာ စစ်မှန်တဲ့သာသနာ -၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/343-HeTheinPaTaMyarTaung.mp3">	၃၄၃။ ပြောင်းပြန်မြင်မှ အမှန်သိမယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/344-HeTheinPaTaMyarTaung.mp3">	၃၄၄။ သစ္စာလေးဖြာ သိစရာ - ၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/345-HeTheinPaTaMyarTaung.mp3">	၃၄၅။ သစ္စာလေးဖြာ သိစရာ - ၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/346-HeTheinPaTaMyarTaung.mp3">	၃၄၆။ ကိုယ်နာသော်လည်း စိတ်မနာအောင်နေ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/347-HeTheinPaTaMyarTaung.mp3">	၃၄၇။ တရားသိမြင် စိတ်ကောင်းဝင်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/348-HeTheinPaTaMyarTaung.mp3">	၃၄၈။ သြဂလေးဖြာ လွတ်မြောက်ရာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/349-HeTheinPaTaMyarTaung.mp3">	၃၄၉။ သြဂလေးဖြာ လွတ်မြောက်ရာ-၂	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/350-HeTheinPaTaMyarTaung.mp3">	၃၅၀။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/351-HeTheinPaTaMyarTaung.mp3">	၃၅၁။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/352-HeTheinPaTaMyarTaung.mp3">	၃၅၂။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/353-HeTheinPaTaMyarTaung.mp3">	၃၅၃။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၄)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/354-HeTheinPaTaMyarTaung.mp3">	၃၅၄။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၅)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/355-HeTheinPaTaMyarTaung.mp3">	၃၅၅။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၆)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/356-HeTheinPaTaMyarTaung.mp3">	၃၅၆။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၇)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/357-HeTheinPaTaMyarTaung.mp3">	၃၅၇။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၈)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/358-HeTheinPaTaMyarTaung.mp3">	၃၅၈။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၉)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/359-HeTheinPaTaMyarTaung.mp3">	၃၅၉။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၁၀)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/360-HeTheinPaTaMyarTaung.mp3">	၃၆၀။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၁၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/361-HeTheinPaTaMyarTaung.mp3">	၃၆၁။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၁၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/362-HeTheinPaTaMyarTaung.mp3">	၃၆၂။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၁၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/363-HeTheinPaTaMyarTaung.mp3">	၃၆၃။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၁၄)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/364-HeTheinPaTaMyarTaung.mp3">	၃၆၄။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၁၅)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/365-HeTheinPaTaMyarTaung.mp3">	၃၆၅။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၁၆)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/366-HeTheinPaTaMyarTaung.mp3">	၃၆၆။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၁၇)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/367-HeTheinPaTaMyarTaung.mp3">	၃၆၇။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၁၈)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/368-HeTheinPaTaMyarTaung.mp3">	၃၆၈။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၁၉)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/369-HeTheinPaTaMyarTaung.mp3">	၃၆၉။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၂၀)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/370-HeTheinPaTaMyarTaung.mp3">	၃၇၀။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၂၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/371-HeTheinPaTaMyarTaung.mp3">	၃၇၁။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၂၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/372-HeTheinPaTaMyarTaung.mp3">	၃၇၂။ ပိုင်းခြားသိစေတာ ပဋ္ဌာန်းမြတ်ဒေသနာ (၂၃)	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ပဋ္ဌာန်းတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/373-HeTheinPaTaMyarTaung.mp3">	၃၇၃။ ပဋ္ဌာန်းတရားတော်များ - ၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/374-HeTheinPaTaMyarTaung.mp3">	၃၇၄။ ပဋ္ဌာန်းတရားတော်များ - ၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/375-HeTheinPaTaMyarTaung.mp3">	၃၇၅။ ပဋ္ဌာန်းတရားတော်များ - ၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/376-HeTheinPaTaMyarTaung.mp3">	၃၇၆။ ပဋ္ဌာန်းတရားတော်များ - ၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/377-HeTheinPaTaMyarTaung.mp3">	၃၇၇။ ပဋ္ဌာန်းတရားတော်များ - ၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/378-HeTheinPaTaMyarTaung.mp3">	၃၇၈။ ပဋ္ဌာန်းတရားတော်များ - ၆	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/379-HeTheinPaTaMyarTaung.mp3">	၃၇၉။ ပဋ္ဌာန်းတရားတော်များ - ၇	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/380-HeTheinPaTaMyarTaung.mp3">	၃၈၀။ ပဋ္ဌာန်းတရားတော်များ - ၈	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/381-HeTheinPaTaMyarTaung.mp3">	၃၈၁။ ပဋ္ဌာန်းတရားတော်များ - ၉	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/382-HeTheinPaTaMyarTaung.mp3">	၃၈၂။ ပဋ္ဌာန်းတရားတော်များ - ၁၀	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/383-HeTheinPaTaMyarTaung.mp3">	၃၈၃။ ပဋ္ဌာန်းတရားတော်များ - ၁၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/384-HeTheinPaTaMyarTaung.mp3">	၃၈၄။ ပဋ္ဌာန်းတရားတော်များ - ၁၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/385-HeTheinPaTaMyarTaung.mp3">	၃၈၅။ ပဋ္ဌာန်းတရားတော်များ - ၁၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/386-HeTheinPaTaMyarTaung.mp3">	၃၈၆။ ပဋ္ဌာန်းတရားတော်များ - ၁၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/387-HeTheinPaTaMyarTaung.mp3">	၃၈၇။ ပဋ္ဌာန်းတရားတော်များ - ၁၅	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ဓမ္မစကြာနှင့်ဝိပဿနာတရားတော်များ(၂၀၁၇)ဟဲသိမ်ပတ္တမြားတောင်	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/388-HeTheinPaTaMyarTaung.mp3">	၃၈၈။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/389-HeTheinPaTaMyarTaung.mp3">	၃၈၉။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/390-HeTheinPaTaMyarTaung.mp3">	၃၉၀။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/391-HeTheinPaTaMyarTaung.mp3">	၃၉၁။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/392-HeTheinPaTaMyarTaung.mp3">	၃၉၂။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/393-HeTheinPaTaMyarTaung.mp3">	၃၉၃။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၆	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/394-HeTheinPaTaMyarTaung.mp3">	၃၉၄။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၇	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/395-HeTheinPaTaMyarTaung.mp3">	၃၉၅။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၈	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/396-HeTheinPaTaMyarTaung.mp3">	၃၉၆။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၉	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/397-HeTheinPaTaMyarTaung.mp3">	၃၉၇။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၁၀	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/398-HeTheinPaTaMyarTaung.mp3">	၃၉၈။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၁၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/399-HeTheinPaTaMyarTaung.mp3">	၃၉၉။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၁၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/400-HeTheinPaTaMyarTaung.mp3">	၄၀၀။ ဓမ္မစကြာနှင့်ဝိပဿနာ-၁၃	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေးတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/401-HeTheinPaTaMyarTaung.mp3">	၄၀၁။ အခြေခံဝိပဿနာတရား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/402-HeTheinPaTaMyarTaung.mp3">	၄၀၂။ နိဝရဏ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/403-HeTheinPaTaMyarTaung.mp3">	၄၀၃။ အခက်အခဲကို ဖြေရှင်းနည်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/404-HeTheinPaTaMyarTaung.mp3">	၄၀၄။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး -၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/405-HeTheinPaTaMyarTaung.mp3">	၄၀၅။ ဒိဋ္ဌိကိလေသာအရင်ဖယ်ရမှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/406-HeTheinPaTaMyarTaung.mp3">	၄၀၆။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/407-HeTheinPaTaMyarTaung.mp3">	၄၀၇။ ကာယနုပဿနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/408-HeTheinPaTaMyarTaung.mp3">	၄၀၈။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/409-HeTheinPaTaMyarTaung.mp3">	၄၀၉။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/410-HeTheinPaTaMyarTaung.mp3">	၄၁၀။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/411-HeTheinPaTaMyarTaung.mp3">	၄၁၁။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/412-HeTheinPaTaMyarTaung.mp3">	၄၁၂။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး-၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/413-HeTheinPaTaMyarTaung.mp3">	၄၁၃။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး-၆	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/414-HeTheinPaTaMyarTaung.mp3">	၄၁၄။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး-၇	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/415-HeTheinPaTaMyarTaung.mp3">	၄၁၅။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး-၈	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/416-HeTheinPaTaMyarTaung.mp3">	၄၁၆။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး-၉	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/417-HeTheinPaTaMyarTaung.mp3">	၄၁၇။ ပဋိစ္စ သမုပ္ပာဒ်အလုပ်ပေး-၁၀	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	တမူးတရားစခန်းတရားတော်များ(၂၀၁၆)	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/418-HeTheinPaTaMyarTaung.mp3">	၄၁၈။ အားကိုးရာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/419-HeTheinPaTaMyarTaung.mp3">	၄၁၉။ သေခြင်းအသိနှင့် ရှင်သန်ခြင်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/420-HeTheinPaTaMyarTaung.mp3">	၄၂၀။ စွမ်းရည်ပြည့်မှ အောင်ပွဲရ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/421-HeTheinPaTaMyarTaung.mp3">	၄၂၁။ လေ့ကျင့်နိုင်မှ ခိုင်ခံ့တယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/422-HeTheinPaTaMyarTaung.mp3">	၄၂၂။ မြန်မာနိုင်ငံသားနှင့်ဝိပဿနာတရား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/423-HeTheinPaTaMyarTaung.mp3">	၄၂၃။ သိမြင်ထားရင်စွန့်စားနိုင်တယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/424-HeTheinPaTaMyarTaung.mp3">	၄၂၄။ စွန့်လွတ်နိုင်မှ လွတ်လပ်မယ်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/425-HeTheinPaTaMyarTaung.mp3">	၄၂၅။ စွန့်လွတ်နိုင်မှ လွတ်လပ်မယ်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/426-HeTheinPaTaMyarTaung.mp3">	၄၂၆။ စွန့်လွတ်နိုင်မှ လွတ်လပ်မယ်-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/427-HeTheinPaTaMyarTaung.mp3">	၄၂၇။ အနတ္တ ဒေသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/428-HeTheinPaTaMyarTaung.mp3">	၄၂၈။ စိတ်တစ်ခုကြည့် အားလုံးသိ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/429-HeTheinPaTaMyarTaung.mp3">	၄၂၉။ သစ္စာဒေသနာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/430-HeTheinPaTaMyarTaung.mp3">	၄၃၀။ သစ္စာဒေသနာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/431-HeTheinPaTaMyarTaung.mp3">	၄၃၁။ စွမ်းအားနှိမ့်သောစိတ်နှင့်စွမ်းအားမြင့်သောစိတ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/432-HeTheinPaTaMyarTaung.mp3">	၄၃၂။ အမြင်များပြောင်းလဲခြင်း-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/433-HeTheinPaTaMyarTaung.mp3">	၄၃၃။ အမြင်များပြောင်းလဲခြင်း-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/434-HeTheinPaTaMyarTaung.mp3">	၄၃၄။ ဉာဏ်စဉ်နှင့်ဆက်စပ်သည့်တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/435-HeTheinPaTaMyarTaung.mp3">	၄၃၅။ နိဗ္ဗာန်နှင့်ဆက်ဆပ်သည့် တရား-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/436-HeTheinPaTaMyarTaung.mp3">	၄၃၆။ နိဗ္ဗာန်နှင့်ဆက်ဆပ်သည့် တရား-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/437-HeTheinPaTaMyarTaung.mp3">	၄၃၇။ အမှီကင်းမှ ရှင်းရှင်းလွတ်မယ်	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ရွှေမုဋ္ဌောတရားစခန်းတရားတော်များ(၂၀၁၅)	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/438-HeTheinPaTaMyarTaung.mp3">	၄၃၈။ ရွှေးချယ်ခွင့်ရှိသူ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/439-HeTheinPaTaMyarTaung.mp3">	၄၃၉။ ဒိဋ္ဌိကင်းစင်အမှန်မြင်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/440-HeTheinPaTaMyarTaung.mp3">	၄၄၀။ ဒိဋ္ဌိကင်းစင်အမှန်မြင်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/441-HeTheinPaTaMyarTaung.mp3">	၄၄၁။ အသေလွတ်ရာ လမ်းကြောင်းရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/442-HeTheinPaTaMyarTaung.mp3">	၄၄၂။ အမြင်ရှင်းမှ ရှင်းရှင်းမြင်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/443-HeTheinPaTaMyarTaung.mp3">	၄၄၃။ ဝဋ်ဘဝတိုတိုနိဗာန်ရလိုလျှင်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/444-HeTheinPaTaMyarTaung.mp3">	၄၄၄။ လွတ်ငြိမ်းမှုကိုတွေ့အောင်ရှာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/445-HeTheinPaTaMyarTaung.mp3">	၄၄၅။ လွတ်ငြိမ်းမှုကိုတွေ့အောင်ရှာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/446-HeTheinPaTaMyarTaung.mp3">	၄၄၆။ သစ္စာလေးဖြာမြတ်ဒေသနာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/447-HeTheinPaTaMyarTaung.mp3">	၄၄၇။ သစ္စာလေးဖြာမြတ်ဒေသနာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/448-HeTheinPaTaMyarTaung.mp3">	၄၄၈။ မသိရင်နှစ်မြုပ်နိုင်တယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/449-HeTheinPaTaMyarTaung.mp3">	၄၄၉။ ဝိသာခနှင့်ဓမ္မဒိန္နာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/450-HeTheinPaTaMyarTaung.mp3">	၄၅၀။ ဝိသာခနှင့်ဓမ္မဒိန္နာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/451-HeTheinPaTaMyarTaung.mp3">	၄၅၁။ ဝိသာခနှင့်ဓမ္မဒိန္နာ-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/452-HeTheinPaTaMyarTaung.mp3">	၄၅၂။ ဝိသာခနှင့်ဓမ္မဒိန္နာ-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/453-HeTheinPaTaMyarTaung.mp3">	၄၅၃။ ရှိတာသိမှရှင်းနိုင်မယ်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/454-HeTheinPaTaMyarTaung.mp3">	၄၅၄။ ရှိတာသိမှရှင်းနိုင်မယ်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/455-HeTheinPaTaMyarTaung.mp3">	၄၅၅။ အားကိုးရာအစစ်ကိုရှာကြည့်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/456-HeTheinPaTaMyarTaung.mp3">	၄၅၆။ ကျော်ဖြတ်နိုင်မှ ကျေနပ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/457-HeTheinPaTaMyarTaung.mp3">	၄၅၇။ တရားအားထုတ်ရခြင်းအကြောင်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/458-HeTheinPaTaMyarTaung.mp3">	၄၅၈။ ဒိဋ္ဌိခွာနည်း နိသျည်း(၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/459-HeTheinPaTaMyarTaung.mp3">	၄၅၉။ ဒိဋ္ဌိခွာနည်း နိသျည်း(၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/460-HeTheinPaTaMyarTaung.mp3">	၄၆၀။ ပဋိစ္စသမုပ္ပာဒ်နှင့်ဆက်စပ်သည့်အကြောင်းအရာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/461-HeTheinPaTaMyarTaung.mp3">	၄၆၁။ ဉာဏ်မြင်အနတသိပါမှ(၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/462-HeTheinPaTaMyarTaung.mp3">	၄၆၂။ ဉာဏ်မြင်အနတသိပါမှ(၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/463-HeTheinPaTaMyarTaung.mp3">	၄၆၃။ စိတ္တာနုပသနာဒေသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/464-HeTheinPaTaMyarTaung.mp3">	၄၆၄။ သစ္စာမသိ သံသရာလည်ပုံ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/465-HeTheinPaTaMyarTaung.mp3">	၄၆၅။ လမ်းစဉ်အတိုင်းရှောက်ရင်ပန်းတိုင်ရောက်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/466-HeTheinPaTaMyarTaung.mp3">	၄၆၆။ ဘဝအမြင်နဲ့စွမ်းအားမြင့်တင်ခြင်း-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/467-HeTheinPaTaMyarTaung.mp3">	၄၆၇။ ဘဝအမြင်နဲ့စွမ်းအားမြင့်တင်ခြင်း(၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/468-HeTheinPaTaMyarTaung.mp3">	၄၆၈။ ဘဝအမြင်နဲ့စွမ်းအားမြင့်တင်ခြင်း(၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/469-HeTheinPaTaMyarTaung.mp3">	၄၆၉။ ဉာဏ်မဲ့သူနှင့်ဉာဏ်ရှိသူတို့၏လုပ်ရပ်(၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/470-HeTheinPaTaMyarTaung.mp3">	၄၇၀။ ဉာဏ်မဲ့သူနှင့်ဉာဏ်ရှိသူတို့၏လုပ်ရပ်(၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/471-HeTheinPaTaMyarTaung.mp3">	၄၇၁။ အမှီကောင်းကမဂ်ဉာဏ်ရ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/472-HeTheinPaTaMyarTaung.mp3">	၄၇၂။ သေခြင်းတရားနဲ့ဖြေရှင်းသွားသူ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/473-HeTheinPaTaMyarTaung.mp3">	၄၇၃။ အားကိုးမှားရင်သောကများမယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/474-HeTheinPaTaMyarTaung.mp3">	၄၇၄။ အိပ်ခြင်းမှနိုးထကြသူ	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ရွှေမုဋ္ဌောတရားစခန်းတရားတော်များ(၂၀၁၇)	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/475-HeTheinPaTaMyarTaung.mp3">	၄၇၅။ ရုန်းထွက်ခွင့်ရှိသော လူ့ဘဝ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/476-HeTheinPaTaMyarTaung.mp3">	၄၇၆။ အမှားဖယ်မှ အမှန်သိမယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/477-HeTheinPaTaMyarTaung.mp3">	၄၇၇။ အမှားဖယ်မှ အမှန်သိမယ်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/478-HeTheinPaTaMyarTaung.mp3">	၄၇၈။ အမှန်အရှိကို ဉာဏ်နဲ့သိ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/479-HeTheinPaTaMyarTaung.mp3">	၄၇၉။ ပဋိစ္စသမုပ္ပာဒ် ဒေသနာ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/480-HeTheinPaTaMyarTaung.mp3">	၄၈၀။ သံသရာစက်ရဟတ်အလည်ရပ်ဖို့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/481-HeTheinPaTaMyarTaung.mp3">	၄၈၁။ ခန္ဓာ့ဒုက္ခသစ္စာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/482-HeTheinPaTaMyarTaung.mp3">	၄၈၂။ သစ္စာလေးဖြာ မြတ်ဒေသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/483-HeTheinPaTaMyarTaung.mp3">	၄၈၃။ အသေလွတ်ရာလမ်းကြောင်းရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/484-HeTheinPaTaMyarTaung.mp3">	၄၈၄။ ဖြတ်ကျော်နိုင်သော စွမ်းအားများ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/485-HeTheinPaTaMyarTaung.mp3">	၄၈၅။ ဖြတ်ကျော်နိုင်သော စွမ်းအားများ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/486-HeTheinPaTaMyarTaung.mp3">	၄၈၆။ အမြင်ပြောင်းမှတန်ဖိုးမြင့်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/487-HeTheinPaTaMyarTaung.mp3">	၄၈၇။ အမြင်ပြောင်းမှတန်ဖိုးမြင့်မယ်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/488-HeTheinPaTaMyarTaung.mp3">	၄၈၈။ အမြင်ပြောင်းမှတန်ဖိုးမြင့်မယ်-၃	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	နန့်ဆန် တရားစခန်းတရားတော်များ (၂၀၁၆)	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/489-HeTheinPaTaMyarTaung.mp3">	၄၈၉။ ရှုပ်ထွေးခြင်းမှသည်လွတ်ငြိမ်းရာသို့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/490-HeTheinPaTaMyarTaung.mp3">	၄၉၀။ သေခြင်းသိရင်လွတ်လပ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/491-HeTheinPaTaMyarTaung.mp3">	၄၉၁။ မုန်းဉာဏ်ဝင်မှနိဗ္မာန်မြင်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/492-HeTheinPaTaMyarTaung.mp3">	၄၉၂။ ကံကြွေးကိုဉာဏ်နဲ့ဆပ်နိုင်တယ်။	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/493-HeTheinPaTaMyarTaung.mp3">	၄၉၃။ စိတ်ကိုသိမှလွတ်လပ်မယ်။	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/494-HeTheinPaTaMyarTaung.mp3">	၄၉၄။ ရတနာစွမ်းအား နိဗ္မာန်သွား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/495-HeTheinPaTaMyarTaung.mp3">	၄၉၅။ အိုသည့်တိုင်အောင်ကောင်းသည့်တရား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/496-HeTheinPaTaMyarTaung.mp3">	၄၉၆။ ကြုံခဲလှစွာ သာသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/497-HeTheinPaTaMyarTaung.mp3">	၄၉၇။ စွန့်လွှတ်တတ်ဖို့လိုအပ်တယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/498-HeTheinPaTaMyarTaung.mp3">	၄၉၈။ အမှိုက်ပုံကြားကပတ္တမြား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/499-HeTheinPaTaMyarTaung.mp3">	၄၉၉။ ဗုဒ္ဓလမ်းစဉ်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/500-HeTheinPaTaMyarTaung.mp3">	၅၀၀။ ဗုဒ္ဓလမ်းစဉ်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/501-HeTheinPaTaMyarTaung.mp3">	၅၀၁။ ဗုဒ္ဓလမ်းစဉ်-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/502-HeTheinPaTaMyarTaung.mp3">	၅၀၂။ ဗုဒ္ဓလမ်းစဉ်-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/503-HeTheinPaTaMyarTaung.mp3">	၅၀၃။ အိမ်မက်ကမ္ဘာမှနိုးထခြင်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/504-HeTheinPaTaMyarTaung.mp3">	၅၀၄။ အခွင့်အရေးရှိသောဘဝ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/505-HeTheinPaTaMyarTaung.mp3">	၅၀၅။ အခွင့်အရေးရှိသောဘဝ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/506-HeTheinPaTaMyarTaung.mp3">	၅၀၆။ ဗုဒ္ဓပူဇာဒေသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/507-HeTheinPaTaMyarTaung.mp3">	၅၀၇။ သာသနာ့အမွေ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/508-HeTheinPaTaMyarTaung.mp3">	၅၀၈။ စီစစ်တတ်ဖို့လိုအပ်တယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/509-HeTheinPaTaMyarTaung.mp3">	၅၀၉။ အောင်မြင်ခြင်းနှင့်အောင်နိုင်ခြင်း-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/510-HeTheinPaTaMyarTaung.mp3">	၅၁၀။ အောင်မြင်ခြင်းနှင့်အောင်နိုင်ခြင်း-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/511-HeTheinPaTaMyarTaung.mp3">	၅၁၁။ ကံကြွေးကိုဉာဏ်နဲ့ဆပ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/512-HeTheinPaTaMyarTaung.mp3">	၅၁၂။ သိအောင်လုပ်ရင်ရှုပ်တာရှင်းမယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/513-HeTheinPaTaMyarTaung.mp3">	၅၁၃။ သတိနှင့်ယှဉ်ရင်အောင်မြင်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/514-HeTheinPaTaMyarTaung.mp3">	၅၁၄။ ငြိမ်းချမ်းရေး ဗိသုကာ	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	မိုင်းရှုးရားစခန်းတရားတော်များ(၂၀၁၇)	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/515-HeTheinPaTaMyarTaung.mp3">	၅၁၅။ အမှန်တရားကို ရှာဖွေခြင်း(၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/516-HeTheinPaTaMyarTaung.mp3">	၅၁၆။ အမှန်တရားကို ရှာဖွေခြင်း(၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/517-HeTheinPaTaMyarTaung.mp3">	၅၁၇။ အမှန်တရားကို ရှာဖွေခြင်း(၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/518-HeTheinPaTaMyarTaung.mp3">	၅၁၈။ နကုလသုတ္တန်(၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/519-HeTheinPaTaMyarTaung.mp3">	၅၁၉။ နကုလသုတ္တန်(၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/520-HeTheinPaTaMyarTaung.mp3">	၅၂၀။ နကုလသုတ္တန်(၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/521-HeTheinPaTaMyarTaung.mp3">	၅၂၁။ နကုလသုတ္တန(၄)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/522-HeTheinPaTaMyarTaung.mp3">	၅၂၂။သစ္စာဒေသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/523-HeTheinPaTaMyarTaung.mp3">	၅၂၃။ လောင်စာသိမ်းပြီးမီးငြိမ်းရန်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/524-HeTheinPaTaMyarTaung.mp3">	၅၂၄။ အလုပ်စဉ် တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/525-HeTheinPaTaMyarTaung.mp3">	၅၂၅။ အချိန်နှင့်ဘဝ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/526-HeTheinPaTaMyarTaung.mp3">	၅၂၆။ နှောင်ကြိုးဖြတ်မှ လွတ်မြောက်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/527-HeTheinPaTaMyarTaung.mp3">	၅၂၇။ အသုံးချတတ်မှ အမြတ်ထွက်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/528-HeTheinPaTaMyarTaung.mp3">	၅၂၈။ လေ့ကျင့်တာများမှ စွမ်းအားဖြစ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/529-HeTheinPaTaMyarTaung.mp3">	၅၂၉။ အားကိုးရာအရှာမမှားကြစေနဲ့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/530-HeTheinPaTaMyarTaung.mp3">	၅၃၀။ ခန္ဓာဝန်ထမ်း ခရီးကြမ်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/531-HeTheinPaTaMyarTaung.mp3">	၅၃၁။ သြဂေးဖြာ လွတ်မြောက်ရာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/532-HeTheinPaTaMyarTaung.mp3">	၅၃၂။ တွယ်တာမှုကင်းသော အမြင်	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	လွိုင်လင်တရားစခန်းတရားတော်များ(၂၀၁၇)	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/533-HeTheinPaTaMyarTaung.mp3">	၅၃၃။ လွတ်လပ်ခွင့်ရှိသော ဘဝ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/534-HeTheinPaTaMyarTaung.mp3">	၅၃၄။ သစ္စာလေးဖြာသိစရာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/535-HeTheinPaTaMyarTaung.mp3">	၅၃၅။ လွိုင်လင် မနက် အလုပ်ပေး(၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/536-HeTheinPaTaMyarTaung.mp3">	၅၃၆။ ရတနာသုံးပါးနှင့်နီးစေတာ စစ်မှန်တဲ့ သဒ္ဓါ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/537-HeTheinPaTaMyarTaung.mp3">	၅၃၇။ ရတနာသုံးပါးနှင့်နီးစေတာ စစ်မှန်တဲ့ သဒ္ဓါ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/538-HeTheinPaTaMyarTaung.mp3">	၅၃၈။ ရတနာသုံးပါးနှင့်နီးစေတာ စစ်မှန်တဲ့ သဒ္ဓါ-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/539-HeTheinPaTaMyarTaung.mp3">	၅၃၉။ မသေခင်သိအောင်လုပ်မှ အမြတ်ရ 	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/540-HeTheinPaTaMyarTaung.mp3">	၅၄၀။ ဗုဒ္ဓဝါဒ အနတ္တ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/541-HeTheinPaTaMyarTaung.mp3">	၅၄၁။ ဗုဒ္ဓဝါဒ အနတ္တ-၂	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ရွှေဖုန်းပွင့်တရားစခန်းတရားတော်များ(၂၀၁၇)	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/542-HeTheinPaTaMyarTaung.mp3">	၅၄၂။ အကြွေးကင်းမှ လွတ်လပ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/543-HeTheinPaTaMyarTaung.mp3">	၅၄၃။ လွတ်အောင်ရှုန်းမှ လွတ်မြောက်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/544-HeTheinPaTaMyarTaung.mp3">	၅၄၄။ အတ္တဝါဒမှသည် အနတ္တဆီသို့-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/545-HeTheinPaTaMyarTaung.mp3">	၅၄၅။ အတ္တဝါဒမှသည် အနတ္တဆီသို့-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/546-HeTheinPaTaMyarTaung.mp3">	၅၄၆။ ခန္ဓာဝန်ထမ်းခရီးကြမ်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/547-HeTheinPaTaMyarTaung.mp3">	၅၄၇။ သစ္စာသိမှ ချမ်းသာရ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/548-HeTheinPaTaMyarTaung.mp3">	၅၄၈။ သစ္စာသိမှ ချမ်းသာရ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/549-HeTheinPaTaMyarTaung.mp3">	၅၄၉။ မဂ်ကိုသိမှ ချမ်းသာရ	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	တောင်ကြီးမြို့ ၊ထာဝရဓမ္မရိပ်သာတရားစခန်း (၂၀၁၇ ) တရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/550-HeTheinPaTaMyarTaung.mp3">	၅၅၀။ အမှန်လမ်းပြ မြတ်ဗုဒ္ဓ (၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/551-HeTheinPaTaMyarTaung.mp3">	၅၅၁။ အမှန်လမ်းပြ မြတ်ဗုဒ္ဓ (၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/552-HeTheinPaTaMyarTaung.mp3">	၅၅၂။ အမှန်လမ်းပြ မြတ်ဗုဒ္ဓ (၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/553-HeTheinPaTaMyarTaung.mp3">	၅၅၃။ အမှန်လမ်းပြ မြတ်ဗုဒ္ဓ (၄)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/554-HeTheinPaTaMyarTaung.mp3">	၅၅၄။ ဘဝအတွက်စိတ်ချဖို့ အမြင်ရှင်းအောင်လုပ်ကြစို့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/555-HeTheinPaTaMyarTaung.mp3">	၅၅၅။ ဒုက္ခလွတ်ရာ လမ်းကြောင်းရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/556-HeTheinPaTaMyarTaung.mp3">	၅၅၆။ ပိုင်းခြားသိစရာ အနတ္တဒေသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/557-HeTheinPaTaMyarTaung.mp3">	၅၅၇။ ဝဋ်ကျွှတ်မှ လွတ်မြောက်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/558-HeTheinPaTaMyarTaung.mp3">	၅၅၈။ တရားအားထုတ်ရာမှာ သိစရာများ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/559-HeTheinPaTaMyarTaung.mp3">	၅၅၉။ အသိဝင်မှ သောကစင်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/560-HeTheinPaTaMyarTaung.mp3">	၅၆၀။ စိတ်တလုံးပိုင် လွတ်မြောက်နိုင်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/561-HeTheinPaTaMyarTaung.mp3">	၅၆၁။ သောကကင်းပြတ် အငြိမ်းဓာဏ်	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ကျောင်းတွင်းဟောတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/562-HeTheinPaTaMyarTaung.mp3">	၅၆၂။ သဘာဝကိုသိမှ လွတ်လပ်မယ် ၆.၈.၂၀၁၇	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/563-HeTheinPaTaMyarTaung.mp3">	၅၆၃။ သာသနာတွင်းကကုသိုလ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/564-HeTheinPaTaMyarTaung.mp3">	၅၆၄။ သာသနာနှင့်မြတ်သံဃာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/565-HeTheinPaTaMyarTaung.mp3">	၅၆၅။ စက်ကြီးလေးပါး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/566-HeTheinPaTaMyarTaung.mp3">	၅၆၆။ လွတ်မြောက်ခြင်းလမ်းစ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/567-HeTheinPaTaMyarTaung.mp3">	၅၆၇။ လွတ်မြောက်ခြင်းရဲ့လမ်းစဉ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/568-HeTheinPaTaMyarTaung.mp3">	၅၆၈။ အမှားထဲမှာအမြတ်ရှာ	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ဟောစဉ်တရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/569-HeTheinPaTaMyarTaung.mp3">	၅၆၉။ ရခဲတာကိုသိမှ တန်ဖိုးထားတတ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/570-HeTheinPaTaMyarTaung.mp3">	၅၇၀။ ကြိုက်ရာရွေးချယ် လမ်းလေးသွယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/571-HeTheinPaTaMyarTaung.mp3">	၅၇၁။ စိုးရိမ်ကင်းဝေးငြိမ်းချမ်းရေး-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/572-HeTheinPaTaMyarTaung.mp3">	၅၇၂။ စိုးရိမ်ကင်းဝေးငြိမ်းချမ်းရေး-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/573-HeTheinPaTaMyarTaung.mp3">	၅၇၃။ စိုးရိမ်ကင်းဝေးငြိမ်းချမ်းရေး-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/574-HeTheinPaTaMyarTaung.mp3">	၅၇၄။ စိုးရိမ်ကင်းဝေးငြိမ်းချမ်းရေး-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/575-HeTheinPaTaMyarTaung.mp3">	၅၇၅။ ရတနာစွမ်းအားနိဗ္ဗာန်သွား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/576-HeTheinPaTaMyarTaung.mp3">	၅၇၆။ အခွင့်ရေးရှိတဲ့ ဘဝ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/577-HeTheinPaTaMyarTaung.mp3">	၅၇၇။ လွတ်လပ်ခြင်းရဲ့အဓိပ္ပါယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/578-HeTheinPaTaMyarTaung.mp3">	၅၇၈။ လွတ်မြောက်ခြင်း လမ်းစ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/579-HeTheinPaTaMyarTaung.mp3">	၅၇၉။ လွတ်မြောက်ခြင်းရဲ့ ပန်းတိုင်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/580-HeTheinPaTaMyarTaung.mp3">	၅၈၀။ သာသနာ့ကျေးဇူးရှင်ကြီးများ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/581-HeTheinPaTaMyarTaung.mp3">	၅၈၁။ အချိန်ကာလနဲ့ဘဝတန်ဖိုး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/582-HeTheinPaTaMyarTaung.mp3">	၅၈၂။ အမှားထဲမှာ အမြတ်ရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/583-HeTheinPaTaMyarTaung.mp3">	၅၈၃။ ကျော်ဖြတ်နိုင်မှ အောင်မြင်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/584-HeTheinPaTaMyarTaung.mp3">	၅၈၄။ စေတနာမှန်ရင် အကျိုးပေးသန်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/585-HeTheinPaTaMyarTaung.mp3">	၅၈၅။ လောကုတ္တရာရတနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/586-HeTheinPaTaMyarTaung.mp3">	၅၈၆။ ရှင်သန်ခြင်းရဲ့ တန်ဖိုး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/587-HeTheinPaTaMyarTaung.mp3">	၅၈၇။ စိတ်စင်ကြယ်မှလွတ်လမ်းတွေ.မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/588-HeTheinPaTaMyarTaung.mp3">	၅၈၈။ အခွင့်အရေးရှိသော ဘဝ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/589-HeTheinPaTaMyarTaung.mp3">	၅၈၉။ အခွင့်အရေးရှိသော ဘဝ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/590-HeTheinPaTaMyarTaung.mp3">	၅၉၀။ ဆရာမမစိမ်းစိမ်း +ကျောင်းရေစက်ချ တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/591-HeTheinPaTaMyarTaung.mp3">	၅၉၁။ သခါၤရ ဒုက္ခသိမှ လွတ်မြောက်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/592-HeTheinPaTaMyarTaung.mp3">	၅၉၂။ သင်ခါရဒုတ်ခသိမှ လွတ်မြောက်မယ် အပိုင်း ၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/593-HeTheinPaTaMyarTaung.mp3">	၅၉၃။ သင်ခါရဒုက္ခသိမှလွတ်လမ်းတွေ့မယ် အပိုင်း ၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/594-HeTheinPaTaMyarTaung.mp3">	၅၉၄။ အရှိကိုသိမှသံသရာမှလွတ်မြောက်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/595-HeTheinPaTaMyarTaung.mp3">	၅၉၅။ လောင်စာသိမ်းပြီးမီးငြိမ်းရန်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/596-HeTheinPaTaMyarTaung.mp3">	၅၉၆။ ဘဝအဆင့်ကိုမြင့်စေတာသဒါနဲ့ပညာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/597-HeTheinPaTaMyarTaung.mp3">	၅၉၇။ ဘဝအဆင့်ကိုမြင့်စေတာသဒါနဲ.ပညာ အပိုင်း ၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/598-HeTheinPaTaMyarTaung.mp3">	၅၉၈။ အချိန်ကာလနှင့်ဘဝတန်ဖိုး ( ၁၈.၃.၂၀၁၇ )	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/599-HeTheinPaTaMyarTaung.mp3">	၅၉၉။ အမှိုက်ပုံကြားကပတ္တမြား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/600-HeTheinPaTaMyarTaung.mp3">	၆၀၀။ အမြင်ပြောင်းမှ အစဉ်ကောင်းမယ်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/601-HeTheinPaTaMyarTaung.mp3">	၆၀၁။ အမြင်ပြောင်းမှ အစဉ်ကောင်းမယ်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/602-HeTheinPaTaMyarTaung.mp3">	၆၀၂။ လမ်းလျှောက်ရင်းလမ်းမပျောက်ပါစေနဲ့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/603-HeTheinPaTaMyarTaung.mp3">	၆၀၃။ ဘဝထဲမှာ လမ်းခွဲရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/604-HeTheinPaTaMyarTaung.mp3">	၆၀၄။ လမ်းစဉ်အတိုင်းလျှောက်ရင် ပန်းတိုင်ရောက်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/605-HeTheinPaTaMyarTaung.mp3">	၆၀၅။ အခွင့်အရေးကို မရှုံးကြပါစေနဲ့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/606-HeTheinPaTaMyarTaung.mp3">	၆၀၆။ အလိုတော်ပြည့် တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/607-HeTheinPaTaMyarTaung.mp3">	၆၀၇။ နှိပ်စက်နေတာဒို့ခန္ဓာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/608-HeTheinPaTaMyarTaung.mp3">	၆၀၈။ သစ္စာလေးပါးမြတ်ဒေသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/609-HeTheinPaTaMyarTaung.mp3">	၆၀၉။ သင်္ခတမှ အသင်္ခတသို့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/610-HeTheinPaTaMyarTaung.mp3">	၆၁၀။ ရဲရင့်သူမှ အောင်ပွဲရ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/611-HeTheinPaTaMyarTaung.mp3">	၆၁၁။ ဘာသာတရားနှင့်လူသားစွမ်းရည်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/612-HeTheinPaTaMyarTaung.mp3">	၆၁၂။ ဘာသာတရားနှင့်လူသားစွမ်းရည်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/613-HeTheinPaTaMyarTaung.mp3">	၆၁၃။ ဘာသာတရားနှင့်လူသားစွမ်းရည်-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/614-HeTheinPaTaMyarTaung.mp3">	၆၁၄။ ဘာသာတရားနှင့်လူသားစွမ်းရည်-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/615-HeTheinPaTaMyarTaung.mp3">	၆၁၅။ ဘာသာတရားနှင့်လူသားစွမ်းရည်-၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/616-HeTheinPaTaMyarTaung.mp3">	၆၁၆။ လွတ်မြောက်မှုကိုရှာဖွေခြင်း-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/617-HeTheinPaTaMyarTaung.mp3">	၆၁၇။ လွတ်မြောက်မှုကိုရှာဖွေခြင်း-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/618-HeTheinPaTaMyarTaung.mp3">	၆၁၈။ လွတ်လမ်းကိုသာတွေ့အောင်ရှာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/619-HeTheinPaTaMyarTaung.mp3">	၆၁၉။ လွတ်လမ်းကိုသာတွေ့အောင်ရှာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/620-HeTheinPaTaMyarTaung.mp3">	၆၂၀။ လွတ်လမ်းကိုသာတွေ့အောင်ရှာ-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/621-HeTheinPaTaMyarTaung.mp3">	၆၂၁။ လွတ်လမ်းကိုသာတွေ့အောင်ရှာ-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/622-HeTheinPaTaMyarTaung.mp3">	၆၂၂။ လွတ်လမ်းကိုသာတွေ့အောင်ရှာ-၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/623-HeTheinPaTaMyarTaung.mp3">	၆၂၃။ လွတ်လမ်းကိုသာတွေ့အောင်ရှာ-၆	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/624-HeTheinPaTaMyarTaung.mp3">	၆၂၄။ လွတ်လမ်းကိုသာတွေ့အောင်ရှာ-၇	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/625-HeTheinPaTaMyarTaung.mp3">	၆၂၅။ သတ္တိရှိရင်အောင်မြင်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/626-HeTheinPaTaMyarTaung.mp3">	၆၂၆။ ဘာသာထဲက လူ့ဘဝ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/627-HeTheinPaTaMyarTaung.mp3">	၆၂၇။ ဘယ်သူမပြုမိမိမှု	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/628-HeTheinPaTaMyarTaung.mp3">	၆၂၈။ မှန်သောစကားနှင့် မြတ်တရား-၁( ဒေဝဒူတသုတ်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/629-HeTheinPaTaMyarTaung.mp3">	၆၂၉။ မှန်သောစကားနှင့် မြတ်တရား-၂( ဒေဝဒူတသုတ်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/630-HeTheinPaTaMyarTaung.mp3">	၆၃၀။ သိမြင်ဖယ်ရှား ဉာဏ်စွမ်းအား-၁(ဝမ္မိကသုတ်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/631-HeTheinPaTaMyarTaung.mp3">	၆၃၁။ သိမြင်ဖယ်ရှား ဉာဏ်စွမ်းအား-၂(ဝမ္မိကသုတ်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/632-HeTheinPaTaMyarTaung.mp3">	၆၃၂။ သိမြင်ဖယ်ရှား ဉာဏ်စွမ်းအား-၃(ဝမ္မိကသုတ်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/633-HeTheinPaTaMyarTaung.mp3">	၆၃၃။ သိမြင်ဖယ်ရှား ဉာဏ်စွမ်းအား-၄(ဝမ္မိကသုတ်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/634-HeTheinPaTaMyarTaung.mp3">	၆၃၄။ သိမြင်ဖယ်ရှား ဉာဏ်စွမ်းအား-၅(ဝမ္မိကသုတ်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/635-HeTheinPaTaMyarTaung.mp3">	၆၃၅။ သိမြင်ဖယ်ရှား ဉာဏ်စွမ်းအား-၆(ဝမ္မိကသုတ်)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/636-HeTheinPaTaMyarTaung.mp3">	၆၃၆။ ကိုယ့်အကြောင်းကိုယ်သိအောင်လုပ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/637-HeTheinPaTaMyarTaung.mp3">	၆၃၇။ စီစစ်ကြည့်မှ စွမ်းရည်ဖြစ်မယ်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/638-HeTheinPaTaMyarTaung.mp3">	၆၃၈။ စီစစ်ကြည့်မှ စွမ်းရည်ဖြစ်မယ်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/639-HeTheinPaTaMyarTaung.mp3">	၆၃၉။ စီစစ်ကြည့်မှ စွမ်းရည်ဖြစ်မယ်-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/640-HeTheinPaTaMyarTaung.mp3">	၆၄၀။ စီစစ်ကြည့်မှ စွမ်းရည်ဖြစ်မယ်-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/641-HeTheinPaTaMyarTaung.mp3">	၆၄၁။ စီစစ်ကြည့်မှ စွမ်းရည်ဖြစ်မယ်-၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/642-HeTheinPaTaMyarTaung.mp3">	၆၄၂။ စီစစ်ကြည့်မှ စွမ်းရည်ဖြစ်မယ်-၆	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/643-HeTheinPaTaMyarTaung.mp3">	၆၄၃။ စီစစ်ကြည့်မှ စွမ်းရည်ဖြစ်မယ်-၇	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/644-HeTheinPaTaMyarTaung.mp3">	၆၄၄။ ထွက်မြောက်ရာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/645-HeTheinPaTaMyarTaung.mp3">	၆၄၅။ ထွက်မြောက်ရာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/646-HeTheinPaTaMyarTaung.mp3">	၆၄၆။ ခန္ဓာဝန်ထမ်း ခရီးကြမ်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/647-HeTheinPaTaMyarTaung.mp3">	၆၄၇။ စီစစ်တတ်ဖို့လိုအပ်တယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/648-HeTheinPaTaMyarTaung.mp3">	၆၄၈။ ဆင်းရဲကင်းဝေး ငြိမ်းချမ်းရေး-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/649-HeTheinPaTaMyarTaung.mp3">	၆၄၉။ ဆင်းရဲကင်းဝေး ငြိမ်းချမ်းရေး-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/650-HeTheinPaTaMyarTaung.mp3">	၆၅၀။ ဆင်းရဲကင်းဝေး ငြိမ်းချမ်းရေး-၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/651-HeTheinPaTaMyarTaung.mp3">	၆၅၁။ ဆင်းရဲကင်းဝေး ငြိမ်းချမ်းရေး-၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/652-HeTheinPaTaMyarTaung.mp3">	၆၅၂။ ရာဂငြိမ်းဆေး မဂ်ရေအေး-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/653-HeTheinPaTaMyarTaung.mp3">	၆၅၃။ ရာဂငြိမ်းဆေး မဂ်ရေအေး-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/654-HeTheinPaTaMyarTaung.mp3">	၆၅၄။ ရွေးချယ်ခွင့်ရှိသောဘဝ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/655-HeTheinPaTaMyarTaung.mp3">	၆၅၅။ အစုံကင်းစင် အမှန်မြင်-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/656-HeTheinPaTaMyarTaung.mp3">	၆၅၆။ အစုံကင်းစင် အမှန်မြင်-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/657-HeTheinPaTaMyarTaung.mp3">	၆၅၇။ လေ့ကျင့်နီုင်မှ လွတ်လပ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/658-HeTheinPaTaMyarTaung.mp3">	၆၅၈။ လောကုတ္တရာ ရတနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/659-HeTheinPaTaMyarTaung.mp3">	၆၅၉။ ရှုသိစရာအခုပေါ်တဲ့ ခန္ဓာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/660-HeTheinPaTaMyarTaung.mp3">	၆၆၀။ တစ်ခုရှုရင်အားလုံးငြိမ်းတယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/661-HeTheinPaTaMyarTaung.mp3">	၆၆၁။ ကံနှင့်လူသား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/662-HeTheinPaTaMyarTaung.mp3">	၆၆၂။ ဒိဋ္ဌိကိလေသာအရင်ဖယ်ရမှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/663-HeTheinPaTaMyarTaung.mp3">	၆၆၃။ ဒိဋ္ဌိနှင့်သမ္မာဒိဋ္ဌိ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/664-HeTheinPaTaMyarTaung.mp3">	၆၆၄။ ရုပ်နာမ် ဓမ္မ အနတ္တ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/665-HeTheinPaTaMyarTaung.mp3">	၆၆၅။ သစ္စာ လေးဖြာ မြတ်ဒေသနာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/666-HeTheinPaTaMyarTaung.mp3">	၆၆၆။ သစ္စာ လေးဖြာ မြတ်ဒေသနာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/667-HeTheinPaTaMyarTaung.mp3">	၆၆၇။ ဒိဋ္ဌိကိလေသာ အရင်သိရမှာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/668-HeTheinPaTaMyarTaung.mp3">	၆၆၈။ ဒိဋ္ဌိကိလေသာ အရင်သိရမှာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/669-HeTheinPaTaMyarTaung.mp3">	၆၆၉။ အရှုခံနှင့်အရှုဉာဏ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/670-HeTheinPaTaMyarTaung.mp3">	၆၇၀။ ခန္ဓာကိလေသာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/671-HeTheinPaTaMyarTaung.mp3">	၆၇၁။ ပညတ်နှင့်ပရမတ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/672-HeTheinPaTaMyarTaung.mp3">	၆၇၂။ လုပ်သင့်တာကိုလုပ်ရမှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/673-HeTheinPaTaMyarTaung.mp3">	၆၇၃။ စစ်မှန်တဲ့ အားကိုးရာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/674-HeTheinPaTaMyarTaung.mp3">	၆၇၄။ အောင်မြင်ခြင်းနှင့်အောင်နိုင်ခြင်း-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/675-HeTheinPaTaMyarTaung.mp3">	၆၇၅။ အောင်မြင်ခြင်းနှင့်အောင်နိုင်ခြင်း-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/676-HeTheinPaTaMyarTaung.mp3">	၆၇၆။ လွတ်မြောက်မှုကိုရှာဖွေခြင်း - ၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/677-HeTheinPaTaMyarTaung.mp3">	၆၇၇။ ဒိဋ္ဌိကိလေသာအရင်ဖယ်ရမှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/678-HeTheinPaTaMyarTaung.mp3">	၆၇၈။ အိမ်မက်ကမ္ဘ္ဘာနိုးထခြင်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/679-HeTheinPaTaMyarTaung.mp3">	၆၇၉။ အခွင့်ရေးရှိသောဘဝ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/680-HeTheinPaTaMyarTaung.mp3">	၆၈၀။ ရုပ်နာမ်ဓမ္မ အနတ္တ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/681-HeTheinPaTaMyarTaung.mp3">	၆၈၁။ တရားအားထုတ်တယ်ဆိုတာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/682-HeTheinPaTaMyarTaung.mp3">	၆၈၂။ လမ်းစဉ်အတိုင်းလျှောက်ရင်ပန်းတိုင်ရောက်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/683-HeTheinPaTaMyarTaung.mp3">	၆၈၃။ ဒိဌိဖြုတ် တရား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/684-HeTheinPaTaMyarTaung.mp3">	၆၈၄။ ရှုပ်ထွေးခြင်းမှလွတ်ငြိမ်းရာသို့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/685-HeTheinPaTaMyarTaung.mp3">	၆၈၅။ အစွဲကင်းမှလွတ်လပ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/686-HeTheinPaTaMyarTaung.mp3">	၆၈၆။ ဒိဌိနှင့်ဆက်စပ်သည့်တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/687-HeTheinPaTaMyarTaung.mp3">	၆၈၇။ အောင်မြင်ကြီးပွားလူ့စွမ်းအား	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/688-HeTheinPaTaMyarTaung.mp3">	၆၈၈။ ဉာဏ်စဉ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/689-HeTheinPaTaMyarTaung.mp3">	၆၈၉။ စိတ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/690-HeTheinPaTaMyarTaung.mp3">	၆၉၀။ စြင်္ကန်၊	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/691-HeTheinPaTaMyarTaung.mp3">	၆၉၁။ ဓာတ်ကမဌာန်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/692-HeTheinPaTaMyarTaung.mp3">	၆၉၂။ ဝေဒနာနုပသနာ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/693-HeTheinPaTaMyarTaung.mp3">	၆၉၃။ ဝေဒနာနုပသနာ-၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/694-HeTheinPaTaMyarTaung.mp3">	၆၉၄။ အဟာရစားနည်း	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/695-HeTheinPaTaMyarTaung.mp3">	၆၉၅။ ဓမ္မစကြာ(ဝါဆိုလပြည့်နေ့ ) တရားတော်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/696-HeTheinPaTaMyarTaung.mp3">	၆၉၆။ ဟဲသိမ်+မြစိမ်းတောင်=တရားဆွေးနွေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/697-HeTheinPaTaMyarTaung.mp3">	၆၉၇။ သာသနာ့အလင်းရောင် အမေးဖြေ-၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/698-HeTheinPaTaMyarTaung.mp3">	၆၉၈။ အိပ်ယာနိုး တရား	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	(၂၀၁၈) ဟောတရားများ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/699-HeTheinPaTaMyarTaung.mp3">	၆၉၉။ ပြောင်းလဲသွားသော သူတို့ဘဝ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/700-HeTheinPaTaMyarTaung.mp3">	၇၀၀။ ဘဝအမြင်ကိုပြောင်းလဲစေတဲ့ပညာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/701-HeTheinPaTaMyarTaung.mp3">	၇၀၁။ စွန့်လွှတ်နိုင်မှအောင်ပွဲရ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/702-HeTheinPaTaMyarTaung.mp3">	၇၀၂။ အမြတ်ဆုံးအလှူ	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	(၂၀၁၈) ဝါတွင်းကာလ (ရက်၃၀) တရားစခန်း တရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/703-HeTheinPaTaMyarTaung.mp3">	၇၀၃။ ရွေးချယ်ခွင့်ရတဲ့ ဗုဒ္ဓဘာသာဝင်ဘဝ -၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/704-HeTheinPaTaMyarTaung.mp3">	၇၀၄။ ရွေးချယ်ခွင့်ရတဲ့ ဗုဒ္ဓဘာသာဝင်ဘဝ -၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/705-HeTheinPaTaMyarTaung.mp3">	၇၀၅။ လမ်းရွေးမမှားစေနဲ့	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/706-HeTheinPaTaMyarTaung.mp3">	၇၀၆။ ဖယ်ခွါနိုင်မှအမှန်သိမယ် - ၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/707-HeTheinPaTaMyarTaung.mp3">	၇၀၇။ ဖယ်ခွါနိုင်မှအမှန်သိမယ် - ၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/708-HeTheinPaTaMyarTaung.mp3">	၇၀၈။ အလိမ်ပျယ်မှအလည်ရပ်မယ် - ၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/709-HeTheinPaTaMyarTaung.mp3">	၇၀၉။ အလိမ်ပျယ်မှအလည်ရပ်မယ် - ၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/710-HeTheinPaTaMyarTaung.mp3">	၇၁၀။ အလိမ်ပျယ်မှအလည်ရပ်မယ် - ၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/711-HeTheinPaTaMyarTaung.mp3">	၇၁၁။ အနိစ္စဝတ သင်္ခါရ -၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/712-HeTheinPaTaMyarTaung.mp3">	၇၁၂။ လောကထဲမှာ လမ်းခွဲရှာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/713-HeTheinPaTaMyarTaung.mp3">	၇၁၃။ ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ - ၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/714-HeTheinPaTaMyarTaung.mp3">	၇၁၄။ ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ - ၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/715-HeTheinPaTaMyarTaung.mp3">	၇၁၅။ ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ - ၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/716-HeTheinPaTaMyarTaung.mp3">	၇၁၆။ ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ - ၄	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/717-HeTheinPaTaMyarTaung.mp3">	၇၁၇။ ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ - ၅	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/718-HeTheinPaTaMyarTaung.mp3">	၇၁၈။ ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ - ၆	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/719-HeTheinPaTaMyarTaung.mp3">	၇၁၉။ ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ - ၇	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/720-HeTheinPaTaMyarTaung.mp3">	၇၂၀။ ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ - ၈	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/721-HeTheinPaTaMyarTaung.mp3">	၇၂၁။ ပဋိစ္စ သမုပ္ပာဒ်နှင့်သစ္စာဒေသနာ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/722-HeTheinPaTaMyarTaung.mp3">	၇၂၂။ ကျင့်စဉ် ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ - ၁	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/723-HeTheinPaTaMyarTaung.mp3">	၇၂၃။ ကျင့်စဉ် ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ - ၂	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/724-HeTheinPaTaMyarTaung.mp3">	၇၂၄။ ကျင့်စဉ် ပဋိစ္စ သမုပ္ပာဒ်ဒေသနာ - ၃	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/725-HeTheinPaTaMyarTaung.mp3">	၇၂၅။ အမျှစ်ပြတ်မှအလည်ရပ်မယ်	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/726-HeTheinPaTaMyarTaung.mp3">	၇၂၆။ ညှိယူနိုင်မှအမြန်ရ (အပိုင်း - ၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/727-HeTheinPaTaMyarTaung.mp3">	၇၂၇။ ညှိယူနိုင်မှအမြန်ရ (အပိုင်း - ၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/728-HeTheinPaTaMyarTaung.mp3">	၇၂၈။ ညှိယူနိုင်မှအမြန်ရ (အပိုင်း - ၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/729-HeTheinPaTaMyarTaung.mp3">	၇၂၉။ ၂.၉.၂၀၁၈ (နံနက်ခင်းဟောတရာတော်)	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	ညနေခင်းဟောတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/730-HeTheinPaTaMyarTaung.mp3">	၇၃၀။ စောင့်ရှောက်နိုင်မှ မဂ်ဉာဏ်ရ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/731-HeTheinPaTaMyarTaung.mp3">	၇၃၁။ အချိန်နှင့်ဘဝကိုအသုံးချနိုင်မှ	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/732-HeTheinPaTaMyarTaung.mp3">	၇၃၂။ လွတ်မြောက်ရာကိုတွေ့အောင်ရှာမယ်။ (အပိုင်း-၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/733-HeTheinPaTaMyarTaung.mp3">	၇၃၃။ လွတ်မြောက်ရာကိုတွေ့အောင်ရှာမယ်။ (အပိုင်း-၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/734-HeTheinPaTaMyarTaung.mp3">	၇၃၄။ လွတ်မြောက်ရာကိုတွေ့အောင်ရှာမယ်။ (အပိုင်း-၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/735-HeTheinPaTaMyarTaung.mp3">	၇၃၅။ လွတ်မြောက်ရာကိုတွေ့အောင်ရှာမယ်။ (အပိုင်း-၄)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/736-HeTheinPaTaMyarTaung.mp3">	၇၃၆။ လွတ်မြောက်ရာကိုတွေ့အောင်ရှာမယ်။ (အပိုင်း-၅)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/737-HeTheinPaTaMyarTaung.mp3">	၇၃၇။ လွတ်မြောက်ရာကိုတွေ့အောင်ရှာမယ်။ (အပိုင်း-၆)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/738-HeTheinPaTaMyarTaung.mp3">	၇၃၈။ လွတ်မြောက်ရာကိုတွေ့အောင်ရှာမယ်။ (အပိုင်း-၇)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/739-HeTheinPaTaMyarTaung.mp3">	၇၃၉။ လွတ်မြောက်ရာကိုတွေ့အောင်ရှာမယ်။ (အပိုင်း-၈)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/740-HeTheinPaTaMyarTaung.mp3">	၇၄၀။ လွတ်မြောက်ရာကိုတွေ့အောင်ရှာမယ်။ (အပိုင်း-၉)	</a><br>
+		
+<br><br><font size="4"><br> <u><b>	နံနက်ခင်း ဝိပဿနာအလုပ်ပေးတရားတော်များ	</b></u></font><p></p><br><br>
+		
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/741-HeTheinPaTaMyarTaung.mp3">	၇၄၁။ ဝိပဿနာအလုပ်ပေး (အပိုင်း-၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/742-HeTheinPaTaMyarTaung.mp3">	၇၄၂။ ဝိပဿနာအလုပ်ပေး (အပိုင်း-၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/743-HeTheinPaTaMyarTaung.mp3">	၇၄၃။ ဒုက္ခလက္ခဏာ အလုပ်ပေး (အပိုင်း-၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/744-HeTheinPaTaMyarTaung.mp3">	၇၄၄။ ဒုက္ခလက္ခဏာ အလုပ်ပေး (အပိုင်း-၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/745-HeTheinPaTaMyarTaung.mp3">	၇၄၅။ ဓာတ်လေးပါး ဝိပဿနာအလုပ်ပေး (အပိုင်း-၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/746-HeTheinPaTaMyarTaung.mp3">	၇၄၆။ ဓာတ်လေးပါး ဝိပဿနာအလုပ်ပေး (အပိုင်း-၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/747-HeTheinPaTaMyarTaung.mp3">	၇၄၇။ ဓာတ်လေးပါး ဝိပဿနာအလုပ်ပေး (အပိုင်း-၃)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/748-HeTheinPaTaMyarTaung.mp3">	၇၄၈။ ဓာတ်လေးပါး ဝိပဿနာအလုပ်ပေး (အပိုင်း-၄)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/749-HeTheinPaTaMyarTaung.mp3">	၇၄၉။ ခန္ဓာ့ဒုက္ခ ဝိပဿနာအလုပ်ပေး	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/750-HeTheinPaTaMyarTaung.mp3">	၇၅၀။ စိတ္တာနုပဿနာ အလုပ်ပေး (အပိုင်း-၁)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/751-HeTheinPaTaMyarTaung.mp3">	၇၅၁။ စိတ္တာနုပဿနာ အလုပ်ပေး (အပိုင်း-၂)	</a><br>
+<a href="http://dhammadownload.com/MP3Library/HeTheinPataMyarTaung/752-HeTheinPaTaMyarTaung.mp3">	၇၅၂။ စိတ္တာနုပဿနာ အလုပ်ပေး (အပိုင်း-၃)	</a><br>
+
+								&nbsp;<p></p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0; TEXT-ALIGN: left">
+								&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0; TEXT-ALIGN: left">
+								&nbsp;</p>
+								<p class="MsoTagline" style="MARGIN-TOP: 0; TEXT-KASHIDA-SPACE: 50%; MARGIN-BOTTOM: 0; TEXT-ALIGN: left">
+								&nbsp;</p></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-70zUvF4huN4OU"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-70zUvF4huN4OU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+</font>
+
+
+
+<font face="Pyidaungsu">
+
+
+
+
+
+</font></body>
