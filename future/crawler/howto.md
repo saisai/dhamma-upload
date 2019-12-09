@@ -1,6 +1,9 @@
 pip install -e crawler --user
 pip uninstall crawler
 
+pip install -e .
+
+pip install bs4 pydub selenium
 
 https://github.com/kennethreitz/records/blob/master/records.py
 https://github.com/kennethreitz/crayons

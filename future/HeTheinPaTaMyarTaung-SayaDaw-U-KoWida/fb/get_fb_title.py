@@ -22,7 +22,7 @@ function myStopFunction() {
 }
 '''
 
-get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver', 2)
+get_fb_title('links.txt', 'results.txt', 'finished.txt', '../geckodriver', 1)
 
 
 

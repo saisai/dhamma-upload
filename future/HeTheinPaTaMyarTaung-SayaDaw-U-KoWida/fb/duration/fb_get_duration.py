@@ -24,4 +24,4 @@ from crawler import (get_fb_title, rearrange_urls, download_fb,
 if __name__ == '__main__':
     #check_duplicate('links.txt') #titles_links.txt
     #main()
-    get_fb_duration_result(2, cur_dir, "../geckodriver")                   
+    get_fb_duration_result(2, cur_dir, "../../geckodriver")                   
