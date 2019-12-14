@@ -28,15 +28,14 @@ function myStopFunction() {
 
 
 def get_json():
-	playlist = 'ဟဲသိမ်ပတ္တမြားတောင် ဓမ္မရိပ်သာ page မှ တရားတော်များ'
-	description_title = 'ဟဲသိမ်ပတ္တမြားတောင် ဓမ္မရိပ်သာ page မှ တရားတော်များ'
-	source='\nsource from https://www.facebook.com/haetheinpadamyarvipassana/'
+	playlist = 'Dhammadhara DrKumara Live မှ videos များ'
+	description_title = 'Dhammadhara DrKumara Live မှ videos များ'
+	source='\nsource from https://www.facebook.com/pg/DhammadharaVenDrKumara/videos/'
 	#get_json_fb_2('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
-	#get_json_fb('titles.txt', 'edit_desc.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
-	#get_json_fb_2('titles.txt', 'edit_desc.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+	get_json_fb('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 	#get_json_fb('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
     
 #get_json()    
-thread_upload_test_title('raw_json_title.txt')
+#thread_upload_test_title('raw_json_title.txt')
 
