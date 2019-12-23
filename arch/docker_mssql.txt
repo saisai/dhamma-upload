@@ -1,0 +1,12 @@
+docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Pa55w0rd' -p 1433:1433 -d --name mssqllinux microsoft/mssql-server-linux
+
+
+docker container ls
+
+CONTAINER ID IMAGE                        COMMAND CREATED        STATUS                       PORTS                  NAMES
+15beb69b1376 microsoft/mssql-server-linux "/opt/mssql/bin/sqls…" 10 minutes ago Up 10 minutes 0.0.0.0O1433-&gt;1433/tcp mssqllinux
+
+
+/opt/mssql-tools/bin/sqlcmd -S localhost -U SA -P "Pa55w0rd"
+
+https://blog.jetbrains.com/dotnet/2019/03/05/connecting-microsoft-sql-server-linux-docker-container-rider/
