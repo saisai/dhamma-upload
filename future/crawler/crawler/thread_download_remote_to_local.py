@@ -77,30 +77,31 @@ class Converter(Thread):
         while True:
             # gets the url from the queue
             getObj = self.queue.get()
-            if os.path.isfile(getObj):                
+            print('getObj', getObj)
+            #if os.path.isfile(getObj):                
                                 
                 # download the file
                 #print("* Thread {} - processing URL".format(self.name))
-                self.download_file(getObj, self.remote_username, self.remote_pass, self.remote_hostname, self.remote_port, self.escaped_remote)
+            self.download_file(getObj, self.remote_username, self.remote_pass, self.remote_hostname, self.remote_port, self.escaped_remote)
                 # send a signal to the queue that the job is done
-                self.queue.task_done()
+            self.queue.task_done()
                 
     def download_file(self, copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote):
+        print('copied_file', copied_file)
+        #if os.path.isfile(copied_file):
+        cmd = "sshpass -p %s /usr/bin/rsync -P --partial -avzzz -e 'ssh -p %s' %s@%s:'%s' '%s'" % (remote_pass, remote_port, remote_username, remote_hostname, copied_file, self.running_from_path)
+        print(cmd)
+        result = 1 
+        while result != 0:
+            result = subprocess.Popen(cmd,shell=True).wait()
+            #text = result.communicate()[0]
+            #returncode = result.returncode
         
-        if os.path.isfile(copied_file):
-            cmd = "sshpass -p %s /usr/bin/rsync -P --partial -avzzz %s -e 'ssh -p %s' %s@%s:'%s' '%s'" % (remote_pass, copied_file, remote_port, remote_username, remote_hostname, escaped_remote, self.running_from_path)
-
-            result = 1 
-            while result != 0:
-                result = subprocess.Popen(cmd,shell=True).wait()
-                #text = result.communicate()[0]
-                #returncode = result.returncode
+            print(result)
             
-                print(result)
-            
-            if result == 0:
+            #if result == 0:
                 #if os.path.isfile(copied_file):
-                print('Moving file...', copied_file)
+                #print('Moving file...', copied_file)
                     #shutil.move(copied_file, '%sfinished/' % (self.running_from_path))                
             
 class ConvertManager():
@@ -122,7 +123,7 @@ class ConvertManager():
 
         then feed the threads URLs via the queue
         """
-
+        print("convert")
         queue = Queue()
         #queue = PriorityQueue()
         # create a thred pool and give them a queue
@@ -135,7 +136,8 @@ class ConvertManager():
         for key in self.convert_list:
             #print(int(mp3.split('|')[0].split('.')[0]))
             #queue.put(Job((int(mp3.split('|')[0].split('.')[0])), mp3))            
-            #queue.put(Job(int(key['id']),  key['description'], key['title'], key['playlist']))            
+            #queue.put(Job(int(key['id']),  key['description'], key['title'], key['playlist']))    
+            print(key)
             queue.put(key)            
 
         # wait for the queue to finish
@@ -152,19 +154,40 @@ parser.add_argument('-f', '--flist')
 
 #def thread_upload_remote(file_in, threads):
 def thread_download_remote_local(copied_file, local_path, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote, threads):
-
+    # https://stackoverflow.com/questions/41718637/unable-to-connect-to-remote-host-using-paramiko
+    import paramiko
+    proxy = None
+    #ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
     
-
+    client = paramiko.SSHClient()
+    client.load_system_host_keys()
+    client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+    client.connect(hostname=remote_hostname,username=remote_username,password=remote_pass, sock=proxy)
+    #client.connect(remote_hostname, username=remote_username, key_filename="/cygdrive/e/dhamma-upload/future/fb/bokyaung/2/tt/hello")
+    stdin, stdout, stderr = client.exec_command('%s %s%s' % ('ls', escaped_remote,copied_file))
+    #print(type(stdout))
+    
+    copied_file = []
+    for line in stdout:
+        #print('... ' + line.strip('\n'))
+        print(line.strip('\n'))
+        copied_file.append(line.strip('\n'))
+    client.close()
+    
+    
     print(copied_file)
     #print(running_from_path)
-    copied_file = escaped_remote + copied_file
+    #copied_file = escaped_remote + copied_file
     print(copied_file)
     
     #print(glob.glob(copied_file))
     
-    mp3s = [data for data in sorted(glob.glob(copied_file),   key=natural_keys)]
-    print(mp3s)
+    #mp3s = [data for data in sorted(glob.glob(copied_file), key=natural_keys)]
+    mp3s = copied_file
+    
+    print("aa", mp3s)
 
     #convert_manager = ConvertManager(running_from_path, mp3s, threads)
     convert_manager = ConvertManager(local_path, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote, mp3s, threads)
     convert_manager.begin_convert()      
+    
