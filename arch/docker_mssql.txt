@@ -1,7 +1,10 @@
 docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Pa55w0rd' -p 1433:1433 -d --name mssqllinux microsoft/mssql-server-linux
 
 
+docker ps -a 
+
 docker container ls
+docker start mssqllinux [image name]
 
 CONTAINER ID IMAGE                        COMMAND CREATED        STATUS                       PORTS                  NAMES
 15beb69b1376 microsoft/mssql-server-linux "/opt/mssql/bin/sqls…" 10 minutes ago Up 10 minutes 0.0.0.0O1433-&gt;1433/tcp mssqllinux
