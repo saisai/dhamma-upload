@@ -13,3 +13,27 @@ CONTAINER ID IMAGE                        COMMAND CREATED        STATUS         
 /opt/mssql-tools/bin/sqlcmd -S localhost -U SA -P "Pa55w0rd"
 
 https://blog.jetbrains.com/dotnet/2019/03/05/connecting-microsoft-sql-server-linux-docker-container-rider/
+
+
+
+sudo find / -name security.hiv -exec ls -l {} \;
+
+sudo chmod o+rw /var/opt/mssql/.system/system/security.hiv
+
+sudo chmod o-rw /var/opt/mssql/.system/system/security.hiv
+
+https://forum.manjaro.org/t/problems-to-use-ms-sql-server/84136/5
+
+
+sudo find / -name REST.php -exec ls -l {} \;
+
+Notice: Trying to access array offset on value of type bool in REST.php on line 186
+
+
+https://mediatemple.net/community/products/dv/204644340/installing-pecl-extensions
+
+https://docs.microsoft.com/en-us/sql/connect/php/loading-the-php-sql-driver?view=sql-server-ver15
+
+
+cnxn = pyodbc.connect('DRIVER={SQL Server};SERVER=localhost;DATABASE=testdb;UID=SA;PWD=Pa55w0rd')
+
