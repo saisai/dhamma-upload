@@ -3,8 +3,8 @@
 
 from collections import Counter
 
-#urls = [f.strip('\n') for f in open('fb_links.txt')]
-urls = [f.strip('\n') for f in open('results.txt')]
+urls = [f.strip('\n') for f in open('fb_links.txt')]
+#urls = [f.strip('\n') for f in open('raw_url.txt')]
 
 #print(urls)
 

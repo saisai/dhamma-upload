@@ -21,9 +21,9 @@ function myStopFunction() {
   clearInterval(myVar);
 }
 '''
-rearrange_urls('raw_url.txt', 'links.txt')
+#rearrange_urls('raw_url.txt', 'links.txt')
 #get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver.exe')
-#download_fb('links.txt', 2)
+download_fb('links.txt', 2)
 #copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote)
 
 '''
@@ -38,12 +38,13 @@ copy_to_remote('AshinTayzaniya-YamakaAhLinYaung-for-Pahtamagyigrade.pdf',
                 )
 '''  
 def get_json():
-	playlist = 'Komyo Aung page (fb) မွ ဆရာႀကီးဦးၾကည္ သင္ႀကားပို႔ခ်ေသာ တရားေတာ္မ်ား'
-	description_title = 'သစၥာဒီပက၀ိပႆနာအဖြဲ႕ခ်ဳပ္ တရားျပဌာန ဦးစီးပဓာနနာယက၊ အာဒိကမၼိက ကမၼဌာနစရိယ မူလဓမၼာစရိယ၊ ပရိယတၱိမာမက၊ ပဋိပတၱိ၀ိသာရဒ ပဋိပတၱိသာသာနာ့ဟိတရဓရ ဘြဲ႕ရ က်မ္းျပဳပုဂၢိဳလ္ ဆရာႀကီးဦးၾကည္ သင္ႀကားပို႔ခ်ေသာ တရားေတာ္မ်ား'
-	source='\nsource from https://www.facebook.com/profile.php?id=100037549250042&lst=100007043114370%3A100037549250042%3A1569295868&sk=videos/'
+	playlist = 'အရိယဝံသ မိုးကုတ္ဝိပႆနာ မဂၢင္ဓမၼရိပ္သာ page မွ တရားေတာ္မ်ား'
+	description_title = 'အရိယဝံသ မိုးကုတ္ဝိပႆနာ မဂၢင္ဓမၼရိပ္သာ page မွ တရားေတာ္မ်ား'
+	source='\nsource from https://www.facebook.com/pg/အရိယဝံသ မိုးကုတ္ဝိပႆနာ မဂၢင္ဓမၼရိပ္သာ-257435104635888/videos/'
 	#get_json_files_in_same('title_results.txt', 'title_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 	#get_json_fb_2('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
-	get_json_files_in_same('arranged_results.txt', 'arranged_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+	#get_json_files_in_same('edited_titles.txt', 'edited_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
+	get_json_fb_2('edited_titles.txt', 'edited_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 	#get_json_fb('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
     

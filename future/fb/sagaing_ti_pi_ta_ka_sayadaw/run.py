@@ -2,7 +2,7 @@
 # coding=utf-8
 import os
 
-from crawler import (get_fb_title, rearrange_urls, download_fb,
+from crawler import (get_fb_title, rearrange_urls, download_fb, 
                     get_json_fb, thread_upload_test, copy_to_remote, convert_myanmar_number,
                     update_raw_titles_links, get_json_fb,
                     get_splited_lines, download_fb, thread_upload,
@@ -21,9 +21,9 @@ function myStopFunction() {
   clearInterval(myVar);
 }
 '''
-#rearrange_urls('raw_urls.txt', 'links.txt')
+rearrange_urls('raw_urls.txt', 'links.txt')
 #get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver.exe')
-download_fb('links.txt', 2)
+#download_fb('links.txt', 2)
 #copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote)
 
 '''
@@ -36,17 +36,17 @@ remote_port = 8022
 copy_to_remote('AshinTayzaniya-YamakaAhLinYaung-for-Pahtamagyigrade.pdf',
                 remote_username, remote_pass, remote_hostname, remote_port, escaped_remote
                 )
-'''
+'''  
 def get_json():
-	playlist = 'စစ္ကိုင္း တိပိဋက ဆရာေတာ္ LIVE မွ videos မ်ား'
-	description_title = 'စစ္ကိုင္း တိပိဋက ဆရာေတာ္ LIVE မွ videos မ်ား'
-	source='\nsource from https://www.facebook.com/pg/စစ္ကိုင္း တိပိဋက ဆရာေတာ္ LIVE-624942624603663/videos/'
+	playlist = 'Komyo Aung page (fb) မွ ဆရာႀကီးဦးၾကည္ သင္ႀကားပို႔ခ်ေသာ တရားေတာ္မ်ား'
+	description_title = 'သစၥာဒီပက၀ိပႆနာအဖြဲ႕ခ်ဳပ္ တရားျပဌာန ဦးစီးပဓာနနာယက၊ အာဒိကမၼိက ကမၼဌာနစရိယ မူလဓမၼာစရိယ၊ ပရိယတၱိမာမက၊ ပဋိပတၱိ၀ိသာရဒ ပဋိပတၱိသာသာနာ့ဟိတရဓရ ဘြဲ႕ရ က်မ္းျပဳပုဂၢိဳလ္ ဆရာႀကီးဦးၾကည္ သင္ႀကားပို႔ခ်ေသာ တရားေတာ္မ်ား'
+	source='\nsource from https://www.facebook.com/profile.php?id=100037549250042&lst=100007043114370%3A100037549250042%3A1569295868&sk=videos/'
 	#get_json_files_in_same('title_results.txt', 'title_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 	#get_json_fb_2('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 	get_json_files_in_same('arranged_results.txt', 'arranged_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 	#get_json_fb('edit_titles.txt', 'edit_results.txt', 'raw_json_title.txt',playlist, description_title, source) #titles_links.txt description.txt raw_json_title.txt
 
-
-#get_json()
+    
+#get_json()    
 #thread_upload_test_title('raw_json_title.txt')
 

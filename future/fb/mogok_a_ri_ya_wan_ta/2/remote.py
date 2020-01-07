@@ -24,7 +24,7 @@ from crawler import (get_fb_title, rearrange_urls, download_fb,
 remote_username = 'u0_a97'
 remote_pass = 'snp'
 remote_hostname = '192.168.1.45'
-escaped_remote = '/storage/34A5-151A/youtube/saya_gyi_u_kyi/'
+escaped_remote = '/storage/34A5-151A/youtube/mogok_a_ri_ya_wan_ta/'
 remote_port = 8022
 #copy_to_remote('*.pdf',
 # thread_upload_remote(copied_file, running_from_path, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote, threads):
