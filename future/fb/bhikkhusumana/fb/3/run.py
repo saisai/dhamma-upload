@@ -21,9 +21,9 @@ function myStopFunction() {
   clearInterval(myVar);
 }
 '''
-rearrange_urls('raw_url.txt', 'links.txt')
+#rearrange_urls('raw_url.txt', 'links.txt')
 #get_fb_title('links.txt', 'results.txt', 'finished.txt', 'geckodriver.exe')
-#download_fb('du.txt', 1)
+download_fb('links.txt', 1)
 #copy_to_remote(copied_file, remote_username, remote_pass, remote_hostname, remote_port, escaped_remote)
 
 
