@@ -1,0 +1,123 @@
+/home/snp/dhamma/2/
+linux
+/home/snp/dhamma/2/
+youtube-upload --title="25.1.2020 Live 12;30" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+25.1.2020 Live 12;30 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=001.mp4
+youtube-upload --title="25.1.2020 Live 3;30" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+25.1.2020 Live 3;30 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=002.mp4
+youtube-upload --title="26.1.2020 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+26.1.2020 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=003.mp4
+youtube-upload --title="26.1.2020 Live 12;30" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+26.1.2020 Live 12;30 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=004.mp4
+youtube-upload --title="25.1.2020 Live 3;30" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+25.1.2020 Live 3;30 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=005.mp4
+youtube-upload --title="27.1.2020 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+27.1.2020 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=006.mp4
+youtube-upload --title="28.1.2020 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+28.1.2020 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=007.mp4
+youtube-upload --title="29.1.2020Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+29.1.2020Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=008.mp4
+youtube-upload --title="30.1.2020 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+30.1.2020 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=009.mp4
+youtube-upload --title="31.1.2020 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+31.1.2020 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=010.mp4
+youtube-upload --title="31.1.2020 LIve 4;00" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+31.1.2020 LIve 4;00 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=011.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw  18.2.2020 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw  18.2.2020 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=012.mp4
+youtube-upload --title="12း30 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+12း30 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=013.mp4
+youtube-upload --title="3း30  Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+3း30  Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=014.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 19.2.2020 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 19.2.2020 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=015.mp4
+youtube-upload --title="12း30 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+12း30 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=016.mp4
+youtube-upload --title="3း30 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+3း30 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=017.mp4
+youtube-upload --title="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=018.mp4
+youtube-upload --title="Shwe myint mo Sayartaw 20.2.2020 12;30 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe myint mo Sayartaw 20.2.2020 12;30 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=019.mp4
+youtube-upload --title="20.2.2020 3;30 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+20.2.2020 3;30 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=020.mp4
+youtube-upload --title="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=021.mp4
+youtube-upload --title="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=022.mp4
+youtube-upload --title="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=023.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 22.2.2020 9;30AM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 22.2.2020 9;30AM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=024.mp4
+youtube-upload --title="22.2.2020 Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+22.2.2020 Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=025.mp4
+youtube-upload --title="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=026.mp4
+youtube-upload --title="22.2.2020 3း30Pm Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+22.2.2020 3း30Pm Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=027.mp4
+youtube-upload --title="22.2.2020 12;.30" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+22.2.2020 12;.30 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=028.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 23.2.2020 9;30AM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 23.2.2020 9;30AM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=029.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 23.2.2020 12;30PM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 23.2.2020 12;30PM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=030.mp4
+youtube-upload --title="Shwe Myint Mo  Sayartaw 23.2.2020 2;00PM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo  Sayartaw 23.2.2020 2;00PM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=031.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 24.2.2020 9:30AM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 24.2.2020 9:30AM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=032.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 24.2.2020 12:30PM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 24.2.2020 12:30PM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=033.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 24.2.2020 3:30PM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 24.2.2020 3:30PM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=034.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 25.2.2020 9:30AM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 25.2.2020 9:30AM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=035.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 25.2.2020 12:30PM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 25.2.2020 12:30PM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=036.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 25.2.2020 3:30PM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 25.2.2020 3:30PM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=037.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 26.2.2020 9:30PM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 26.2.2020 9:30PM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=038.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 26.2.2020 3:30PM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 26.2.2020 3:30PM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=039.mp4
+youtube-upload --title="Shwe Myint Mo Sayartaw 27.2.2020 9:30AM Live" --description="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ
+Shwe Myint Mo Sayartaw 27.2.2020 9:30AM Live 
+source from https://www.facebook.com/profile.php?id=100038290173080&lst=100013466684470%3A100038290173080%3A1579954329&sk=videos/" --playlist="ရွှေမြင့်မိုရ် တရားစဉ် နှင့်လုပ်ငန်းစဉ်ပြန့်ပွါးရေး page မှ videos များ" file=040.mp4
